@@ -448,6 +448,138 @@
   ],
   "usedToCraft": [
     {
+      "key": "item_65311",
+      "displayName": "Hydro I",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "石头",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65311",
+        "masteryLevel": 3,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65311",
+        "displayName": "HydroI",
+        "price": 10,
+        "sellPrice": 2,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "如果与土壤混合，有机会让土壤保持过夜的水分。",
+        "qualities": {},
+        "iconName": "Hydro_I_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65312",
+      "displayName": "Hydro II",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "石头",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_65300",
+            "displayName": "堆肥",
+            "iconName": "Compost_Sprite"
+          },
+          "amount": 2
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65312",
+        "masteryLevel": 4,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65312",
+        "displayName": "保水肥料2",
+        "price": 20,
+        "sellPrice": 8,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "如果与土壤混合，有很大几率让土壤保持过夜的水分。",
+        "qualities": {},
+        "iconName": "Hydro_II_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65313",
+      "displayName": "Hydro III",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "石头",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_65300",
+            "displayName": "堆肥",
+            "iconName": "Compost_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_50506",
+            "displayName": "史莱姆泥",
+            "iconName": "Slime_goop_Sprite"
+          },
+          "amount": 1
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65313",
+        "masteryLevel": 8,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65313",
+        "displayName": "HydroIII",
+        "price": 50,
+        "sellPrice": 18,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "如果与土壤混合，将使土壤保持过夜的水分。",
+        "qualities": {},
+        "iconName": "Hydro_III_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_65203",
       "displayName": "Kiln",
       "amount": 1,
@@ -583,138 +715,6 @@
       }
     },
     {
-      "key": "item_65311",
-      "displayName": "Hydro I",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "石头",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65311",
-        "masteryLevel": 3,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65311",
-        "displayName": "HydroI",
-        "price": 10,
-        "sellPrice": 2,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "如果与土壤混合，有机会让土壤保持过夜的水分。",
-        "qualities": {},
-        "iconName": "Hydro_I_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65312",
-      "displayName": "Hydro II",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "石头",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_65300",
-            "displayName": "堆肥",
-            "iconName": "Compost_Sprite"
-          },
-          "amount": 2
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65312",
-        "masteryLevel": 4,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65312",
-        "displayName": "保水肥料2",
-        "price": 20,
-        "sellPrice": 8,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "如果与土壤混合，有很大几率让土壤保持过夜的水分。",
-        "qualities": {},
-        "iconName": "Hydro_II_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65313",
-      "displayName": "Hydro III",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "石头",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_65300",
-            "displayName": "堆肥",
-            "iconName": "Compost_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_50506",
-            "displayName": "史莱姆泥",
-            "iconName": "Slime_goop_Sprite"
-          },
-          "amount": 1
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65313",
-        "masteryLevel": 8,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65313",
-        "displayName": "HydroIII",
-        "price": 50,
-        "sellPrice": 18,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "如果与土壤混合，将使土壤保持过夜的水分。",
-        "qualities": {},
-        "iconName": "Hydro_III_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65343",
       "displayName": "Stone chest",
       "amount": 1,
@@ -791,6 +791,44 @@
         "description": "可储存各种物品。可放置在农场周围，可容纳40件物品",
         "qualities": {},
         "iconName": "Scrap_Chest_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65248",
+      "displayName": "Rope",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "石头",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 199
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Misc",
+      "craftingUnlock": {
+        "key": "item_65248",
+        "masteryLevel": 2,
+        "masteryType": "Mining"
+      },
+      "item": {
+        "id": "item_65248",
+        "displayName": "绳子",
+        "price": 1000,
+        "sellPrice": 200,
+        "sellAt": [
+          "BandOfSmile"
+        ],
+        "stackable": true,
+        "inventoryCategory": "Misc",
+        "displayKey": "Misc",
+        "description": "可以用来下入矿井。",
+        "qualities": {},
+        "iconName": "Rope_Sprite",
         "tags": []
       }
     },
@@ -1089,44 +1127,6 @@
           "item.Decor.SubCategory.Arch",
           "Item.Furniture.BasicMerfolkStyle"
         ]
-      }
-    },
-    {
-      "key": "item_65248",
-      "displayName": "Rope",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "石头",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 199
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Misc",
-      "craftingUnlock": {
-        "key": "item_65248",
-        "masteryLevel": 2,
-        "masteryType": "Mining"
-      },
-      "item": {
-        "id": "item_65248",
-        "displayName": "绳子",
-        "price": 1000,
-        "sellPrice": 200,
-        "sellAt": [
-          "BandOfSmile"
-        ],
-        "stackable": true,
-        "inventoryCategory": "Misc",
-        "displayKey": "Misc",
-        "description": "可以用来下入矿井。",
-        "qualities": {},
-        "iconName": "Rope_Sprite",
-        "tags": []
       }
     },
     {
@@ -1904,7 +1904,7 @@
     {
       "input": {
         "id": "item_50441",
-        "displayName": "土晶洞",
+        "displayName": "土晶石",
         "iconName": "Earth_geode_Sprite"
       },
       "inputAmount": 1,
@@ -1928,7 +1928,7 @@
     {
       "input": {
         "id": "item_50447",
-        "displayName": "水晶洞",
+        "displayName": "水晶石",
         "iconName": "Water_geode_Sprite"
       },
       "inputAmount": 1,
@@ -1952,7 +1952,7 @@
     {
       "input": {
         "id": "item_50481",
-        "displayName": "风晶洞",
+        "displayName": "风晶石",
         "iconName": "Wind_geode_Sprite"
       },
       "inputAmount": 1,
@@ -1976,7 +1976,7 @@
     {
       "input": {
         "id": "item_50446",
-        "displayName": "火晶洞",
+        "displayName": "火晶石",
         "iconName": "Fire_geode_Sprite"
       },
       "inputAmount": 1,
@@ -2000,7 +2000,7 @@
     {
       "input": {
         "id": "item_50474",
-        "displayName": "神秘晶洞",
+        "displayName": "神秘晶石",
         "iconName": "Mystery_geode_Sprite"
       },
       "inputAmount": 1,

@@ -15,6 +15,7 @@ import { UpdateNpcScheduleEffect } from "./update-npc-schedule-effect.type";
 import { UnlockSpecialItemEffect } from "./unlock-special-item-effect.type";
 import { BoostMaxHealthEffect } from "./boost-max-health-effect.type";
 import { MarkDinoHologramRewardClaimedEffect } from "./mark-dino-hologram-reward-claimed-effect.type";
+import { ChangeAppearancePotionEffect } from "./change-appearance-potion-effect";
 
 export type Effect =
     AddItemToInventoryEffect
@@ -34,4 +35,5 @@ export type Effect =
     | UnlockSpecialItemEffect
     | BoostMaxHealthEffect
     | MarkDinoHologramRewardClaimedEffect
+    | ChangeAppearancePotionEffect
 

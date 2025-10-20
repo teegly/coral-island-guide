@@ -513,58 +513,6 @@
       }
     },
     {
-      "key": "item_65299",
-      "displayName": "Compost bin",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "목재",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65052",
-            "displayName": "쓰레기",
-            "iconName": "Trash_Sprite"
-          },
-          "amount": 5
-        },
-        {
-          "item": {
-            "id": "item_65108",
-            "displayName": "수액",
-            "iconName": "Sap_Sprite"
-          },
-          "amount": 5
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "craftingUnlock": {
-        "key": "item_65299",
-        "masteryLevel": 2,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65299",
-        "displayName": "퇴비통",
-        "price": 200,
-        "sellPrice": 50,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Compostbindesc",
-        "qualities": {},
-        "iconName": "Compost_bin_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65305",
       "displayName": "Fertilizer I",
       "amount": 1,
@@ -709,6 +657,58 @@
         "description": "흙에 섞으면 더 높은 등급의 작물이 자란다.",
         "qualities": {},
         "iconName": "Fertilizer_III_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65299",
+      "displayName": "Compost bin",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "목재",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65052",
+            "displayName": "쓰레기",
+            "iconName": "Trash_Sprite"
+          },
+          "amount": 5
+        },
+        {
+          "item": {
+            "id": "item_65108",
+            "displayName": "수액",
+            "iconName": "Sap_Sprite"
+          },
+          "amount": 5
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "craftingUnlock": {
+        "key": "item_65299",
+        "masteryLevel": 2,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65299",
+        "displayName": "퇴비통",
+        "price": 200,
+        "sellPrice": 50,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Compostbindesc",
+        "qualities": {},
+        "iconName": "Compost_bin_Sprite",
         "tags": []
       }
     },
@@ -1180,8 +1180,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "까마귀가 농작물을 망치지 못하게 막는다. 보호하는 면적은 11x11이다.",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",

@@ -25078,136 +25078,6 @@
         "useCategory": false,
         "day": 0,
         "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "Algues marines",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "Algues marines",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033",
-            "displayName": "Foin",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "Foin",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "Foin",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "Foin",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "Foin",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "Foin",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "Foin",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-5",
-            "displayName": "Foin",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
           "hours": 12,
           "minutes": 0
         },
@@ -26155,7 +26025,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "Sphère",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "output": {
@@ -26163,7 +26033,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "Sphère",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "genericInput": null,
@@ -64313,6 +64183,1835 @@
             "day": 0,
             "time": {
               "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "Vin de patate douce",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "Vin de patate douce",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 14,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "Vin de citrouille",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "Vin de citrouille",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "Vin de racine de taro",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "Vin de racine de taro",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 14,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "Vin de cabosse",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "Vin de cabosse",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "Vin de noix de coco",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "Vin de noix de coco",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 15,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "Vin de grosse noix de coco de corail",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "Vin de grosse noix de coco de corail",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 11,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "Vin de noix de coco Kopyor",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "Vin de noix de coco Kopyor",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 15,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "Vin de noix de coco de mer",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "Vin de noix de coco de mer",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 20,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 1,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "Kimchi de patate douce",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "Kimchi de patate douce",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "Kimchi de racine de taro",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "Kimchi de racine de taro",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "Kimchi au wasabi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "Kimchi au wasabi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 13,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "Kimchi à la citrouille",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "Kimchi à la citrouille",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "Patate douce marinée",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "Patate douce marinée",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 1,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "Racine de taro marinée",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "Racine de taro marinée",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "Wasabi mariné",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "Wasabi mariné",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "Citrouille marinée",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "Citrouille marinée",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "Confiture d'olives",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "Confiture d'olives",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "Confiture de noix de coco",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "Confiture de noix de coco",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "Confiture de grosse noix de coco de corail",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "Confiture de grosse noix de coco de corail",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "Confiture de noix de coco Kopyor",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "Confiture de noix de coco Kopyor",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "Confiture de noix de coco de mer",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "Confiture de noix de coco de mer",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 5,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "Jus de cabosse",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "Jus de cabosse",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "Eau de coco",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "Eau de coco",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "Eau de grosse noix de coco de corail",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "Eau de grosse noix de coco de corail",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "Eau de noix de coco Kopyor",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "Eau de noix de coco Kopyor",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "Eau de noix de coco de mer",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "Eau de noix de coco de mer",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "Lait de coco",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "Lait de coco",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "Lait de grosse noix de coco de corail",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "Lait de grosse noix de coco de corail",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "Lait de noix de coco Kopyor",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "Lait de noix de coco Kopyor",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "Lait de noix de coco de mer",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "Lait de noix de coco de mer",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "Huile de noix de coco",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "Huile de noix de coco",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "Huile de grosse noix de coco de corail",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "Huile de grosse noix de coco de corail",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "Huile de noix de coco Kopyor",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "Huile de noix de coco Kopyor",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 5,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "Huile de noix de coco de mer",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "Huile de noix de coco de mer",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "Chocolat en poudre",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "Chocolat en poudre",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "Farine de maïs",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "Farine de maïs",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "Farine d'orge",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "Farine d'orge",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "Farine de soja",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "Farine de soja",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
               "minutes": 0
             }
           }

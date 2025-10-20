@@ -89,7 +89,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": true,
         "itemLimitPerYear": 5,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_61041",
@@ -123,7 +124,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Autel rare",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Débloque l'accès à Savannah",
+      "offeringGroupRewardText": "Débloque le Téléporteur d'offrandes",
       "offerings": [
         {
           "title": "Gemmes précieuses",

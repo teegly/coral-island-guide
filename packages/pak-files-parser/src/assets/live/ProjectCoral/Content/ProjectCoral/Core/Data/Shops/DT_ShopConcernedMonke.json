@@ -2358,8 +2358,8 @@
         "tag": []
       },
       "slain20enemyTypes": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
+        "isLimitedItemQty": true,
+        "itemLimitQty": 1,
         "isUsingCustomEffect": false,
         "restockDays": [],
         "allowedSeasons": [],

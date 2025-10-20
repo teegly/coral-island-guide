@@ -712,11 +712,6 @@
               "iconName": "Cotton_Sprite"
             },
             {
-              "id": "item_24003",
-              "displayName": "杏仁",
-              "iconName": "Almond_Sprite"
-            },
-            {
               "id": "item_24004",
               "displayName": "Avocado",
               "iconName": "Avocado_Sprite"
@@ -2821,42 +2816,7 @@
           "amount": 1
         }
       ],
-      "eitherOrIngredients": [
-        [
-          {
-            "item": {
-              "id": "item_31004",
-              "displayName": "牛奶",
-              "iconName": "Milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31016",
-              "displayName": "牛奶（大）",
-              "iconName": "Large_milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31024",
-              "displayName": "金奶",
-              "iconName": "Golden_milk_Sprite"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "id": "item_31022",
-              "displayName": "金奶（大）",
-              "iconName": "Large_golden_milk_Sprite"
-            },
-            "amount": 1
-          }
-        ]
-      ]
+      "eitherOrIngredients": []
     },
     {
       "key": "item_41036",

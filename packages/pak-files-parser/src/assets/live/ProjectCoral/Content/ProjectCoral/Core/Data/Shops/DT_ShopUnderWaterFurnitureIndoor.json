@@ -11,7 +11,7 @@
       }
     },
     "Rows": {
-      "Basicunderwaterbed": {
+      "Basic Mermaid_Basicunderwaterbed": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -76,356 +76,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 1,
         "priceOverride": 0,
         "tag": []
       },
-      "Basicunderwaterrug": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 0,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_95068"
-          },
-          "itemID": "item_95068"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Basicunderwaterchair": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 0,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91158"
-          },
-          "itemID": "item_91158"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Basicunderwaterfireplace": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 0,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_95069"
-          },
-          "itemID": "item_95069"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Basicunderwatertable": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 0,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91159"
-          },
-          "itemID": "item_91159"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Basicunderwatervase": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 0,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_97067"
-          },
-          "itemID": "item_97067"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Sandbed": {
+      "Seabed City Style_Sand bed": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -490,2081 +145,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 2,
         "priceOverride": 0,
         "tag": []
       },
-      "Floatiechair": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91172"
-          },
-          "itemID": "item_91172"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Barrelchair": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91173"
-          },
-          "itemID": "item_91173"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Sandsofa": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_92089"
-          },
-          "itemID": "item_92089"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Boatarmchair": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91176"
-          },
-          "itemID": "item_91176"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Shellcollegechair": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91175"
-          },
-          "itemID": "item_91175"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Sentientcomputer": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_94110"
-          },
-          "itemID": "item_94110"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Handsomemerfolkstatue": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_94111"
-          },
-          "itemID": "item_94111"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Moneychest": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_94112"
-          },
-          "itemID": "item_94112"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Petwheel": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_94113"
-          },
-          "itemID": "item_94113"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "DiverTV": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_90074"
-          },
-          "itemID": "item_90074"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Flowersrug": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_95074"
-          },
-          "itemID": "item_95074"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Secretrecipe": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_94114"
-          },
-          "itemID": "item_94114"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Clarinettable": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91177"
-          },
-          "itemID": "item_91177"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Glovelamp": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_92090"
-          },
-          "itemID": "item_92090"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Sandflooring": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_99038"
-          },
-          "itemID": "item_99038"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Seaflowerswall": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_98044"
-          },
-          "itemID": "item_98044"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Sandpot": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_97068"
-          },
-          "itemID": "item_97068"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Sandshelf": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_93071"
-          },
-          "itemID": "item_93071"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Barrelnightstand": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91171"
-          },
-          "itemID": "item_91171"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Sanddresser": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_93070"
-          },
-          "itemID": "item_93070"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Ship'shelmtable": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91174"
-          },
-          "itemID": "item_91174"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Bambooclothingshelf": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96124"
-          },
-          "itemID": "item_96124"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Shellphone": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96118"
-          },
-          "itemID": "item_96118"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Goldenspatula": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96119"
-          },
-          "itemID": "item_96119"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Piratechikinpainting": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96120"
-          },
-          "itemID": "item_96120"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Fishwalldecor": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96121"
-          },
-          "itemID": "item_96121"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Lifebuoywalldecor": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96122"
-          },
-          "itemID": "item_96122"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Chikinpencil": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96123"
-          },
-          "itemID": "item_96123"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Submarinewindow": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_90072"
-          },
-          "itemID": "item_90072"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Barredwindow": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 5,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_90073"
-          },
-          "itemID": "item_90073"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Mermaidbed": {
+      "Mermaid Style_Mermaid bed": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -2629,11 +214,80 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 3,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaiddiningchair": {
+      "Basic Mermaid_Basicunderwaterchair": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 0,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91158"
+          },
+          "itemID": "item_91158"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 4,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid dining chair": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -2698,11 +352,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 5,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaidsofa": {
+      "Seabed City Style_Barrel chair": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -2737,16 +391,16 @@
         "allowedWeather": [],
         "forbiddenWeather": [],
         "enable": true,
-        "townRank": 3,
+        "townRank": 5,
         "item": {
           "data": {
             "DataTable": {
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_92059"
+            "RowName": "item_91173"
           },
-          "itemID": "item_92059"
+          "itemID": "item_91173"
         },
         "useCustomName": false,
         "shopItemName": {
@@ -2767,11 +421,149 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 6,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaidchair": {
+      "Seabed City Style_Floatie chair": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91172"
+          },
+          "itemID": "item_91172"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 7,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Shell college chair": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91175"
+          },
+          "itemID": "item_91175"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 8,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid chair": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -2836,11 +628,149 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 9,
         "priceOverride": 0,
         "tag": []
       },
-      "Coralfloordecor": {
+      "Seabed City Style_Sand sofa": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_92089"
+          },
+          "itemID": "item_92089"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 10,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Boat arm chair": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91176"
+          },
+          "itemID": "item_91176"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 11,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid sofa": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -2882,9 +812,9 @@
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_97044"
+            "RowName": "item_92059"
           },
-          "itemID": "item_97044"
+          "itemID": "item_92059"
         },
         "useCustomName": false,
         "shopItemName": {
@@ -2905,11 +835,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 12,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaidnightstand": {
+      "Seabed City Style_Barrel nightstand": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -2944,16 +874,16 @@
         "allowedWeather": [],
         "forbiddenWeather": [],
         "enable": true,
-        "townRank": 3,
+        "townRank": 5,
         "item": {
           "data": {
             "DataTable": {
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_91101"
+            "RowName": "item_91171"
           },
-          "itemID": "item_91101"
+          "itemID": "item_91171"
         },
         "useCustomName": false,
         "shopItemName": {
@@ -2974,11 +904,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 13,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaidaquarium": {
+      "Basic Mermaid_Basicunderwatertable": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -3013,16 +943,16 @@
         "allowedWeather": [],
         "forbiddenWeather": [],
         "enable": true,
-        "townRank": 3,
+        "townRank": 0,
         "item": {
           "data": {
             "DataTable": {
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_96082"
+            "RowName": "item_91159"
           },
-          "itemID": "item_96082"
+          "itemID": "item_91159"
         },
         "useCustomName": false,
         "shopItemName": {
@@ -3043,770 +973,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 14,
         "priceOverride": 0,
         "tag": []
       },
-      "Roundsearug": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_95045"
-          },
-          "itemID": "item_95045"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Underwaterrug": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_95044"
-          },
-          "itemID": "item_95044"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Jellyfishstandinglamp": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_92058"
-          },
-          "itemID": "item_92058"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Mermaidthemeflooring": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_99021"
-          },
-          "itemID": "item_99021"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Mermaidthemewall": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_98027"
-          },
-          "itemID": "item_98027"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Conchvase": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_97045"
-          },
-          "itemID": "item_97045"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Seasnailrosevase": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96080"
-          },
-          "itemID": "item_96080"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Pirateshiphangingvase": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_96079"
-          },
-          "itemID": "item_96079"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Coralbookcase": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_93050"
-          },
-          "itemID": "item_93050"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Mermaidwardrobe": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_93048"
-          },
-          "itemID": "item_93048"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Treasurechestdresser": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_93049"
-          },
-          "itemID": "item_93049"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Mermaidcoffeetable": {
+      "Mermaid Style_Mermaid coffee table": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -3871,11 +1042,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 15,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermantable": {
+      "Seabed City Style_Sand dresser": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -3910,16 +1081,16 @@
         "allowedWeather": [],
         "forbiddenWeather": [],
         "enable": true,
-        "townRank": 3,
+        "townRank": 5,
         "item": {
           "data": {
             "DataTable": {
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_91097"
+            "RowName": "item_93070"
           },
-          "itemID": "item_91097"
+          "itemID": "item_93070"
         },
         "useCustomName": false,
         "shopItemName": {
@@ -3940,80 +1111,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 16,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaidvanitytable": {
-        "isLimitedItemQty": false,
-        "itemLimitQty": 0,
-        "isUsingCustomEffect": false,
-        "restockDays": [],
-        "allowedSeasons": [],
-        "forbiddenSeasons": [],
-        "allowedDays": [],
-        "forbiddenDays": [],
-        "availableSinceDate": false,
-        "sinceDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableTillDate": false,
-        "tillDate": {
-          "day": 1,
-          "season": "EC_Season::None",
-          "year": 1
-        },
-        "availableDuringTime": false,
-        "timeRange": {
-          "fromTime": {
-            "hours": 0,
-            "minutes": 0
-          },
-          "toTime": {
-            "hours": 0,
-            "minutes": 0
-          }
-        },
-        "allowedWeather": [],
-        "forbiddenWeather": [],
-        "enable": true,
-        "townRank": 3,
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_91098"
-          },
-          "itemID": "item_91098"
-        },
-        "useCustomName": false,
-        "shopItemName": {
-          "CultureInvariantString": null
-        },
-        "useCustomIcon": false,
-        "customIcon": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "useCustomCategory": false,
-        "customCategory": {
-          "CultureInvariantString": null
-        },
-        "useCustomDescription": false,
-        "customDescription": {
-          "CultureInvariantString": null
-        },
-        "useCategory": true,
-        "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
-        "priceOverride": 0,
-        "tag": []
-      },
-      "Mermaidislandtable": {
+      "Mermaid Style_Mermaid island table": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -4078,11 +1180,218 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 17,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaiddiningtable": {
+      "Mermaid Style_Mermaid vanity table": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91098"
+          },
+          "itemID": "item_91098"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 18,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Merman table": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91097"
+          },
+          "itemID": "item_91097"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 19,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Ship's helm table": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91174"
+          },
+          "itemID": "item_91174"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 20,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid dining table": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -4147,11 +1456,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 21,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaidlongdiningtable": {
+      "Mermaid Style_Mermaid long dining table": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -4216,11 +1525,1874 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 22,
         "priceOverride": 0,
         "tag": []
       },
-      "Coralwallbookshelves": {
+      "Seabed City Style_Glove lamp": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_92090"
+          },
+          "itemID": "item_92090"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 23,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Jellyfish standing lamp": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_92058"
+          },
+          "itemID": "item_92058"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 24,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Conch vase": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_97045"
+          },
+          "itemID": "item_97045"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 25,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Sand pot": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_97068"
+          },
+          "itemID": "item_97068"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 26,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Basic Mermaid_Basicunderwatervase": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 0,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_97067"
+          },
+          "itemID": "item_97067"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 27,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Sea snail rose vase": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96080"
+          },
+          "itemID": "item_96080"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 28,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Pirate ship hanging vase": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96079"
+          },
+          "itemID": "item_96079"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 29,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Basic Mermaid_Basicunderwaterfireplace": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 0,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_95069"
+          },
+          "itemID": "item_95069"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 30,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Coral floor decor": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_97044"
+          },
+          "itemID": "item_97044"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 31,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Sentient computer": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_94110"
+          },
+          "itemID": "item_94110"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 32,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Money chest": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_94112"
+          },
+          "itemID": "item_94112"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 33,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Diver TV": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_90074"
+          },
+          "itemID": "item_90074"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 34,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Pet wheel": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_94113"
+          },
+          "itemID": "item_94113"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 35,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid nightstand": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91101"
+          },
+          "itemID": "item_91101"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 36,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid aquarium": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96082"
+          },
+          "itemID": "item_96082"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 37,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Handsome merfolk statue": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_94111"
+          },
+          "itemID": "item_94111"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 38,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Flowers rug": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_95074"
+          },
+          "itemID": "item_95074"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 39,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Round sea rug": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_95045"
+          },
+          "itemID": "item_95045"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 40,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Basic Mermaid_Basicunderwaterrug": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 0,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_95068"
+          },
+          "itemID": "item_95068"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 41,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Underwater rug": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_95044"
+          },
+          "itemID": "item_95044"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 42,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Clarinet table": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_91177"
+          },
+          "itemID": "item_91177"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 43,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Secret recipe": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_94114"
+          },
+          "itemID": "item_94114"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 44,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Coral bookcase": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_93050"
+          },
+          "itemID": "item_93050"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 45,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Sand shelf": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_93071"
+          },
+          "itemID": "item_93071"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 46,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid wardrobe": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_93048"
+          },
+          "itemID": "item_93048"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 47,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Treasure chest dresser": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_93049"
+          },
+          "itemID": "item_93049"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 48,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Bamboo clothing shelf": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96124"
+          },
+          "itemID": "item_96124"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 48,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Coral wall bookshelves": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -4285,11 +3457,11 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 49,
         "priceOverride": 0,
         "tag": []
       },
-      "Coralwalldecor": {
+      "Mermaid Style_Coral wall decor": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -4354,11 +3526,563 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 50,
         "priceOverride": 0,
         "tag": []
       },
-      "Mermaidwindow": {
+      "Seabed City Style_Golden spatula": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96119"
+          },
+          "itemID": "item_96119"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 51,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Lifebuoy wall decor": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96122"
+          },
+          "itemID": "item_96122"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 52,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Shell phone": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96118"
+          },
+          "itemID": "item_96118"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 53,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Chikin pencil": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96123"
+          },
+          "itemID": "item_96123"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 54,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Fish wall decor": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96121"
+          },
+          "itemID": "item_96121"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 55,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Pirate chikin painting": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_96120"
+          },
+          "itemID": "item_96120"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 56,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Barred window": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_90073"
+          },
+          "itemID": "item_90073"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 57,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Submarine window": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_90072"
+          },
+          "itemID": "item_90072"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 58,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid window": {
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
         "isUsingCustomEffect": false,
@@ -4423,7 +4147,283 @@
         },
         "useCategory": true,
         "category": "EC_ItemCategory::Decoration",
-        "priority": 0,
+        "priority": 59,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Sand flooring": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_99038"
+          },
+          "itemID": "item_99038"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 60,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid theme flooring": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_99021"
+          },
+          "itemID": "item_99021"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 61,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Seabed City Style_Sea flowers wall": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 5,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_98044"
+          },
+          "itemID": "item_98044"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 62,
+        "priceOverride": 0,
+        "tag": []
+      },
+      "Mermaid Style_Mermaid theme wall": {
+        "isLimitedItemQty": false,
+        "itemLimitQty": 0,
+        "isUsingCustomEffect": false,
+        "restockDays": [],
+        "allowedSeasons": [],
+        "forbiddenSeasons": [],
+        "allowedDays": [],
+        "forbiddenDays": [],
+        "availableSinceDate": false,
+        "sinceDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableTillDate": false,
+        "tillDate": {
+          "day": 1,
+          "season": "EC_Season::None",
+          "year": 1
+        },
+        "availableDuringTime": false,
+        "timeRange": {
+          "fromTime": {
+            "hours": 0,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 0,
+            "minutes": 0
+          }
+        },
+        "allowedWeather": [],
+        "forbiddenWeather": [],
+        "enable": true,
+        "townRank": 3,
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_98027"
+          },
+          "itemID": "item_98027"
+        },
+        "useCustomName": false,
+        "shopItemName": {
+          "CultureInvariantString": null
+        },
+        "useCustomIcon": false,
+        "customIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "useCustomCategory": false,
+        "customCategory": {
+          "CultureInvariantString": null
+        },
+        "useCustomDescription": false,
+        "customDescription": {
+          "CultureInvariantString": null
+        },
+        "useCategory": true,
+        "category": "EC_ItemCategory::Decoration",
+        "priority": 63,
         "priceOverride": 0,
         "tag": []
       }

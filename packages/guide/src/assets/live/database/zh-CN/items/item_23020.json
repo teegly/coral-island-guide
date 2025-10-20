@@ -675,11 +675,6 @@
               "iconName": "Cotton_Sprite"
             },
             {
-              "id": "item_24003",
-              "displayName": "杏仁",
-              "iconName": "Almond_Sprite"
-            },
-            {
               "id": "item_24004",
               "displayName": "Avocado",
               "iconName": "Avocado_Sprite"
@@ -2206,7 +2201,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "高级祭坛",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "解锁鲜花运输",
+      "offeringGroupRewardText": "解锁记忆之洞",
       "offerings": [
         {
           "title": "果树",

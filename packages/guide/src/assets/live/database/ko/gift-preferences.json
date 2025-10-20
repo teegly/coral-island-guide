@@ -5968,6 +5968,10 @@
             "displayName": "검은 장미",
             "iconName": "placeholder_icon"
           }
+        },
+        {
+          "type": "category",
+          "categoryName": "Fish"
         }
       ],
       "likePreferences": [],
@@ -7156,7 +7160,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "구체",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         {
@@ -7766,7 +7770,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "구체",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         }
       ],
@@ -7966,7 +7970,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "구체",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         {

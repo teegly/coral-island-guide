@@ -831,7 +831,7 @@
     "key": "SpecialityBased",
     "offeringGroupTitle": "高级祭坛",
     "urlPath": "advancedaltar",
-    "offeringGroupRewardText": "解锁鲜花运输",
+    "offeringGroupRewardText": "解锁记忆之洞",
     "offerings": [
       {
         "title": "畜棚动物",
@@ -1258,7 +1258,7 @@
     "key": "RareBased",
     "offeringGroupTitle": "稀有祭坛",
     "urlPath": "rarealtar",
-    "offeringGroupRewardText": "解锁萨凡纳",
+    "offeringGroupRewardText": "解锁传送供品",
     "offerings": [
       {
         "title": "稀有农作物",

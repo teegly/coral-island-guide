@@ -24,7 +24,44 @@
       "locationAreaInfoDT": {
         "ObjectName": "DataTable'DT_LocationAreaInfo'",
         "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_LocationAreaInfo.0"
-      }
+      },
+      "blacklistedWinterFairLocations": [
+        {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_LocationAreaInfo'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_LocationAreaInfo.0"
+          },
+          "RowName": "BeachArea"
+        },
+        {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_LocationAreaInfo'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_LocationAreaInfo.0"
+          },
+          "RowName": "BeachPierArea"
+        },
+        {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_LocationAreaInfo'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_LocationAreaInfo.0"
+          },
+          "RowName": "LighthouseArea"
+        },
+        {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_LocationAreaInfo'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_LocationAreaInfo.0"
+          },
+          "RowName": "BeachWestArea"
+        },
+        {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_LocationAreaInfo'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_LocationAreaInfo.0"
+          },
+          "RowName": "BeachWaterArea"
+        }
+      ]
     }
   }
 ]

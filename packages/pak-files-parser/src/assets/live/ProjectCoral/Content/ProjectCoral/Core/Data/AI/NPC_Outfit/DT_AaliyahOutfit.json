@@ -1790,7 +1790,7 @@
           }
         ],
         "SkeletalMeshes": {
-          "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Aaliyah/SK_Aaliyah_v2_1.SK_Aaliyah_v2_1",
+          "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Aaliyah/Optimized/GymOutfit/SK_Aaliyah_GymOutfit_V2_1.SK_Aaliyah_GymOutfit_V2_1",
           "SubPathString": ""
         },
         "StaticMesh": {

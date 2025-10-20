@@ -10,6 +10,7 @@ import {
     AddItemToInventoryEffect,
     BoostMaxHealthEffect,
     BoostMaxStaminaEffect,
+    ChangeAppearancePotionEffect,
     ChangeObjectStateEffect,
     CompleteMiningRequirement,
     ConsumeMasteryItemEffect,
@@ -173,6 +174,10 @@ export class DaFilesParser {
                     case "C_BoostMaxHealthEffect": {
 
                         daEffect = {type: "BoostMaxHealth"} satisfies BoostMaxHealthEffect;
+                        break;
+                    }
+                    case "C_ChangeAppearancePotionEffect": {
+                        daEffect = {type: "ChangeAppearancePotion"} satisfies ChangeAppearancePotionEffect;
                         break;
                     }
                     case "C_BoostMaxStaminaEffect": {

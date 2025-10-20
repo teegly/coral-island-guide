@@ -425,7 +425,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": true,
         "itemLimitPerYear": 30,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_21049",
@@ -461,7 +462,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": true,
         "itemLimitPerYear": 30,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_21049",

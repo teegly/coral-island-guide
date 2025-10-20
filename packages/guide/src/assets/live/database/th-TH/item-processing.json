@@ -25078,136 +25078,6 @@
         "useCategory": false,
         "day": 0,
         "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "สาหร่าย",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "สาหร่าย",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033",
-            "displayName": "หญ้าแห้ง",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "หญ้าแห้ง",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "หญ้าแห้ง",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "หญ้าแห้ง",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "หญ้าแห้ง",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "หญ้าแห้ง",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "หญ้าแห้ง",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-5",
-            "displayName": "หญ้าแห้ง",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
           "hours": 12,
           "minutes": 0
         },
@@ -26155,7 +26025,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "ไข่มุกขาว",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "output": {
@@ -26163,7 +26033,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "ไข่มุกขาว",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "genericInput": null,
@@ -64313,6 +64183,1835 @@
             "day": 0,
             "time": {
               "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "ไวน์มันหวาน",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "ไวน์มันหวาน",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 14,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "ไวน์ฟักทอง",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "ไวน์ฟักทอง",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "ไวน์หัวเผือก",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "ไวน์หัวเผือก",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 14,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "ไวน์ผลคาเคา",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "ไวน์ผลคาเคา",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "ไวน์มะพร้าว",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "ไวน์มะพร้าว",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 15,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "ไวน์มะพร้าวคอรัล",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "ไวน์มะพร้าวคอรัล",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 11,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "ไวน์มะพร้าวกะทิ",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "ไวน์มะพร้าวกะทิ",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 15,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "ไวน์มะพร้าวทะเล",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "ไวน์มะพร้าวทะเล",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 20,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 1,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "กิมจิมันหวาน",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "กิมจิมันหวาน",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "กิมจิหัวเผือก",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "กิมจิหัวเผือก",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "กิมจิวาซาบิ",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "กิมจิวาซาบิ",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 13,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "กิมจิฟักทอง",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "กิมจิฟักทอง",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "มันหวานดอง",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "มันหวานดอง",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 1,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "หัวเผือกดอง",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "หัวเผือกดอง",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "วาซาบิดอง",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "วาซาบิดอง",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "ฟักทองดอง",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "ฟักทองดอง",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "แยมมะกอก",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "แยมมะกอก",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "แยมคายา",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "แยมคายา",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "แยมคายาคอรัล",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "แยมคายาคอรัล",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "แยมคายามะพร้าวกะทิ",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "แยมคายามะพร้าวกะทิ",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "แยมคายาเดอแมร์",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "แยมคายาเดอแมร์",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 5,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "น้ำผลคาเคา",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "น้ำผลคาเคา",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "น้ำมะพร้าว",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "น้ำมะพร้าว",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "น้ำมะพร้าวคอรัล",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "น้ำมะพร้าวคอรัล",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "น้ำมะพร้าวกะทิ",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "น้ำมะพร้าวกะทิ",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "น้ำมะพร้าวทะเล",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "น้ำมะพร้าวทะเล",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "กะทิมะพร้าว",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "กะทิมะพร้าว",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "กะทิมะพร้าวคอรัล",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "กะทิมะพร้าวคอรัล",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "กะทิมะพร้าวกะทิ",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "กะทิมะพร้าวกะทิ",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "กะทิมะพร้าวทะเล",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "กะทิมะพร้าวทะเล",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "น้ำมันมะพร้าว",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "น้ำมันมะพร้าว",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "น้ำมันมะพร้าวคอรัล",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "น้ำมันมะพร้าวคอรัล",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "น้ำมันมะพร้าวกะทิ",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "น้ำมันมะพร้าวกะทิ",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 5,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "น้ำมันมะพร้าวทะเล",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "น้ำมันมะพร้าวทะเล",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "ผงช็อกโกแลต",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "ผงช็อกโกแลต",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "แป้งข้าวโพด",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "แป้งข้าวโพด",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "แป้งข้าวบาร์เลย์",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "แป้งข้าวบาร์เลย์",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "แป้งถั่วเหลือง",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "แป้งถั่วเหลือง",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
               "minutes": 0
             }
           }

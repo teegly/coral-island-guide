@@ -104,6 +104,104 @@
         }
       ],
       "machine": "Barrel"
+    },
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 10,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41407",
+          "displayName": "호박 와인",
+          "iconName": "Wine_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41407",
+          "displayName": "호박 와인",
+          "iconName": "Wine_Sprite",
+          "sellPrice": 520
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 11,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 17,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
+    }
+  ],
+  "artisanIngredient": [
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 10,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41407",
+          "displayName": "호박 와인",
+          "iconName": "Wine_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41407",
+          "displayName": "호박 와인",
+          "iconName": "Wine_Sprite",
+          "sellPrice": 520
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 11,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 17,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
     }
   ],
   "usedToCook": [
@@ -201,7 +299,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "희귀 제단",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "사바나 지역 잠금 해제",
+      "offeringGroupRewardText": "순간이동 공물 해금",
       "offerings": [
         {
           "title": "희귀 전통 생산품",

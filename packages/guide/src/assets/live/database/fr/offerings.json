@@ -831,7 +831,7 @@
     "key": "SpecialityBased",
     "offeringGroupTitle": "Autel avancé",
     "urlPath": "advancedaltar",
-    "offeringGroupRewardText": "Débloque les téléporteurs d'offrandes",
+    "offeringGroupRewardText": "Débloque la Grotte des souvenirs",
     "offerings": [
       {
         "title": "Animaux de grange",
@@ -1258,7 +1258,7 @@
     "key": "RareBased",
     "offeringGroupTitle": "Autel rare",
     "urlPath": "rarealtar",
-    "offeringGroupRewardText": "Débloque l'accès à Savannah",
+    "offeringGroupRewardText": "Débloque le Téléporteur d'offrandes",
     "offerings": [
       {
         "title": "Cultures rares",

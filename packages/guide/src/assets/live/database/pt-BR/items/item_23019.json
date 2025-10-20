@@ -8,8 +8,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Grains",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "Uma baga marrom de textura maciça. É o ingrediente principal do chocolate.",
     "qualities": {
       "bronze": {
@@ -598,7 +598,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Altar Avançado",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Desbloqueia Sesajen de Dobra",
+      "offeringGroupRewardText": "Desbloqueia a Caverna de Memórias",
       "offerings": [
         {
           "title": "Planta Frutífera",

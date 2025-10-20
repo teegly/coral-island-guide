@@ -2,8 +2,8 @@
   "item": {
     "id": "item_65499",
     "displayName": "Carreta medieval",
-    "price": 1450,
-    "sellPrice": 870,
+    "price": 1300,
+    "sellPrice": 780,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",

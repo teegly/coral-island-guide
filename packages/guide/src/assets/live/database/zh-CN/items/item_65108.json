@@ -513,58 +513,6 @@
       }
     },
     {
-      "key": "item_65299",
-      "displayName": "Compost bin",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "木头",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65052",
-            "displayName": "废品",
-            "iconName": "Trash_Sprite"
-          },
-          "amount": 5
-        },
-        {
-          "item": {
-            "id": "item_65108",
-            "displayName": "树液",
-            "iconName": "Sap_Sprite"
-          },
-          "amount": 5
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "craftingUnlock": {
-        "key": "item_65299",
-        "masteryLevel": 2,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65299",
-        "displayName": "堆肥桶",
-        "price": 200,
-        "sellPrice": 50,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Compostbindesc",
-        "qualities": {},
-        "iconName": "Compost_bin_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65305",
       "displayName": "Fertilizer I",
       "amount": 1,
@@ -709,6 +657,58 @@
         "description": "如果与土壤混合，将种植出品质更好的作物。",
         "qualities": {},
         "iconName": "Fertilizer_III_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65299",
+      "displayName": "Compost bin",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "木头",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65052",
+            "displayName": "废品",
+            "iconName": "Trash_Sprite"
+          },
+          "amount": 5
+        },
+        {
+          "item": {
+            "id": "item_65108",
+            "displayName": "树液",
+            "iconName": "Sap_Sprite"
+          },
+          "amount": 5
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "craftingUnlock": {
+        "key": "item_65299",
+        "masteryLevel": 2,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65299",
+        "displayName": "堆肥桶",
+        "price": 200,
+        "sellPrice": 50,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Compostbindesc",
+        "qualities": {},
+        "iconName": "Compost_bin_Sprite",
         "tags": []
       }
     },
@@ -905,14 +905,14 @@
       },
       "item": {
         "id": "item_64005",
-        "displayName": "地面昆虫专用香水",
+        "displayName": "地面昆虫专用诱香",
         "price": 40,
         "sellPrice": 10,
         "sellAt": [],
         "stackable": true,
         "inventoryCategory": "Consumable",
         "displayKey": "Consumable",
-        "description": "一种可制作的香水，能降低地面昆虫的警觉性。可以食用或附在陷阱上。",
+        "description": "一种可制作的诱香，能降低地面昆虫的警觉性。可以食用或附在陷阱上。",
         "qualities": {},
         "iconName": "Ground_insect_scent__Sprite",
         "tags": [
@@ -1180,8 +1180,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "阻止乌鸦扰乱庄稼。保护一个11x11的区域。",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",

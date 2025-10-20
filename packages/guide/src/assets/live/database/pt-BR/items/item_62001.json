@@ -1,14 +1,14 @@
 {
   "item": {
     "id": "item_62001",
-    "displayName": "Kelp de bronze",
+    "displayName": "Alga de bronze",
     "price": 150,
     "sellPrice": 5,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Resource",
     "displayKey": "Resource",
-    "description": "Kelp que pode ser extraída para fazer garrafas de essência. Útil para aprimoramentos.",
+    "description": "alga que pode ser extraída para fazer garrafas de essência. Útil para aprimoramentos.",
     "qualities": {},
     "iconName": "Bronze_kelp_Sprite",
     "tags": [
@@ -29,7 +29,7 @@
         "amount": 1,
         "item": {
           "id": "item_62001",
-          "displayName": "Kelp de bronze",
+          "displayName": "Alga de bronze",
           "iconName": "Bronze_kelp_Sprite"
         }
       },
@@ -37,7 +37,7 @@
         "amount": 2,
         "item": {
           "id": "item_62001",
-          "displayName": "Kelp de bronze",
+          "displayName": "Alga de bronze",
           "iconName": "Bronze_kelp_Sprite",
           "sellPrice": 5
         }
@@ -632,11 +632,6 @@
               "iconName": "Cotton_Sprite"
             },
             {
-              "id": "item_24003",
-              "displayName": "Amêndoa",
-              "iconName": "Almond_Sprite"
-            },
-            {
               "id": "item_24004",
               "displayName": "Avocado",
               "iconName": "Avocado_Sprite"
@@ -908,22 +903,22 @@
             },
             {
               "id": "item_62001",
-              "displayName": "Kelp de bronze",
+              "displayName": "Alga de bronze",
               "iconName": "Bronze_kelp_Sprite"
             },
             {
               "id": "item_62002",
-              "displayName": "Kelp de ouro",
+              "displayName": "alga de ouro",
               "iconName": "Gold_Kelp_Sprite"
             },
             {
               "id": "item_62003",
-              "displayName": "Kelp de prata",
+              "displayName": "alga de prata",
               "iconName": "Silver_Kelp_Sprite"
             },
             {
               "id": "item_62004",
-              "displayName": "Kelp de ósmio",
+              "displayName": "alga de ósmio",
               "iconName": "Osmium_Kelp_Sprite"
             },
             {
@@ -1527,7 +1522,7 @@
         "amount": 10,
         "item": {
           "id": "item_62001",
-          "displayName": "Kelp de bronze",
+          "displayName": "Alga de bronze",
           "iconName": "Bronze_kelp_Sprite"
         }
       },
@@ -1535,7 +1530,7 @@
         "amount": 1,
         "item": {
           "id": "item_62005",
-          "displayName": "Essência de kelp de bronze",
+          "displayName": "Essência de alga de bronze",
           "iconName": "Bronze_kelp_essence_Sprite",
           "sellPrice": 50
         }
@@ -1555,7 +1550,7 @@
         "amount": 1,
         "item": {
           "id": "item_62001",
-          "displayName": "Kelp de bronze",
+          "displayName": "Alga de bronze",
           "iconName": "Bronze_kelp_Sprite"
         }
       },
@@ -1563,7 +1558,7 @@
         "amount": 2,
         "item": {
           "id": "item_62001",
-          "displayName": "Kelp de bronze",
+          "displayName": "Alga de bronze",
           "iconName": "Bronze_kelp_Sprite",
           "sellPrice": 5
         }
@@ -1583,7 +1578,7 @@
         "amount": 3,
         "item": {
           "id": "item_62001",
-          "displayName": "Kelp de bronze",
+          "displayName": "Alga de bronze",
           "iconName": "Bronze_kelp_Sprite"
         }
       },
@@ -1591,7 +1586,7 @@
         "amount": 1,
         "item": {
           "id": "item_62003",
-          "displayName": "Kelp de prata",
+          "displayName": "alga de prata",
           "iconName": "Silver_Kelp_Sprite",
           "sellPrice": 15
         }
@@ -1601,6 +1596,58 @@
     }
   ],
   "usedToCraft": [
+    {
+      "key": "item_65013",
+      "displayName": "Sprinkler I",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65107",
+            "displayName": "Sucata",
+            "iconName": "Scrap_Sprite"
+          },
+          "amount": 10
+        },
+        {
+          "item": {
+            "id": "item_62003",
+            "displayName": "alga de prata",
+            "iconName": "Silver_Kelp_Sprite"
+          },
+          "amount": 5
+        },
+        {
+          "item": {
+            "id": "item_62001",
+            "displayName": "Alga de bronze",
+            "iconName": "Bronze_kelp_Sprite"
+          },
+          "amount": 5
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65013",
+        "masteryLevel": 2,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65013",
+        "displayName": "Aspersor I",
+        "price": 200,
+        "sellPrice": 55,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "Um sistema de irrigação automático. Irriga um raio de 9 quadrados.",
+        "qualities": {},
+        "iconName": "Sprinkler_I_Sprite",
+        "tags": []
+      }
+    },
     {
       "key": "item_65035",
       "displayName": "Extractor",
@@ -1617,7 +1664,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 20
@@ -1642,7 +1689,7 @@
         "stackable": true,
         "inventoryCategory": "ResourceEquipment",
         "displayKey": "ResourceEquipment",
-        "description": "Extrai e engarrafa nutrientes de kelp.",
+        "description": "Extrai e engarrafa nutrientes de alga.",
         "qualities": {},
         "iconName": "Extractor_Sprite",
         "tags": []
@@ -1672,7 +1719,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 15
@@ -1701,58 +1748,6 @@
       }
     },
     {
-      "key": "item_65013",
-      "displayName": "Sprinkler I",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65107",
-            "displayName": "Sucata",
-            "iconName": "Scrap_Sprite"
-          },
-          "amount": 10
-        },
-        {
-          "item": {
-            "id": "item_62003",
-            "displayName": "Kelp de prata",
-            "iconName": "Silver_Kelp_Sprite"
-          },
-          "amount": 5
-        },
-        {
-          "item": {
-            "id": "item_62001",
-            "displayName": "Kelp de bronze",
-            "iconName": "Bronze_kelp_Sprite"
-          },
-          "amount": 5
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65013",
-        "masteryLevel": 2,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65013",
-        "displayName": "Aspersor I",
-        "price": 200,
-        "sellPrice": 55,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "Um sistema de irrigação automático. Irriga um raio de 9 quadrados.",
-        "qualities": {},
-        "iconName": "Sprinkler_I_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65357",
       "displayName": "Small fish bait",
       "amount": 2,
@@ -1760,7 +1755,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 1
@@ -1804,7 +1799,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 2
@@ -1850,11 +1845,12 @@
         "itemLimit": 0,
         "hasYearlyLimit": true,
         "itemLimitPerYear": 100,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_62001",
-        "displayName": "Kelp de bronze",
+        "displayName": "Alga de bronze",
         "iconName": "Bronze_kelp_Sprite",
         "price": 150,
         "sellPrice": 5
@@ -1883,7 +1879,7 @@
     {
       "item": {
         "id": "item_62001",
-        "displayName": "Kelp de bronze",
+        "displayName": "Alga de bronze",
         "iconName": "Bronze_kelp_Sprite",
         "price": 150,
         "sellPrice": 5
@@ -1921,7 +1917,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 5,
@@ -1945,7 +1941,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 5,
@@ -1969,7 +1965,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 5,
@@ -1993,7 +1989,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 5,
@@ -2017,7 +2013,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 1,
@@ -2041,7 +2037,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 1,
@@ -2085,7 +2081,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 1
@@ -2123,7 +2119,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 0
@@ -2161,7 +2157,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 1

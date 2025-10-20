@@ -105,53 +105,6 @@
   ],
   "usedToCraft": [
     {
-      "key": "item_65035",
-      "displayName": "Extractor",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65107",
-            "displayName": "폐품",
-            "iconName": "Scrap_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_62001",
-            "displayName": "동 켈프",
-            "iconName": "Bronze_kelp_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "목재",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 40
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "item": {
-        "id": "item_65035",
-        "displayName": "추출기",
-        "price": 1000,
-        "sellPrice": 240,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "켈프에서 영양분을 추출해 병에 담는다.",
-        "qualities": {},
-        "iconName": "Extractor_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65013",
       "displayName": "Sprinkler I",
       "amount": 1,
@@ -312,6 +265,53 @@
         "description": "자동 살수기. 타일 81개 반경에 물을 준다.",
         "qualities": {},
         "iconName": "Sprinkler_III_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65035",
+      "displayName": "Extractor",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65107",
+            "displayName": "폐품",
+            "iconName": "Scrap_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_62001",
+            "displayName": "동 켈프",
+            "iconName": "Bronze_kelp_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "목재",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 40
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "item": {
+        "id": "item_65035",
+        "displayName": "추출기",
+        "price": 1000,
+        "sellPrice": 240,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "켈프에서 영양분을 추출해 병에 담는다.",
+        "qualities": {},
+        "iconName": "Extractor_Sprite",
         "tags": []
       }
     },
@@ -1646,8 +1646,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "까마귀가 농작물을 망치지 못하게 막는다. 보호하는 면적은 11x11이다.",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",
@@ -2167,7 +2167,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_65107",

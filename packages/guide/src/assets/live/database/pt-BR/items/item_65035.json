@@ -8,7 +8,7 @@
     "stackable": true,
     "inventoryCategory": "ResourceEquipment",
     "displayKey": "ResourceEquipment",
-    "description": "Extrai e engarrafa nutrientes de kelp.",
+    "description": "Extrai e engarrafa nutrientes de alga.",
     "qualities": {},
     "iconName": "Extractor_Sprite",
     "tags": []
@@ -30,7 +30,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 20
@@ -55,7 +55,7 @@
         "stackable": true,
         "inventoryCategory": "ResourceEquipment",
         "displayKey": "ResourceEquipment",
-        "description": "Extrai e engarrafa nutrientes de kelp.",
+        "description": "Extrai e engarrafa nutrientes de alga.",
         "qualities": {},
         "iconName": "Extractor_Sprite",
         "tags": []

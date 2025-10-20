@@ -18,7 +18,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": true,
               "itemLimitPerYear": 5,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_97029",
@@ -50,7 +51,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_120264",
@@ -82,7 +84,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_91073",
@@ -114,7 +117,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_93036",
@@ -146,7 +150,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_96066",
@@ -178,7 +183,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_97030",
@@ -210,7 +216,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_96067",
@@ -242,7 +249,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_90048",
@@ -274,7 +282,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_90049",
@@ -306,7 +315,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_92042",
@@ -338,7 +348,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_92043",
@@ -370,7 +381,8 @@
               "itemLimit": 0,
               "hasYearlyLimit": false,
               "itemLimitPerYear": 0,
-              "isUnlockRecipe": false
+              "isUnlockRecipe": false,
+              "isItemUnLimitNotUnlockRecipe": false
             },
             "item": {
               "id": "item_95035",

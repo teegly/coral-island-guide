@@ -105,53 +105,6 @@
   ],
   "usedToCraft": [
     {
-      "key": "item_65035",
-      "displayName": "Extractor",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65107",
-            "displayName": "Sucata",
-            "iconName": "Scrap_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_62001",
-            "displayName": "Kelp de bronze",
-            "iconName": "Bronze_kelp_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Madeira",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 40
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "item": {
-        "id": "item_65035",
-        "displayName": "Extrator",
-        "price": 1000,
-        "sellPrice": 240,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Extrai e engarrafa nutrientes de kelp.",
-        "qualities": {},
-        "iconName": "Extractor_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65013",
       "displayName": "Sprinkler I",
       "amount": 1,
@@ -167,7 +120,7 @@
         {
           "item": {
             "id": "item_62003",
-            "displayName": "Kelp de prata",
+            "displayName": "alga de prata",
             "iconName": "Silver_Kelp_Sprite"
           },
           "amount": 5
@@ -175,7 +128,7 @@
         {
           "item": {
             "id": "item_62001",
-            "displayName": "Kelp de bronze",
+            "displayName": "Alga de bronze",
             "iconName": "Bronze_kelp_Sprite"
           },
           "amount": 5
@@ -219,7 +172,7 @@
         {
           "item": {
             "id": "item_62003",
-            "displayName": "Kelp de prata",
+            "displayName": "alga de prata",
             "iconName": "Silver_Kelp_Sprite"
           },
           "amount": 7
@@ -227,7 +180,7 @@
         {
           "item": {
             "id": "item_62002",
-            "displayName": "Kelp de ouro",
+            "displayName": "alga de ouro",
             "iconName": "Gold_Kelp_Sprite"
           },
           "amount": 7
@@ -271,7 +224,7 @@
         {
           "item": {
             "id": "item_62002",
-            "displayName": "Kelp de ouro",
+            "displayName": "alga de ouro",
             "iconName": "Gold_Kelp_Sprite"
           },
           "amount": 10
@@ -279,7 +232,7 @@
         {
           "item": {
             "id": "item_62004",
-            "displayName": "Kelp de ósmio",
+            "displayName": "alga de ósmio",
             "iconName": "Osmium_Kelp_Sprite"
           },
           "amount": 10
@@ -316,6 +269,53 @@
       }
     },
     {
+      "key": "item_65035",
+      "displayName": "Extractor",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65107",
+            "displayName": "Sucata",
+            "iconName": "Scrap_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_62001",
+            "displayName": "Alga de bronze",
+            "iconName": "Bronze_kelp_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Madeira",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 40
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "item": {
+        "id": "item_65035",
+        "displayName": "Extrator",
+        "price": 1000,
+        "sellPrice": 240,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Extrai e engarrafa nutrientes de alga.",
+        "qualities": {},
+        "iconName": "Extractor_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_94067",
       "displayName": "Dehydrator",
       "amount": 1,
@@ -331,7 +331,7 @@
         {
           "item": {
             "id": "item_62007",
-            "displayName": "Essência de kelp de prata",
+            "displayName": "Essência de alga de prata",
             "iconName": "Silver_Kelp_Essence_Sprite"
           },
           "amount": 2
@@ -1073,7 +1073,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 1
@@ -1128,7 +1128,7 @@
         {
           "item": {
             "id": "item_62007",
-            "displayName": "Essência de kelp de prata",
+            "displayName": "Essência de alga de prata",
             "iconName": "Silver_Kelp_Essence_Sprite"
           },
           "amount": 1
@@ -1183,7 +1183,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 1
@@ -1238,7 +1238,7 @@
         {
           "item": {
             "id": "item_62008",
-            "displayName": "Essência de kelp de ósmio",
+            "displayName": "Essência de alga de ósmio",
             "iconName": "Osmium_Kelp_Essence_Sprite"
           },
           "amount": 1
@@ -1348,7 +1348,7 @@
         {
           "item": {
             "id": "item_62007",
-            "displayName": "Essência de kelp de prata",
+            "displayName": "Essência de alga de prata",
             "iconName": "Silver_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -1403,7 +1403,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -1458,7 +1458,7 @@
         {
           "item": {
             "id": "item_62008",
-            "displayName": "Essência de kelp de ósmio",
+            "displayName": "Essência de alga de ósmio",
             "iconName": "Osmium_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -1568,7 +1568,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -1646,8 +1646,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "Desencoraja os corvos de perturbarem as plantações. Protege uma área de 11x11.",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",
@@ -2167,7 +2167,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_65107",
@@ -2387,7 +2388,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 1

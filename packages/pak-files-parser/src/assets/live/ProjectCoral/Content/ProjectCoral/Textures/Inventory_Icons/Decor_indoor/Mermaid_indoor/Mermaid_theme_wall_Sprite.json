@@ -43,7 +43,7 @@
       },
       "CollisionTraceFlag": "CTF_UseSimpleAsComplex"
     },
-    "BodySetupGuid": "E4CFCA744BBD735BAD9F46A8AB89A16C"
+    "BodySetupGuid": "A1774EAA4C9AB455A2E08B86A753AE60"
   },
   {
     "Type": "PaperSprite",

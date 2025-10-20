@@ -299,42 +299,7 @@
           "amount": 1
         }
       ],
-      "eitherOrIngredients": [
-        [
-          {
-            "item": {
-              "id": "item_31004",
-              "displayName": "นม",
-              "iconName": "Milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31016",
-              "displayName": "นมวัวขวดใหญ่",
-              "iconName": "Large_milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31024",
-              "displayName": "นมทองคำขวดเล็ก",
-              "iconName": "Golden_milk_Sprite"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "id": "item_31022",
-              "displayName": "นมทองคำขวดใหญ่",
-              "iconName": "Large_golden_milk_Sprite"
-            },
-            "amount": 1
-          }
-        ]
-      ]
+      "eitherOrIngredients": []
     }
   ],
   "requiredAsOffering": [

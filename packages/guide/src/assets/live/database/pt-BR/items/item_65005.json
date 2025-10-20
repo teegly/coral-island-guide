@@ -32,7 +32,7 @@
         {
           "item": {
             "id": "item_62002",
-            "displayName": "Kelp de ouro",
+            "displayName": "alga de ouro",
             "iconName": "Gold_Kelp_Sprite"
           },
           "amount": 10
@@ -40,7 +40,7 @@
         {
           "item": {
             "id": "item_62004",
-            "displayName": "Kelp de ósmio",
+            "displayName": "alga de ósmio",
             "iconName": "Osmium_Kelp_Sprite"
           },
           "amount": 10
@@ -158,7 +158,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 1
@@ -213,7 +213,7 @@
         {
           "item": {
             "id": "item_62007",
-            "displayName": "Essência de kelp de prata",
+            "displayName": "Essência de alga de prata",
             "iconName": "Silver_Kelp_Essence_Sprite"
           },
           "amount": 1
@@ -268,7 +268,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 1
@@ -323,7 +323,7 @@
         {
           "item": {
             "id": "item_62008",
-            "displayName": "Essência de kelp de ósmio",
+            "displayName": "Essência de alga de ósmio",
             "iconName": "Osmium_Kelp_Essence_Sprite"
           },
           "amount": 1
@@ -433,7 +433,7 @@
         {
           "item": {
             "id": "item_62007",
-            "displayName": "Essência de kelp de prata",
+            "displayName": "Essência de alga de prata",
             "iconName": "Silver_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -488,7 +488,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -543,7 +543,7 @@
         {
           "item": {
             "id": "item_62008",
-            "displayName": "Essência de kelp de ósmio",
+            "displayName": "Essência de alga de ósmio",
             "iconName": "Osmium_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -653,7 +653,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -708,7 +708,7 @@
         {
           "item": {
             "id": "item_62008",
-            "displayName": "Essência de kelp de ósmio",
+            "displayName": "Essência de alga de ósmio",
             "iconName": "Osmium_Kelp_Essence_Sprite"
           },
           "amount": 2
@@ -804,7 +804,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": true,
         "itemLimitPerYear": 10,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_65005",

@@ -89,7 +89,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -107,6 +108,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_J'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_J.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Plum seedling",
         "size": {
           "length": 2,
@@ -192,7 +195,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -210,6 +214,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_B'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_B.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Banana seedling",
         "size": {
           "length": 2,
@@ -295,7 +301,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -313,6 +320,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_A'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_A.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Rambutan seedling",
         "size": {
           "length": 2,
@@ -398,7 +407,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -416,6 +426,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_G'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_G.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Jackfruit seedling",
         "size": {
           "length": 2,
@@ -501,7 +513,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -519,6 +532,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_F'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_F.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Dragonfruit seedling",
         "size": {
           "length": 2,
@@ -604,7 +619,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -622,6 +638,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_I'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_I.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Papaya seedling",
         "size": {
           "length": 2,
@@ -707,7 +725,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -725,6 +744,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_C'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_C.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Cocoa seedling",
         "size": {
           "length": 2,
@@ -810,7 +831,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -828,6 +850,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_D'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_D.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Lemon seedling",
         "size": {
           "length": 2,
@@ -913,7 +937,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -931,6 +956,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_E'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_E.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Pear seedling",
         "size": {
           "length": 2,
@@ -1016,7 +1043,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1034,6 +1062,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_H'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_H.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Lychee seedling",
         "size": {
           "length": 2,
@@ -1119,7 +1149,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1137,6 +1168,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_A'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_A.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Avocado seedling",
         "size": {
           "length": 2,
@@ -1222,7 +1255,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1240,6 +1274,8 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_K'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_K.0"
         },
+        "customMatureStage": false,
+        "matureStage": 0,
         "readableName": "Snake fruit seedling",
         "size": {
           "length": 2,
@@ -1298,7 +1334,8 @@
           "maxDroppedItems": 0,
           "dropData": [],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1316,7 +1353,9 @@
           "ObjectName": "C_FruitPlantFXData'DA_FP_H'",
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/FX/FruitPlant/DA_FP_H.0"
         },
-        "readableName": "Snake fruit seedling",
+        "customMatureStage": true,
+        "matureStage": 3,
+        "readableName": "Mythical pet seedling",
         "size": {
           "length": 3,
           "width": 3

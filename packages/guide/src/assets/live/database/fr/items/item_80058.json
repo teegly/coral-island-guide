@@ -294,7 +294,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_80058",
@@ -358,7 +359,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Autel avancé",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Débloque les téléporteurs d'offrandes",
+      "offeringGroupRewardText": "Débloque la Grotte des souvenirs",
       "offerings": [
         {
           "title": "Cuisine de base",
@@ -452,7 +453,7 @@
       "townRank": 0,
       "tag": [],
       "priceOverride": 0,
-      "priority": 10,
+      "priority": 11,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

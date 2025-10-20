@@ -10,7 +10,8 @@
         "Desc_Silo": "It stores hay",
         "Action_EnterShed": "Enter Shed",
         "Action_CantEnterShed": "Can't Enter Shed",
-        "Action_EnterLargeShed": "Enter Large Shed"
+        "Action_EnterLargeShed": "Enter Large Shed",
+        "Desc_SiloUnderwater": "It stores seaweed"
       },
       "KeysToMetaData": {}
     }

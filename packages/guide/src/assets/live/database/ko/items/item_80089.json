@@ -337,7 +337,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "희귀 제단",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "사바나 지역 잠금 해제",
+      "offeringGroupRewardText": "순간이동 공물 해금",
       "offerings": [
         {
           "title": "희귀 요리",
@@ -442,7 +442,7 @@
       "townRank": 0,
       "tag": [],
       "priceOverride": 0,
-      "priority": 10,
+      "priority": 11,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

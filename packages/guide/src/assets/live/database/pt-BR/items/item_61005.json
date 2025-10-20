@@ -159,7 +159,7 @@
         {
           "item": {
             "id": "item_62003",
-            "displayName": "Kelp de prata",
+            "displayName": "alga de prata",
             "iconName": "Silver_Kelp_Sprite"
           },
           "amount": 10
@@ -187,6 +187,50 @@
         "description": "Um sistema automático de luz solar para sua fazenda subaquática.",
         "qualities": {},
         "iconName": "Lumina_sprinkler_I_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65050",
+      "displayName": "Tap",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Madeira",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 40
+        },
+        {
+          "item": {
+            "id": "item_61005",
+            "displayName": "Barra de bronze",
+            "iconName": "Bronze_Bar_Sprite"
+          },
+          "amount": 3
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "craftingUnlock": {
+        "key": "item_65050",
+        "masteryLevel": 4,
+        "masteryType": "Foraging"
+      },
+      "item": {
+        "id": "item_65050",
+        "displayName": "Torneira",
+        "price": 1000,
+        "sellPrice": 155,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Coleta seiva das árvores. Não pode ser instalada em árvores frutíferas.",
+        "qualities": {},
+        "iconName": "Tap_Sprite",
         "tags": []
       }
     },
@@ -239,50 +283,6 @@
         "description": "Transforma um ovo em um pote de maionese.",
         "qualities": {},
         "iconName": "Mayonnaise_machine_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65050",
-      "displayName": "Tap",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Madeira",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 40
-        },
-        {
-          "item": {
-            "id": "item_61005",
-            "displayName": "Barra de bronze",
-            "iconName": "Bronze_Bar_Sprite"
-          },
-          "amount": 3
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "craftingUnlock": {
-        "key": "item_65050",
-        "masteryLevel": 4,
-        "masteryType": "Foraging"
-      },
-      "item": {
-        "id": "item_65050",
-        "displayName": "Torneira",
-        "price": 1000,
-        "sellPrice": 155,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Coleta seiva das árvores. Não pode ser instalada em árvores frutíferas.",
-        "qualities": {},
-        "iconName": "Tap_Sprite",
         "tags": []
       }
     },
@@ -888,7 +888,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Altar de Raridades",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Desbloqueia o acesso à Savana",
+      "offeringGroupRewardText": "Desbloqueia o Sesajen de teletransporte",
       "offerings": [
         {
           "title": "Recursos Raros",
@@ -899,7 +899,7 @@
               {
                 "item": {
                   "id": "item_62008",
-                  "displayName": "Essência de kelp de ósmio",
+                  "displayName": "Essência de alga de ósmio",
                   "iconName": "Osmium_Kelp_Essence_Sprite"
                 },
                 "amount": 5
@@ -939,7 +939,7 @@
             {
               "item": {
                 "id": "item_62006",
-                "displayName": "Essência de kelp de ouro",
+                "displayName": "Essência de alga de ouro",
                 "iconName": "Gold_Kelp_Essence_Sprite"
               },
               "amount": 3,
@@ -948,7 +948,7 @@
             {
               "item": {
                 "id": "item_62007",
-                "displayName": "Essência de kelp de prata",
+                "displayName": "Essência de alga de prata",
                 "iconName": "Silver_Kelp_Essence_Sprite"
               },
               "amount": 3,
@@ -957,7 +957,7 @@
             {
               "item": {
                 "id": "item_62005",
-                "displayName": "Essência de kelp de bronze",
+                "displayName": "Essência de alga de bronze",
                 "iconName": "Bronze_kelp_essence_Sprite"
               },
               "amount": 3,

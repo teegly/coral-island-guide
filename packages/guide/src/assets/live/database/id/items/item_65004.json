@@ -448,6 +448,138 @@
   ],
   "usedToCraft": [
     {
+      "key": "item_65311",
+      "displayName": "Hydro I",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "Batu",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65311",
+        "masteryLevel": 3,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65311",
+        "displayName": "HydroI",
+        "price": 10,
+        "sellPrice": 2,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "Peluang tanah tetap berair semalaman jika dicampur dengan tanah.",
+        "qualities": {},
+        "iconName": "Hydro_I_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65312",
+      "displayName": "Hydro II",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "Batu",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_65300",
+            "displayName": "Kompos",
+            "iconName": "Compost_Sprite"
+          },
+          "amount": 2
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65312",
+        "masteryLevel": 4,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65312",
+        "displayName": "Hydro II",
+        "price": 20,
+        "sellPrice": 8,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "Ada kemungkinan besar tanah tetap berair semalam jika dicampur dengan tanah.",
+        "qualities": {},
+        "iconName": "Hydro_II_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65313",
+      "displayName": "Hydro III",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "Batu",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_65300",
+            "displayName": "Kompos",
+            "iconName": "Compost_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_50506",
+            "displayName": "Gumpalan slime",
+            "iconName": "Slime_goop_Sprite"
+          },
+          "amount": 1
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65313",
+        "masteryLevel": 8,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65313",
+        "displayName": "HydroIII",
+        "price": 50,
+        "sellPrice": 18,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "Ini akan membuat tanah tetap berair semalaman jika dicampur dengan tanah.",
+        "qualities": {},
+        "iconName": "Hydro_III_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_65203",
       "displayName": "Kiln",
       "amount": 1,
@@ -583,138 +715,6 @@
       }
     },
     {
-      "key": "item_65311",
-      "displayName": "Hydro I",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "Batu",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65311",
-        "masteryLevel": 3,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65311",
-        "displayName": "HydroI",
-        "price": 10,
-        "sellPrice": 2,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "Peluang tanah tetap berair semalaman jika dicampur dengan tanah.",
-        "qualities": {},
-        "iconName": "Hydro_I_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65312",
-      "displayName": "Hydro II",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "Batu",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_65300",
-            "displayName": "Kompos",
-            "iconName": "Compost_Sprite"
-          },
-          "amount": 2
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65312",
-        "masteryLevel": 4,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65312",
-        "displayName": "Hydro II",
-        "price": 20,
-        "sellPrice": 8,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "Ada kemungkinan besar tanah tetap berair semalam jika dicampur dengan tanah.",
-        "qualities": {},
-        "iconName": "Hydro_II_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65313",
-      "displayName": "Hydro III",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "Batu",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_65300",
-            "displayName": "Kompos",
-            "iconName": "Compost_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_50506",
-            "displayName": "Gumpalan slime",
-            "iconName": "Slime_goop_Sprite"
-          },
-          "amount": 1
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65313",
-        "masteryLevel": 8,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65313",
-        "displayName": "HydroIII",
-        "price": 50,
-        "sellPrice": 18,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "Ini akan membuat tanah tetap berair semalaman jika dicampur dengan tanah.",
-        "qualities": {},
-        "iconName": "Hydro_III_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65343",
       "displayName": "Stone chest",
       "amount": 1,
@@ -791,6 +791,44 @@
         "description": "Penyimpanan untuk semua jenis barang. Dapat ditempatkan di sekitar perkebunan, dan menampung hingga 40 benda.",
         "qualities": {},
         "iconName": "Scrap_Chest_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65248",
+      "displayName": "Rope",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "Batu",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 199
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Misc",
+      "craftingUnlock": {
+        "key": "item_65248",
+        "masteryLevel": 2,
+        "masteryType": "Mining"
+      },
+      "item": {
+        "id": "item_65248",
+        "displayName": "Tali",
+        "price": 1000,
+        "sellPrice": 200,
+        "sellAt": [
+          "BandOfSmile"
+        ],
+        "stackable": true,
+        "inventoryCategory": "Misc",
+        "displayKey": "Misc",
+        "description": "Dapat digunakan untuk turun ke tambang.",
+        "qualities": {},
+        "iconName": "Rope_Sprite",
         "tags": []
       }
     },
@@ -1089,44 +1127,6 @@
           "item.Decor.SubCategory.Arch",
           "Item.Furniture.BasicMerfolkStyle"
         ]
-      }
-    },
-    {
-      "key": "item_65248",
-      "displayName": "Rope",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "Batu",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 199
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Misc",
-      "craftingUnlock": {
-        "key": "item_65248",
-        "masteryLevel": 2,
-        "masteryType": "Mining"
-      },
-      "item": {
-        "id": "item_65248",
-        "displayName": "Tali",
-        "price": 1000,
-        "sellPrice": 200,
-        "sellAt": [
-          "BandOfSmile"
-        ],
-        "stackable": true,
-        "inventoryCategory": "Misc",
-        "displayKey": "Misc",
-        "description": "Dapat digunakan untuk turun ke tambang.",
-        "qualities": {},
-        "iconName": "Rope_Sprite",
-        "tags": []
       }
     },
     {

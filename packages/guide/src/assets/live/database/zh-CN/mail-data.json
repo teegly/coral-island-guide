@@ -2039,7 +2039,7 @@
   {
     "key": "LukeDuckornsHeart2MailRecipe",
     "sender": "<NPCName>卢克·达克霍恩</>",
-    "title": "食谱：黄油牛角包",
+    "title": "食谱：黄油可颂",
     "content": "我听说做黄油羊角面包会有点难，但我相信这个食谱会帮助你。妈妈做了很多次，我可以保证它的效果。",
     "isImportant": true,
     "tags": [],
@@ -2052,7 +2052,7 @@
         "meta": {
           "item": {
             "id": "item_80027",
-            "displayName": "黄油牛角面包",
+            "displayName": "黄油可颂",
             "iconName": "Butter_Croissant_Sprite"
           }
         }
@@ -2248,7 +2248,7 @@
     "key": "JeffSmith_Challenge_4",
     "sender": "杰夫·史密斯，农场主协会",
     "title": "挑战完成",
-    "content": "你现在是高级农场主了。干得好！我给你的最后一份礼物是一个陈酿桶的蓝图。\r\n\r\n把物品放进陈酿桶，就能生产出陈年的手工产品。这些手工产品利润最高，不过需要一些时间才能成熟。",
+    "content": "恭喜你，小嫩芽！你已经正式成为高级农夫了。你已经正式成为高级农夫了。我的最后一份礼物，是一个陈酿桶。\r\n\r\n把物品放进陈酿桶，就能酿出陈年的手工制品。或许需要一些耐心，但这些陈年手工品总能带来最丰厚的回报。",
     "isImportant": true,
     "tags": [],
     "mailType": "SideQuest",
@@ -4463,5 +4463,27 @@
         }
       }
     ]
+  },
+  {
+    "key": "wedding_dress_land",
+    "sender": "<NpcName>安东尼奥</>",
+    "title": "婚礼套装上线啦！",
+    "content": "听说你订婚啦，消息传得可真快——恭喜你！这可是件大事。\r\n还没决定婚礼当天穿什么？快来白火鹤高级服装店看看吧。我们新上架了一批婚纱和礼服，专为你的大日子准备。\r\n\r\n友情提醒：最好别等到最后一刻才来挑衣服哦，婚礼当天慌乱购物可不是啥好兆头。",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "愿你沐浴海洋的祝福，",
+    "greetOpenMessage": "嘿，"
+  },
+  {
+    "key": "wedding_dress_ocean",
+    "sender": "<NPCName>拉宁</>",
+    "title": "婚礼套装上线啦！",
+    "content": "你订婚的消息，连盛开的珊瑚都听说了——恭喜你，闪闪发光的你！\r\n【浪织坊】现在也有婚礼套装啦。来看看有没有适合你大日子的特别款式吧。\r\n\r\n别忘了婚礼前就把衣服准备好哟！\r\n\r\n友情提醒：别临时抱佛脚，结婚当天还在挑衣服可不太妙。",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "等会见、",
+    "greetOpenMessage": "Dear <PlayerName>$player</>,"
   }
 ]

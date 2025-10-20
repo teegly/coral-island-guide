@@ -448,6 +448,138 @@
   ],
   "usedToCraft": [
     {
+      "key": "item_65311",
+      "displayName": "Hydro I",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "돌",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65311",
+        "masteryLevel": 3,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65311",
+        "displayName": "HydroI",
+        "price": 10,
+        "sellPrice": 2,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "흙에 섞으면 일정 확률로 하룻밤 동안 흙의 물이 마르지 않는다.",
+        "qualities": {},
+        "iconName": "Hydro_I_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65312",
+      "displayName": "Hydro II",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "돌",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_65300",
+            "displayName": "퇴비",
+            "iconName": "Compost_Sprite"
+          },
+          "amount": 2
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65312",
+        "masteryLevel": 4,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65312",
+        "displayName": "수분 증발 억제제 II",
+        "price": 20,
+        "sellPrice": 8,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "흙에 섞으면 높은 확률로 하룻밤 동안 흙의 물이 마르지 않는다.",
+        "qualities": {},
+        "iconName": "Hydro_II_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65313",
+      "displayName": "Hydro III",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "돌",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_65300",
+            "displayName": "퇴비",
+            "iconName": "Compost_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_50506",
+            "displayName": "슬라임 찐득이",
+            "iconName": "Slime_goop_Sprite"
+          },
+          "amount": 1
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65313",
+        "masteryLevel": 8,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65313",
+        "displayName": "HydroIII",
+        "price": 50,
+        "sellPrice": 18,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "흙에 섞으면 하룻밤 동안 흙의 물이 마르지 않는다.",
+        "qualities": {},
+        "iconName": "Hydro_III_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_65203",
       "displayName": "Kiln",
       "amount": 1,
@@ -583,138 +715,6 @@
       }
     },
     {
-      "key": "item_65311",
-      "displayName": "Hydro I",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "돌",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65311",
-        "masteryLevel": 3,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65311",
-        "displayName": "HydroI",
-        "price": 10,
-        "sellPrice": 2,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "흙에 섞으면 일정 확률로 하룻밤 동안 흙의 물이 마르지 않는다.",
-        "qualities": {},
-        "iconName": "Hydro_I_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65312",
-      "displayName": "Hydro II",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "돌",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_65300",
-            "displayName": "퇴비",
-            "iconName": "Compost_Sprite"
-          },
-          "amount": 2
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65312",
-        "masteryLevel": 4,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65312",
-        "displayName": "수분 증발 억제제 II",
-        "price": 20,
-        "sellPrice": 8,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "흙에 섞으면 높은 확률로 하룻밤 동안 흙의 물이 마르지 않는다.",
-        "qualities": {},
-        "iconName": "Hydro_II_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65313",
-      "displayName": "Hydro III",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "돌",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_65300",
-            "displayName": "퇴비",
-            "iconName": "Compost_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_50506",
-            "displayName": "슬라임 찐득이",
-            "iconName": "Slime_goop_Sprite"
-          },
-          "amount": 1
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65313",
-        "masteryLevel": 8,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65313",
-        "displayName": "HydroIII",
-        "price": 50,
-        "sellPrice": 18,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "흙에 섞으면 하룻밤 동안 흙의 물이 마르지 않는다.",
-        "qualities": {},
-        "iconName": "Hydro_III_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65343",
       "displayName": "Stone chest",
       "amount": 1,
@@ -791,6 +791,44 @@
         "description": "모든 종류의 아이템을 저장한다. 농장 주변에 배치할 수 있고, 아이템은 최대 40개까지 보관할 수 있다.",
         "qualities": {},
         "iconName": "Scrap_Chest_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65248",
+      "displayName": "Rope",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "돌",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 199
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Misc",
+      "craftingUnlock": {
+        "key": "item_65248",
+        "masteryLevel": 2,
+        "masteryType": "Mining"
+      },
+      "item": {
+        "id": "item_65248",
+        "displayName": "밧줄",
+        "price": 1000,
+        "sellPrice": 200,
+        "sellAt": [
+          "BandOfSmile"
+        ],
+        "stackable": true,
+        "inventoryCategory": "Misc",
+        "displayKey": "Misc",
+        "description": "광산 속으로 내려갈 때 사용한다.",
+        "qualities": {},
+        "iconName": "Rope_Sprite",
         "tags": []
       }
     },
@@ -1089,44 +1127,6 @@
           "item.Decor.SubCategory.Arch",
           "Item.Furniture.BasicMerfolkStyle"
         ]
-      }
-    },
-    {
-      "key": "item_65248",
-      "displayName": "Rope",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "돌",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 199
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Misc",
-      "craftingUnlock": {
-        "key": "item_65248",
-        "masteryLevel": 2,
-        "masteryType": "Mining"
-      },
-      "item": {
-        "id": "item_65248",
-        "displayName": "밧줄",
-        "price": 1000,
-        "sellPrice": 200,
-        "sellAt": [
-          "BandOfSmile"
-        ],
-        "stackable": true,
-        "inventoryCategory": "Misc",
-        "displayKey": "Misc",
-        "description": "광산 속으로 내려갈 때 사용한다.",
-        "qualities": {},
-        "iconName": "Rope_Sprite",
-        "tags": []
       }
     },
     {

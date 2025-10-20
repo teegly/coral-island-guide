@@ -51,6 +51,51 @@
           "itemID": "item_110038"
         },
         "previewImage": null
+      },
+      "item_110040": {
+        "requirements": [
+          {
+            "Key": "EC_BuildingShopAction::Upgrade",
+            "Value": {
+              "price": 0,
+              "resources": []
+            }
+          },
+          {
+            "Key": "EC_BuildingShopAction::Move",
+            "Value": {
+              "price": 300,
+              "resources": []
+            }
+          },
+          {
+            "Key": "EC_BuildingShopAction::Destroy",
+            "Value": {
+              "price": 1000,
+              "resources": []
+            }
+          },
+          {
+            "Key": "EC_BuildingShopAction::ChangeStyle",
+            "Value": {
+              "price": 1000,
+              "resources": []
+            }
+          }
+        ],
+        "overrideRequirements": [],
+        "confirmationTextsOverwrite": [],
+        "itemResult": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_110040"
+          },
+          "itemID": "item_110040"
+        },
+        "previewImage": null
       }
     }
   }

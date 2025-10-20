@@ -8,8 +8,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Grains",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "Eine braune Schote mit klobiger Textur. Basiszutat für Schokolade.",
     "qualities": {
       "bronze": {
@@ -598,7 +598,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Fortgeschrittener Altar",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Schaltet Warp Sesajen frei",
+      "offeringGroupRewardText": "Schaltet die Höhle der Erinnerungen frei",
       "offerings": [
         {
           "title": "Fruchtpflanze",

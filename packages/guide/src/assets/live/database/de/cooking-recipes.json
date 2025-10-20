@@ -6960,9 +6960,9 @@
         "ingredients": [
           {
             "item": {
-              "id": "item_21007",
-              "displayName": "Erbsen",
-              "iconName": "Peas_Sprite"
+              "id": "item_21015",
+              "displayName": "Sojabohnen",
+              "iconName": "Soybean_Sprite"
             },
             "amount": 1
           }
@@ -7690,42 +7690,7 @@
             "amount": 1
           }
         ],
-        "eitherOrIngredients": [
-          [
-            {
-              "item": {
-                "id": "item_31004",
-                "displayName": "Milch",
-                "iconName": "Milk_Sprite_"
-              },
-              "amount": 0
-            },
-            {
-              "item": {
-                "id": "item_31016",
-                "displayName": "Große Milch",
-                "iconName": "Large_milk_Sprite_"
-              },
-              "amount": 0
-            },
-            {
-              "item": {
-                "id": "item_31024",
-                "displayName": "Goldene Milch",
-                "iconName": "Golden_milk_Sprite"
-              },
-              "amount": 1
-            },
-            {
-              "item": {
-                "id": "item_31022",
-                "displayName": "Große goldene Milch",
-                "iconName": "Large_golden_milk_Sprite"
-              },
-              "amount": 1
-            }
-          ]
-        ]
+        "eitherOrIngredients": []
       },
       {
         "key": "item_41036",

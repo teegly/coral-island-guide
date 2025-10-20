@@ -163,7 +163,7 @@
   },
   {
     "id": "item_100011",
-    "displayName": "包装供品",
+    "displayName": "传送供品",
     "price": 110,
     "sellPrice": 45,
     "sellAt": [],
@@ -380,140 +380,140 @@
   },
   {
     "id": "item_10012",
-    "displayName": "沙漠藏宝图 1",
+    "displayName": "芬恩的藏宝地图 1",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "一张照片。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10013",
-    "displayName": "沙漠藏宝图 2",
+    "displayName": "芬恩的藏宝地图 2",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "一张通往沙漠宝藏的地图。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10014",
-    "displayName": "沙漠藏宝图 3",
+    "displayName": "芬恩的藏宝地图 3",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "一张通往沙漠宝藏的地图。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10015",
-    "displayName": "芬恩的秘密地图 4",
+    "displayName": "芬恩的藏宝地图 4",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "这张地图通向萨凡纳上隐藏的宝藏。用锄挖出战利品。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10016",
-    "displayName": "芬恩的秘密地图 5",
+    "displayName": "芬恩的藏宝地图 5",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "这张地图通向萨凡纳上隐藏的宝藏。用锄挖出战利品。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10017",
-    "displayName": "芬恩的秘密地图 6",
+    "displayName": "芬恩的藏宝地图 6",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "这张地图通向萨凡纳上隐藏的宝藏。用锄挖出战利品。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10018",
-    "displayName": "芬恩的秘密地图 7",
+    "displayName": "芬恩的藏宝地图 7",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "这张地图通向萨凡纳上隐藏的宝藏。用锄挖出战利品。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10019",
-    "displayName": "芬恩的秘密地图 8",
+    "displayName": "芬恩的藏宝地图 8",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "这张地图通向萨凡纳上隐藏的宝藏。用锄挖出战利品。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10020",
-    "displayName": "芬恩的秘密地图 9",
+    "displayName": "芬恩的藏宝地图 9",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "这张地图通向萨凡纳上隐藏的宝藏。用锄挖出战利品。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
   },
   {
     "id": "item_10021",
-    "displayName": "芬恩的秘密地图 10",
+    "displayName": "芬恩的藏宝地图 10",
     "price": 1930,
     "sellPrice": 228,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
     "displayKey": "Others",
-    "description": "一张照片。",
+    "description": "这张地图碎片指向萨凡纳中的一处隐藏宝藏。用锄头挖掘即可获得战利品。",
     "qualities": {},
     "iconName": "Savannah_Map_Sprite",
     "tags": []
@@ -680,6 +680,62 @@
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Others",
+    "displayKey": "Others",
+    "description": "TBD",
+    "qualities": {},
+    "iconName": "placeholder_icon_Sprite",
+    "tags": []
+  },
+  {
+    "id": "item_10034",
+    "displayName": "大型雕塑",
+    "price": 10,
+    "sellPrice": 10,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Others",
+    "displayKey": "Others",
+    "description": "TBD",
+    "qualities": {},
+    "iconName": "placeholder_icon_Sprite",
+    "tags": []
+  },
+  {
+    "id": "item_10035",
+    "displayName": "跳岛塔1",
+    "price": 10,
+    "sellPrice": 10,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "其他",
+    "displayKey": "Others",
+    "description": "TBD",
+    "qualities": {},
+    "iconName": "placeholder_icon_Sprite",
+    "tags": []
+  },
+  {
+    "id": "item_10036",
+    "displayName": "跳岛塔2",
+    "price": 10,
+    "sellPrice": 10,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "其他",
+    "displayKey": "Others",
+    "description": "TBD",
+    "qualities": {},
+    "iconName": "placeholder_icon_Sprite",
+    "tags": []
+  },
+  {
+    "id": "item_10037",
+    "displayName": "跳岛塔3",
+    "price": 10,
+    "sellPrice": 10,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "其他",
     "displayKey": "Others",
     "description": "TBD",
     "qualities": {},
@@ -927,8 +983,8 @@
   {
     "id": "item_110023",
     "displayName": "鱼塘",
-    "price": 2230,
-    "sellPrice": 890,
+    "price": 7000,
+    "sellPrice": 650,
     "sellAt": [],
     "stackable": false,
     "inventoryCategory": "Blueprint",
@@ -1262,7 +1318,7 @@
   },
   {
     "id": "item_110047",
-    "displayName": "水下贝壳棚",
+    "displayName": "海底贝壳小屋",
     "price": 50000,
     "sellPrice": 5000,
     "sellAt": [],
@@ -1276,7 +1332,7 @@
   },
   {
     "id": "item_120001",
-    "displayName": "农夫日常套装",
+    "displayName": "基础农夫套装",
     "price": 1500,
     "sellPrice": 750,
     "sellAt": [],
@@ -1378,7 +1434,7 @@
   },
   {
     "id": "item_120001_6",
-    "displayName": "黑白农夫套装",
+    "displayName": "单色农夫套装",
     "price": 1500,
     "sellPrice": 750,
     "sellAt": [],
@@ -1412,7 +1468,7 @@
   },
   {
     "id": "item_120002",
-    "displayName": "普通款下装",
+    "displayName": "基础农夫下装",
     "price": 800,
     "sellPrice": 480,
     "sellAt": [],
@@ -1429,7 +1485,7 @@
   },
   {
     "id": "item_120003",
-    "displayName": "超级香蕉套装",
+    "displayName": "瓦巴纳纳农夫套装",
     "price": 2500,
     "sellPrice": 1250,
     "sellAt": [],
@@ -1446,7 +1502,7 @@
   },
   {
     "id": "item_120004",
-    "displayName": "河豚套装",
+    "displayName": "河豚集团农夫套装",
     "price": 2500,
     "sellPrice": 1250,
     "sellAt": [],
@@ -1463,7 +1519,7 @@
   },
   {
     "id": "item_120005",
-    "displayName": "小鸡套装（红）",
+    "displayName": "鸡可疑农夫套装（红）",
     "price": 2500,
     "sellPrice": 1250,
     "sellAt": [],
@@ -1480,7 +1536,7 @@
   },
   {
     "id": "item_120006",
-    "displayName": "小鸡套装（蓝）",
+    "displayName": "鸡可疑农夫套装（蓝）",
     "price": 2500,
     "sellPrice": 1250,
     "sellAt": [],
@@ -1497,7 +1553,7 @@
   },
   {
     "id": "item_120007",
-    "displayName": "Stairway套装",
+    "displayName": "Stairway农夫套装",
     "price": 2500,
     "sellPrice": 1250,
     "sellAt": [],
@@ -1565,7 +1621,7 @@
   },
   {
     "id": "item_120011",
-    "displayName": "斗笠",
+    "displayName": "农夫帽",
     "price": 600,
     "sellPrice": 360,
     "sellAt": [],
@@ -1638,7 +1694,7 @@
   },
   {
     "id": "item_120016",
-    "displayName": "城市毛衣",
+    "displayName": "都市毛衣",
     "price": 1800,
     "sellPrice": 900,
     "sellAt": [],
@@ -1666,7 +1722,7 @@
   },
   {
     "id": "item_120018",
-    "displayName": "皇家背心",
+    "displayName": "皇家马甲",
     "price": 3000,
     "sellPrice": 1500,
     "sellAt": [],
@@ -1694,7 +1750,7 @@
   },
   {
     "id": "item_120020",
-    "displayName": "城市裤",
+    "displayName": "都市长裤",
     "price": 1300,
     "sellPrice": 650,
     "sellAt": [],
@@ -1750,7 +1806,7 @@
   },
   {
     "id": "item_120024",
-    "displayName": "城市鞋",
+    "displayName": "都市鞋",
     "price": 2000,
     "sellPrice": 1000,
     "sellAt": [],
@@ -1764,7 +1820,7 @@
   },
   {
     "id": "item_120025",
-    "displayName": "矿工鞋",
+    "displayName": "矿工靴",
     "price": 1400,
     "sellPrice": 700,
     "sellAt": [],
@@ -1806,7 +1862,7 @@
   },
   {
     "id": "item_120028",
-    "displayName": "城市背包",
+    "displayName": "都市背包",
     "price": 5000,
     "sellPrice": 2500,
     "sellAt": [],
@@ -1848,7 +1904,7 @@
   },
   {
     "id": "item_120031",
-    "displayName": "皇家短剑",
+    "displayName": "皇家克力士匕首",
     "price": 4000,
     "sellPrice": 2000,
     "sellAt": [],
@@ -1964,7 +2020,7 @@
   },
   {
     "id": "item_120038",
-    "displayName": "蓝色河豚圆领T恤",
+    "displayName": "蓝色河豚集团领T恤",
     "price": 250,
     "sellPrice": 125,
     "sellAt": [],
@@ -1998,7 +2054,7 @@
   },
   {
     "id": "item_120040",
-    "displayName": "白色花朵圆领T恤",
+    "displayName": "白色百合圆领T恤",
     "price": 250,
     "sellPrice": 125,
     "sellAt": [],
@@ -2168,7 +2224,7 @@
   },
   {
     "id": "item_120050",
-    "displayName": "珊瑚之星帆布鞋",
+    "displayName": "珊瑚星帆布鞋",
     "price": 1300,
     "sellPrice": 650,
     "sellAt": [],
@@ -2253,7 +2309,7 @@
   },
   {
     "id": "item_120055",
-    "displayName": "深紫帆布鞋",
+    "displayName": "梅子色帆布鞋",
     "price": 1300,
     "sellPrice": 650,
     "sellAt": [],
@@ -8941,7 +8997,7 @@
   },
   {
     "id": "item_120453",
-    "displayName": "大人物服装",
+    "displayName": "贵宾套装",
     "price": 10000,
     "sellPrice": 6000,
     "sellAt": [],
@@ -8957,7 +9013,7 @@
   },
   {
     "id": "item_120454",
-    "displayName": "\r\n好朋友 T 恤",
+    "displayName": "\r\n闺蜜T恤",
     "price": 30000,
     "sellPrice": 18000,
     "sellAt": [],
@@ -8973,7 +9029,7 @@
   },
   {
     "id": "item_120455",
-    "displayName": "最佳人T 恤",
+    "displayName": "最佳拍档T恤",
     "price": 180000,
     "sellPrice": 108000,
     "sellAt": [],
@@ -8989,7 +9045,7 @@
   },
   {
     "id": "item_120456",
-    "displayName": "终极好朋友 T 恤",
+    "displayName": "超绝好麻吉T恤",
     "price": 15000,
     "sellPrice": 9000,
     "sellAt": [],
@@ -9005,7 +9061,7 @@
   },
   {
     "id": "item_120457",
-    "displayName": "缪斯服装",
+    "displayName": "都市缪斯服装",
     "price": 100000,
     "sellPrice": 60000,
     "sellAt": [],
@@ -9037,7 +9093,7 @@
   },
   {
     "id": "item_120459",
-    "displayName": "无袖工作服",
+    "displayName": "杰克菲尔德服装",
     "price": 50000,
     "sellPrice": 30000,
     "sellAt": [],
@@ -9069,7 +9125,7 @@
   },
   {
     "id": "item_120461",
-    "displayName": "浆果服装",
+    "displayName": " 双莓服装",
     "price": 40000,
     "sellPrice": 24000,
     "sellAt": [],
@@ -9322,7 +9378,7 @@
   },
   {
     "id": "item_120476",
-    "displayName": "银色那伽鳞",
+    "displayName": "银色娜迦鳞",
     "price": 3500,
     "sellPrice": 1750,
     "sellAt": [],
@@ -23919,8 +23975,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Grains",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "棕色的豆荚，圆鼓鼓的。是制作巧克力的原料。",
     "qualities": {
       "bronze": {
@@ -26413,8 +26469,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Fruit",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "眼泪形状的种子，可以食用，对健康很有好处。",
     "qualities": {
       "bronze": {
@@ -26439,7 +26495,7 @@
       "income.farming",
       "item.crop.winter",
       "item.townrank.3",
-      "item.fruit",
+      "item.grain",
       "Item.Consumable.Food",
       "item.cooking.ingredient"
     ]
@@ -27808,7 +27864,7 @@
         "sellPrice": 3000
       }
     },
-    "iconName": "Sphere_Sprite",
+    "iconName": "Pearl_Sprite",
     "tags": [
       "income.ranching",
       "item.animalproduct.other",
@@ -29196,8 +29252,8 @@
   {
     "id": "item_41027",
     "displayName": "砂糖",
-    "price": 25,
-    "sellPrice": 15,
+    "price": 75,
+    "sellPrice": 45,
     "sellAt": [
       "Sam"
     ],
@@ -29207,20 +29263,20 @@
     "description": "味道甜美，质地细腻，粉末状。",
     "qualities": {
       "bronze": {
-        "price": 35,
-        "sellPrice": 20
+        "price": 85,
+        "sellPrice": 50
       },
       "silver": {
-        "price": 35,
-        "sellPrice": 20
+        "price": 100,
+        "sellPrice": 60
       },
       "gold": {
-        "price": 40,
-        "sellPrice": 25
+        "price": 115,
+        "sellPrice": 70
       },
       "osmium": {
-        "price": 50,
-        "sellPrice": 30
+        "price": 150,
+        "sellPrice": 90
       }
     },
     "iconName": "Sugar_Sprite",
@@ -29235,8 +29291,8 @@
   {
     "id": "item_41028",
     "displayName": "糖浆",
-    "price": 25,
-    "sellPrice": 15,
+    "price": 75,
+    "sellPrice": 45,
     "sellAt": [
       "Sam"
     ],
@@ -29246,20 +29302,20 @@
     "description": "甜蜜蜜，黏糊糊。",
     "qualities": {
       "bronze": {
-        "price": 35,
-        "sellPrice": 20
+        "price": 85,
+        "sellPrice": 50
       },
       "silver": {
-        "price": 35,
-        "sellPrice": 20
+        "price": 100,
+        "sellPrice": 60
       },
       "gold": {
-        "price": 40,
-        "sellPrice": 25
+        "price": 115,
+        "sellPrice": 70
       },
       "osmium": {
-        "price": 50,
-        "sellPrice": 30
+        "price": 150,
+        "sellPrice": 90
       }
     },
     "iconName": "Syrup_Sprite",
@@ -48755,7 +48811,7 @@
   },
   {
     "id": "item_50441",
-    "displayName": "土晶洞",
+    "displayName": "土晶石",
     "price": 150,
     "sellPrice": 35,
     "sellAt": [],
@@ -48825,7 +48881,7 @@
   },
   {
     "id": "item_50446",
-    "displayName": "火晶洞",
+    "displayName": "火晶石",
     "price": 150,
     "sellPrice": 35,
     "sellAt": [],
@@ -48839,7 +48895,7 @@
   },
   {
     "id": "item_50447",
-    "displayName": "水晶洞",
+    "displayName": "水晶石",
     "price": 150,
     "sellPrice": 35,
     "sellAt": [],
@@ -49373,7 +49429,7 @@
   },
   {
     "id": "item_50474",
-    "displayName": "神秘晶洞",
+    "displayName": "神秘晶石",
     "price": 150,
     "sellPrice": 35,
     "sellAt": [],
@@ -49497,7 +49553,7 @@
   },
   {
     "id": "item_50481",
-    "displayName": "风晶洞",
+    "displayName": "风晶石",
     "price": 150,
     "sellPrice": 35,
     "sellAt": [],
@@ -54618,7 +54674,7 @@
   },
   {
     "id": "item_61046",
-    "displayName": "晶洞",
+    "displayName": "晶石",
     "price": 150,
     "sellPrice": 35,
     "sellAt": [],
@@ -56262,14 +56318,14 @@
   },
   {
     "id": "item_64005",
-    "displayName": "地面昆虫专用香水",
+    "displayName": "地面昆虫专用诱香",
     "price": 40,
     "sellPrice": 10,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Consumable",
     "displayKey": "Consumable",
-    "description": "一种可制作的香水，能降低地面昆虫的警觉性。可以食用或附在陷阱上。",
+    "description": "一种可制作的诱香，能降低地面昆虫的警觉性。可以食用或附在陷阱上。",
     "qualities": {},
     "iconName": "Ground_insect_scent__Sprite",
     "tags": [
@@ -56279,14 +56335,14 @@
   },
   {
     "id": "item_64006",
-    "displayName": "爬行动物专用香水",
+    "displayName": "爬行动物专用诱香",
     "price": 50,
     "sellPrice": 13,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Consumable",
     "displayKey": "Consumable",
-    "description": "一种可制作的香水，可降低爬行的海洋动物的警觉性。可以食用或附在陷阱上。",
+    "description": "一种可制作的诱香，可降低爬行的海洋动物的警觉性。可以食用或附在陷阱上。",
     "qualities": {},
     "iconName": "Crawling_critter_scent_Sprite",
     "tags": [
@@ -56296,14 +56352,14 @@
   },
   {
     "id": "item_64007",
-    "displayName": "飞虫专用香水",
+    "displayName": "飞虫专用诱香",
     "price": 50,
     "sellPrice": 13,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Consumable",
     "displayKey": "Consumable",
-    "description": "一种可制作的香水，可降低飞虫的警觉性。可以食用或附在陷阱上。",
+    "description": "一种可制作的诱香，可降低飞虫的警觉性。可以食用或附在陷阱上。",
     "qualities": {},
     "iconName": "Flying_insect_scent_Sprite",
     "tags": [
@@ -56313,14 +56369,14 @@
   },
   {
     "id": "item_64008",
-    "displayName": "漂浮小动物专用香水",
+    "displayName": "漂浮小动物专用诱香",
     "price": 110,
     "sellPrice": 28,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Consumable",
     "displayKey": "Consumable",
-    "description": "一种可制作的香水，可降低漂浮的海洋小动物的警觉性。可以食用或附在陷阱上。",
+    "description": "一种可制作的诱香，可降低漂浮的海洋小动物的警觉性。可以食用或附在陷阱上。",
     "qualities": {},
     "iconName": "Floating_critter_scent_Sprite",
     "tags": [
@@ -56344,7 +56400,7 @@
   },
   {
     "id": "item_64010",
-    "displayName": "怪物诱饵的香水",
+    "displayName": "挑衅气息II",
     "price": 140,
     "sellPrice": 35,
     "sellAt": [],
@@ -56361,7 +56417,7 @@
   },
   {
     "id": "item_64011",
-    "displayName": "怪物香水",
+    "displayName": "隐藏气息I",
     "price": 70,
     "sellPrice": 18,
     "sellAt": [],
@@ -56378,7 +56434,7 @@
   },
   {
     "id": "item_64012",
-    "displayName": "怪物诱饵的香水II",
+    "displayName": "挑衅气息II",
     "price": 140,
     "sellPrice": 35,
     "sellAt": [],
@@ -56395,7 +56451,7 @@
   },
   {
     "id": "item_64013",
-    "displayName": "怪物香水II",
+    "displayName": "隐藏气息II",
     "price": 100,
     "sellPrice": 25,
     "sellAt": [],
@@ -57807,8 +57863,8 @@
   {
     "id": "item_65087",
     "displayName": "铁栅栏",
-    "price": 38,
-    "sellPrice": 15,
+    "price": 100,
+    "sellPrice": 20,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -58239,8 +58295,8 @@
     "sellPrice": 110,
     "sellAt": [],
     "stackable": true,
-    "inventoryCategory": "ResourceEquipment",
-    "displayKey": "ResourceEquipment",
+    "inventoryCategory": "Farming",
+    "displayKey": "Farming",
     "description": "阻止乌鸦扰乱庄稼。保护一个11x11的区域。",
     "qualities": {},
     "iconName": "Scrap_scarecrow_Sprite",
@@ -58347,8 +58403,8 @@
   {
     "id": "item_65123",
     "displayName": "铁地块",
-    "price": 10,
-    "sellPrice": 10,
+    "price": 100,
+    "sellPrice": 20,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Farming",
@@ -58698,8 +58754,8 @@
     "iconName": "Wooden_swing_Sprite",
     "tags": [
       "item.Decor.WoodCabinStyle",
-      "item.Decor.Category.Decorations",
-      "item.Decor.SubCategory.FloorDecor"
+      "item.Decor.Category.Outdoor Furniture",
+      "item.Decor.SubCategory.LongChair"
     ]
   },
   {
@@ -59676,8 +59732,8 @@
     "iconName": "Beach_swing_Sprite",
     "tags": [
       "item.Decor.BeachStyle",
-      "item.Decor.Category.Decorations",
-      "item.Decor.SubCategory.FloorDecor"
+      "item.Decor.Category.Outdoor Furniture",
+      "item.Decor.SubCategory.LongChair"
     ]
   },
   {
@@ -61643,8 +61699,8 @@
     "iconName": "Art_nouveau_swing_Sprite",
     "tags": [
       "item.Decor.ArtNoveauStyle",
-      "item.Decor.Category.Decorations",
-      "item.Decor.SubCategory.FloorDecor"
+      "item.Decor.Category.Outdoor Furniture",
+      "item.Decor.SubCategory.LongChair"
     ]
   },
   {
@@ -62252,8 +62308,8 @@
   {
     "id": "item_65364",
     "displayName": "钻石步道",
-    "price": 10,
-    "sellPrice": 10,
+    "price": 70,
+    "sellPrice": 40,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -62261,7 +62317,11 @@
     "description": "铺在地上。",
     "qualities": {},
     "iconName": "Diamond_Stone_Path_Sprite",
-    "tags": []
+    "tags": [
+      "item.Decor.WoodCabinStyle",
+      "item.Decor.Category.Exterior",
+      "item.Decor.SubCategory.Flooring"
+    ]
   },
   {
     "id": "item_65365",
@@ -63626,12 +63686,12 @@
   {
     "id": "item_65444",
     "displayName": "昆虫屋",
-    "price": 10,
-    "sellPrice": 10,
+    "price": 7000,
+    "sellPrice": 1070,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "ArtisanEquipment",
-    "displayKey": "ArtisanEquipment",
+    "displayKey": "Blueprint",
     "description": "放入其中的昆虫会随着时间的推移进行繁殖。",
     "qualities": {},
     "iconName": "Insect_house_Sprite2",
@@ -64428,8 +64488,8 @@
   {
     "id": "item_65491",
     "displayName": "中世纪凉亭",
-    "price": 13000,
-    "sellPrice": 7800,
+    "price": 12350,
+    "sellPrice": 7410,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64446,8 +64506,8 @@
   {
     "id": "item_65492",
     "displayName": "中世纪的储物帐篷",
-    "price": 7800,
-    "sellPrice": 4680,
+    "price": 3900,
+    "sellPrice": 2340,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64464,8 +64524,8 @@
   {
     "id": "item_65493",
     "displayName": "中世纪的花园长椅",
-    "price": 3100,
-    "sellPrice": 1860,
+    "price": 2650,
+    "sellPrice": 1590,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64500,8 +64560,8 @@
   {
     "id": "item_65495",
     "displayName": "白石井",
-    "price": 5200,
-    "sellPrice": 3120,
+    "price": 3900,
+    "sellPrice": 2340,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64518,8 +64578,8 @@
   {
     "id": "item_65496",
     "displayName": "红色箭头的花坛",
-    "price": 1800,
-    "sellPrice": 1080,
+    "price": 1820,
+    "sellPrice": 1090,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64536,8 +64596,8 @@
   {
     "id": "item_65497",
     "displayName": "中世纪的小花盆",
-    "price": 1550,
-    "sellPrice": 930,
+    "price": 1560,
+    "sellPrice": 940,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64554,8 +64614,8 @@
   {
     "id": "item_65498",
     "displayName": "中世纪木拱门",
-    "price": 1550,
-    "sellPrice": 930,
+    "price": 1560,
+    "sellPrice": 940,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64572,8 +64632,8 @@
   {
     "id": "item_65499",
     "displayName": "中世纪马车",
-    "price": 1450,
-    "sellPrice": 870,
+    "price": 1300,
+    "sellPrice": 780,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64590,8 +64650,8 @@
   {
     "id": "item_65500",
     "displayName": "中世纪的横幅旗帜",
-    "price": 1300,
-    "sellPrice": 780,
+    "price": 1040,
+    "sellPrice": 620,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64662,8 +64722,8 @@
   {
     "id": "item_65504",
     "displayName": "中世纪的小吊旗",
-    "price": 1300,
-    "sellPrice": 780,
+    "price": 910,
+    "sellPrice": 550,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -64824,7 +64884,7 @@
     "qualities": {},
     "iconName": "Stone_age_tent_Sprite",
     "tags": [
-      "item.Decor.SpookyStyle",
+      "item.Decor.StoneAgeStyle",
       "item.Decor.Category.Structure",
       "item.Decor.SubCategory.Gazebo"
     ]
@@ -70862,8 +70922,8 @@
   {
     "id": "item_65861",
     "displayName": "多色花朵装饰",
-    "price": 10,
-    "sellPrice": 10,
+    "price": 2250,
+    "sellPrice": 1350,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -70871,7 +70931,11 @@
     "description": "放在农场里。",
     "qualities": {},
     "iconName": "Multicolor_flowers_Decor_Sprite",
-    "tags": []
+    "tags": [
+      "item.Decor.SeabedCityStyle",
+      "item.Decor.Category.Plant",
+      "item.Decor.SubCategory.Shrub"
+    ]
   },
   {
     "id": "item_65862",
@@ -71326,8 +71390,8 @@
   {
     "id": "item_65887",
     "displayName": "珊瑚贝壳秋千",
-    "price": 14000,
-    "sellPrice": 8400,
+    "price": 6700,
+    "sellPrice": 4020,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",
@@ -71337,8 +71401,8 @@
     "iconName": "Coral_Shell_Swing_Sprite",
     "tags": [
       "Item.Decor.CoralShellStyle",
-      "item.Decor.Category.Structure",
-      "item.Decor.SubCategory.Gazebo"
+      "item.Decor.Category.Outdoor Furniture",
+      "item.Decor.SubCategory.LongChair"
     ]
   },
   {
@@ -76988,8 +77052,8 @@
   {
     "id": "item_80022",
     "displayName": "甘蔗花蜜",
-    "price": 35,
-    "sellPrice": 20,
+    "price": 85,
+    "sellPrice": 50,
     "sellAt": [
       "Sam"
     ],
@@ -76999,20 +77063,20 @@
     "description": "纯天然甜饮。",
     "qualities": {
       "bronze": {
-        "price": 35,
-        "sellPrice": 20
+        "price": 90,
+        "sellPrice": 55
       },
       "silver": {
-        "price": 35,
-        "sellPrice": 20
+        "price": 110,
+        "sellPrice": 65
       },
       "gold": {
-        "price": 40,
-        "sellPrice": 25
+        "price": 125,
+        "sellPrice": 75
       },
       "osmium": {
-        "price": 60,
-        "sellPrice": 35
+        "price": 165,
+        "sellPrice": 100
       }
     },
     "iconName": "Cane_nectar_Sprite",
@@ -77166,7 +77230,7 @@
   },
   {
     "id": "item_80027",
-    "displayName": "黄油牛角面包",
+    "displayName": "黄油可颂",
     "price": 250,
     "sellPrice": 123,
     "sellAt": [],
@@ -81251,8 +81315,8 @@
     "sellPrice": 910,
     "sellAt": [],
     "stackable": true,
-    "inventoryCategory": "Decoration",
-    "displayKey": "Decoration",
+    "inventoryCategory": "Window",
+    "displayKey": "Window",
     "description": "家庭装饰品。",
     "qualities": {},
     "iconName": "Javanese_Window_Sprite",
@@ -82568,8 +82632,8 @@
     "iconName": "Beach_TV_Table_Sprite",
     "tags": [
       "Item.Furniture.Beach Style",
-      "Item.Furniture.Category.Table",
-      "Item.Furniture.SubCategory.Coffee table"
+      "Item.Furniture.Category.Electronic",
+      "Item.Furniture.SubCategory.TV"
     ]
   },
   {
@@ -82605,7 +82669,7 @@
     "tags": [
       "Item.Furniture.Javanesse Style",
       "Item.Furniture.Category.Electronic",
-      "Item.Furniture.SubCategory.Coffee table"
+      "Item.Furniture.SubCategory.TV"
     ]
   },
   {
@@ -82873,7 +82937,7 @@
     "qualities": {},
     "iconName": "Blue_Plastic_Chair_Sprite",
     "tags": [
-      "Item.Furniture.Kosan Style",
+      "item.Decor.KosanStyle",
       "item.Decor.Category.Outdoor Furniture",
       "item.Decor.SubCategory.Chair"
     ]
@@ -83180,8 +83244,8 @@
     "iconName": "Hinoki_TV_table_Sprite",
     "tags": [
       "Item.Furniture.EastAsianStyle",
-      "Item.Furniture.Category.Table",
-      "Item.Furniture.SubCategory.Coffee table"
+      "Item.Furniture.Category.Electronic",
+      "Item.Furniture.SubCategory.TV"
     ]
   },
   {
@@ -83234,8 +83298,8 @@
     "iconName": "Patterned_kotatsu_pillow_Sprite",
     "tags": [
       "Item.Furniture.EastAsianStyle",
-      "Item.Furniture.Category.Decoration",
-      "Item.Furniture.SubCategory.Floor Decor"
+      "Item.Furniture.Category.Comfort",
+      "Item.Furniture.SubCategory.Chair"
     ]
   },
   {
@@ -83720,8 +83784,8 @@
     "iconName": "Mermaid_nightstand_Sprite",
     "tags": [
       "Item.Furniture.Mermaid Style",
-      "Item.Furniture.Category.Decoration",
-      "Item.Furniture.SubCategory.Floor Decor"
+      "Item.Furniture.Category.Electronic",
+      "Item.Furniture.SubCategory.Table Lamp"
     ]
   },
   {
@@ -84474,8 +84538,8 @@
     "iconName": "Disco_antique_TV_table_Sprite",
     "tags": [
       "Item.Furniture.DiscoStyle",
-      "Item.Furniture.Category.Plant",
-      "Item.Furniture.SubCategory.Cabinet"
+      "Item.Furniture.Category.Electronic",
+      "Item.Furniture.SubCategory.TV"
     ]
   },
   {
@@ -87662,8 +87726,8 @@
     "iconName": "Bauhaus_shelves_Sprite",
     "tags": [
       "Item.Furniture.Bauhaus Style",
-      "Item.Furniture.Category.Storage",
-      "Item.Furniture.SubCategory.Wardrobe"
+      "Item.Furniture.Category.Decoration",
+      "Item.Furniture.SubCategory.Floor Decor"
     ]
   },
   {
@@ -88515,7 +88579,7 @@
     "tags": [
       "Item.Furniture.Gaming Room Style",
       "Item.Furniture.Category.Decoration",
-      "Item.Furniture.SubCategory.Table Top"
+      "Item.Furniture.SubCategory.Floor Decor"
     ]
   },
   {

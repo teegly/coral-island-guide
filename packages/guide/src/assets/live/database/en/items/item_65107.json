@@ -105,53 +105,6 @@
   ],
   "usedToCraft": [
     {
-      "key": "item_65035",
-      "displayName": "Extractor",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65107",
-            "displayName": "Scrap",
-            "iconName": "Scrap_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_62001",
-            "displayName": "Bronze kelp",
-            "iconName": "Bronze_kelp_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Wood",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 40
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "item": {
-        "id": "item_65035",
-        "displayName": "Extractor",
-        "price": 1000,
-        "sellPrice": 240,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Extracts and bottles nutrients from kelp.",
-        "qualities": {},
-        "iconName": "Extractor_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65013",
       "displayName": "Sprinkler I",
       "amount": 1,
@@ -312,6 +265,53 @@
         "description": "An automatic watering system. Waters a radius of 81 tiles.",
         "qualities": {},
         "iconName": "Sprinkler_III_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65035",
+      "displayName": "Extractor",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65107",
+            "displayName": "Scrap",
+            "iconName": "Scrap_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_62001",
+            "displayName": "Bronze kelp",
+            "iconName": "Bronze_kelp_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Wood",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 40
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "item": {
+        "id": "item_65035",
+        "displayName": "Extractor",
+        "price": 1000,
+        "sellPrice": 240,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Extracts and bottles nutrients from kelp.",
+        "qualities": {},
+        "iconName": "Extractor_Sprite",
         "tags": []
       }
     },
@@ -1646,8 +1646,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "Discourages crows from disturbing crops. Protects an 11x11 area.",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",
@@ -2167,7 +2167,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_65107",

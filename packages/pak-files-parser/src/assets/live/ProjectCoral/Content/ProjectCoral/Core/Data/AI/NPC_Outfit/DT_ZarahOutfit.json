@@ -134,6 +134,34 @@
               "SubPathString": ""
             },
             "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Spring/Zarah_Annoyed_Spring.Zarah_Annoyed_Spring",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Sad"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Spring/Zarah_Annoyed_Spring.Zarah_Annoyed_Spring",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
           }
         ],
         "SkeletalMeshes": {
@@ -325,6 +353,34 @@
             },
             "texture": {
               "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Summer/Zarah_Thinking_Summer.Zarah_Thinking_Summer",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Summer/Zarah_Annoyed_Summer.Zarah_Annoyed_Summer",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Sad"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Summer/Zarah_Annoyed_Summer.Zarah_Annoyed_Summer",
               "SubPathString": ""
             },
             "downedTextureCached": null
@@ -560,6 +616,34 @@
               "SubPathString": ""
             },
             "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Fall/Zarah_Annoyed_Fall.Zarah_Annoyed_Fall",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Sad"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Fall/Zarah_Annoyed_Fall.Zarah_Annoyed_Fall",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
           }
         ],
         "SkeletalMeshes": {
@@ -792,6 +876,34 @@
               "SubPathString": ""
             },
             "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Winter/Zarah_Annoyed_Winter.Zarah_Annoyed_Winter",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Sad"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Winter/Zarah_Annoyed_Winter.Zarah_Annoyed_Winter",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
           }
         ],
         "SkeletalMeshes": {
@@ -1002,6 +1114,34 @@
             },
             "texture": {
               "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Special/Zarah_BathingSuit_Default.Zarah_BathingSuit_Default",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Special/Zarah_BathingSuit_Annoyed.Zarah_BathingSuit_Annoyed",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Sad"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Special/Zarah_BathingSuit_Annoyed.Zarah_BathingSuit_Annoyed",
               "SubPathString": ""
             },
             "downedTextureCached": null
@@ -1218,6 +1358,34 @@
               "SubPathString": ""
             },
             "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Special/Zarah_BathingSuit_Annoyed.Zarah_BathingSuit_Annoyed",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Sad"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Special/Zarah_BathingSuit_Annoyed.Zarah_BathingSuit_Annoyed",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
           }
         ],
         "SkeletalMeshes": {
@@ -1298,7 +1466,7 @@
             "ObjectName": "DataTable'DT_NPCOutfitList'",
             "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/DT_NPCOutfitList.0"
           },
-          "RowName": "WeddingOutfit"
+          "RowName": "Wedding"
         },
         "images": [
           {
@@ -1552,6 +1720,34 @@
             },
             "texture": {
               "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Special/Spooky/Zarah_Spooky_Thinking.Zarah_Spooky_Thinking",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Special/Spooky/Zarah_Spooky_annoyed.Zarah_Spooky_annoyed",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Sad"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Zarah/Portraits/Special/Spooky/Zarah_Spooky_annoyed.Zarah_Spooky_annoyed",
               "SubPathString": ""
             },
             "downedTextureCached": null

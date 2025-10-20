@@ -6960,9 +6960,9 @@
         "ingredients": [
           {
             "item": {
-              "id": "item_21007",
-              "displayName": "Kacang polong",
-              "iconName": "Peas_Sprite"
+              "id": "item_21015",
+              "displayName": "Kedelai",
+              "iconName": "Soybean_Sprite"
             },
             "amount": 1
           }
@@ -7690,42 +7690,7 @@
             "amount": 1
           }
         ],
-        "eitherOrIngredients": [
-          [
-            {
-              "item": {
-                "id": "item_31004",
-                "displayName": "Susu",
-                "iconName": "Milk_Sprite_"
-              },
-              "amount": 0
-            },
-            {
-              "item": {
-                "id": "item_31016",
-                "displayName": "Susu besar",
-                "iconName": "Large_milk_Sprite_"
-              },
-              "amount": 0
-            },
-            {
-              "item": {
-                "id": "item_31024",
-                "displayName": "Susu emas",
-                "iconName": "Golden_milk_Sprite"
-              },
-              "amount": 1
-            },
-            {
-              "item": {
-                "id": "item_31022",
-                "displayName": "Susu emas besar",
-                "iconName": "Large_golden_milk_Sprite"
-              },
-              "amount": 1
-            }
-          ]
-        ]
+        "eitherOrIngredients": []
       },
       {
         "key": "item_41036",

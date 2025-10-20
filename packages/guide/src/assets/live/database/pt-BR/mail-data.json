@@ -98,8 +98,8 @@
   {
     "key": "sq035_init_mail",
     "sender": "<NPCName>Millie</>",
-    "title": "Procurando Kelp",
-    "content": "Estou planejando escrever um artigo sobre o oceano e estou precisando de uma garrafa de <Items>kelp</> lendária. Por favor, me avise se tiver uma que eu possa comprar.",
+    "title": "Procurando alga",
+    "content": "Estou planejando escrever um artigo sobre o oceano e estou precisando de uma garrafa de <Items>alga</> lendária. Por favor, me avise se tiver uma que eu possa comprar.",
     "isImportant": true,
     "tags": [],
     "mailType": "SideQuest",
@@ -507,8 +507,8 @@
   {
     "key": "cherry_blossom_reminder",
     "sender": "<NPCName>Prefeito Connor</>",
-    "title": "Festa Americana da Cerejeira",
-    "content": "Vamos nos reunir no <Places>lago</> amanhã para comemorar o início da primavera. O festival é um churrasco, então não deixe de trazer algo gostoso!\r\n\r\nChegue entre 09h00 e 14h00.",
+    "title": "Festança da Cerejeira",
+    "content": "Vamos nos reunir no <Places>lago</> amanhã para comemorar o início da primavera. O festival será uma festança, então não deixe de trazer algo gostoso!\r\n\r\nChegue entre 09h00 e 14h00.",
     "isImportant": true,
     "tags": [],
     "mailType": null,
@@ -1913,7 +1913,7 @@
     "key": "JeffSmith_Challenge_1",
     "sender": "<NPCName>Jeff Smith</>, Guilda dos Fazendeiros",
     "title": "Desafio completo",
-    "content": "Me alegra saber que los rumores sobre un nuevo granjero en Starlet Town son ciertos. Has estado haciendo un excelente trabajo en el campo.\r\n\r\nPrueba este fertilizante. Aplicarlo al suelo labrado. Aumentará sus posibilidades de cosechar cultivos de mayor calidad, lo que generará más monedas cuando llegue el momento de vender.",
+    "content": "Fico feliz em saber que os rumores sobre um novo fazendeiro em Cidade Estelita são verdadeiros. Você tem feito um trabalho maravilhoso nos campos.\r\n\r\nQuero que experimente este fertilizante. Aplique-o na terra arada. Ele vai aumentar suas chances de colher produtos de melhor qualidade, que renderão mais moedas quando for hora de vender.",
     "isImportant": true,
     "tags": [],
     "mailType": "SideQuest",
@@ -2248,7 +2248,7 @@
     "key": "JeffSmith_Challenge_4",
     "sender": "<NPCName>Jeff Smith</>, Guilda dos Fazendeiros",
     "title": "Desafio completo",
-    "content": "Você chegou a um nível avançado de agricultura. Bom trabalho, broto! Meu último presente é um projeto de barril de envelhecimento.\r\n\r\nBote um item aí dentro pra produzir produtos artesanais envelhecidos. Eles são mais lucrativos, apesar do tempo que levam pra maturar.",
+    "content": "Você chegou a um nível avançado de agricultura. Bom trabalho, broto! Meu último presente é um barril de envelhecimento.\r\n\r\nBote um item aí dentro pra produzir produtos artesanais envelhecidos. Eles são mais lucrativos, apesar do tempo que levam pra maturar.",
     "isImportant": true,
     "tags": [],
     "mailType": "SideQuest",
@@ -3101,7 +3101,7 @@
     "key": "Anne_Birthday",
     "sender": "<NPCName>Paul</>",
     "title": "Por favor, me ajude",
-    "content": "Podemos dizer que me estou na barriga da baleia! Me esqueci do aniversário da <NPCName>Anne</> e preciso consertar isso.\r\n\r\nInfelizmente, minhas atividades diárias não me dão tempo pra isso, então vou precisar da sua ajuda pra me pegar chá verde. Só um é suficiente!\r\n\r\nSe puder encontrar, vou ficar de devendo.",
+    "content": "Podemos dizer que que estou na barriga da baleia! Me esqueci do aniversário da <NPCName>Anne</> e preciso consertar isso.\r\n\r\nInfelizmente, minhas atividades diárias não me dão tempo pra isso, então vou precisar da sua ajuda pra para pegar chá verde. Só um é suficiente!\r\n\r\nSe puder encontrar, vou ficar te devendo.",
     "isImportant": true,
     "tags": [],
     "mailType": null,
@@ -4327,7 +4327,7 @@
     "key": "Book_TownRankE",
     "sender": "<NPCName>Millie</>",
     "title": "Novos Livros na Biblioteca",
-    "content": "Parabéns por chegar à Classificação E! Aumentamos a coleção da biblioteca:\r\n\r\nUm Mergulho Profundo na Kelp Mítica\r\nDossiê do Geólogo: Cavernas Elementais\r\nFatos Sobre o Fenômeno do Trevo de Quatro Folhas\r\nO Curioso Caso do Lótus da Ilha Coral\r\n\r\nVenha visitar a biblioteca para ler à vontade.",
+    "content": "Parabéns por chegar à Classificação E! Aumentamos a coleção da biblioteca:\r\n\r\nUm Mergulho Profundo na alga Mítica\r\nDossiê do Geólogo: Cavernas Elementais\r\nFatos Sobre o Fenômeno do Trevo de Quatro Folhas\r\nO Curioso Caso do Lótus da Ilha Coral\r\n\r\nVenha visitar a biblioteca para ler à vontade.",
     "isImportant": true,
     "tags": [],
     "mailType": null,
@@ -4463,5 +4463,27 @@
         }
       }
     ]
+  },
+  {
+    "key": "wedding_dress_land",
+    "sender": "<NPCName>Antonio</>",
+    "title": "\"Roupas de Casamento!\"",
+    "content": "Ei, fiquei sabendo das boas novas. Parabéns pelo noivado!\r\nEspero você no Flamingo Branco. Temos os melhores vestidos e ternos da cidade — roupas especiais para um dia especial.\r\n\r\nUm aviso: não deixe para última hora. As melhores peças acabam rapidinho, e... deixar tudo para o último dia não é algo muito bem-visto.",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "Bênçãos marítimas,",
+    "greetOpenMessage": "Olá,"
+  },
+  {
+    "key": "wedding_dress_ocean",
+    "sender": "<NPCName>Lanin</>",
+    "title": "\"Roupas de Casamento!\"",
+    "content": "Notícias do seu noivado chegaram até os corais mais profundos. Parabéns, alma cintilante.\r\nAgora, o Fios da Maré conta com roupas de casamento. Por que não dá uma passada aqui e escolhe algo para seu dia especial?\r\n\r\nSe prepare para o grande dia!",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "Até breve,",
+    "greetOpenMessage": "Minhas estimas, <PlayerName>$player</>,"
   }
 ]

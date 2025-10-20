@@ -337,7 +337,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Altar de Raridades",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Desbloqueia o acesso à Savana",
+      "offeringGroupRewardText": "Desbloqueia o Sesajen de teletransporte",
       "offerings": [
         {
           "title": "Culinária Rara",
@@ -442,7 +442,7 @@
       "townRank": 0,
       "tag": [],
       "priceOverride": 0,
-      "priority": 10,
+      "priority": 11,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

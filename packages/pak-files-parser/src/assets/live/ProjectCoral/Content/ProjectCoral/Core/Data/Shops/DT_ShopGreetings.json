@@ -194,6 +194,22 @@
           "SourceString": "Welcome! What can I get for you?",
           "LocalizedString": "Welcome! What can I get for you?"
         }
+      },
+      "TattooShop": {
+        "greetings": {
+          "Namespace": "",
+          "Key": "4830A62D4099A92F041926A4C5FCC3A3",
+          "SourceString": "<GreetSmall>Greetings,</> any tattoo you'd like to try on?",
+          "LocalizedString": "<GreetSmall>Greetings,</> any tattoo you'd like to try on?"
+        }
+      },
+      "SculptureShop": {
+        "greetings": {
+          "Namespace": "",
+          "Key": "E837AF3646A376055A1D51A908241E88",
+          "SourceString": "Welcome!",
+          "LocalizedString": "Welcome!"
+        }
       }
     }
   }

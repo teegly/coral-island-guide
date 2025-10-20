@@ -105,53 +105,6 @@
   ],
   "usedToCraft": [
     {
-      "key": "item_65035",
-      "displayName": "Extractor",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65107",
-            "displayName": "碎渣",
-            "iconName": "Scrap_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_62001",
-            "displayName": "铜质海带",
-            "iconName": "Bronze_kelp_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "木头",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 40
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "item": {
-        "id": "item_65035",
-        "displayName": "萃取器",
-        "price": 1000,
-        "sellPrice": 240,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "从海带中提炼营养物质，并装制成瓶。",
-        "qualities": {},
-        "iconName": "Extractor_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65013",
       "displayName": "Sprinkler I",
       "amount": 1,
@@ -312,6 +265,53 @@
         "description": "覆盖80个相邻地块的自动浇水系统。",
         "qualities": {},
         "iconName": "Sprinkler_III_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65035",
+      "displayName": "Extractor",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65107",
+            "displayName": "碎渣",
+            "iconName": "Scrap_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_62001",
+            "displayName": "铜质海带",
+            "iconName": "Bronze_kelp_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "木头",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 40
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "item": {
+        "id": "item_65035",
+        "displayName": "萃取器",
+        "price": 1000,
+        "sellPrice": 240,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "从海带中提炼营养物质，并装制成瓶。",
+        "qualities": {},
+        "iconName": "Extractor_Sprite",
         "tags": []
       }
     },
@@ -1646,8 +1646,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "阻止乌鸦扰乱庄稼。保护一个11x11的区域。",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",
@@ -2167,7 +2167,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_65107",

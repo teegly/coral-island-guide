@@ -102,7 +102,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -228,7 +229,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -345,7 +347,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -468,7 +471,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -584,7 +588,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -707,7 +712,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -833,7 +839,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -952,7 +959,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1078,7 +1086,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1201,7 +1210,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1317,7 +1327,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1433,7 +1444,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1549,7 +1561,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1675,7 +1688,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1792,7 +1806,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1908,7 +1923,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2028,7 +2044,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2152,7 +2169,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2275,7 +2293,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2395,7 +2414,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2515,7 +2535,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2632,7 +2653,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2749,7 +2771,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2873,7 +2896,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -2990,7 +3014,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -3110,7 +3135,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -3230,7 +3256,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -3350,7 +3377,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -3467,7 +3495,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -3580,7 +3609,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -3693,7 +3723,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -3806,7 +3837,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -3920,7 +3952,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4030,7 +4063,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4147,7 +4181,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4264,7 +4299,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4381,7 +4417,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4501,7 +4538,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4621,7 +4659,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4741,7 +4780,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4861,7 +4901,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -4981,7 +5022,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -5101,7 +5143,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -5221,7 +5264,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -5341,7 +5385,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -5461,7 +5506,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -5581,7 +5627,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -5691,7 +5738,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -5801,7 +5849,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -5911,7 +5960,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -6025,7 +6075,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -6142,7 +6193,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -6252,7 +6304,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -6370,7 +6423,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -6487,7 +6541,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -6575,7 +6630,8 @@
           "maxDroppedItems": 0,
           "dropData": [],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,

@@ -286,7 +286,7 @@
               },
               "RowName": "Any_UnderwaterCrop"
             },
-            "amount": 30,
+            "amount": 25,
             "exludedItems": []
           }
         ]
@@ -342,7 +342,7 @@
               },
               "RowName": "Any_UnderwaterCrop"
             },
-            "amount": 120,
+            "amount": 75,
             "exludedItems": []
           }
         ]
@@ -398,7 +398,7 @@
               },
               "RowName": "Any_UnderwaterCrop"
             },
-            "amount": 500,
+            "amount": 300,
             "exludedItems": []
           }
         ]

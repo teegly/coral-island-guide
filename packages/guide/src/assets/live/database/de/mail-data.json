@@ -507,7 +507,7 @@
   {
     "key": "cherry_blossom_reminder",
     "sender": "<NPCName>Bürgermeister Connor</>",
-    "title": "Kirschblüten-Potluck",
+    "title": "Kirschblüten-Buffet",
     "content": "Wir versammeln uns morgen am <Places>See</>, um den Frühlingsanfang zu feiern. Zum Fest bringt jeder sein eigenes Essen mit und bereitet es im Freien zu, also trag etwas Leckeres bei!\r\n\r\nAnkunft zwischen 9:00 und 14:00 Uhr.",
     "isImportant": true,
     "tags": [],
@@ -2248,7 +2248,7 @@
     "key": "JeffSmith_Challenge_4",
     "sender": "Jeff Smith, Farmergilde",
     "title": "Herausforderung abgeschlossen",
-    "content": "Du bist jetzt ein fortgeschrittener Farmer. Gut gemacht, Sprössling! Mein letztes Geschenk für dich ist ein Plan für ein Alterungsfass.\r\n\r\nPlatziere Gegenstände im Alterungsfass und produziere alte, hergestellte Produkte. Die werfen den höchsten Profit ab, doch sie brauchen ein wenig Zeit, um zu reifen.",
+    "content": "Du bist jetzt ein fortgeschrittener Farmer. Gut gemacht, Sprössling! Mein letztes Geschenk für dich ist ein Alterungsfass.\r\n\r\nPlatziere Gegenstände im Alterungsfass und produziere gealterte Handwerksprodukte. Die werfen den höchsten Profit ab, doch sie brauchen ein wenig Zeit, um zu reifen.",
     "isImportant": true,
     "tags": [],
     "mailType": "SideQuest",
@@ -4463,5 +4463,27 @@
         }
       }
     ]
+  },
+  {
+    "key": "wedding_dress_land",
+    "sender": "<NPCName>Antonio</>",
+    "title": "„Hochzeitsmode!“",
+    "content": "Hier bleibt nichts lange geheim – herzlichen Glückwunsch zu deiner Verlobung! Was für tolle Neuigkeiten.\r\nWenn du noch nicht weißt, was du zur Hochzeit anziehen sollst, dann schau doch mal bei „Weißer Flamingo“ vorbei. Wir haben gerade eine neue Kollektion an Hochzeitskleidern und Anzügen, ideal für deinen großen Tag.\r\n\r\nUnd noch ein kleiner Tipp: Suche dir die Kleidung besser vor der Hochzeit aus. Das knapp vorher zu machen, hinterlässt keinen guten Eindruck.",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "Mit dem Segen des Ozeans,",
+    "greetOpenMessage": "Hallo!"
+  },
+  {
+    "key": "wedding_dress_ocean",
+    "sender": "<NPCName>Lanin</>",
+    "title": "„Hochzeitsmode!“",
+    "content": "Selbst zwischen den Korallenblüten redet man schon von deiner Verlobung. Herzlichen Glückwunsch, du leuchtende Seele.\r\nBei Gezeitenfäden gibt es nun auch Hochzeitsmode. Schau doch mal vorbei, um etwas für deinen großen Tag zu finden.\r\n\r\nUnd plane dein Outfit schon vor der Hochzeit!",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "Man sieht sich,",
+    "greetOpenMessage": "Lieber <PlayerName>$Player</>,"
   }
 ]

@@ -49,8 +49,13 @@
         "Trivia_Question": "What is this?",
         "Name_BonkTheMushroom": "Bonk the Mushroom",
         "Name_SavannahRace": "Savannah Race",
-        "Name_SpaceInvader": "Space Invader",
-        "Name_ClawMachine": "Claw Machine"
+        "Name_SpaceInvader": "Galaxy Invaders",
+        "Name_ClawMachine": "Mining Mania",
+        "Name_DonutSurvival": "Mice Survivor",
+        "Name_DDR": "Dance Dash",
+        "Name_HauntedHouse": "Haunted House",
+        "NAME_BlastOfGlory": "Blast Of Glory",
+        "Name_JellyfishMaster": "Jellyfish Master"
       },
       "KeysToMetaData": {}
     }

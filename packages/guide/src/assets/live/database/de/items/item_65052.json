@@ -629,11 +629,6 @@
               "iconName": "Cotton_Sprite"
             },
             {
-              "id": "item_24003",
-              "displayName": "Mandel",
-              "iconName": "Almond_Sprite"
-            },
-            {
               "id": "item_24004",
               "displayName": "Avocado",
               "iconName": "Avocado_Sprite"
@@ -1534,58 +1529,6 @@
   ],
   "usedToCraft": [
     {
-      "key": "item_65299",
-      "displayName": "Compost bin",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Holz",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65052",
-            "displayName": "Müll",
-            "iconName": "Trash_Sprite"
-          },
-          "amount": 5
-        },
-        {
-          "item": {
-            "id": "item_65108",
-            "displayName": "Baumsaft",
-            "iconName": "Sap_Sprite"
-          },
-          "amount": 5
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "craftingUnlock": {
-        "key": "item_65299",
-        "masteryLevel": 2,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65299",
-        "displayName": "Komposttonne",
-        "price": 200,
-        "sellPrice": 50,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Compostbindesc",
-        "qualities": {},
-        "iconName": "Compost_bin_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65049",
       "displayName": "Recycling machine",
       "amount": 1,
@@ -1634,6 +1577,58 @@
         "description": "Verarbeitet eine Ressource zu einer anderen Ressource.",
         "qualities": {},
         "iconName": "Recycling_Machine_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65299",
+      "displayName": "Compost bin",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Holz",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65052",
+            "displayName": "Müll",
+            "iconName": "Trash_Sprite"
+          },
+          "amount": 5
+        },
+        {
+          "item": {
+            "id": "item_65108",
+            "displayName": "Baumsaft",
+            "iconName": "Sap_Sprite"
+          },
+          "amount": 5
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "craftingUnlock": {
+        "key": "item_65299",
+        "masteryLevel": 2,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65299",
+        "displayName": "Komposttonne",
+        "price": 200,
+        "sellPrice": 50,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Compostbindesc",
+        "qualities": {},
+        "iconName": "Compost_bin_Sprite",
         "tags": []
       }
     },
@@ -2068,8 +2063,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "Hält Krähen davon ab, Feldfrüchte zu zerstören. Beschützt ein 11x11 Felder großes Gebiet.",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",

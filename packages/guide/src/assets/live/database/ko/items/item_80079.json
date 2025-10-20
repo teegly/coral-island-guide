@@ -328,7 +328,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_80079",
@@ -364,7 +365,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_80079",
@@ -456,7 +458,7 @@
       "townRank": 0,
       "tag": [],
       "priceOverride": 0,
-      "priority": 8,
+      "priority": 7,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

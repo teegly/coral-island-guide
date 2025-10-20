@@ -8484,7 +8484,9 @@
           "EC_DayOfTheWeek::Saturday"
         ],
         "specificMonth": [],
-        "specificWeather": [],
+        "specificWeather": [
+          "EC_Weather::Sunny"
+        ],
         "otherCutscenesState": [
           {
             "Key": "HS_Yuri_Heart_10",
@@ -8497,6 +8499,12 @@
             "Key": "Requirement_Day_NoSunday",
             "SourceString": "Not available on Sundays.",
             "LocalizedString": "Not available on Sundays."
+          },
+          {
+            "TableId": "/Game/ProjectCoral/StringTable/ST_RequirementDescription.ST_RequirementDescription",
+            "Key": "Requirement_Weather_Sunny",
+            "SourceString": "Only available on sunny weather.",
+            "LocalizedString": "Only available on sunny weather."
           }
         ],
         "canTriggerSameDay": false
@@ -16300,6 +16308,40 @@
         ],
         "heartEventDescriptionRequirements": [],
         "canTriggerSameDay": false
+      },
+      "luke_15B": {
+        "enabled": true,
+        "npc": "Luke",
+        "heartLevel": 15,
+        "cutscene": "HS_Luke_Heart_15_B",
+        "locationRow": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_LocationAreaInfo'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_LocationAreaInfo.0"
+          },
+          "RowName": "PlayerHome"
+        },
+        "time": {
+          "fromTime": {
+            "hours": 18,
+            "minutes": 0
+          },
+          "toTime": {
+            "hours": 20,
+            "minutes": 0
+          }
+        },
+        "specificDay": [],
+        "specificMonth": [],
+        "specificWeather": [],
+        "otherCutscenesState": [
+          {
+            "Key": "HS_Luke_Heart_15_A",
+            "Value": true
+          }
+        ],
+        "heartEventDescriptionRequirements": [],
+        "canTriggerSameDay": true
       },
       "Macy_12": {
         "enabled": true,

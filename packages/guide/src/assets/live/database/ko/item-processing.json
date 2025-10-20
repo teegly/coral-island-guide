@@ -25078,136 +25078,6 @@
         "useCategory": false,
         "day": 0,
         "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "해조",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "해조",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033",
-            "displayName": "건초",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "건초",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "건초",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "건초",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "건초",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "건초",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "건초",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-5",
-            "displayName": "건초",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
           "hours": 12,
           "minutes": 0
         },
@@ -26155,7 +26025,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "구체",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "output": {
@@ -26163,7 +26033,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "구체",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "genericInput": null,
@@ -64313,6 +64183,1835 @@
             "day": 0,
             "time": {
               "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "고구마 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "고구마 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 14,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "호박 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "호박 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "토란 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "토란 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 14,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "카카오 과일 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "카카오 과일 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "코코넛 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "코코넛 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 15,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "긴 산호 코코넛 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "긴 산호 코코넛 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 11,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "마카푸노 코코넛 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "마카푸노 코코넛 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 15,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "코코넛 드 메르 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "코코넛 드 메르 와인",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 20,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 1,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "고구마 김치",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "고구마 김치",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "토란 김치",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "토란 김치",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "고추냉이 김치",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "고추냉이 김치",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 13,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "호박 김치",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "호박 김치",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "고구마 절임",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "고구마 절임",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 1,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "토란 절임",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "토란 절임",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "고추냉이 절임",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "고추냉이 절임",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "호박 절임",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "호박 절임",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "올리브 잼",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "올리브 잼",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "카야 잼",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "카야 잼",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "긴 산호 카야 잼",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "긴 산호 카야 잼",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "마카푸노 카야 잼",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "마카푸노 카야 잼",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "드 메르 카야 잼",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "드 메르 카야 잼",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 5,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "카카오 과일 주스",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "카카오 과일 주스",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "코코넛 물",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "코코넛 물",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "긴 산호 코코넛 물",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "긴 산호 코코넛 물",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "마카푸노 코코넛 물",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "마카푸노 코코넛 물",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "코코넛 드 메르 물",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "코코넛 드 메르 물",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "코코넛 우유",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "코코넛 우유",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "긴 산호 코코넛 우유",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "긴 산호 코코넛 우유",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "마카푸노 코코넛 우유",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "마카푸노 코코넛 우유",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "코코넛 드 메르 우유",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "코코넛 드 메르 우유",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "Coconut oil",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "Coconut oil",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "긴 산호 코코넛 오일",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "긴 산호 코코넛 오일",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "마카푸노 코코넛 오일",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "마카푸노 코코넛 오일",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 5,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "코코넛 드 메르 오일",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "코코넛 드 메르 오일",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "초콜릿 파우더",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "초콜릿 파우더",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "옥수수 가루",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "옥수수 가루",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "보리 가루",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "보리 가루",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "콩 가루",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "콩 가루",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
               "minutes": 0
             }
           }

@@ -410,7 +410,7 @@
       "cookingKey": "ButterCroissant",
       "item": {
         "id": "item_80027",
-        "displayName": "黄油牛角面包",
+        "displayName": "黄油可颂",
         "price": 250,
         "sellPrice": 123,
         "sellAt": [],
@@ -921,7 +921,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "高级祭坛",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "解锁鲜花运输",
+      "offeringGroupRewardText": "解锁记忆之洞",
       "offerings": [
         {
           "title": "畜棚动物",

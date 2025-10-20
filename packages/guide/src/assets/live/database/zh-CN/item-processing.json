@@ -25078,136 +25078,6 @@
         "useCategory": false,
         "day": 0,
         "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "海藻",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "海藻",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033",
-            "displayName": "干草",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "干草",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "干草",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "干草",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "干草",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "干草",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "干草",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-5",
-            "displayName": "干草",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
           "hours": 12,
           "minutes": 0
         },
@@ -26155,7 +26025,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "蛋珠",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "output": {
@@ -26163,7 +26033,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "蛋珠",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "genericInput": null,
@@ -42088,7 +41958,7 @@
           "amount": 1,
           "item": {
             "id": "item_80027",
-            "displayName": "黄油牛角面包",
+            "displayName": "黄油可颂",
             "iconName": "Butter_Croissant_Sprite"
           }
         },
@@ -42096,7 +41966,7 @@
           "amount": 1,
           "item": {
             "id": "item_80027",
-            "displayName": "黄油牛角面包",
+            "displayName": "黄油可颂",
             "iconName": "Butter_Croissant_Sprite"
           }
         },
@@ -64313,6 +64183,1835 @@
             "day": 0,
             "time": {
               "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "红薯酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "红薯酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 14,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "南瓜酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "南瓜酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "芋头酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "芋头酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 14,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "可可果酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "可可果酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "椰子酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "椰子酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 15,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "珊瑚高椰子酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "珊瑚高椰子酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 11,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "玛卡普诺椰子酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "玛卡普诺椰子酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 15,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "海椰子酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "海椰子酒",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 20,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 1,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "红薯泡菜",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "红薯泡菜",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "芋头泡菜",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "芋头泡菜",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "芥末泡菜",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "芥末泡菜",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 13,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "南瓜泡菜",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "南瓜泡菜",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "腌红薯",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "腌红薯",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 1,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "腌芋头",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "腌芋头",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "腌芥末",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "腌芥末",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "腌南瓜",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "腌南瓜",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "橄榄果酱",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "橄榄果酱",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "椰子酱",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "椰子酱",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "珊瑚大椰子酱",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "珊瑚大椰子酱",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "玛卡普诺椰子酱",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "玛卡普诺椰子酱",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "海椰子酱",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "海椰子酱",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 5,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "可可果汁",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "可可果汁",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "椰子水",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "椰子水",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "珊瑚高椰子水",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "珊瑚高椰子水",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "玛卡普诺椰子水",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "玛卡普诺椰子水",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "海椰子水",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "海椰子水",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "椰子奶",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "椰子奶",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "珊瑚高椰子奶",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "珊瑚高椰子奶",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "玛卡普诺椰子奶",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "玛卡普诺椰子奶",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "海椰子奶",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "海椰子奶",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "椰子油",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "椰子油",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "珊瑚高椰子油",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "珊瑚高椰子油",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "玛卡普诺椰子油",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "玛卡普诺椰子油",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 5,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "海椰子油",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "海椰子油",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "巧克力粉",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "巧克力粉",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "玉米粉",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "玉米粉",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "大麦粉",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "大麦粉",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "大豆粉",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "大豆粉",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
               "minutes": 0
             }
           }

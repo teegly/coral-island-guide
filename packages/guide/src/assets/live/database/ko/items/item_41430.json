@@ -62,6 +62,104 @@
       },
       "genericInput": null,
       "machine": "CheesePress"
+    },
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 4,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41430",
+          "displayName": "마카푸노 코코넛 우유",
+          "iconName": "coconut_milk_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41430",
+          "displayName": "마카푸노 코코넛 우유",
+          "iconName": "coconut_milk_Sprite",
+          "sellPrice": 165
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 6,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 10,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
+    }
+  ],
+  "artisanIngredient": [
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 4,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41430",
+          "displayName": "마카푸노 코코넛 우유",
+          "iconName": "coconut_milk_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41430",
+          "displayName": "마카푸노 코코넛 우유",
+          "iconName": "coconut_milk_Sprite",
+          "sellPrice": 165
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 6,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 10,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
     }
   ],
   "consumables": {
