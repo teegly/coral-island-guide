@@ -25078,136 +25078,6 @@
         "useCategory": false,
         "day": 0,
         "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "Seaweed",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_50303",
-            "displayName": "Seaweed",
-            "iconName": "Seaweed_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033",
-            "displayName": "Hay",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "Hay",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-2",
-            "displayName": "Hay",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "Hay",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-3",
-            "displayName": "Hay",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "Hay",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
-          "hours": 1,
-          "minutes": 0
-        },
-        "additionalInput": [],
-        "input": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-4",
-            "displayName": "Hay",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "output": {
-          "amount": 1,
-          "item": {
-            "id": "item_65033-5",
-            "displayName": "Hay",
-            "iconName": "Hay_Sprite"
-          }
-        },
-        "genericInput": null
-      },
-      {
-        "useCategory": false,
-        "day": 0,
-        "time": {
           "hours": 12,
           "minutes": 0
         },
@@ -26155,7 +26025,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "White pearl",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "output": {
@@ -26163,7 +26033,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "White pearl",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         "genericInput": null,
@@ -64313,6 +64183,1835 @@
             "day": 0,
             "time": {
               "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "Sweet potato wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41406",
+            "displayName": "Sweet potato wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 14,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "Pumpkin wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41407",
+            "displayName": "Pumpkin wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "Taro root wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41408",
+            "displayName": "Taro root wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 14,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "Cacao fruit wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41409",
+            "displayName": "Cacao fruit wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "Coconut wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41410",
+            "displayName": "Coconut wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 15,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "Coral tall coconut wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41411",
+            "displayName": "Coral tall coconut wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 11,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "Macapuno coconut wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41412",
+            "displayName": "Macapuno coconut wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 16,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 15,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "Coconut de mer wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41413",
+            "displayName": "Coconut de mer wine",
+            "iconName": "Wine_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 20,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 1,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "Sweet potato kimchi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41414",
+            "displayName": "Sweet potato kimchi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "Taro root kimchi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41415",
+            "displayName": "Taro root kimchi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "Wasabi kimchi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41416",
+            "displayName": "Wasabi kimchi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 13,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 13,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "Pumpkin kimchi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41417",
+            "displayName": "Pumpkin kimchi",
+            "iconName": "Kimchi_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 18,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 23,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "Pickled sweet potato",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41418",
+            "displayName": "Pickled sweet potato",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 1,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "Pickled taro root",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41419",
+            "displayName": "Pickled taro root",
+            "iconName": "White_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "Pickled wasabi",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41420",
+            "displayName": "Pickled wasabi",
+            "iconName": "Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "Pickled pumpkin",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41421",
+            "displayName": "Pickled pumpkin",
+            "iconName": "Yellow_Pickles_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "Olive jam",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41422",
+            "displayName": "Olive jam",
+            "iconName": "Jam_Green_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "Kaya jam",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41440",
+            "displayName": "Kaya jam",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "Coral tall kaya jam",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41441",
+            "displayName": "Coral tall kaya jam",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "Macapuno kaya jam",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41442",
+            "displayName": "Macapuno kaya jam",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "De mer kaya jam",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41443",
+            "displayName": "De mer kaya jam",
+            "iconName": "Jam_Yellow_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 5,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "Cacao fruit juice",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41423",
+            "displayName": "Cacao fruit juice",
+            "iconName": "Juice_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "Coconut water",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41424",
+            "displayName": "Coconut water",
+            "iconName": "Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "Coral tall coconut water",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41425",
+            "displayName": "Coral tall coconut water",
+            "iconName": "Coral_Tall_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "Macapuno coconut water",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41426",
+            "displayName": "Macapuno coconut water",
+            "iconName": "Macapuno_Coconut_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "Coconut de mer water",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41427",
+            "displayName": "Coconut de mer water",
+            "iconName": "Coconut_De_Mer_Water_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "Coconut milk",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41428",
+            "displayName": "Coconut milk",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "Coral tall coconut milk",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41429",
+            "displayName": "Coral tall coconut milk",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "Macapuno coconut milk",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41430",
+            "displayName": "Macapuno coconut milk",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 10,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "Coconut de mer milk",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41431",
+            "displayName": "Coconut de mer milk",
+            "iconName": "coconut_milk_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 8,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "Coconut oil",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41432",
+            "displayName": "Coconut oil",
+            "iconName": "Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 3,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "Coral tall coconut oil",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41433",
+            "displayName": "Coral tall coconut oil",
+            "iconName": "Coral_Tall_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "Macapuno coconut oil",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41434",
+            "displayName": "Macapuno coconut oil",
+            "iconName": "Macapuno_Coconut_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 5,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "Coconut de mer oil",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41435",
+            "displayName": "Coconut de mer oil",
+            "iconName": "Coconut_De_Mer_Oil_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "bronze",
+            "to": "silver",
+            "day": 0,
+            "time": {
+              "hours": 7,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 9,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 4,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "Chocolate powder",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41436",
+            "displayName": "Chocolate powder",
+            "iconName": "Chocolate_Powder_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 6,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 11,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "Corn flour",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41437",
+            "displayName": "Corn flour",
+            "iconName": "Corn_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 6,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "Barley flour",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41438",
+            "displayName": "Barley flour",
+            "iconName": "Barley_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 12,
+              "minutes": 0
+            }
+          }
+        ]
+      },
+      {
+        "useCategory": false,
+        "day": 0,
+        "time": {
+          "hours": 1,
+          "minutes": 0
+        },
+        "additionalInput": [],
+        "input": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "Soybean flour",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "output": {
+          "amount": 1,
+          "item": {
+            "id": "item_41439",
+            "displayName": "Soybean flour",
+            "iconName": "Soybean_Flour_Sprite"
+          }
+        },
+        "genericInput": null,
+        "refinements": [
+          {
+            "from": "silver",
+            "to": "gold",
+            "day": 0,
+            "time": {
+              "hours": 3,
+              "minutes": 0
+            }
+          },
+          {
+            "from": "gold",
+            "to": "osmium",
+            "day": 0,
+            "time": {
+              "hours": 4,
               "minutes": 0
             }
           }

@@ -283,7 +283,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_41332",
@@ -317,7 +318,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Seltener Altar",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Schaltet Zugriff auf die Savanne frei",
+      "offeringGroupRewardText": "Schaltet Warp Sesajen frei",
       "offerings": [
         {
           "title": "Seltener Kunsthandwerker",

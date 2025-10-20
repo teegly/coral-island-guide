@@ -28,6 +28,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_BastOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipBast.T_RelationshipBast",
           "SubPathString": ""
@@ -124,6 +125,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_BodeOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipBode.T_RelationshipBode",
           "SubPathString": ""
@@ -220,6 +222,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_CodyOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipCody.T_RelationshipCody",
           "SubPathString": ""
@@ -316,6 +319,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_CopperOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipCopper.T_RelationshipCopper",
           "SubPathString": ""
@@ -412,6 +416,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_FizzOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipFizz.T_RelationshipFizz",
           "SubPathString": ""
@@ -508,6 +513,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_FrankieOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipFrankie.T_RelationshipFrankie",
           "SubPathString": ""
@@ -604,6 +610,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_GaryKunOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipGary_kun.T_RelationshipGary_kun",
           "SubPathString": ""
@@ -700,6 +707,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_GeddyOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipGeddy.T_RelationshipGeddy",
           "SubPathString": ""
@@ -796,6 +804,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_HippeastrunOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipHippeastrum.T_RelationshipHippeastrum",
           "SubPathString": ""
@@ -892,6 +901,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_InariOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipInari.T_RelationshipInari",
           "SubPathString": ""
@@ -988,6 +998,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_KimbaOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipKimba.T_RelationshipKimba",
           "SubPathString": ""
@@ -1084,6 +1095,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_KitkatOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipKitKat.T_RelationshipKitKat",
           "SubPathString": ""
@@ -1180,6 +1192,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_LindyOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipLindy.T_RelationshipLindy",
           "SubPathString": ""
@@ -1276,6 +1289,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_LunaOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipLuna.T_RelationshipLuna",
           "SubPathString": ""
@@ -1372,6 +1386,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_MalcolmOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipMalcolm.T_RelationshipMalcolm",
           "SubPathString": ""
@@ -1468,6 +1483,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_MrFluffOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipMr_Fluff.T_RelationshipMr_Fluff",
           "SubPathString": ""
@@ -1564,6 +1580,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_OmarOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipOmar.T_RelationshipOmar",
           "SubPathString": ""
@@ -1660,6 +1677,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_SpikerDooOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipSpike.T_RelationshipSpike",
           "SubPathString": ""
@@ -1756,6 +1774,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_SpikeBonkersOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipSpike_Pitbul.T_RelationshipSpike_Pitbul",
           "SubPathString": ""
@@ -1852,6 +1871,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_TrinketOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/Pet/T_RelationshipTrinket.T_RelationshipTrinket",
           "SubPathString": ""
@@ -1948,6 +1968,7 @@
           "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/NPC_Outfit/DT_MythicalPetOutfit.0"
         },
         "portraitsNewFormDT": null,
+        "childPortraitsDT": [],
         "Portrait": {
           "AssetPathName": "/Game/ProjectCoral/Textures/UI/NPCHeadPortraits/T_RelationshipSawee.T_RelationshipSawee",
           "SubPathString": ""

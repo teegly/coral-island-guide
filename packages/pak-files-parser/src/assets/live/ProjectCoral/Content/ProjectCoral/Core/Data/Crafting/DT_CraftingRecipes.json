@@ -187,17 +187,17 @@
         },
         "flags": 0
       },
-      "item_65203": {
-        "readableName": "Kiln",
+      "item_62010": {
+        "readableName": "Solar core",
         "item": {
           "data": {
             "DataTable": {
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_65203"
+            "RowName": "item_62010"
           },
-          "itemID": "item_65203"
+          "itemID": "item_62010"
         },
         "amount": 1,
         "ingredients": [
@@ -208,24 +208,11 @@
                   "ObjectName": "DataTable'DT_InventoryItems'",
                   "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
                 },
-                "RowName": "item_61001"
+                "RowName": "item_62011"
               },
-              "itemID": "item_61001"
+              "itemID": "item_62011"
             },
-            "amount": 20
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65004"
-              },
-              "itemID": "item_65004"
-            },
-            "amount": 25
+            "amount": 10
           }
         ],
         "genericIngredients": [],
@@ -234,72 +221,57 @@
             "ObjectName": "DataTable'DT_CraftingCategory'",
             "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
           },
-          "RowName": "Artisan"
+          "RowName": "Misc"
         },
         "flags": 0
       },
-      "item_65034": {
-        "readableName": "Furnace",
+      "item_100011": {
+        "readableName": "Warp sesajen",
         "item": {
           "data": {
             "DataTable": {
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_65034"
+            "RowName": "item_100011"
           },
-          "itemID": "item_65034"
+          "itemID": "item_100011"
         },
         "amount": 1,
-        "ingredients": [
+        "ingredients": [],
+        "genericIngredients": [
           {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65004"
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
               },
-              "itemID": "item_65004"
+              "RowName": "Generic_Flower"
             },
-            "amount": 40
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_61001"
-              },
-              "itemID": "item_61001"
-            },
-            "amount": 20
+            "amount": 3,
+            "exludedItems": []
           }
         ],
-        "genericIngredients": [],
         "dataCategory": {
           "DataTable": {
             "ObjectName": "DataTable'DT_CraftingCategory'",
             "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
           },
-          "RowName": "Artisan"
+          "RowName": "Misc"
         },
         "flags": 0
       },
-      "item_65035": {
-        "readableName": "Extractor",
+      "item_65820": {
+        "readableName": "Weather conch",
         "item": {
           "data": {
             "DataTable": {
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_65035"
+            "RowName": "item_65820"
           },
-          "itemID": "item_65035"
+          "itemID": "item_65820"
         },
         "amount": 1,
         "ingredients": [
@@ -310,11 +282,11 @@
                   "ObjectName": "DataTable'DT_InventoryItems'",
                   "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
                 },
-                "RowName": "item_65107"
+                "RowName": "item_62010"
               },
-              "itemID": "item_65107"
+              "itemID": "item_62010"
             },
-            "amount": 20
+            "amount": 1
           },
           {
             "item": {
@@ -323,11 +295,11 @@
                   "ObjectName": "DataTable'DT_InventoryItems'",
                   "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
                 },
-                "RowName": "item_62001"
+                "RowName": "item_50514"
               },
-              "itemID": "item_62001"
+              "itemID": "item_50514"
             },
-            "amount": 20
+            "amount": 1
           },
           {
             "item": {
@@ -336,148 +308,32 @@
                   "ObjectName": "DataTable'DT_InventoryItems'",
                   "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
                 },
-                "RowName": "item_65003"
+                "RowName": "item_50513"
               },
-              "itemID": "item_65003"
+              "itemID": "item_50513"
             },
-            "amount": 40
+            "amount": 1
           }
         ],
-        "genericIngredients": [],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Any_SeaScavenge"
+            },
+            "amount": 2,
+            "exludedItems": []
+          }
+        ],
         "dataCategory": {
           "DataTable": {
             "ObjectName": "DataTable'DT_CraftingCategory'",
             "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
           },
-          "RowName": "Artisan"
-        },
-        "flags": 0
-      },
-      "item_65299": {
-        "readableName": "Compost bin",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_65299"
-          },
-          "itemID": "item_65299"
-        },
-        "amount": 1,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65003"
-              },
-              "itemID": "item_65003"
-            },
-            "amount": 20
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65052"
-              },
-              "itemID": "item_65052"
-            },
-            "amount": 5
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65108"
-              },
-              "itemID": "item_65108"
-            },
-            "amount": 5
-          }
-        ],
-        "genericIngredients": [],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Artisan"
-        },
-        "flags": 0
-      },
-      "item_65049": {
-        "readableName": "Recycling machine",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_65049"
-          },
-          "itemID": "item_65049"
-        },
-        "amount": 1,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65052"
-              },
-              "itemID": "item_65052"
-            },
-            "amount": 20
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65004"
-              },
-              "itemID": "item_65004"
-            },
-            "amount": 30
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_62001"
-              },
-              "itemID": "item_62001"
-            },
-            "amount": 15
-          }
-        ],
-        "genericIngredients": [],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Artisan"
+          "RowName": "Misc"
         },
         "flags": 0
       },
@@ -1386,17 +1242,247 @@
         },
         "flags": 0
       },
-      "item_65016": {
-        "readableName": "Bee house",
+      "item_65203": {
+        "readableName": "Kiln",
         "item": {
           "data": {
             "DataTable": {
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_65016"
+            "RowName": "item_65203"
           },
-          "itemID": "item_65016"
+          "itemID": "item_65203"
+        },
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_61001"
+              },
+              "itemID": "item_61001"
+            },
+            "amount": 20
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65004"
+              },
+              "itemID": "item_65004"
+            },
+            "amount": 25
+          }
+        ],
+        "genericIngredients": [],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Artisan"
+        },
+        "flags": 0
+      },
+      "item_65034": {
+        "readableName": "Furnace",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_65034"
+          },
+          "itemID": "item_65034"
+        },
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65004"
+              },
+              "itemID": "item_65004"
+            },
+            "amount": 40
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_61001"
+              },
+              "itemID": "item_61001"
+            },
+            "amount": 20
+          }
+        ],
+        "genericIngredients": [],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Artisan"
+        },
+        "flags": 0
+      },
+      "item_65035": {
+        "readableName": "Extractor",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_65035"
+          },
+          "itemID": "item_65035"
+        },
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65107"
+              },
+              "itemID": "item_65107"
+            },
+            "amount": 20
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_62001"
+              },
+              "itemID": "item_62001"
+            },
+            "amount": 20
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65003"
+              },
+              "itemID": "item_65003"
+            },
+            "amount": 40
+          }
+        ],
+        "genericIngredients": [],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Artisan"
+        },
+        "flags": 0
+      },
+      "item_65049": {
+        "readableName": "Recycling machine",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_65049"
+          },
+          "itemID": "item_65049"
+        },
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65052"
+              },
+              "itemID": "item_65052"
+            },
+            "amount": 20
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65004"
+              },
+              "itemID": "item_65004"
+            },
+            "amount": 30
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_62001"
+              },
+              "itemID": "item_62001"
+            },
+            "amount": 15
+          }
+        ],
+        "genericIngredients": [],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Artisan"
+        },
+        "flags": 0
+      },
+      "item_65299": {
+        "readableName": "Compost bin",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_65299"
+          },
+          "itemID": "item_65299"
         },
         "amount": 1,
         "ingredients": [
@@ -1411,7 +1497,7 @@
               },
               "itemID": "item_65003"
             },
-            "amount": 50
+            "amount": 20
           },
           {
             "item": {
@@ -1420,11 +1506,24 @@
                   "ObjectName": "DataTable'DT_InventoryItems'",
                   "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
                 },
-                "RowName": "item_61001"
+                "RowName": "item_65052"
               },
-              "itemID": "item_61001"
+              "itemID": "item_65052"
             },
-            "amount": 15
+            "amount": 5
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65108"
+              },
+              "itemID": "item_65108"
+            },
+            "amount": 5
           }
         ],
         "genericIngredients": [],
@@ -1476,6 +1575,108 @@
               "itemID": "item_65202"
             },
             "amount": 12
+          }
+        ],
+        "genericIngredients": [],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Artisan"
+        },
+        "flags": 0
+      },
+      "item_65016": {
+        "readableName": "Bee house",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_65016"
+          },
+          "itemID": "item_65016"
+        },
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65003"
+              },
+              "itemID": "item_65003"
+            },
+            "amount": 50
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_61001"
+              },
+              "itemID": "item_61001"
+            },
+            "amount": 15
+          }
+        ],
+        "genericIngredients": [],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Artisan"
+        },
+        "flags": 0
+      },
+      "item_65050": {
+        "readableName": "Tap",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_65050"
+          },
+          "itemID": "item_65050"
+        },
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65003"
+              },
+              "itemID": "item_65003"
+            },
+            "amount": 40
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_61005"
+              },
+              "itemID": "item_61005"
+            },
+            "amount": 3
           }
         ],
         "genericIngredients": [],
@@ -1617,57 +1818,6 @@
               "itemID": "item_61005"
             },
             "amount": 2
-          }
-        ],
-        "genericIngredients": [],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Artisan"
-        },
-        "flags": 0
-      },
-      "item_65050": {
-        "readableName": "Tap",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_65050"
-          },
-          "itemID": "item_65050"
-        },
-        "amount": 1,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65003"
-              },
-              "itemID": "item_65003"
-            },
-            "amount": 40
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_61005"
-              },
-              "itemID": "item_61005"
-            },
-            "amount": 3
           }
         ],
         "genericIngredients": [],
@@ -2435,6 +2585,57 @@
         },
         "flags": 3
       },
+      "item_65916": {
+        "readableName": "Fungarian chest",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_65916"
+          },
+          "itemID": "item_65916"
+        },
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65003"
+              },
+              "itemID": "item_65003"
+            },
+            "amount": 30
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_51107"
+              },
+              "itemID": "item_51107"
+            },
+            "amount": 1
+          }
+        ],
+        "genericIngredients": [],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Farming"
+        },
+        "flags": 3
+      },
       "item_65343": {
         "readableName": "Stone chest",
         "item": {
@@ -2964,6 +3165,200 @@
         },
         "flags": 0
       },
+      "item_64011": {
+        "readableName": "Monster scent",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_64011"
+          },
+          "itemID": "item_64011"
+        },
+        "amount": 2,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65032"
+              },
+              "itemID": "item_65032"
+            },
+            "amount": 5
+          }
+        ],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Any_MonsterEssence"
+            },
+            "amount": 1,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "item_64010": {
+        "readableName": "Monster lure scent",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_64010"
+          },
+          "itemID": "item_64010"
+        },
+        "amount": 2,
+        "ingredients": [],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Any_MonsterEssence"
+            },
+            "amount": 1,
+            "exludedItems": []
+          },
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Any_Egg"
+            },
+            "amount": 1,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "item_64013": {
+        "readableName": "Monster scent II",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_64013"
+          },
+          "itemID": "item_64013"
+        },
+        "amount": 2,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_50511"
+              },
+              "itemID": "item_50511"
+            },
+            "amount": 1
+          }
+        ],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Any_MonsterEssence"
+            },
+            "amount": 1,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "item_64012": {
+        "readableName": "Monster lure scent II",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_64012"
+          },
+          "itemID": "item_64012"
+        },
+        "amount": 2,
+        "ingredients": [],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Any_MonsterEssence"
+            },
+            "amount": 1,
+            "exludedItems": []
+          },
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Any_Honey"
+            },
+            "amount": 1,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
       "item_63041": {
         "readableName": "Ground insect trap",
         "item": {
@@ -3361,6 +3756,356 @@
             "exludedItems": []
           }
         ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "Item_63034": {
+        "readableName": "Decoy",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "Item_63034"
+          },
+          "itemID": "Item_63034"
+        },
+        "amount": 2,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_50509"
+              },
+              "itemID": "item_50509"
+            },
+            "amount": 1
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_50507"
+              },
+              "itemID": "item_50507"
+            },
+            "amount": 1
+          }
+        ],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Generic_Ore"
+            },
+            "amount": 2,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "Item_63030": {
+        "readableName": "Slime trap",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "Item_63030"
+          },
+          "itemID": "Item_63030"
+        },
+        "amount": 2,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_50506"
+              },
+              "itemID": "item_50506"
+            },
+            "amount": 2
+          }
+        ],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Generic_Ore"
+            },
+            "amount": 2,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "Item_63031": {
+        "readableName": "Spring trap",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "Item_63031"
+          },
+          "itemID": "Item_63031"
+        },
+        "amount": 2,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65003"
+              },
+              "itemID": "item_65003"
+            },
+            "amount": 5
+          }
+        ],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Generic_Ore"
+            },
+            "amount": 2,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "Item_63032": {
+        "readableName": "Glue trap",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "Item_63032"
+          },
+          "itemID": "Item_63032"
+        },
+        "amount": 2,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65108"
+              },
+              "itemID": "item_65108"
+            },
+            "amount": 5
+          },
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_50505"
+              },
+              "itemID": "item_50505"
+            },
+            "amount": 1
+          }
+        ],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Generic_Ore"
+            },
+            "amount": 2,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "Item_63033": {
+        "readableName": "Shock trap",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "Item_63033"
+          },
+          "itemID": "Item_63033"
+        },
+        "amount": 3,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65005"
+              },
+              "itemID": "item_65005"
+            },
+            "amount": 1
+          }
+        ],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Generic_Ore"
+            },
+            "amount": 2,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "Item_63029": {
+        "readableName": "Spikes",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "Item_63029"
+          },
+          "itemID": "Item_63029"
+        },
+        "amount": 2,
+        "ingredients": [],
+        "genericIngredients": [
+          {
+            "genericItem": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
+              },
+              "RowName": "Generic_Ore"
+            },
+            "amount": 10,
+            "exludedItems": []
+          }
+        ],
+        "dataCategory": {
+          "DataTable": {
+            "ObjectName": "DataTable'DT_CraftingCategory'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
+          },
+          "RowName": "Misc"
+        },
+        "flags": 0
+      },
+      "item_65248": {
+        "readableName": "Rope",
+        "item": {
+          "data": {
+            "DataTable": {
+              "ObjectName": "DataTable'DT_InventoryItems'",
+              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+            },
+            "RowName": "item_65248"
+          },
+          "itemID": "item_65248"
+        },
+        "amount": 1,
+        "ingredients": [
+          {
+            "item": {
+              "data": {
+                "DataTable": {
+                  "ObjectName": "DataTable'DT_InventoryItems'",
+                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
+                },
+                "RowName": "item_65004"
+              },
+              "itemID": "item_65004"
+            },
+            "amount": 199
+          }
+        ],
+        "genericIngredients": [],
         "dataCategory": {
           "DataTable": {
             "ObjectName": "DataTable'DT_CraftingCategory'",
@@ -4953,44 +5698,6 @@
         },
         "flags": 0
       },
-      "item_65248": {
-        "readableName": "Rope",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_65248"
-          },
-          "itemID": "item_65248"
-        },
-        "amount": 1,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65004"
-              },
-              "itemID": "item_65004"
-            },
-            "amount": 199
-          }
-        ],
-        "genericIngredients": [],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
       "item_63001": {
         "readableName": "Explosive I",
         "item": {
@@ -5285,550 +5992,6 @@
               "itemID": "item_65202"
             },
             "amount": 3
-          }
-        ],
-        "genericIngredients": [],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "Item_63030": {
-        "readableName": "Slime trap",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "Item_63030"
-          },
-          "itemID": "Item_63030"
-        },
-        "amount": 2,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_50506"
-              },
-              "itemID": "item_50506"
-            },
-            "amount": 2
-          }
-        ],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Generic_Ore"
-            },
-            "amount": 2,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "Item_63034": {
-        "readableName": "Decoy",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "Item_63034"
-          },
-          "itemID": "Item_63034"
-        },
-        "amount": 2,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_50509"
-              },
-              "itemID": "item_50509"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_50507"
-              },
-              "itemID": "item_50507"
-            },
-            "amount": 1
-          }
-        ],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Generic_Ore"
-            },
-            "amount": 2,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "Item_63031": {
-        "readableName": "Spring trap",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "Item_63031"
-          },
-          "itemID": "Item_63031"
-        },
-        "amount": 2,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65003"
-              },
-              "itemID": "item_65003"
-            },
-            "amount": 5
-          }
-        ],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Generic_Ore"
-            },
-            "amount": 2,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "Item_63032": {
-        "readableName": "Glue trap",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "Item_63032"
-          },
-          "itemID": "Item_63032"
-        },
-        "amount": 2,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65108"
-              },
-              "itemID": "item_65108"
-            },
-            "amount": 5
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_50505"
-              },
-              "itemID": "item_50505"
-            },
-            "amount": 1
-          }
-        ],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Generic_Ore"
-            },
-            "amount": 2,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "Item_63033": {
-        "readableName": "Shock trap",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "Item_63033"
-          },
-          "itemID": "Item_63033"
-        },
-        "amount": 3,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65005"
-              },
-              "itemID": "item_65005"
-            },
-            "amount": 1
-          }
-        ],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Generic_Ore"
-            },
-            "amount": 2,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "Item_63029": {
-        "readableName": "Spikes",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "Item_63029"
-          },
-          "itemID": "Item_63029"
-        },
-        "amount": 2,
-        "ingredients": [],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Generic_Ore"
-            },
-            "amount": 10,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "item_64011": {
-        "readableName": "Monster scent",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_64011"
-          },
-          "itemID": "item_64011"
-        },
-        "amount": 2,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65032"
-              },
-              "itemID": "item_65032"
-            },
-            "amount": 5
-          }
-        ],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Any_MonsterEssence"
-            },
-            "amount": 1,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "item_64010": {
-        "readableName": "Monster lure scent",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_64010"
-          },
-          "itemID": "item_64010"
-        },
-        "amount": 2,
-        "ingredients": [],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Any_MonsterEssence"
-            },
-            "amount": 1,
-            "exludedItems": []
-          },
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Any_Egg"
-            },
-            "amount": 1,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "item_64013": {
-        "readableName": "Monster scent II",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_64013"
-          },
-          "itemID": "item_64013"
-        },
-        "amount": 2,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_50511"
-              },
-              "itemID": "item_50511"
-            },
-            "amount": 1
-          }
-        ],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Any_MonsterEssence"
-            },
-            "amount": 1,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "item_64012": {
-        "readableName": "Monster lure scent II",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_64012"
-          },
-          "itemID": "item_64012"
-        },
-        "amount": 2,
-        "ingredients": [],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Any_MonsterEssence"
-            },
-            "amount": 1,
-            "exludedItems": []
-          },
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Any_Honey"
-            },
-            "amount": 1,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "item_62010": {
-        "readableName": "Solar core",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_62010"
-          },
-          "itemID": "item_62010"
-        },
-        "amount": 1,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_62011"
-              },
-              "itemID": "item_62011"
-            },
-            "amount": 10
           }
         ],
         "genericIngredients": [],
@@ -7017,118 +7180,6 @@
         },
         "flags": 0
       },
-      "item_100011": {
-        "readableName": "Warp sesajen",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_100011"
-          },
-          "itemID": "item_100011"
-        },
-        "amount": 1,
-        "ingredients": [],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Generic_Flower"
-            },
-            "amount": 3,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
-      "item_65820": {
-        "readableName": "Weather conch",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_65820"
-          },
-          "itemID": "item_65820"
-        },
-        "amount": 1,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_62010"
-              },
-              "itemID": "item_62010"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_50514"
-              },
-              "itemID": "item_50514"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_50513"
-              },
-              "itemID": "item_50513"
-            },
-            "amount": 1
-          }
-        ],
-        "genericIngredients": [
-          {
-            "genericItem": {
-              "DataTable": {
-                "ObjectName": "DataTable'DT_TagBasedItemGeneric'",
-                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_TagBasedItemGeneric.0"
-              },
-              "RowName": "Any_SeaScavenge"
-            },
-            "amount": 2,
-            "exludedItems": []
-          }
-        ],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Misc"
-        },
-        "flags": 0
-      },
       "Item_65317": {
         "readableName": "Makeshift scarecrow",
         "item": {
@@ -7137,9 +7188,9 @@
               "ObjectName": "DataTable'DT_InventoryItems'",
               "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
             },
-            "RowName": "item_65317"
+            "RowName": "Item_65317"
           },
-          "itemID": "item_65317"
+          "itemID": "Item_65317"
         },
         "amount": 1,
         "ingredients": [
@@ -8763,57 +8814,6 @@
           "RowName": "Scarecrow"
         },
         "flags": 0
-      },
-      "item_65916": {
-        "readableName": "Fungarian chest",
-        "item": {
-          "data": {
-            "DataTable": {
-              "ObjectName": "DataTable'DT_InventoryItems'",
-              "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-            },
-            "RowName": "item_65916"
-          },
-          "itemID": "item_65916"
-        },
-        "amount": 1,
-        "ingredients": [
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_65003"
-              },
-              "itemID": "item_65003"
-            },
-            "amount": 30
-          },
-          {
-            "item": {
-              "data": {
-                "DataTable": {
-                  "ObjectName": "DataTable'DT_InventoryItems'",
-                  "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/DT_InventoryItems.0"
-                },
-                "RowName": "item_51107"
-              },
-              "itemID": "item_51107"
-            },
-            "amount": 1
-          }
-        ],
-        "genericIngredients": [],
-        "dataCategory": {
-          "DataTable": {
-            "ObjectName": "DataTable'DT_CraftingCategory'",
-            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/Crafting/DT_CraftingCategory.0"
-          },
-          "RowName": "Farming"
-        },
-        "flags": 3
       }
     }
   }

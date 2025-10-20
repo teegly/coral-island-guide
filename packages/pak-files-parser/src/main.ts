@@ -48,7 +48,7 @@ const parsedArgs = getParsedArgs()
 const itemIconPath = config.target.itemIconPath
 const itemIconsTexturesPath = config.source.texturesPath;
 const treeIconTexturesPath = config.source.treeIconPath;
-const skipIfExists = !parsedArgs['prepare'] && true;
+const skipIfExists = false; //!parsedArgs['prepare'] && true;
 const itemIconsImageProcessor: ItemIconsImageProcessor = new ItemIconsImageProcessor(itemIconsTexturesPath, itemIconPath, skipIfExists);
 const treeIconImageProcessor: ItemIconsImageProcessor = new ItemIconsImageProcessor(treeIconTexturesPath, itemIconPath, skipIfExists);
 

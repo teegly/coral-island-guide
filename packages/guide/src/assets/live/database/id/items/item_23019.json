@@ -8,8 +8,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Grains",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "Pod coklat dengan tekstur besar. Bahan dasar coklat.",
     "qualities": {
       "bronze": {

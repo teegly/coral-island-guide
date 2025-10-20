@@ -8,8 +8,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Grains",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "Gousse marron à la texture volumineuse. L'ingrédient de base du chocolat.",
     "qualities": {
       "bronze": {
@@ -598,7 +598,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Autel avancé",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Débloque les téléporteurs d'offrandes",
+      "offeringGroupRewardText": "Débloque la Grotte des souvenirs",
       "offerings": [
         {
           "title": "Plante à fruit",

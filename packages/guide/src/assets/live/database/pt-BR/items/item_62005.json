@@ -1,14 +1,14 @@
 {
   "item": {
     "id": "item_62005",
-    "displayName": "Essência de kelp de bronze",
+    "displayName": "Essência de alga de bronze",
     "price": 1500,
     "sellPrice": 50,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Resource",
     "displayKey": "Resource",
-    "description": "Uma garrafa de essência de kelp.",
+    "description": "Uma garrafa de essência de alga.",
     "qualities": {},
     "iconName": "Bronze_kelp_essence_Sprite",
     "tags": [
@@ -37,7 +37,7 @@
         "amount": 10,
         "item": {
           "id": "item_62001",
-          "displayName": "Kelp de bronze",
+          "displayName": "Alga de bronze",
           "iconName": "Bronze_kelp_Sprite"
         }
       },
@@ -45,7 +45,7 @@
         "amount": 1,
         "item": {
           "id": "item_62005",
-          "displayName": "Essência de kelp de bronze",
+          "displayName": "Essência de alga de bronze",
           "iconName": "Bronze_kelp_essence_Sprite",
           "sellPrice": 50
         }
@@ -65,7 +65,7 @@
         "amount": 1,
         "item": {
           "id": "item_62005",
-          "displayName": "Essência de kelp de bronze",
+          "displayName": "Essência de alga de bronze",
           "iconName": "Bronze_kelp_essence_Sprite"
         }
       },
@@ -73,7 +73,7 @@
         "amount": 2,
         "item": {
           "id": "item_62005",
-          "displayName": "Essência de kelp de bronze",
+          "displayName": "Essência de alga de bronze",
           "iconName": "Bronze_kelp_essence_Sprite",
           "sellPrice": 50
         }
@@ -95,7 +95,7 @@
         "amount": 1,
         "item": {
           "id": "item_62005",
-          "displayName": "Essência de kelp de bronze",
+          "displayName": "Essência de alga de bronze",
           "iconName": "Bronze_kelp_essence_Sprite"
         }
       },
@@ -103,7 +103,7 @@
         "amount": 2,
         "item": {
           "id": "item_62005",
-          "displayName": "Essência de kelp de bronze",
+          "displayName": "Essência de alga de bronze",
           "iconName": "Bronze_kelp_essence_Sprite",
           "sellPrice": 50
         }
@@ -123,7 +123,7 @@
         "amount": 3,
         "item": {
           "id": "item_62005",
-          "displayName": "Essência de kelp de bronze",
+          "displayName": "Essência de alga de bronze",
           "iconName": "Bronze_kelp_essence_Sprite"
         }
       },
@@ -131,7 +131,7 @@
         "amount": 1,
         "item": {
           "id": "item_62007",
-          "displayName": "Essência de kelp de prata",
+          "displayName": "Essência de alga de prata",
           "iconName": "Silver_Kelp_Essence_Sprite",
           "sellPrice": 150
         }
@@ -149,7 +149,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 3
@@ -416,7 +416,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 5
@@ -452,7 +452,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 6
@@ -488,7 +488,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 7
@@ -524,7 +524,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 8
@@ -576,7 +576,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 1
@@ -618,7 +618,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 5
@@ -677,7 +677,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 5
@@ -718,7 +718,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Altar de Raridades",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Desbloqueia o acesso à Savana",
+      "offeringGroupRewardText": "Desbloqueia o Sesajen de teletransporte",
       "offerings": [
         {
           "title": "Recursos Raros",
@@ -729,7 +729,7 @@
               {
                 "item": {
                   "id": "item_62008",
-                  "displayName": "Essência de kelp de ósmio",
+                  "displayName": "Essência de alga de ósmio",
                   "iconName": "Osmium_Kelp_Essence_Sprite"
                 },
                 "amount": 5
@@ -769,7 +769,7 @@
             {
               "item": {
                 "id": "item_62006",
-                "displayName": "Essência de kelp de ouro",
+                "displayName": "Essência de alga de ouro",
                 "iconName": "Gold_Kelp_Essence_Sprite"
               },
               "amount": 3,
@@ -778,7 +778,7 @@
             {
               "item": {
                 "id": "item_62007",
-                "displayName": "Essência de kelp de prata",
+                "displayName": "Essência de alga de prata",
                 "iconName": "Silver_Kelp_Essence_Sprite"
               },
               "amount": 3,
@@ -787,7 +787,7 @@
             {
               "item": {
                 "id": "item_62005",
-                "displayName": "Essência de kelp de bronze",
+                "displayName": "Essência de alga de bronze",
                 "iconName": "Bronze_kelp_essence_Sprite"
               },
               "amount": 3,
@@ -826,7 +826,7 @@
             {
               "item": {
                 "id": "item_62005",
-                "displayName": "Essência de kelp de bronze",
+                "displayName": "Essência de alga de bronze",
                 "iconName": "Bronze_kelp_essence_Sprite"
               },
               "amount": 5,

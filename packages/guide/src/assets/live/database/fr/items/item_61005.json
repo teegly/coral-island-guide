@@ -191,6 +191,50 @@
       }
     },
     {
+      "key": "item_65050",
+      "displayName": "Tap",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Bois",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 40
+        },
+        {
+          "item": {
+            "id": "item_61005",
+            "displayName": "Barre de bronze",
+            "iconName": "Bronze_Bar_Sprite"
+          },
+          "amount": 3
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "craftingUnlock": {
+        "key": "item_65050",
+        "masteryLevel": 4,
+        "masteryType": "Foraging"
+      },
+      "item": {
+        "id": "item_65050",
+        "displayName": "Robinet",
+        "price": 1000,
+        "sellPrice": 155,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Récupère la sève d'un arbre. Non installable sur les arbres fruitiers.",
+        "qualities": {},
+        "iconName": "Tap_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_65015",
       "displayName": "Mayonnaise machine",
       "amount": 1,
@@ -239,50 +283,6 @@
         "description": "Transforme un œuf en un pot de mayonnaise.",
         "qualities": {},
         "iconName": "Mayonnaise_machine_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65050",
-      "displayName": "Tap",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Bois",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 40
-        },
-        {
-          "item": {
-            "id": "item_61005",
-            "displayName": "Barre de bronze",
-            "iconName": "Bronze_Bar_Sprite"
-          },
-          "amount": 3
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "craftingUnlock": {
-        "key": "item_65050",
-        "masteryLevel": 4,
-        "masteryType": "Foraging"
-      },
-      "item": {
-        "id": "item_65050",
-        "displayName": "Robinet",
-        "price": 1000,
-        "sellPrice": 155,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Récupère la sève d'un arbre. Non installable sur les arbres fruitiers.",
-        "qualities": {},
-        "iconName": "Tap_Sprite",
         "tags": []
       }
     },
@@ -888,7 +888,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Autel rare",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Débloque l'accès à Savannah",
+      "offeringGroupRewardText": "Débloque le Téléporteur d'offrandes",
       "offerings": [
         {
           "title": "Ressources rares",

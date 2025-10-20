@@ -8,8 +8,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Grains",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "Una vaina marrón con una textura rugosa. Ingrediente principal del chocolate.",
     "qualities": {
       "bronze": {
@@ -598,7 +598,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Altar avanzado",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Desbloquea una ofrenda deforme",
+      "offeringGroupRewardText": "Desbloquea la Cueva de los Recuerdos",
       "offerings": [
         {
           "title": "Planta frutal",

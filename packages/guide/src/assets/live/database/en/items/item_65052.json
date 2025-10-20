@@ -629,11 +629,6 @@
               "iconName": "Cotton_Sprite"
             },
             {
-              "id": "item_24003",
-              "displayName": "Almond",
-              "iconName": "Almond_Sprite"
-            },
-            {
               "id": "item_24004",
               "displayName": "Avocado",
               "iconName": "Avocado_Sprite"
@@ -1534,58 +1529,6 @@
   ],
   "usedToCraft": [
     {
-      "key": "item_65299",
-      "displayName": "Compost bin",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Wood",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65052",
-            "displayName": "Trash",
-            "iconName": "Trash_Sprite"
-          },
-          "amount": 5
-        },
-        {
-          "item": {
-            "id": "item_65108",
-            "displayName": "Sap",
-            "iconName": "Sap_Sprite"
-          },
-          "amount": 5
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "craftingUnlock": {
-        "key": "item_65299",
-        "masteryLevel": 2,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65299",
-        "displayName": "Compost bin",
-        "price": 200,
-        "sellPrice": 50,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Compostbindesc",
-        "qualities": {},
-        "iconName": "Compost_bin_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65049",
       "displayName": "Recycling machine",
       "amount": 1,
@@ -1634,6 +1577,58 @@
         "description": "Turns one resource into another resource.",
         "qualities": {},
         "iconName": "Recycling_Machine_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65299",
+      "displayName": "Compost bin",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Wood",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65052",
+            "displayName": "Trash",
+            "iconName": "Trash_Sprite"
+          },
+          "amount": 5
+        },
+        {
+          "item": {
+            "id": "item_65108",
+            "displayName": "Sap",
+            "iconName": "Sap_Sprite"
+          },
+          "amount": 5
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "craftingUnlock": {
+        "key": "item_65299",
+        "masteryLevel": 2,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65299",
+        "displayName": "Compost bin",
+        "price": 200,
+        "sellPrice": 50,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Compostbindesc",
+        "qualities": {},
+        "iconName": "Compost_bin_Sprite",
         "tags": []
       }
     },
@@ -2068,8 +2063,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "Discourages crows from disturbing crops. Protects an 11x11 area.",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",

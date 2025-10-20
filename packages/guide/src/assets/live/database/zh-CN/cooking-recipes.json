@@ -1215,7 +1215,7 @@
         "cookingKey": "ButterCroissant",
         "item": {
           "id": "item_80027",
-          "displayName": "黄油牛角面包",
+          "displayName": "黄油可颂",
           "price": 250,
           "sellPrice": 123,
           "sellAt": [],
@@ -6960,9 +6960,9 @@
         "ingredients": [
           {
             "item": {
-              "id": "item_21007",
-              "displayName": "豌豆",
-              "iconName": "Peas_Sprite"
+              "id": "item_21015",
+              "displayName": "大豆",
+              "iconName": "Soybean_Sprite"
             },
             "amount": 1
           }
@@ -7690,42 +7690,7 @@
             "amount": 1
           }
         ],
-        "eitherOrIngredients": [
-          [
-            {
-              "item": {
-                "id": "item_31004",
-                "displayName": "牛奶",
-                "iconName": "Milk_Sprite_"
-              },
-              "amount": 0
-            },
-            {
-              "item": {
-                "id": "item_31016",
-                "displayName": "牛奶（大）",
-                "iconName": "Large_milk_Sprite_"
-              },
-              "amount": 0
-            },
-            {
-              "item": {
-                "id": "item_31024",
-                "displayName": "金奶",
-                "iconName": "Golden_milk_Sprite"
-              },
-              "amount": 1
-            },
-            {
-              "item": {
-                "id": "item_31022",
-                "displayName": "金奶（大）",
-                "iconName": "Large_golden_milk_Sprite"
-              },
-              "amount": 1
-            }
-          ]
-        ]
+        "eitherOrIngredients": []
       },
       {
         "key": "item_41036",

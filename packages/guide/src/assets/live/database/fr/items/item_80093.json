@@ -299,42 +299,7 @@
           "amount": 1
         }
       ],
-      "eitherOrIngredients": [
-        [
-          {
-            "item": {
-              "id": "item_31004",
-              "displayName": "Lait",
-              "iconName": "Milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31016",
-              "displayName": "Grand lait",
-              "iconName": "Large_milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31024",
-              "displayName": "Lait doré",
-              "iconName": "Golden_milk_Sprite"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "id": "item_31022",
-              "displayName": "Grand lait doré",
-              "iconName": "Large_golden_milk_Sprite"
-            },
-            "amount": 1
-          }
-        ]
-      ]
+      "eitherOrIngredients": []
     }
   ],
   "requiredAsOffering": [

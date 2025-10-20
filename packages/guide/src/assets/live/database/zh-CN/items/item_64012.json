@@ -1,7 +1,7 @@
 {
   "item": {
     "id": "item_64012",
-    "displayName": "怪物诱饵的香水II",
+    "displayName": "挑衅气息II",
     "price": 140,
     "sellPrice": 35,
     "sellAt": [],
@@ -320,7 +320,7 @@
       },
       "item": {
         "id": "item_64012",
-        "displayName": "怪物诱饵的香水II",
+        "displayName": "挑衅气息II",
         "price": 140,
         "sellPrice": 35,
         "sellAt": [],
@@ -341,7 +341,7 @@
     {
       "item": {
         "id": "item_64012",
-        "displayName": "怪物诱饵的香水II",
+        "displayName": "挑衅气息II",
         "iconName": "Increase_spawn_scent_Sprite",
         "price": 140,
         "sellPrice": 35

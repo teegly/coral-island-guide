@@ -6,8 +6,8 @@
     "sellPrice": 110,
     "sellAt": [],
     "stackable": true,
-    "inventoryCategory": "ResourceEquipment",
-    "displayKey": "ResourceEquipment",
+    "inventoryCategory": "Farming",
+    "displayKey": "Farming",
     "description": "Evita que los cuervos se acerquen a los cultivos. Protege una área de 11x11 casillas.",
     "qualities": {},
     "iconName": "Scrap_scarecrow_Sprite",
@@ -53,8 +53,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "Evita que los cuervos se acerquen a los cultivos. Protege una área de 11x11 casillas.",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",
@@ -71,7 +71,8 @@
         "itemLimit": 1,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": true
+        "isUnlockRecipe": true,
+        "isItemUnLimitNotUnlockRecipe": true
       },
       "item": {
         "id": "item_65115",

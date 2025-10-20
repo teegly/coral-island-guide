@@ -1,7 +1,7 @@
 {
   "item": {
     "id": "item_100011",
-    "displayName": "Sesajen teleportasi",
+    "displayName": "Sesajen warp",
     "price": 110,
     "sellPrice": 45,
     "sellAt": [],
@@ -193,7 +193,7 @@
       "category": "Misc",
       "item": {
         "id": "item_100011",
-        "displayName": "Sesajen teleportasi",
+        "displayName": "Sesajen warp",
         "price": 110,
         "sellPrice": 45,
         "sellAt": [],

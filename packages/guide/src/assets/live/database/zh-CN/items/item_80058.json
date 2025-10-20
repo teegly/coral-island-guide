@@ -294,7 +294,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_80058",
@@ -358,7 +359,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "高级祭坛",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "解锁鲜花运输",
+      "offeringGroupRewardText": "解锁记忆之洞",
       "offerings": [
         {
           "title": "初级烹饪",
@@ -452,7 +453,7 @@
       "townRank": 0,
       "tag": [],
       "priceOverride": 0,
-      "priority": 10,
+      "priority": 11,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

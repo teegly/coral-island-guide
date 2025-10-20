@@ -3938,42 +3938,31 @@
             "amount": 1
           }
         ],
-        "eitherOrIngredients": [
-          [
+        "eitherOrIngredients": [],
+        "additionsToGenerics": {
+          "แมงมุมใดก็ได้": [
             {
-              "item": {
-                "id": "item_131010",
-                "displayName": "แมงมุมสุนัขป่า",
-                "iconName": "Wolf_Spider_Sprite"
-              },
-              "amount": 1
+              "id": "item_131010",
+              "displayName": "แมงมุมสุนัขป่า",
+              "iconName": "Wolf_Spider_Sprite"
             },
             {
-              "item": {
-                "id": "item_131018",
-                "displayName": "แมงมุมสีเขียวมองโกเลีย",
-                "iconName": "Magnolia_green_jumper_Sprite"
-              },
-              "amount": 1
+              "id": "item_131018",
+              "displayName": "แมงมุมสีเขียวมองโกเลีย",
+              "iconName": "Magnolia_green_jumper_Sprite"
             },
             {
-              "item": {
-                "id": "item_132010",
-                "displayName": "แมงมุมแม่ม่ายดำ",
-                "iconName": "Widow_Spider_Sprite"
-              },
-              "amount": 1
+              "id": "item_132010",
+              "displayName": "แมงมุมแม่ม่ายดำ",
+              "iconName": "Widow_Spider_Sprite"
             },
             {
-              "item": {
-                "id": "item_133008",
-                "displayName": "แมงมุมทารันทูล่า",
-                "iconName": "Tarantula_Sprite"
-              },
-              "amount": 1
+              "id": "item_133008",
+              "displayName": "แมงมุมทารันทูล่า",
+              "iconName": "Tarantula_Sprite"
             }
           ]
-        ]
+        }
       }
     ],
     "Skillet": [
@@ -6976,9 +6965,9 @@
         "ingredients": [
           {
             "item": {
-              "id": "item_21007",
-              "displayName": "ถั่วลันเตา",
-              "iconName": "Peas_Sprite"
+              "id": "item_21015",
+              "displayName": "ถั่วเหลือง",
+              "iconName": "Soybean_Sprite"
             },
             "amount": 1
           }
@@ -7706,42 +7695,7 @@
             "amount": 1
           }
         ],
-        "eitherOrIngredients": [
-          [
-            {
-              "item": {
-                "id": "item_31004",
-                "displayName": "นม",
-                "iconName": "Milk_Sprite_"
-              },
-              "amount": 0
-            },
-            {
-              "item": {
-                "id": "item_31016",
-                "displayName": "นมวัวขวดใหญ่",
-                "iconName": "Large_milk_Sprite_"
-              },
-              "amount": 0
-            },
-            {
-              "item": {
-                "id": "item_31024",
-                "displayName": "นมทองคำขวดเล็ก",
-                "iconName": "Golden_milk_Sprite"
-              },
-              "amount": 1
-            },
-            {
-              "item": {
-                "id": "item_31022",
-                "displayName": "นมทองคำขวดใหญ่",
-                "iconName": "Large_golden_milk_Sprite"
-              },
-              "amount": 1
-            }
-          ]
-        ]
+        "eitherOrIngredients": []
       },
       {
         "key": "item_41036",

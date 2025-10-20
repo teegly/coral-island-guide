@@ -62,6 +62,63 @@
       },
       "genericInput": null,
       "machine": "Keg"
+    },
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 4,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41425",
+          "displayName": "Air kelapa coconut tall",
+          "iconName": "Coral_Tall_Coconut_Water_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41425",
+          "displayName": "Air kelapa coconut tall",
+          "iconName": "Coral_Tall_Coconut_Water_Sprite",
+          "sellPrice": 75
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "bronze",
+          "to": "silver",
+          "day": 0,
+          "time": {
+            "hours": 3,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 4,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 7,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
     }
   ],
   "artisanIngredient": [
@@ -130,6 +187,63 @@
         }
       ],
       "machine": "Barrel"
+    },
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 4,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41425",
+          "displayName": "Air kelapa coconut tall",
+          "iconName": "Coral_Tall_Coconut_Water_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41425",
+          "displayName": "Air kelapa coconut tall",
+          "iconName": "Coral_Tall_Coconut_Water_Sprite",
+          "sellPrice": 75
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "bronze",
+          "to": "silver",
+          "day": 0,
+          "time": {
+            "hours": 3,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 4,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 7,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
     }
   ],
   "consumables": {

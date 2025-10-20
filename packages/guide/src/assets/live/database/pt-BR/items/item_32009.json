@@ -163,7 +163,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -255,7 +255,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Altar Avançado",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Desbloqueia Sesajen de Dobra",
+      "offeringGroupRewardText": "Desbloqueia a Caverna de Memórias",
       "offerings": [
         {
           "title": "Animais de Celeiro",

@@ -684,11 +684,6 @@
               "iconName": "Cotton_Sprite"
             },
             {
-              "id": "item_24003",
-              "displayName": "아몬드",
-              "iconName": "Almond_Sprite"
-            },
-            {
               "id": "item_24004",
               "displayName": "Avocado",
               "iconName": "Avocado_Sprite"
@@ -2126,7 +2121,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "고급 제단",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "순간이동 공물 잠금 해제",
+      "offeringGroupRewardText": "기억의 동굴 해금",
       "offerings": [
         {
           "title": "과일 식물",

@@ -965,117 +965,6 @@
       "eitherOrIngredients": []
     },
     {
-      "key": "item_80093",
-      "amount": 1,
-      "cookingKey": "EsDoger",
-      "item": {
-        "id": "item_80093",
-        "displayName": "Esdoger",
-        "price": 260,
-        "sellPrice": 100,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Consumable",
-        "displayKey": "Consumable",
-        "description": "Rosafarbenes Kokosmilcheis mit allem Drum und Dran. Lecker!",
-        "qualities": {
-          "bronze": {
-            "price": 299,
-            "sellPrice": 115
-          },
-          "silver": {
-            "price": 325,
-            "sellPrice": 125
-          },
-          "gold": {
-            "price": 390,
-            "sellPrice": 150
-          },
-          "osmium": {
-            "price": 520,
-            "sellPrice": 200
-          }
-        },
-        "iconName": "Es_Doger_Sprite",
-        "tags": [
-          "income.other",
-          "Item.Consumable.Food",
-          "item.cooking.ingredient"
-        ]
-      },
-      "utensils": [
-        "CeramicBowl"
-      ],
-      "genericIngredients": [
-        {
-          "amount": 1,
-          "genericItem": {
-            "key": "Any_Coconut",
-            "tags": [
-              "item.coconut"
-            ],
-            "iconName": "Any_Coconut_Sprite",
-            "displayName": "Beliebige Kokosnuss"
-          },
-          "key": "Any_Coconut"
-        }
-      ],
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_41028",
-            "displayName": "Sirup",
-            "iconName": "Syrup_Sprite"
-          },
-          "amount": 1
-        },
-        {
-          "item": {
-            "id": "item_23013",
-            "displayName": "Süßkartoffel",
-            "iconName": "Sweet_Potato_Sprite"
-          },
-          "amount": 1
-        }
-      ],
-      "eitherOrIngredients": [
-        [
-          {
-            "item": {
-              "id": "item_31004",
-              "displayName": "Milch",
-              "iconName": "Milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31016",
-              "displayName": "Große Milch",
-              "iconName": "Large_milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31024",
-              "displayName": "Goldene Milch",
-              "iconName": "Golden_milk_Sprite"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "id": "item_31022",
-              "displayName": "Große goldene Milch",
-              "iconName": "Large_golden_milk_Sprite"
-            },
-            "amount": 1
-          }
-        ]
-      ]
-    },
-    {
       "key": "item_41016",
       "amount": 1,
       "cookingKey": "Yogurt",
@@ -1140,7 +1029,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Fortgeschrittener Altar",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Schaltet Warp Sesajen frei",
+      "offeringGroupRewardText": "Schaltet die Höhle der Erinnerungen frei",
       "offerings": [
         {
           "title": "Scheunentiere",

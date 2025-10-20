@@ -9199,6 +9199,32 @@
               }
             },
             "effects": []
+          },
+          {
+            "id": "luke_15B",
+            "location": "Location_PlayerHome",
+            "canTriggerSameDay": true,
+            "cutscene": "HS_Luke_Heart_15_B",
+            "enabled": true,
+            "otherCutscenesState": [
+              {
+                "HS_Luke_Heart_15_A": true
+              }
+            ],
+            "specificDay": [],
+            "specificMonth": [],
+            "specificWeather": [],
+            "time": {
+              "fromTime": {
+                "hours": 18,
+                "minutes": 0
+              },
+              "toTime": {
+                "hours": 20,
+                "minutes": 0
+              }
+            },
+            "effects": []
           }
         ]
       }
@@ -16712,7 +16738,9 @@
               "Saturday"
             ],
             "specificMonth": [],
-            "specificWeather": [],
+            "specificWeather": [
+              "Sunny"
+            ],
             "time": {
               "fromTime": {
                 "hours": 18,

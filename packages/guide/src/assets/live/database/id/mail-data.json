@@ -2248,7 +2248,7 @@
     "key": "JeffSmith_Challenge_4",
     "sender": "<NPCName>Jeff Smith</>, Guild Petani",
     "title": "Tantangan Selesai",
-    "content": "Kamu sekarang petani handal. Kerja bagus, nak! Hadiah terakhirku untukmu adalah cetak biru untuk barel fermentasi.\r\n\r\nLetakkan sesuatu di dalam barel fermentasi ini untuk menghasilkan produk yang artisan. Harganya paling tinggi ketika dijual, namun butuh waktu lama agar prosesnya selesai.",
+    "content": "Kamu sekarang petani handal. Kerja bagus, nak! Hadiah terakhirku untukmu adalah barel fermentasi.\r\n\r\nLetakkan sesuatu di dalam barel fermentasi ini untuk menghasilkan produk yang artisan. Harganya paling tinggi ketika dijual, namun butuh waktu lama agar prosesnya selesai.",
     "isImportant": true,
     "tags": [],
     "mailType": "SideQuest",
@@ -2293,7 +2293,7 @@
   {
     "key": "giant_human_request",
     "sender": "<NPCName>Gong.</>",
-    "title": "Permintaan Gong",
+    "title": "Permintaan <NPCName>Gong</>",
     "content": "<NPCName>Gong.</> hampir memiliki semua hal <NPCName>Gong.</> perlu manusia, tetapi <NPCName>Gong.</> masih kurang beberapa hal. Ini apa yang dibutuhkan <NPCName>Gong.</>, bisakah Manusia membantu?\r\n\r\nPenutup mata bundar hitam\r\nBeberapa rambut mbek\r\nBunga apapun\r\nBenda kain besar, seperti yang dipakai oleh pria perahu besar\r\n\r\nOke itu semua <NPCName>Gong</> perlukan.",
     "isImportant": true,
     "tags": [],
@@ -4463,5 +4463,27 @@
         }
       }
     ]
+  },
+  {
+    "key": "wedding_dress_land",
+    "sender": "<NPCName>Antonio</>",
+    "title": "\"Setelan Pernikahan!\"",
+    "content": "Kata-kata menyebar cepat—selamat atas pertunanganmu! Itu bukan hal kecil, loh.\r\nKalau kamu belum ada pilihan baju, mampir ke White Flamingo. Kami punya koleksi baru gaun dan jas pernikahan, cocok untuk hari penting kamu.\r\n\r\nSaran kami: beli setelan kamu jauh sebelum pernikahannya.\r\nBelanja h-1 tidak pernah berhasil.\r\n",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "Dengan berkat dan rahmat lautan,",
+    "greetOpenMessage": "Halo,"
+  },
+  {
+    "key": "wedding_dress_ocean",
+    "sender": "<NPCName>Lanin</>",
+    "title": "\"Setelan Pernikahan!\"",
+    "content": "Bisik-bisik soal pertunanganmu sudah sampai ke kembang-kembang terumbu karang—selamat, jiwa yang bercahaya. \r\nTidal Threads sekarang jual pakaian pernikahan. Mampirlah dan lihat-lihat setelan spesial kami untuk hari besar kamu.\r\n\r\nJangan lupa untuk beli setelannya sebelum hari pernikahanmu, ya!",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "Sampai jumpa,",
+    "greetOpenMessage": "Untuk <PlayerName>$player</>,"
   }
 ]

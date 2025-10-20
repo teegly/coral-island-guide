@@ -507,7 +507,7 @@
   {
     "key": "cherry_blossom_reminder",
     "sender": "<NPCName>Alcalde Connor</>",
-    "title": "Comida compartida de flores de cerezo",
+    "title": "Comida del Cerezo en Flor",
     "content": "Mañana nos reuniremos en el <Places>lago</> para celebrar el inicio de la primavera. El festival será un pícnic comunitario, así que asegúrate de traer algo rico.\r\n\r\nLlega entre las 09:00 - 14:00.",
     "isImportant": true,
     "tags": [],
@@ -2248,7 +2248,7 @@
     "key": "JeffSmith_Challenge_4",
     "sender": "Jeff Smith, Gremio de Agricultores",
     "title": "Desafío completado",
-    "content": "Se podría decir que tus habilidades en la granja son avanzadas. ¡Buen trabajo, retoño! Mi último regalo para ti es un plano para un tonel de añejamiento.\r\n\r\nColoca artículos en el tonel de añejamiento para obtener productos artesanos madurados. Son los más rentables, aunque necesitan tiempo para madurar.",
+    "content": "Se podría decir que tus habilidades en la granja son avanzadas. ¡Buen trabajo, retoño! Mi último regalo para ti es un tonel de añejamiento.\r\n\r\nColoca artículos en el tonel de añejamiento para obtener productos artesanos madurados. Son los más rentables, aunque necesitan tiempo para madurar.",
     "isImportant": true,
     "tags": [],
     "mailType": "SideQuest",
@@ -4463,5 +4463,27 @@
         }
       }
     ]
+  },
+  {
+    "key": "wedding_dress_land",
+    "sender": "<NPCName>Antonio</>",
+    "title": "«¡Atuendos de boda!»",
+    "content": "Las noticias vuelan… ¡Muchas felicidades por la boda! Es un paso enorme, ¿eh?\r\nSi aún no has decidido qué te vas a poner, pásate por el Flamenco Blanco. Acaba de llegarnos una colección exclusiva de vestidos y trajes de boda que son ideales para el gran día.\r\n\r\nEso sí, un consejillo: haz las compras con tiempo. Como te esperes al último minuto, ¡igual no encuentras nada!",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "Que la bendición del océano te guíe,",
+    "greetOpenMessage": "¡Buenas!"
+  },
+  {
+    "key": "wedding_dress_ocean",
+    "sender": "<NPCName>Lanin</>",
+    "title": "«¡Atuendos de boda!»",
+    "content": "Los rumores de tu boda han llegado hasta el corazón del coral… Mi más sincera enhorabuena, alma reluciente.\r\nEn Costuras marineras tenemos toda una selección de vestidos y trajes de boda. Ven a hacernos una visita y te buscaremos algo especial para el gran día.\r\n\r\n¡Eso sí, ven antes de la boda!",
+    "isImportant": false,
+    "tags": [],
+    "mailType": null,
+    "greetCloseMessage": "Nos vemos pronto,",
+    "greetOpenMessage": "Para <PlayerName>$player</>,"
   }
 ]

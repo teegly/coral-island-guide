@@ -336,7 +336,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Autel rare",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Débloque l'accès à Savannah",
+      "offeringGroupRewardText": "Débloque le Téléporteur d'offrandes",
       "offerings": [
         {
           "title": "Cuisine rare",
@@ -441,7 +441,7 @@
       "townRank": 0,
       "tag": [],
       "priceOverride": 0,
-      "priority": 10,
+      "priority": 3,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

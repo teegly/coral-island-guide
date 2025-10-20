@@ -28,7 +28,10 @@
         "Shop_ClosedMessage": "Sorry, we're currently closed!",
         "Pufferfish_Shop": "Pufferfish Shop",
         "Option_SplitSelect": "Split selection",
-        "Description_ShipToUnlock": "Ship crop to unlock seed"
+        "Description_ShipToUnlock": "Ship crop to unlock seed",
+        "Option_Price": "Price",
+        "Option_Default": "Default",
+        "CannotBuy_InsufficientMerit": "You have insufficent merit point."
       },
       "KeysToMetaData": {}
     }

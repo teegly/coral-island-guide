@@ -696,6 +696,50 @@
       }
     },
     {
+      "key": "item_65017",
+      "displayName": "Mason jar",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Madera",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 30
+        },
+        {
+          "item": {
+            "id": "item_65202",
+            "displayName": "Cristal",
+            "iconName": "Glass_Sprite"
+          },
+          "amount": 12
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "craftingUnlock": {
+        "key": "item_65017",
+        "masteryLevel": 3,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65017",
+        "displayName": "Envasadora",
+        "price": 1000,
+        "sellPrice": 180,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ArtisanEquipment",
+        "displayKey": "ArtisanEquipment",
+        "description": "Conserva las frutas y verduras.",
+        "qualities": {},
+        "iconName": "Mason_jar_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_65016",
       "displayName": "Bee house",
       "amount": 1,
@@ -740,8 +784,8 @@
       }
     },
     {
-      "key": "item_65017",
-      "displayName": "Mason jar",
+      "key": "item_65050",
+      "displayName": "Tap",
       "amount": 1,
       "ingredients": [
         {
@@ -750,36 +794,36 @@
             "displayName": "Madera",
             "iconName": "Wood_Sprite"
           },
-          "amount": 30
+          "amount": 40
         },
         {
           "item": {
-            "id": "item_65202",
-            "displayName": "Cristal",
-            "iconName": "Glass_Sprite"
+            "id": "item_61005",
+            "displayName": "Lingote de bronce",
+            "iconName": "Bronze_Bar_Sprite"
           },
-          "amount": 12
+          "amount": 3
         }
       ],
       "genericIngredients": [],
       "category": "Artisan",
       "craftingUnlock": {
-        "key": "item_65017",
-        "masteryLevel": 3,
-        "masteryType": "Farming"
+        "key": "item_65050",
+        "masteryLevel": 4,
+        "masteryType": "Foraging"
       },
       "item": {
-        "id": "item_65017",
-        "displayName": "Envasadora",
+        "id": "item_65050",
+        "displayName": "Resinera",
         "price": 1000,
-        "sellPrice": 180,
+        "sellPrice": 155,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ArtisanEquipment",
-        "displayKey": "ArtisanEquipment",
-        "description": "Conserva las frutas y verduras.",
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Recoge la savia de los árboles. No se puede colocar en ningún árbol frutal.",
         "qualities": {},
-        "iconName": "Mason_jar_Sprite",
+        "iconName": "Tap_Sprite",
         "tags": []
       }
     },
@@ -832,50 +876,6 @@
         "description": "Convierte los huevos en tarros de mayonesa.",
         "qualities": {},
         "iconName": "Mayonnaise_machine_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65050",
-      "displayName": "Tap",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Madera",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 40
-        },
-        {
-          "item": {
-            "id": "item_61005",
-            "displayName": "Lingote de bronce",
-            "iconName": "Bronze_Bar_Sprite"
-          },
-          "amount": 3
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "craftingUnlock": {
-        "key": "item_65050",
-        "masteryLevel": 4,
-        "masteryType": "Foraging"
-      },
-      "item": {
-        "id": "item_65050",
-        "displayName": "Resinera",
-        "price": 1000,
-        "sellPrice": 155,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Recoge la savia de los árboles. No se puede colocar en ningún árbol frutal.",
-        "qualities": {},
-        "iconName": "Tap_Sprite",
         "tags": []
       }
     },
@@ -1131,6 +1131,45 @@
         "description": "Almacena toda clase de objetos. Se puede colocar en la granja y puede contener hasta 20 objetos.",
         "qualities": {},
         "iconName": "Makeshift_chest_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65916",
+      "displayName": "Fungarian chest",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Madera",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 30
+        },
+        {
+          "item": {
+            "id": "item_51107",
+            "displayName": "Colmenilla",
+            "iconName": "Morel_Sprite"
+          },
+          "amount": 1
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "item": {
+        "id": "item_65916",
+        "displayName": "Cofre fungariano",
+        "price": 11,
+        "sellPrice": 11,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "Almacena toda clase de objetos. Se puede colocar en la granja, y puede contener hasta 40 objetos.",
+        "qualities": {},
+        "iconName": "Fungarian_Chest_Sprite",
         "tags": []
       }
     },
@@ -1596,6 +1635,72 @@
       }
     },
     {
+      "key": "Item_63031",
+      "displayName": "Spring trap",
+      "amount": 2,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "Madera",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 5
+        }
+      ],
+      "genericIngredients": [
+        {
+          "key": "Generic_Ore",
+          "amount": 2,
+          "genericItem": {
+            "key": "Generic_Ore",
+            "tags": [
+              "item.ore"
+            ],
+            "iconName": "T_AnyOre_Sprite",
+            "displayName": "Cualquier mineral",
+            "items": [
+              {
+                "id": "item_61001",
+                "displayName": "Mena de bronce",
+                "iconName": "Bronze_Ore_Sprite"
+              },
+              {
+                "id": "item_61002",
+                "displayName": "Mena de oro",
+                "iconName": "Gold_Ore_Sprite"
+              },
+              {
+                "id": "item_61004",
+                "displayName": "Mena de osmio",
+                "iconName": "Osmium_Ore_Sprite"
+              },
+              {
+                "id": "item_61045",
+                "displayName": "Mena de plata",
+                "iconName": "Silver_Ore_Sprite"
+              }
+            ]
+          }
+        }
+      ],
+      "category": "Misc",
+      "item": {
+        "id": "item_63031",
+        "displayName": "Trampa de muelle",
+        "price": 50,
+        "sellPrice": 15,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Trap",
+        "displayKey": "Trap",
+        "description": "Una trampa. Lanza hacia atrás a los enemigos.",
+        "qualities": {},
+        "iconName": "Spring_trap_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_65361",
       "displayName": "Makeshift floor tile",
       "amount": 1,
@@ -2056,72 +2161,6 @@
         "description": "Hecho de heno. Utiliza un objeto para modificar lo que muestra.",
         "qualities": {},
         "iconName": "Hay_Sign_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "Item_63031",
-      "displayName": "Spring trap",
-      "amount": 2,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Madera",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 5
-        }
-      ],
-      "genericIngredients": [
-        {
-          "key": "Generic_Ore",
-          "amount": 2,
-          "genericItem": {
-            "key": "Generic_Ore",
-            "tags": [
-              "item.ore"
-            ],
-            "iconName": "T_AnyOre_Sprite",
-            "displayName": "Cualquier mineral",
-            "items": [
-              {
-                "id": "item_61001",
-                "displayName": "Mena de bronce",
-                "iconName": "Bronze_Ore_Sprite"
-              },
-              {
-                "id": "item_61002",
-                "displayName": "Mena de oro",
-                "iconName": "Gold_Ore_Sprite"
-              },
-              {
-                "id": "item_61004",
-                "displayName": "Mena de osmio",
-                "iconName": "Osmium_Ore_Sprite"
-              },
-              {
-                "id": "item_61045",
-                "displayName": "Mena de plata",
-                "iconName": "Silver_Ore_Sprite"
-              }
-            ]
-          }
-        }
-      ],
-      "category": "Misc",
-      "item": {
-        "id": "item_63031",
-        "displayName": "Trampa de muelle",
-        "price": 50,
-        "sellPrice": 15,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Trap",
-        "displayKey": "Trap",
-        "description": "Una trampa. Lanza hacia atrás a los enemigos.",
-        "qualities": {},
-        "iconName": "Spring_trap_Sprite",
         "tags": []
       }
     },
@@ -3004,45 +3043,6 @@
         "description": "Evita que los cuervos se acerquen a los cultivos. Protege una área de 11x11 casillas.",
         "qualities": {},
         "iconName": "Ondel_Ondel_Pretty_Scarecrow_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65916",
-      "displayName": "Fungarian chest",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "Madera",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 30
-        },
-        {
-          "item": {
-            "id": "item_51107",
-            "displayName": "Colmenilla",
-            "iconName": "Morel_Sprite"
-          },
-          "amount": 1
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "item": {
-        "id": "item_65916",
-        "displayName": "Cofre fungariano",
-        "price": 11,
-        "sellPrice": 11,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "Almacena toda clase de objetos. Se puede colocar en la granja, y puede contener hasta 40 objetos.",
-        "qualities": {},
-        "iconName": "Fungarian_Chest_Sprite",
         "tags": []
       }
     }

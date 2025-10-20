@@ -446,8 +446,11 @@
           "SubPathString": ""
         },
         "enemyDataRow": {
-          "DataTable": null,
-          "RowName": "None"
+          "DataTable": {
+            "ObjectName": "DataTable'DT_Enemies'",
+            "ObjectPath": "ProjectCoral/Content/ProjectCoral/Enemies/DT_Enemies.0"
+          },
+          "RowName": "sphekterEarth"
         }
       },
       "sphekterWater": {

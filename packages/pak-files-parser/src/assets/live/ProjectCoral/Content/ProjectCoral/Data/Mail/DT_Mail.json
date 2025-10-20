@@ -14356,6 +14356,114 @@
           "SubPathString": ""
         },
         "isImportantMail": true
+      },
+      "wedding_dress_land": {
+        "sender": {
+          "Namespace": "",
+          "Key": "19365163413397EBF635329917EAB8FD",
+          "SourceString": "<NPCName>Antonio</>",
+          "LocalizedString": "<NPCName>Antonio</>"
+        },
+        "title": {
+          "Namespace": "",
+          "Key": "F785F9AA4DE58F162C1F6292B044D2F9",
+          "SourceString": "\"Wedding Outfits!\"",
+          "LocalizedString": "\"Wedding Outfits!\""
+        },
+        "content": {
+          "Namespace": "",
+          "Key": "19D9F9EC404C7BF45594BBA76AB1891D",
+          "SourceString": "Word travels fast—congrats on your engagement! That’s no small thing.\r\nIf you haven’t picked out what you’re wearing yet, swing by White Flamingo. We’ve got a fresh collection of wedding dresses and suits, perfect for the big day.\r\n\r\nJust a heads-up: better grab your outfit before the wedding. Last-minute shopping is never a good look.",
+          "LocalizedString": "Word travels fast—congrats on your engagement! That’s no small thing.\r\nIf you haven’t picked out what you’re wearing yet, swing by White Flamingo. We’ve got a fresh collection of wedding dresses and suits, perfect for the big day.\r\n\r\nJust a heads-up: better grab your outfit before the wedding. Last-minute shopping is never a good look."
+        },
+        "greetopenmessage": {
+          "Namespace": "",
+          "Key": "3293B05A424932963D62F294C016B4CC",
+          "SourceString": "Hey there,",
+          "LocalizedString": "Hey there,"
+        },
+        "greetclosemessage": {
+          "Namespace": "",
+          "Key": "20AEBB874AA415EF48CC9F9D6CA211CF",
+          "SourceString": "With ocean blessings,",
+          "LocalizedString": "With ocean blessings,"
+        },
+        "mailtype": "EC_MailType::None",
+        "tags": [],
+        "isPhotoAttached": false,
+        "photoPaperColor": {
+          "B": 255,
+          "G": 255,
+          "R": 255,
+          "A": 255,
+          "Hex": "FFFFFF"
+        },
+        "photoBGColor": {
+          "B": 205,
+          "G": 226,
+          "R": 237,
+          "A": 255,
+          "Hex": "EDE2CD"
+        },
+        "photoImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "isImportantMail": false
+      },
+      "wedding_dress_ocean": {
+        "sender": {
+          "Namespace": "",
+          "Key": "62A56C3746950EE0684B49A2ACF1A1B1",
+          "SourceString": "<NPCName>Lanin</>",
+          "LocalizedString": "<NPCName>Lanin</>"
+        },
+        "title": {
+          "Namespace": "",
+          "Key": "159BC305402C3D1CD33EEE930EB39CDA",
+          "SourceString": "\"Wedding Outfits!\"",
+          "LocalizedString": "\"Wedding Outfits!\""
+        },
+        "content": {
+          "Namespace": "",
+          "Key": "B9332FA444CDDC112DF6DBA9E3F72767",
+          "SourceString": "Whispers of your engagement have reached even the coral bloom—congratulations, shimmering soul.\r\nTidal Threads now carries wedding outfits. Stop by to find something special for your big day.\r\n\r\nBe sure to get your outfit before the wedding!",
+          "LocalizedString": "Whispers of your engagement have reached even the coral bloom—congratulations, shimmering soul.\r\nTidal Threads now carries wedding outfits. Stop by to find something special for your big day.\r\n\r\nBe sure to get your outfit before the wedding!"
+        },
+        "greetopenmessage": {
+          "Namespace": "",
+          "Key": "3BE019974230AA9F33B509B5D486458A",
+          "SourceString": "Dear <PlayerName>$Player</>,",
+          "LocalizedString": "Dear <PlayerName>$Player</>,"
+        },
+        "greetclosemessage": {
+          "Namespace": "",
+          "Key": "68312E704CFD229DFBA2DAA99DD1EF3A",
+          "SourceString": "See you soon,",
+          "LocalizedString": "See you soon,"
+        },
+        "mailtype": "EC_MailType::None",
+        "tags": [],
+        "isPhotoAttached": false,
+        "photoPaperColor": {
+          "B": 255,
+          "G": 255,
+          "R": 255,
+          "A": 255,
+          "Hex": "FFFFFF"
+        },
+        "photoBGColor": {
+          "B": 205,
+          "G": 226,
+          "R": 237,
+          "A": 255,
+          "Hex": "EDE2CD"
+        },
+        "photoImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "isImportantMail": false
       }
     }
   }

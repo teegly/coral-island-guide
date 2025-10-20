@@ -43,7 +43,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -75,7 +76,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -107,7 +109,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -139,7 +142,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           }
         ],
@@ -191,7 +195,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "nonMaturedStageReactionAnim": {
@@ -240,7 +245,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -273,7 +279,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "emitterOnPlanted": null,
@@ -316,7 +323,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -348,7 +356,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -380,7 +389,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -412,7 +422,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           }
         ],
@@ -464,7 +475,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "nonMaturedStageReactionAnim": {
@@ -513,7 +525,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -546,7 +559,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "emitterOnPlanted": null,
@@ -589,7 +603,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -621,7 +636,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -653,7 +669,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -685,7 +702,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           }
         ],
@@ -737,7 +755,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "nonMaturedStageReactionAnim": {
@@ -786,7 +805,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -819,7 +839,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "emitterOnPlanted": null,
@@ -862,7 +883,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -894,7 +916,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -926,7 +949,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -958,7 +982,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           }
         ],
@@ -1010,7 +1035,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "nonMaturedStageReactionAnim": {
@@ -1059,7 +1085,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1092,7 +1119,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "emitterOnPlanted": null,
@@ -1135,7 +1163,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1167,7 +1196,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1199,7 +1229,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1231,7 +1262,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           }
         ],
@@ -1283,7 +1315,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "nonMaturedStageReactionAnim": {
@@ -1332,7 +1365,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1365,7 +1399,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "emitterOnPlanted": null,
@@ -1408,7 +1443,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1440,7 +1476,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1472,7 +1509,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1504,7 +1542,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           }
         ],
@@ -1556,7 +1595,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "nonMaturedStageReactionAnim": {
@@ -1605,7 +1645,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1638,7 +1679,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "emitterOnPlanted": null,
@@ -1681,7 +1723,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1713,7 +1756,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1745,7 +1789,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           },
           {
@@ -1777,7 +1822,8 @@
                 }
               ],
               "randomDropData": [],
-              "dropRequirement": null
+              "dropRequirement": null,
+              "useWeightedRollMethod": false
             }
           }
         ],
@@ -1829,7 +1875,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "nonMaturedStageReactionAnim": {
@@ -1878,7 +1925,8 @@
             }
           ],
           "randomDropData": [],
-          "dropRequirement": null
+          "dropRequirement": null,
+          "useWeightedRollMethod": false
         },
         "overrideExperience": false,
         "overrideExperienceOnHarvest": 0,
@@ -1911,7 +1959,8 @@
               }
             ],
             "randomDropData": [],
-            "dropRequirement": null
+            "dropRequirement": null,
+            "useWeightedRollMethod": false
           }
         },
         "emitterOnPlanted": null,

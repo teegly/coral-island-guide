@@ -1,7 +1,7 @@
 {
   "item": {
     "id": "item_64011",
-    "displayName": "怪物香水",
+    "displayName": "隐藏气息I",
     "price": 70,
     "sellPrice": 18,
     "sellAt": [],
@@ -175,7 +175,7 @@
       },
       "item": {
         "id": "item_64011",
-        "displayName": "怪物香水",
+        "displayName": "隐藏气息I",
         "price": 70,
         "sellPrice": 18,
         "sellAt": [],
@@ -196,7 +196,7 @@
     {
       "item": {
         "id": "item_64011",
-        "displayName": "怪物香水",
+        "displayName": "隐藏气息I",
         "iconName": "Decrease_aggro_scent_Sprite",
         "price": 70,
         "sellPrice": 18

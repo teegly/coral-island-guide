@@ -104,6 +104,86 @@
         }
       ],
       "machine": "Barrel"
+    },
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 8,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41406",
+          "displayName": "Vinho de Batata Doce",
+          "iconName": "Wine_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41406",
+          "displayName": "Vinho de Batata Doce",
+          "iconName": "Wine_Sprite",
+          "sellPrice": 295
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 14,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
+    }
+  ],
+  "artisanIngredient": [
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 8,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41406",
+          "displayName": "Vinho de Batata Doce",
+          "iconName": "Wine_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41406",
+          "displayName": "Vinho de Batata Doce",
+          "iconName": "Wine_Sprite",
+          "sellPrice": 295
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 14,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
     }
   ],
   "usedToCook": [
@@ -201,7 +281,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Altar de Raridades",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Desbloqueia o acesso à Savana",
+      "offeringGroupRewardText": "Desbloqueia o Sesajen de teletransporte",
       "offerings": [
         {
           "title": "Artesanato Raro",

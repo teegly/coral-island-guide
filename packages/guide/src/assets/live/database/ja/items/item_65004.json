@@ -448,6 +448,138 @@
   ],
   "usedToCraft": [
     {
+      "key": "item_65311",
+      "displayName": "Hydro I",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "石材",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65311",
+        "masteryLevel": 3,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65311",
+        "displayName": "HydroI",
+        "price": 10,
+        "sellPrice": 2,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "土壌と混合した場合、土壌が一晩中水を入れて滞在する可能性。",
+        "qualities": {},
+        "iconName": "Hydro_I_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65312",
+      "displayName": "Hydro II",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "石材",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_65300",
+            "displayName": "堆肥",
+            "iconName": "Compost_Sprite"
+          },
+          "amount": 2
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65312",
+        "masteryLevel": 4,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65312",
+        "displayName": "ハイドロ2",
+        "price": 20,
+        "sellPrice": 8,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "土壌と混合すると、一晩土壌に水分を維持できる可能性が高くなります。",
+        "qualities": {},
+        "iconName": "Hydro_II_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65313",
+      "displayName": "Hydro III",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "石材",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_65300",
+            "displayName": "堆肥",
+            "iconName": "Compost_Sprite"
+          },
+          "amount": 2
+        },
+        {
+          "item": {
+            "id": "item_50506",
+            "displayName": "スライム",
+            "iconName": "Slime_goop_Sprite"
+          },
+          "amount": 1
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65313",
+        "masteryLevel": 8,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65313",
+        "displayName": "HydroIII",
+        "price": 50,
+        "sellPrice": 18,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "これは土壌と混合する場合、土壌を一晩水分を維持します。",
+        "qualities": {},
+        "iconName": "Hydro_III_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_65203",
       "displayName": "Kiln",
       "amount": 1,
@@ -583,138 +715,6 @@
       }
     },
     {
-      "key": "item_65311",
-      "displayName": "Hydro I",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "石材",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65311",
-        "masteryLevel": 3,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65311",
-        "displayName": "HydroI",
-        "price": 10,
-        "sellPrice": 2,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "土壌と混合した場合、土壌が一晩中水を入れて滞在する可能性。",
-        "qualities": {},
-        "iconName": "Hydro_I_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65312",
-      "displayName": "Hydro II",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "石材",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_65300",
-            "displayName": "堆肥",
-            "iconName": "Compost_Sprite"
-          },
-          "amount": 2
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65312",
-        "masteryLevel": 4,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65312",
-        "displayName": "ハイドロ2",
-        "price": 20,
-        "sellPrice": 8,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "土壌と混合すると、一晩土壌に水分を維持できる可能性が高くなります。",
-        "qualities": {},
-        "iconName": "Hydro_II_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65313",
-      "displayName": "Hydro III",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "石材",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_65300",
-            "displayName": "堆肥",
-            "iconName": "Compost_Sprite"
-          },
-          "amount": 2
-        },
-        {
-          "item": {
-            "id": "item_50506",
-            "displayName": "スライム",
-            "iconName": "Slime_goop_Sprite"
-          },
-          "amount": 1
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65313",
-        "masteryLevel": 8,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65313",
-        "displayName": "HydroIII",
-        "price": 50,
-        "sellPrice": 18,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "これは土壌と混合する場合、土壌を一晩水分を維持します。",
-        "qualities": {},
-        "iconName": "Hydro_III_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65343",
       "displayName": "Stone chest",
       "amount": 1,
@@ -791,6 +791,44 @@
         "description": "全種類のアイテムを最大40個まで保管できます。農場の各所に設置できます。",
         "qualities": {},
         "iconName": "Scrap_Chest_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65248",
+      "displayName": "Rope",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65004",
+            "displayName": "石材",
+            "iconName": "Stone_Sprite"
+          },
+          "amount": 199
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Misc",
+      "craftingUnlock": {
+        "key": "item_65248",
+        "masteryLevel": 2,
+        "masteryType": "Mining"
+      },
+      "item": {
+        "id": "item_65248",
+        "displayName": "ロープ",
+        "price": 1000,
+        "sellPrice": 200,
+        "sellAt": [
+          "BandOfSmile"
+        ],
+        "stackable": true,
+        "inventoryCategory": "Misc",
+        "displayKey": "Misc",
+        "description": "鉱山内部へ降りていくのに使用します。",
+        "qualities": {},
+        "iconName": "Rope_Sprite",
         "tags": []
       }
     },
@@ -1089,44 +1127,6 @@
           "item.Decor.SubCategory.Arch",
           "Item.Furniture.BasicMerfolkStyle"
         ]
-      }
-    },
-    {
-      "key": "item_65248",
-      "displayName": "Rope",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65004",
-            "displayName": "石材",
-            "iconName": "Stone_Sprite"
-          },
-          "amount": 199
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Misc",
-      "craftingUnlock": {
-        "key": "item_65248",
-        "masteryLevel": 2,
-        "masteryType": "Mining"
-      },
-      "item": {
-        "id": "item_65248",
-        "displayName": "ロープ",
-        "price": 1000,
-        "sellPrice": 200,
-        "sellAt": [
-          "BandOfSmile"
-        ],
-        "stackable": true,
-        "inventoryCategory": "Misc",
-        "displayKey": "Misc",
-        "description": "鉱山内部へ降りていくのに使用します。",
-        "qualities": {},
-        "iconName": "Rope_Sprite",
-        "tags": []
       }
     },
     {

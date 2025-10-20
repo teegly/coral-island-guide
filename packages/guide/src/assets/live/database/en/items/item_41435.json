@@ -65,6 +65,122 @@
       },
       "genericInput": null,
       "machine": "OilPress"
+    },
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 8,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41435",
+          "displayName": "Coconut de mer oil",
+          "iconName": "Coconut_De_Mer_Oil_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41435",
+          "displayName": "Coconut de mer oil",
+          "iconName": "Coconut_De_Mer_Oil_Sprite",
+          "sellPrice": 375
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "bronze",
+          "to": "silver",
+          "day": 0,
+          "time": {
+            "hours": 7,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 9,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 19,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
+    }
+  ],
+  "artisanIngredient": [
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 8,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41435",
+          "displayName": "Coconut de mer oil",
+          "iconName": "Coconut_De_Mer_Oil_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41435",
+          "displayName": "Coconut de mer oil",
+          "iconName": "Coconut_De_Mer_Oil_Sprite",
+          "sellPrice": 375
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "bronze",
+          "to": "silver",
+          "day": 0,
+          "time": {
+            "hours": 7,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 9,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 19,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
     }
   ],
   "usedToCook": [

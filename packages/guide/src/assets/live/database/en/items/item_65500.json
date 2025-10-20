@@ -2,8 +2,8 @@
   "item": {
     "id": "item_65500",
     "displayName": "Medieval banner flags",
-    "price": 1300,
-    "sellPrice": 780,
+    "price": 1040,
+    "sellPrice": 620,
     "sellAt": [],
     "stackable": true,
     "inventoryCategory": "Decor",

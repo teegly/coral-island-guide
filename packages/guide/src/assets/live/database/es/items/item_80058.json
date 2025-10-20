@@ -294,7 +294,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": false,
         "itemLimitPerYear": 0,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_80058",
@@ -358,7 +359,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Altar avanzado",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Desbloquea una ofrenda deforme",
+      "offeringGroupRewardText": "Desbloquea la Cueva de los Recuerdos",
       "offerings": [
         {
           "title": "Cocina básica",
@@ -452,7 +453,7 @@
       "townRank": 0,
       "tag": [],
       "priceOverride": 0,
-      "priority": 10,
+      "priority": 11,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

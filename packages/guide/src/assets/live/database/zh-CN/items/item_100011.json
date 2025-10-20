@@ -1,7 +1,7 @@
 {
   "item": {
     "id": "item_100011",
-    "displayName": "包装供品",
+    "displayName": "传送供品",
     "price": 110,
     "sellPrice": 45,
     "sellAt": [],
@@ -193,7 +193,7 @@
       "category": "Misc",
       "item": {
         "id": "item_100011",
-        "displayName": "包装供品",
+        "displayName": "传送供品",
         "price": 110,
         "sellPrice": 45,
         "sellAt": [],

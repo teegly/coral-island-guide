@@ -1534,7 +1534,7 @@
           "LocalizedString": "A very fancy earring"
         },
         "iconTexture": {
-          "AssetPathName": "/Game/ProjectCoral/Textures/Inventory_Icons/Gem_Artifacts_Fossils/Artifacts/Artifact_textures/Gold_fish.Gold_fish",
+          "AssetPathName": "/Game/ProjectCoral/Textures/Inventory_Icons/Gem_Artifacts_Fossils/Artifacts/Artifact_textures/Gold_earring.Gold_earring",
           "SubPathString": ""
         },
         "objectMesh": {

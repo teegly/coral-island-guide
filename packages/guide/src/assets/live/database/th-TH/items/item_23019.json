@@ -8,8 +8,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Grains",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "ฝักสีน้ำตาลมีลายขรุขระ เป็นส่วนผสมหลักของช็อกโกแลต ",
     "qualities": {
       "bronze": {

@@ -68,7 +68,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": true,
         "itemLimitPerYear": 5,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_23040",
@@ -118,7 +119,7 @@
       "townRank": 3,
       "tag": [],
       "priceOverride": 0,
-      "priority": 68,
+      "priority": 64,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

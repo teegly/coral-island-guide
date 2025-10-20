@@ -2,8 +2,8 @@
   "item": {
     "id": "item_80022",
     "displayName": "Caldo de cana",
-    "price": 35,
-    "sellPrice": 20,
+    "price": 85,
+    "sellPrice": 50,
     "sellAt": [
       "Sam"
     ],
@@ -13,20 +13,20 @@
     "description": "Uma bebida naturalmente doce.",
     "qualities": {
       "bronze": {
-        "price": 35,
-        "sellPrice": 20
+        "price": 90,
+        "sellPrice": 55
       },
       "silver": {
-        "price": 35,
-        "sellPrice": 20
+        "price": 110,
+        "sellPrice": 65
       },
       "gold": {
-        "price": 40,
-        "sellPrice": 25
+        "price": 125,
+        "sellPrice": 75
       },
       "osmium": {
-        "price": 60,
-        "sellPrice": 35
+        "price": 165,
+        "sellPrice": 100
       }
     },
     "iconName": "Cane_nectar_Sprite",
@@ -61,7 +61,7 @@
           "id": "item_80022",
           "displayName": "Caldo de cana",
           "iconName": "Cane_nectar_Sprite",
-          "sellPrice": 20
+          "sellPrice": 50
         }
       },
       "genericInput": null,
@@ -89,7 +89,7 @@
           "id": "item_80022",
           "displayName": "Caldo de cana",
           "iconName": "Cane_nectar_Sprite",
-          "sellPrice": 20
+          "sellPrice": 50
         }
       },
       "genericInput": null,
@@ -130,7 +130,7 @@
           "id": "item_80022",
           "displayName": "Caldo de cana",
           "iconName": "Cane_nectar_Sprite",
-          "sellPrice": 20
+          "sellPrice": 50
         }
       },
       "genericInput": null,

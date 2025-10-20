@@ -19,6 +19,7 @@ export * from './lib/types/effects/vary-money-effect.type';
 export * from './lib/types/effects/unlock-special-item-effect.type';
 export * from './lib/types/effects/boost-max-health-effect.type';
 export * from './lib/types/effects/mark-dino-hologram-reward-claimed-effect.type';
+export * from './lib/types/effects/change-appearance-potion-effect';
 
 
 export * from './lib/types/requirements/complete-mining-requirement.type';

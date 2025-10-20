@@ -299,42 +299,7 @@
           "amount": 1
         }
       ],
-      "eitherOrIngredients": [
-        [
-          {
-            "item": {
-              "id": "item_31004",
-              "displayName": "Leite",
-              "iconName": "Milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31016",
-              "displayName": "Leite grande",
-              "iconName": "Large_milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31024",
-              "displayName": "Leite dourado",
-              "iconName": "Golden_milk_Sprite"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "id": "item_31022",
-              "displayName": "Leite dourado grande",
-              "iconName": "Large_golden_milk_Sprite"
-            },
-            "amount": 1
-          }
-        ]
-      ]
+      "eitherOrIngredients": []
     }
   ],
   "requiredAsOffering": [

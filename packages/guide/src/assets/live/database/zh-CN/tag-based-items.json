@@ -771,11 +771,6 @@
         "iconName": "Cotton_Sprite"
       },
       {
-        "id": "item_24003",
-        "displayName": "杏仁",
-        "iconName": "Almond_Sprite"
-      },
-      {
         "id": "item_24004",
         "displayName": "Avocado",
         "iconName": "Avocado_Sprite"
@@ -3046,11 +3041,6 @@
         "iconName": "Watermelon_Sprite"
       },
       {
-        "id": "item_24003",
-        "displayName": "杏仁",
-        "iconName": "Almond_Sprite"
-      },
-      {
         "id": "item_24004",
         "displayName": "Avocado",
         "iconName": "Avocado_Sprite"
@@ -4209,11 +4199,6 @@
         "id": "item_24002",
         "displayName": "茶叶",
         "iconName": "Tea_Leaf_Sprite"
-      },
-      {
-        "id": "item_24003",
-        "displayName": "杏仁",
-        "iconName": "Almond_Sprite"
       },
       {
         "id": "item_24004",
@@ -7178,42 +7163,42 @@
       },
       {
         "id": "item_64005",
-        "displayName": "地面昆虫专用香水",
+        "displayName": "地面昆虫专用诱香",
         "iconName": "Ground_insect_scent__Sprite"
       },
       {
         "id": "item_64006",
-        "displayName": "爬行动物专用香水",
+        "displayName": "爬行动物专用诱香",
         "iconName": "Crawling_critter_scent_Sprite"
       },
       {
         "id": "item_64007",
-        "displayName": "飞虫专用香水",
+        "displayName": "飞虫专用诱香",
         "iconName": "Flying_insect_scent_Sprite"
       },
       {
         "id": "item_64008",
-        "displayName": "漂浮小动物专用香水",
+        "displayName": "漂浮小动物专用诱香",
         "iconName": "Floating_critter_scent_Sprite"
       },
       {
         "id": "item_64010",
-        "displayName": "怪物诱饵的香水",
+        "displayName": "挑衅气息II",
         "iconName": "Increase_aggro_scent_Sprite"
       },
       {
         "id": "item_64011",
-        "displayName": "怪物香水",
+        "displayName": "隐藏气息I",
         "iconName": "Decrease_aggro_scent_Sprite"
       },
       {
         "id": "item_64012",
-        "displayName": "怪物诱饵的香水II",
+        "displayName": "挑衅气息II",
         "iconName": "Increase_spawn_scent_Sprite"
       },
       {
         "id": "item_64013",
-        "displayName": "怪物香水II",
+        "displayName": "隐藏气息II",
         "iconName": "Decrease_spawn_scent_Sprite"
       },
       {
@@ -7348,7 +7333,7 @@
       },
       {
         "id": "item_80027",
-        "displayName": "黄油牛角面包",
+        "displayName": "黄油可颂",
         "iconName": "Butter_Croissant_Sprite"
       },
       {
@@ -10064,7 +10049,7 @@
       {
         "id": "item_31031",
         "displayName": "蛋珠",
-        "iconName": "Sphere_Sprite"
+        "iconName": "Pearl_Sprite"
       },
       {
         "id": "item_31032",
@@ -10468,7 +10453,7 @@
       {
         "id": "item_31031",
         "displayName": "蛋珠",
-        "iconName": "Sphere_Sprite"
+        "iconName": "Pearl_Sprite"
       },
       {
         "id": "item_31032",
@@ -10532,7 +10517,7 @@
       {
         "id": "item_31031",
         "displayName": "蛋珠",
-        "iconName": "Sphere_Sprite"
+        "iconName": "Pearl_Sprite"
       },
       {
         "id": "item_31032",
@@ -10595,7 +10580,7 @@
       {
         "id": "item_31031",
         "displayName": "蛋珠",
-        "iconName": "Sphere_Sprite"
+        "iconName": "Pearl_Sprite"
       },
       {
         "id": "item_31032",
@@ -10657,7 +10642,7 @@
       {
         "id": "item_31031",
         "displayName": "蛋珠",
-        "iconName": "Sphere_Sprite"
+        "iconName": "Pearl_Sprite"
       },
       {
         "id": "item_31032",

@@ -513,58 +513,6 @@
       }
     },
     {
-      "key": "item_65299",
-      "displayName": "Compost bin",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65003",
-            "displayName": "ไม้",
-            "iconName": "Wood_Sprite"
-          },
-          "amount": 20
-        },
-        {
-          "item": {
-            "id": "item_65052",
-            "displayName": "ขยะ",
-            "iconName": "Trash_Sprite"
-          },
-          "amount": 5
-        },
-        {
-          "item": {
-            "id": "item_65108",
-            "displayName": "ครั่ง",
-            "iconName": "Sap_Sprite"
-          },
-          "amount": 5
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Artisan",
-      "craftingUnlock": {
-        "key": "item_65299",
-        "masteryLevel": 2,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65299",
-        "displayName": "ถังปุ๋ยอินทรีย์",
-        "price": 200,
-        "sellPrice": 50,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
-        "description": "Compostbindesc",
-        "qualities": {},
-        "iconName": "Compost_bin_Sprite",
-        "tags": []
-      }
-    },
-    {
       "key": "item_65305",
       "displayName": "Fertilizer I",
       "amount": 1,
@@ -709,6 +657,58 @@
         "description": "เมื่อนำไปผสมกับดิน จะเพิ่มโอกาศให้พืชที่ปลูกมีคุณภาพที่ดีขึ้น",
         "qualities": {},
         "iconName": "Fertilizer_III_Sprite",
+        "tags": []
+      }
+    },
+    {
+      "key": "item_65299",
+      "displayName": "Compost bin",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65003",
+            "displayName": "ไม้",
+            "iconName": "Wood_Sprite"
+          },
+          "amount": 20
+        },
+        {
+          "item": {
+            "id": "item_65052",
+            "displayName": "ขยะ",
+            "iconName": "Trash_Sprite"
+          },
+          "amount": 5
+        },
+        {
+          "item": {
+            "id": "item_65108",
+            "displayName": "ครั่ง",
+            "iconName": "Sap_Sprite"
+          },
+          "amount": 5
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Artisan",
+      "craftingUnlock": {
+        "key": "item_65299",
+        "masteryLevel": 2,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65299",
+        "displayName": "ถังปุ๋ยอินทรีย์",
+        "price": 200,
+        "sellPrice": 50,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "ResourceEquipment",
+        "displayKey": "ResourceEquipment",
+        "description": "Compostbindesc",
+        "qualities": {},
+        "iconName": "Compost_bin_Sprite",
         "tags": []
       }
     },
@@ -1180,8 +1180,8 @@
         "sellPrice": 110,
         "sellAt": [],
         "stackable": true,
-        "inventoryCategory": "ResourceEquipment",
-        "displayKey": "ResourceEquipment",
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
         "description": "ไล่กาที่มารบกวนพืชผล ปกป้องได้ 11x11 ช่อง",
         "qualities": {},
         "iconName": "Scrap_scarecrow_Sprite",

@@ -1800,7 +1800,7 @@
               "RowName": "Surprised"
             },
             "texture": {
-              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Leah/Portraits/Fall/Leah_Surprised_Fall.Leah_Surprised_Fall",
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Leah/Portraits/Special/Spooky/Leah_Spooky_Surprised.Leah_Spooky_Surprised",
               "SubPathString": ""
             },
             "downedTextureCached": null

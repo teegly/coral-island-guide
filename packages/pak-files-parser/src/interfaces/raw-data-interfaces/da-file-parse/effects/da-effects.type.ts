@@ -15,6 +15,7 @@ import { RawUpdateNpcScheduleEffect } from "./update-npc-schedule-effect.type";
 import { RawUnlockSpecialItemEffect } from "./unlock-special-item-effect.type";
 import { RawBoostMaxHealthEffect } from "./boost-max-health-effect.type";
 import { RawMarkDinoHologramRewardClaimedEffect } from "./mark-dino-hologram-reward-claimed-effect.type";
+import { RawChangeAppearancePotionEffect } from "./change-appearance-potion-effect";
 
 export type DaEffects =
     RawAddItemToInventoryEffect
@@ -34,3 +35,4 @@ export type DaEffects =
     | RawUnlockSpecialItemEffect
     | RawBoostMaxHealthEffect
     | RawMarkDinoHologramRewardClaimedEffect
+    | RawChangeAppearancePotionEffect

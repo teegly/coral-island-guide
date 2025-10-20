@@ -1565,7 +1565,8 @@
             "Laugh": "Kenny_Laugh_Spring",
             "Sad": "Kenny_Sad_Spring",
             "Smile": "Kenny_Smile_Spring",
-            "Daydreaming": "Kenny_Daydreaming_Spring"
+            "Daydreaming": "Kenny_Daydreaming_Spring",
+            "Angry": "Kenny_Annoyed_Spring"
           },
           "Summer": {
             "Normal": "Kenny_Default_Summer",
@@ -1575,7 +1576,8 @@
             "Laugh": "Kenny_Laugh_Summer",
             "Sad": "Kenny_Sad_Summer",
             "Smile": "Kenny_Smile_Summer",
-            "Daydreaming": "Kenny_Daydreaming_Summer"
+            "Daydreaming": "Kenny_Daydreaming_Summer",
+            "Angry": "Kenny_Annoyed_Summer"
           },
           "Fall": {
             "Normal": "Kenny_Default_Fall",
@@ -1585,7 +1587,8 @@
             "Laugh": "Kenny_Laugh_Fall",
             "Sad": "Kenny_Sad_Fall",
             "Smile": "Kenny_Smile_Fall",
-            "Daydreaming": "Kenny_Daydreaming_Fall"
+            "Daydreaming": "Kenny_Daydreaming_Fall",
+            "Angry": "Kenny_Annoyed_Fall"
           },
           "BathingSuit": {
             "Normal": "Kenny_BS_Default",
@@ -1605,7 +1608,8 @@
             "Laugh": "Kenny_Laugh_Winter",
             "Sad": "Kenny_Sad_Winter",
             "Smile": "Kenny_Smile_Winter",
-            "Daydreaming": "Kenny_Daydreaming_Winter"
+            "Daydreaming": "Kenny_Daydreaming_Winter",
+            "Angry": "Kenny_Annoyed_Winter"
           },
           "BeachCleanUp": {
             "Normal": "Kenny_BS_Default",
@@ -1745,7 +1749,7 @@
             "Angry": "Leah_Spooky_Angry",
             "Sad": "Leah_Spooky_Sad",
             "Happy02": "Leah_Spooky_Happy02",
-            "Surprised": "Leah_Surprised_Fall"
+            "Surprised": "Leah_Spooky_Surprised"
           }
         }
       }
@@ -3276,7 +3280,9 @@
             "Happy": "Zarah_Happy_Spring",
             "Surprised02": "Zarah_Surprised02_Spring",
             "Surprised": "Zarah_Surprised_Spring",
-            "Thinking": "Zarah_Thinking_Spring"
+            "Thinking": "Zarah_Thinking_Spring",
+            "Angry": "Zarah_Annoyed_Spring",
+            "Sad": "Zarah_Annoyed_Spring"
           },
           "Summer": {
             "Normal": "Zarah_Default_Summer",
@@ -3286,7 +3292,9 @@
             "Happy": "Zarah_Happy_Summer",
             "Surprised02": "Zarah_Surprised02_Summer",
             "Surprised": "Zarah_Surprised_Summer",
-            "Thinking": "Zarah_Thinking_Summer"
+            "Thinking": "Zarah_Thinking_Summer",
+            "Angry": "Zarah_Annoyed_Summer",
+            "Sad": "Zarah_Annoyed_Summer"
           },
           "Fall": {
             "Normal": "Zarah_Default_Fall",
@@ -3296,7 +3304,9 @@
             "Happy": "Zarah_Happy_Fall",
             "Surprised02": "Zarah_Surprised02_Fall",
             "Surprised": "Zarah_Surprised_Fall",
-            "Thinking": "Zarah_Thinking_Fall"
+            "Thinking": "Zarah_Thinking_Fall",
+            "Angry": "Zarah_Annoyed_Fall",
+            "Sad": "Zarah_Annoyed_Fall"
           },
           "Winter": {
             "Normal": "Zarah_Default_Winter",
@@ -3306,7 +3316,9 @@
             "Happy": "Zarah_Happy_Winter",
             "Surprised02": "Zarah_Surprised02_Winter",
             "Surprised": "Zarah_Surprised_Winter",
-            "Thinking": "Zarah_Thinking_Winter"
+            "Thinking": "Zarah_Thinking_Winter",
+            "Angry": "Zarah_Annoyed_Winter",
+            "Sad": "Zarah_Annoyed_Winter"
           },
           "BathingSuit": {
             "Annoyed": "Zarah_BathingSuit_Annoyed",
@@ -3316,7 +3328,9 @@
             "Surprised02": "Zarah_BathingSuit_Shocked",
             "Surprised": "Zarah_BathingSuit_Surprised",
             "Thinking": "Zarah_BathingSuit_Thinking",
-            "Normal": "Zarah_BathingSuit_Default"
+            "Normal": "Zarah_BathingSuit_Default",
+            "Angry": "Zarah_BathingSuit_Annoyed",
+            "Sad": "Zarah_BathingSuit_Annoyed"
           },
           "BeachCleanUp": {
             "Annoyed": "Zarah_BathingSuit_Annoyed",
@@ -3326,7 +3340,9 @@
             "Surprised02": "Zarah_BathingSuit_Shocked",
             "Surprised": "Zarah_BathingSuit_Surprised",
             "Thinking": "Zarah_BathingSuit_Thinking",
-            "Normal": "Zarah_BathingSuit_Default"
+            "Normal": "Zarah_BathingSuit_Default",
+            "Angry": "Zarah_BathingSuit_Annoyed",
+            "Sad": "Zarah_BathingSuit_Annoyed"
           },
           "Wedding": {
             "Blushing": "Zarah_Wedding_blushing",
@@ -3341,7 +3357,9 @@
             "Happy": "Zarah_Spooky_Happy",
             "Surprised02": "Zarah_Spooky_shocked",
             "Surprised": "Zarah_Spooky_Surprised",
-            "Thinking": "Zarah_Spooky_Thinking"
+            "Thinking": "Zarah_Spooky_Thinking",
+            "Angry": "Zarah_Spooky_annoyed",
+            "Sad": "Zarah_Spooky_annoyed"
           }
         }
       }
@@ -3465,7 +3483,7 @@
     "characterName": "Karen",
     "characterCategory": "CoralFolks",
     "description": "待办事项",
-    "iconName": "Placeholder_mini_npc_potrait",
+    "iconName": "Icon_karen",
     "appearances": [
       {
         "appearances": {
@@ -7310,7 +7328,7 @@
   {
     "key": "Apo",
     "canHaveRelationships": false,
-    "canInteract": true,
+    "canInteract": false,
     "canReceiveGifts": false,
     "isDateable": false,
     "characterName": "Apo",

@@ -19,7 +19,8 @@
           "itemLimit": 0,
           "hasYearlyLimit": true,
           "itemLimitPerYear": 10,
-          "isUnlockRecipe": false
+          "isUnlockRecipe": false,
+          "isItemUnLimitNotUnlockRecipe": false
         },
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
@@ -97,7 +98,8 @@
           "itemLimit": 0,
           "hasYearlyLimit": true,
           "itemLimitPerYear": 5,
-          "isUnlockRecipe": false
+          "isUnlockRecipe": false,
+          "isItemUnLimitNotUnlockRecipe": false
         },
         "isLimitedItemQty": false,
         "itemLimitQty": 0,
@@ -175,7 +177,8 @@
           "itemLimit": 10,
           "hasYearlyLimit": false,
           "itemLimitPerYear": 0,
-          "isUnlockRecipe": false
+          "isUnlockRecipe": false,
+          "isItemUnLimitNotUnlockRecipe": false
         },
         "isLimitedItemQty": false,
         "itemLimitQty": 0,

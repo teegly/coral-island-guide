@@ -337,7 +337,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "Seltener Altar",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "Schaltet Zugriff auf die Savanne frei",
+      "offeringGroupRewardText": "Schaltet Warp Sesajen frei",
       "offerings": [
         {
           "title": "Seltenes Kochen",
@@ -442,7 +442,7 @@
       "townRank": 0,
       "tag": [],
       "priceOverride": 0,
-      "priority": 10,
+      "priority": 11,
       "enabled": true,
       "availableSinceDate": false,
       "availableTillDate": false,

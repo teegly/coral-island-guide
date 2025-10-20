@@ -632,11 +632,6 @@
               "iconName": "Cotton_Sprite"
             },
             {
-              "id": "item_24003",
-              "displayName": "아몬드",
-              "iconName": "Almond_Sprite"
-            },
-            {
               "id": "item_24004",
               "displayName": "Avocado",
               "iconName": "Avocado_Sprite"
@@ -1602,6 +1597,58 @@
   ],
   "usedToCraft": [
     {
+      "key": "item_65013",
+      "displayName": "Sprinkler I",
+      "amount": 1,
+      "ingredients": [
+        {
+          "item": {
+            "id": "item_65107",
+            "displayName": "폐품",
+            "iconName": "Scrap_Sprite"
+          },
+          "amount": 10
+        },
+        {
+          "item": {
+            "id": "item_62003",
+            "displayName": "은 켈프",
+            "iconName": "Silver_Kelp_Sprite"
+          },
+          "amount": 5
+        },
+        {
+          "item": {
+            "id": "item_62001",
+            "displayName": "동 켈프",
+            "iconName": "Bronze_kelp_Sprite"
+          },
+          "amount": 5
+        }
+      ],
+      "genericIngredients": [],
+      "category": "Farming",
+      "craftingUnlock": {
+        "key": "item_65013",
+        "masteryLevel": 2,
+        "masteryType": "Farming"
+      },
+      "item": {
+        "id": "item_65013",
+        "displayName": "살수기 I",
+        "price": 200,
+        "sellPrice": 55,
+        "sellAt": [],
+        "stackable": true,
+        "inventoryCategory": "Farming",
+        "displayKey": "Farming",
+        "description": "자동 살수기. 타일 9개 반경에 물을 준다.",
+        "qualities": {},
+        "iconName": "Sprinkler_I_Sprite",
+        "tags": []
+      }
+    },
+    {
       "key": "item_65035",
       "displayName": "Extractor",
       "amount": 1,
@@ -1697,58 +1744,6 @@
         "description": "자원 하나를 다른 자원으로 바꾼다.",
         "qualities": {},
         "iconName": "Recycling_Machine_Sprite",
-        "tags": []
-      }
-    },
-    {
-      "key": "item_65013",
-      "displayName": "Sprinkler I",
-      "amount": 1,
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_65107",
-            "displayName": "폐품",
-            "iconName": "Scrap_Sprite"
-          },
-          "amount": 10
-        },
-        {
-          "item": {
-            "id": "item_62003",
-            "displayName": "은 켈프",
-            "iconName": "Silver_Kelp_Sprite"
-          },
-          "amount": 5
-        },
-        {
-          "item": {
-            "id": "item_62001",
-            "displayName": "동 켈프",
-            "iconName": "Bronze_kelp_Sprite"
-          },
-          "amount": 5
-        }
-      ],
-      "genericIngredients": [],
-      "category": "Farming",
-      "craftingUnlock": {
-        "key": "item_65013",
-        "masteryLevel": 2,
-        "masteryType": "Farming"
-      },
-      "item": {
-        "id": "item_65013",
-        "displayName": "살수기 I",
-        "price": 200,
-        "sellPrice": 55,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Farming",
-        "displayKey": "Farming",
-        "description": "자동 살수기. 타일 9개 반경에 물을 준다.",
-        "qualities": {},
-        "iconName": "Sprinkler_I_Sprite",
         "tags": []
       }
     },
@@ -1850,7 +1845,8 @@
         "itemLimit": 0,
         "hasYearlyLimit": true,
         "itemLimitPerYear": 100,
-        "isUnlockRecipe": false
+        "isUnlockRecipe": false,
+        "isItemUnLimitNotUnlockRecipe": false
       },
       "item": {
         "id": "item_62001",

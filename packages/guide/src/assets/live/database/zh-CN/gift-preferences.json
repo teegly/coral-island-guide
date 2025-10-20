@@ -4119,7 +4119,7 @@
           "type": "item",
           "item": {
             "id": "item_80027",
-            "displayName": "黄油牛角面包",
+            "displayName": "黄油可颂",
             "iconName": "Butter_Croissant_Sprite"
           }
         },
@@ -5968,6 +5968,10 @@
             "displayName": "黑色玫瑰",
             "iconName": "placeholder_icon"
           }
+        },
+        {
+          "type": "category",
+          "categoryName": "Fish"
         }
       ],
       "likePreferences": [],
@@ -7156,7 +7160,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "蛋珠",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         {
@@ -7675,7 +7679,7 @@
           "type": "item",
           "item": {
             "id": "item_64008",
-            "displayName": "漂浮小动物专用香水",
+            "displayName": "漂浮小动物专用诱香",
             "iconName": "Floating_critter_scent_Sprite"
           }
         },
@@ -7683,7 +7687,7 @@
           "type": "item",
           "item": {
             "id": "item_64006",
-            "displayName": "爬行动物专用香水",
+            "displayName": "爬行动物专用诱香",
             "iconName": "Crawling_critter_scent_Sprite"
           }
         }
@@ -7766,7 +7770,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "蛋珠",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         }
       ],
@@ -7966,7 +7970,7 @@
           "item": {
             "id": "item_31031",
             "displayName": "蛋珠",
-            "iconName": "Sphere_Sprite"
+            "iconName": "Pearl_Sprite"
           }
         },
         {
@@ -8505,7 +8509,7 @@
           "type": "item",
           "item": {
             "id": "item_100011",
-            "displayName": "包装供品",
+            "displayName": "传送供品",
             "iconName": "Warp_sesajen_Sprite"
           }
         }
@@ -9061,7 +9065,7 @@
           "type": "item",
           "item": {
             "id": "item_64006",
-            "displayName": "爬行动物专用香水",
+            "displayName": "爬行动物专用诱香",
             "iconName": "Crawling_critter_scent_Sprite"
           }
         },
@@ -9069,7 +9073,7 @@
           "type": "item",
           "item": {
             "id": "item_64008",
-            "displayName": "漂浮小动物专用香水",
+            "displayName": "漂浮小动物专用诱香",
             "iconName": "Floating_critter_scent_Sprite"
           }
         }

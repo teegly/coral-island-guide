@@ -1457,7 +1457,7 @@
       },
       "item": {
         "id": "item_64010",
-        "displayName": "怪物诱饵的香水",
+        "displayName": "挑衅气息II",
         "price": 140,
         "sellPrice": 35,
         "sellAt": [],
@@ -1601,7 +1601,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "高级祭坛",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "解锁鲜花运输",
+      "offeringGroupRewardText": "解锁记忆之洞",
       "offerings": [
         {
           "title": "栏舍动物",

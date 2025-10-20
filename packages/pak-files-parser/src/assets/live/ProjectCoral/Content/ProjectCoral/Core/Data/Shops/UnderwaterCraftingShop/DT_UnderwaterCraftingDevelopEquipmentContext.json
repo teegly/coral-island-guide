@@ -86,7 +86,7 @@
       },
       "Recipe_Lumina_Sprinkler_2": {
         "contextIcon": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/ProjectCoral/Textures/Inventory_Icons/FarmingTools_Icons/Lumina_sprinkler_II_Sprite.Lumina_sprinkler_II_Sprite",
           "SubPathString": ""
         },
         "footnoteText": {
@@ -101,7 +101,7 @@
       },
       "Recipe_Lumina_Sprinkler_3": {
         "contextIcon": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/ProjectCoral/Textures/Inventory_Icons/FarmingTools_Icons/Lumina_sprinkler_III_Sprite.Lumina_sprinkler_III_Sprite",
           "SubPathString": ""
         },
         "footnoteText": {

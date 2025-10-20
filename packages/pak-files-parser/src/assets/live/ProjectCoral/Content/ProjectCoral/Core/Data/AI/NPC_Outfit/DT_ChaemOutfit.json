@@ -1902,7 +1902,7 @@
           }
         ],
         "SkeletalMeshes": {
-          "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Chaem/SK_Chaem_v2_1.SK_Chaem_v2_1",
+          "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Chaem/Optimized/GymOutfit/SK_Chaem_GymOutfit.SK_Chaem_GymOutfit",
           "SubPathString": ""
         },
         "StaticMesh": {

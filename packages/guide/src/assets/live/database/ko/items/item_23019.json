@@ -8,8 +8,8 @@
       "Sam"
     ],
     "stackable": true,
-    "inventoryCategory": "Fruit",
-    "displayKey": "Grains",
+    "inventoryCategory": "Grains",
+    "displayKey": "Grain",
     "description": "부피가 큰 갈색 꼬투리. 초콜릿의 기본 재료.",
     "qualities": {
       "bronze": {
@@ -598,7 +598,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "고급 제단",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "순간이동 공물 잠금 해제",
+      "offeringGroupRewardText": "기억의 동굴 해금",
       "offerings": [
         {
           "title": "과일 식물",

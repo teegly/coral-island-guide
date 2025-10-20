@@ -66,6 +66,86 @@
       },
       "genericInput": null,
       "machine": "Mill"
+    },
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 6,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41438",
+          "displayName": "大麦粉",
+          "iconName": "Barley_Flour_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41438",
+          "displayName": "大麦粉",
+          "iconName": "Barley_Flour_Sprite",
+          "sellPrice": 235
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 12,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
+    }
+  ],
+  "artisanIngredient": [
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 6,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41438",
+          "displayName": "大麦粉",
+          "iconName": "Barley_Flour_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41438",
+          "displayName": "大麦粉",
+          "iconName": "Barley_Flour_Sprite",
+          "sellPrice": 235
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 12,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
     }
   ],
   "usedToCook": [
@@ -803,7 +883,7 @@
       "cookingKey": "ButterCroissant",
       "item": {
         "id": "item_80027",
-        "displayName": "黄油牛角面包",
+        "displayName": "黄油可颂",
         "price": 250,
         "sellPrice": 123,
         "sellAt": [],

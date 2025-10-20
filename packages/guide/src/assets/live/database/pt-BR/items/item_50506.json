@@ -394,7 +394,7 @@
         {
           "item": {
             "id": "item_62008",
-            "displayName": "Essência de kelp de ósmio",
+            "displayName": "Essência de alga de ósmio",
             "iconName": "Osmium_Kelp_Essence_Sprite"
           },
           "amount": 2
@@ -504,7 +504,7 @@
         {
           "item": {
             "id": "item_62006",
-            "displayName": "Essência de kelp de ouro",
+            "displayName": "Essência de alga de ouro",
             "iconName": "Gold_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -761,7 +761,7 @@
         {
           "item": {
             "id": "item_62005",
-            "displayName": "Essência de kelp de bronze",
+            "displayName": "Essência de alga de bronze",
             "iconName": "Bronze_kelp_essence_Sprite"
           },
           "amount": 3
@@ -1018,7 +1018,7 @@
         {
           "item": {
             "id": "item_62007",
-            "displayName": "Essência de kelp de prata",
+            "displayName": "Essência de alga de prata",
             "iconName": "Silver_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -1275,7 +1275,7 @@
         {
           "item": {
             "id": "item_62008",
-            "displayName": "Essência de kelp de ósmio",
+            "displayName": "Essência de alga de ósmio",
             "iconName": "Osmium_Kelp_Essence_Sprite"
           },
           "amount": 3
@@ -1607,7 +1607,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Altar Avançado",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Desbloqueia Sesajen de Dobra",
+      "offeringGroupRewardText": "Desbloqueia a Caverna de Memórias",
       "offerings": [
         {
           "title": "Espólios de Monstro",

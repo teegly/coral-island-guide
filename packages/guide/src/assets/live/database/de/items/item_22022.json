@@ -675,11 +675,6 @@
               "iconName": "Cotton_Sprite"
             },
             {
-              "id": "item_24003",
-              "displayName": "Mandel",
-              "iconName": "Almond_Sprite"
-            },
-            {
               "id": "item_24004",
               "displayName": "Avocado",
               "iconName": "Avocado_Sprite"
@@ -2106,7 +2101,7 @@
       "key": "SpecialityBased",
       "offeringGroupTitle": "Fortgeschrittener Altar",
       "urlPath": "advancedaltar",
-      "offeringGroupRewardText": "Schaltet Warp Sesajen frei",
+      "offeringGroupRewardText": "Schaltet die Höhle der Erinnerungen frei",
       "offerings": [
         {
           "title": "Fruchtpflanze",

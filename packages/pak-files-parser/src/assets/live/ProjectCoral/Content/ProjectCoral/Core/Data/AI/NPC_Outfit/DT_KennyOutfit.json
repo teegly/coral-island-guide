@@ -134,6 +134,20 @@
               "SubPathString": ""
             },
             "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Kenny/Portraits/Spring/Kenny_Annoyed_Spring.Kenny_Annoyed_Spring",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
           }
         ],
         "SkeletalMeshes": {
@@ -308,6 +322,20 @@
               "SubPathString": ""
             },
             "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Kenny/Portraits/Summer/Kenny_Annoyed_Summer.Kenny_Annoyed_Summer",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
           }
         ],
         "SkeletalMeshes": {
@@ -479,6 +507,20 @@
             },
             "texture": {
               "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Kenny/Portraits/Fall/Kenny_Daydreaming_Fall.Kenny_Daydreaming_Fall",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Kenny/Portraits/Fall/Kenny_Annoyed_Fall.Kenny_Annoyed_Fall",
               "SubPathString": ""
             },
             "downedTextureCached": null
@@ -827,6 +869,20 @@
             },
             "texture": {
               "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Kenny/Portraits/Winter/Kenny_Daydreaming_Winter.Kenny_Daydreaming_Winter",
+              "SubPathString": ""
+            },
+            "downedTextureCached": null
+          },
+          {
+            "EmotionRow": {
+              "DataTable": {
+                "ObjectName": "DataTable'DT_EmotionList'",
+                "ObjectPath": "ProjectCoral/Content/ProjectCoral/Core/Data/AI/Dialogue/DT_EmotionList.0"
+              },
+              "RowName": "Angry"
+            },
+            "texture": {
+              "AssetPathName": "/Game/ProjectCoral/Characters/Human/NPC/Kenny/Portraits/Winter/Kenny_Annoyed_Winter.Kenny_Annoyed_Winter",
               "SubPathString": ""
             },
             "downedTextureCached": null

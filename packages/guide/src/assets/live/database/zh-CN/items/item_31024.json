@@ -382,7 +382,7 @@
       "cookingKey": "ButterCroissant",
       "item": {
         "id": "item_80027",
-        "displayName": "黄油牛角面包",
+        "displayName": "黄油可颂",
         "price": 250,
         "sellPrice": 123,
         "sellAt": [],
@@ -917,117 +917,6 @@
         }
       ],
       "eitherOrIngredients": []
-    },
-    {
-      "key": "item_80093",
-      "amount": 1,
-      "cookingKey": "EsDoger",
-      "item": {
-        "id": "item_80093",
-        "displayName": "Esdoger",
-        "price": 260,
-        "sellPrice": 100,
-        "sellAt": [],
-        "stackable": true,
-        "inventoryCategory": "Consumable",
-        "displayKey": "Consumable",
-        "description": "配料“齐全”的粉红色椰奶冰。好喝！",
-        "qualities": {
-          "bronze": {
-            "price": 299,
-            "sellPrice": 115
-          },
-          "silver": {
-            "price": 325,
-            "sellPrice": 125
-          },
-          "gold": {
-            "price": 390,
-            "sellPrice": 150
-          },
-          "osmium": {
-            "price": 520,
-            "sellPrice": 200
-          }
-        },
-        "iconName": "Es_Doger_Sprite",
-        "tags": [
-          "income.other",
-          "Item.Consumable.Food",
-          "item.cooking.ingredient"
-        ]
-      },
-      "utensils": [
-        "CeramicBowl"
-      ],
-      "genericIngredients": [
-        {
-          "amount": 1,
-          "genericItem": {
-            "key": "Any_Coconut",
-            "tags": [
-              "item.coconut"
-            ],
-            "iconName": "Any_Coconut_Sprite",
-            "displayName": "任何椰子"
-          },
-          "key": "Any_Coconut"
-        }
-      ],
-      "ingredients": [
-        {
-          "item": {
-            "id": "item_41028",
-            "displayName": "糖浆",
-            "iconName": "Syrup_Sprite"
-          },
-          "amount": 1
-        },
-        {
-          "item": {
-            "id": "item_23013",
-            "displayName": "红薯",
-            "iconName": "Sweet_Potato_Sprite"
-          },
-          "amount": 1
-        }
-      ],
-      "eitherOrIngredients": [
-        [
-          {
-            "item": {
-              "id": "item_31004",
-              "displayName": "牛奶",
-              "iconName": "Milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31016",
-              "displayName": "牛奶（大）",
-              "iconName": "Large_milk_Sprite_"
-            },
-            "amount": 0
-          },
-          {
-            "item": {
-              "id": "item_31024",
-              "displayName": "金奶",
-              "iconName": "Golden_milk_Sprite"
-            },
-            "amount": 1
-          },
-          {
-            "item": {
-              "id": "item_31022",
-              "displayName": "金奶（大）",
-              "iconName": "Large_golden_milk_Sprite"
-            },
-            "amount": 1
-          }
-        ]
-      ]
     },
     {
       "key": "item_41016",

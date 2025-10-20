@@ -323,7 +323,7 @@
       "overwriteDuration": false,
       "duration": 0,
       "buff": "None",
-      "itemType": "Drink"
+      "itemType": "Food"
     },
     "bronze": {
       "key": "item_41288-a",
@@ -335,7 +335,7 @@
       "overwriteDuration": false,
       "duration": 0,
       "buff": "None",
-      "itemType": "Drink"
+      "itemType": "Food"
     },
     "silver": {
       "key": "item_41288-b",
@@ -347,7 +347,7 @@
       "overwriteDuration": false,
       "duration": 0,
       "buff": "None",
-      "itemType": "Drink"
+      "itemType": "Food"
     },
     "gold": {
       "key": "item_41288-c",
@@ -359,7 +359,7 @@
       "overwriteDuration": false,
       "duration": 0,
       "buff": "None",
-      "itemType": "Drink"
+      "itemType": "Food"
     },
     "osmium": {
       "key": "item_41288-d",
@@ -371,7 +371,7 @@
       "overwriteDuration": false,
       "duration": 0,
       "buff": "None",
-      "itemType": "Drink"
+      "itemType": "Food"
     }
   }
 }

@@ -11,7 +11,13 @@
           "RowName": "item_100007"
         },
         "itemID": "item_100007"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -27,6 +33,12 @@
         },
         "itemID": "item_65049"
       },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full",
       "isQuestReward": true
     }
   },
@@ -42,7 +54,13 @@
           "RowName": "item_65018"
         },
         "itemID": "item_65018"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -57,7 +75,13 @@
           "RowName": "item_65015"
         },
         "itemID": "item_65015"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -72,7 +96,13 @@
           "RowName": "item_65021"
         },
         "itemID": "item_65021"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -87,7 +117,13 @@
           "RowName": "item_65022"
         },
         "itemID": "item_65022"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -103,6 +139,12 @@
         },
         "itemID": "item_65014"
       },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full",
       "isQuestReward": true
     }
   },
@@ -118,7 +160,13 @@
           "RowName": "item_65059"
         },
         "itemID": "item_65059"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -134,7 +182,13 @@
         },
         "itemID": "item_62007"
       },
-      "quantity": 2
+      "quantity": 2,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -149,7 +203,13 @@
           "RowName": "item_65509"
         },
         "itemID": "item_65509"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -164,7 +224,13 @@
           "RowName": "item_62005"
         },
         "itemID": "item_62005"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -180,7 +246,13 @@
         },
         "itemID": "item_63003"
       },
-      "quantity": 5
+      "quantity": 5,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -196,7 +268,13 @@
         },
         "itemID": "item_65357"
       },
-      "quantity": 5
+      "quantity": 5,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -211,7 +289,13 @@
           "RowName": "item_65268"
         },
         "itemID": "item_65268"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -226,7 +310,13 @@
           "RowName": "item_65341"
         },
         "itemID": "item_65341"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -242,7 +332,13 @@
         },
         "itemID": "item_62008"
       },
-      "quantity": 5
+      "quantity": 5,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -257,7 +353,13 @@
           "RowName": "item_65020"
         },
         "itemID": "item_65020"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -272,7 +374,13 @@
           "RowName": "item_94067"
         },
         "itemID": "item_94067"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -288,7 +396,13 @@
         },
         "itemID": "item_65359"
       },
-      "quantity": 10
+      "quantity": 10,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -303,7 +417,13 @@
           "RowName": "item_63043"
         },
         "itemID": "item_63043"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -320,6 +440,12 @@
         "itemID": "item_21029"
       },
       "quantity": 8,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full",
       "isQuestReward": true
     }
   },
@@ -336,7 +462,13 @@
         },
         "itemID": "item_22028"
       },
-      "quantity": 8
+      "quantity": 8,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -352,7 +484,13 @@
         },
         "itemID": "item_23023"
       },
-      "quantity": 8
+      "quantity": 8,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -368,7 +506,13 @@
         },
         "itemID": "item_24007"
       },
-      "quantity": 8
+      "quantity": 8,
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -383,7 +527,13 @@
           "RowName": "item_110023"
         },
         "itemID": "item_110023"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -398,7 +548,13 @@
           "RowName": "item_65016"
         },
         "itemID": "item_65016"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {
@@ -413,7 +569,13 @@
           "RowName": "item_65050"
         },
         "itemID": "item_65050"
-      }
+      },
+      "playAnimationTrigger": true,
+      "divingMerfolkUseAnim": {
+        "ObjectName": "C_MerfolkAnimationSetAsset'DA_ShowItemAnimationSet'",
+        "ObjectPath": "ProjectCoral/Content/ProjectCoral/Animation/PlayerAnimation/DA_ShowItemAnimationSet.0"
+      },
+      "sectionName": "full"
     }
   },
   {

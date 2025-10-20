@@ -20061,7 +20061,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41283-a",
@@ -20073,7 +20073,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41283-b",
@@ -20085,7 +20085,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41283-c",
@@ -20097,7 +20097,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41283-d",
@@ -20109,7 +20109,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41284",
@@ -20121,7 +20121,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41284-a",
@@ -20133,7 +20133,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41284-b",
@@ -20145,7 +20145,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41284-c",
@@ -20157,7 +20157,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41284-d",
@@ -20169,7 +20169,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41285",
@@ -20181,7 +20181,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41285-a",
@@ -20193,7 +20193,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41285-b",
@@ -20205,7 +20205,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41285-c",
@@ -20217,7 +20217,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41285-d",
@@ -20229,7 +20229,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41286",
@@ -20241,7 +20241,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41286-a",
@@ -20253,7 +20253,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41286-b",
@@ -20265,7 +20265,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41286-c",
@@ -20277,7 +20277,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41286-d",
@@ -20289,7 +20289,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41287",
@@ -20301,7 +20301,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41287-a",
@@ -20313,7 +20313,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41287-b",
@@ -20325,7 +20325,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41287-c",
@@ -20337,7 +20337,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41287-d",
@@ -20349,7 +20349,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41288",
@@ -20361,7 +20361,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41288-a",
@@ -20373,7 +20373,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41288-b",
@@ -20385,7 +20385,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41288-c",
@@ -20397,7 +20397,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41288-d",
@@ -20409,7 +20409,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_41289",
@@ -23229,7 +23229,7 @@
     "overwriteDuration": false,
     "duration": 0,
     "buff": "None",
-    "itemType": "Drink"
+    "itemType": "Food"
   },
   {
     "key": "item_42012",

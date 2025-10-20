@@ -104,6 +104,104 @@
         }
       ],
       "machine": "Barrel"
+    },
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 10,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41407",
+          "displayName": "南瓜酒",
+          "iconName": "Wine_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41407",
+          "displayName": "南瓜酒",
+          "iconName": "Wine_Sprite",
+          "sellPrice": 520
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 11,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 17,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
+    }
+  ],
+  "artisanIngredient": [
+    {
+      "useCategory": false,
+      "day": 0,
+      "time": {
+        "hours": 10,
+        "minutes": 0
+      },
+      "additionalInput": [],
+      "input": {
+        "amount": 1,
+        "item": {
+          "id": "item_41407",
+          "displayName": "南瓜酒",
+          "iconName": "Wine_Sprite"
+        }
+      },
+      "output": {
+        "amount": 1,
+        "item": {
+          "id": "item_41407",
+          "displayName": "南瓜酒",
+          "iconName": "Wine_Sprite",
+          "sellPrice": 520
+        }
+      },
+      "genericInput": null,
+      "refinements": [
+        {
+          "from": "silver",
+          "to": "gold",
+          "day": 0,
+          "time": {
+            "hours": 11,
+            "minutes": 0
+          }
+        },
+        {
+          "from": "gold",
+          "to": "osmium",
+          "day": 0,
+          "time": {
+            "hours": 17,
+            "minutes": 0
+          }
+        }
+      ],
+      "machine": "SlimeOfTransmutation"
     }
   ],
   "usedToCook": [
@@ -201,7 +299,7 @@
       "key": "RareBased",
       "offeringGroupTitle": "稀有祭坛",
       "urlPath": "rarealtar",
-      "offeringGroupRewardText": "解锁萨凡纳",
+      "offeringGroupRewardText": "解锁传送供品",
       "offerings": [
         {
           "title": "稀有的手工产品",
