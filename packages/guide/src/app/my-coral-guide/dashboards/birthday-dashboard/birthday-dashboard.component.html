@@ -38,6 +38,29 @@
 
             </div>
         </div>
+
+        <div class="flex gap-3 items-center mt-2">
+            <mat-form-field class="semi-transparent-form-field grow shrink-0 basis-auto">
+                <mat-label>Gift to give</mat-label>
+                <mat-select [value]="getSelectedGiftId(birthday.npcKey)" 
+                            (selectionChange)="selectGift(birthday.npcKey, $event.value)">
+                    <mat-option [value]="null">None selected</mat-option>
+                    @for (loved of birthday.lovedGifts; track loved) {
+                        @if (loved.type === 'item') {
+                            <mat-option [value]="loved.item.id">{{ loved.item.displayName }}</mat-option>
+                        }
+                    }
+                </mat-select>
+            </mat-form-field>
+            
+            <mat-checkbox 
+                [checked]="isGiftGiven(birthday.npcKey)"
+                (change)="toggleGiftGiven(birthday.npcKey)"
+                [disabled]="!getSelectedGiftId(birthday.npcKey)"
+                class="text-black">
+                Given
+            </mat-checkbox>
+        </div>
     </div>
 
 } @empty {

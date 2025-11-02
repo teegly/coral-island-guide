@@ -25,13 +25,13 @@
                         <h2 class="mb-4 font-semibold text-2xl text-black">
                             Today
                         </h2>
-                        <app-birthday-dashboard [birthdays]=" birthdaysToday()" (itemClicked)="showDetails($event)"/>
+                        <app-birthday-dashboard [birthdays]="birthdaysToday()" [currentDate]="currentDateString()" (itemClicked)="showDetails($event)"/>
                     </div>
                     <div>
                         <h2 class="mb-4 font-semibold text-2xl text-black">
                             Tomorrow
                         </h2>
-                        <app-birthday-dashboard [birthdays]=" birthdaysTomorrow()" (itemClicked)="showDetails($event)"/>
+                        <app-birthday-dashboard [birthdays]="birthdaysTomorrow()" [currentDate]="currentDateString()" (itemClicked)="showDetails($event)"/>
                     </div>
                 </div>
             </app-card>
