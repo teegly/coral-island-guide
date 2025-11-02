@@ -19,7 +19,9 @@ export function createBirthdaysFile(npcDbMap: Map<string, NPC>, giftPreferences:
             return 0
         })
         .forEach(npc => {
-            const lovedGifts = giftPreferences.find(g => Object.keys(g).includes(npc.key))?.[npc.key].lovePreferences ?? [];
+            const giftPref = giftPreferences.find(g => Object.keys(g).includes(npc.key))?.[npc.key];
+            const lovedGifts = giftPref?.lovePreferences ?? [];
+            const likedGifts = giftPref?.likePreferences ?? [];
 
             const npcEntry: BirthdayDashboardEntry = {
                 npcKey: npc.key,
@@ -27,6 +29,7 @@ export function createBirthdaysFile(npcDbMap: Map<string, NPC>, giftPreferences:
                 iconName: npc.iconName,
                 birthday: npc.birthday!,
                 lovedGifts,
+                likedGifts,
 
             };
 

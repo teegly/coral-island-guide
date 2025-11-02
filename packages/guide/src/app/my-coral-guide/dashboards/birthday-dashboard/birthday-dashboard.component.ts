@@ -5,7 +5,7 @@ import { UiIconComponent } from "../../../shared/components/ui-icon/ui-icon.comp
 import { RouterLink } from "@angular/router";
 import { ItemIconComponent } from "../../../shared/components/item-icon/item-icon.component";
 import { MatFormField, MatLabel } from "@angular/material/form-field";
-import { MatOption, MatSelect } from "@angular/material/select";
+import { MatOptgroup, MatOption, MatSelect } from "@angular/material/select";
 import { MatCheckbox } from "@angular/material/checkbox";
 import { UserDataService } from "../../../core/services/user-data.service";
 import { BirthdayGiftTracking } from "../../../core/types/birthday-gift-tracking.type";
@@ -21,6 +21,7 @@ import { BirthdayGiftTracking } from "../../../core/types/birthday-gift-tracking
         MatLabel,
         MatSelect,
         MatOption,
+        MatOptgroup,
         MatCheckbox
     ],
     templateUrl: './birthday-dashboard.component.html',
