@@ -7,7 +7,7 @@ import { LocalStorageService } from "../local-storage/local-storage.service";
     providedIn: 'root'
 })
 export class UserDataService {
-    private static readonly _CURRENT_USER_DATA_VERSION = 4;
+    private static readonly _CURRENT_USER_DATA_VERSION = 5;
     private static readonly _USER_DATA_STORE_KEY = 'user-data'
     private static readonly _SAVE_GAME_NAME_PREFIX = 'Save game '
     userData = signal<{ version: number, currentIndex: number; data: UserData[] }>({
@@ -85,7 +85,8 @@ export class UserDataService {
             todoText: '',
             todos: [],
             checklists: {},
-            birthdayGifts: {}
+            birthdayGifts: {},
+            npcHeartLevels: {}
         }
     }
 
@@ -117,6 +118,12 @@ export class UserDataService {
                     return d
                 });
                 existingVersion = 4;
+            } else if (existingVersion === 4) {
+                migratedData = migratedData.map(d => {
+                    d.npcHeartLevels = {};
+                    return d
+                });
+                existingVersion = 5;
             }
 
 

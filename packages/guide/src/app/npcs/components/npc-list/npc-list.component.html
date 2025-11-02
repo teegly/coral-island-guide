@@ -28,6 +28,33 @@
                         }
                         <div [ngClass]="{'line-clamp-2': !npc.customHead, 'line-clamp-1': npc.customHead}">{{ npc.description }}</div>
 
+                        @if (npc.canHaveRelationships) {
+                            <div class="flex items-center gap-2 mt-auto pt-2 z-20 relative">
+                                <button 
+                                    (click)="decrementHeartLevel(npc.key, $event)"
+                                    class="bg-[#F1E1CC] hover:bg-[#F2DBB7] rounded-full p-1 flex items-center justify-center"
+                                    [disabled]="getHeartLevel(npc.key) === 0"
+                                    matTooltip="Decrease heart level">
+                                    <mat-icon class="!text-black !w-5 !h-5 !text-base">remove</mat-icon>
+                                </button>
+                                <div class="flex items-center gap-1">
+                                    @for (heart of [1,2,3,4,5,6,7,8,9,10]; track heart) {
+                                        <app-ui-icon 
+                                            [uiIcon]="uiIcon.LOVE" 
+                                            [class]="getHeartLevel(npc.key) >= heart ? '!text-gifting !h-4 !w-4' : '!text-gray-400 !h-4 !w-4 opacity-40'"
+                                            [matTooltip]="heart + ' heart(s)'"/>
+                                    }
+                                </div>
+                                <button 
+                                    (click)="incrementHeartLevel(npc.key, $event)"
+                                    class="bg-[#F1E1CC] hover:bg-[#F2DBB7] rounded-full p-1 flex items-center justify-center"
+                                    [disabled]="getHeartLevel(npc.key) === 10"
+                                    matTooltip="Increase heart level">
+                                    <mat-icon class="!text-black !w-5 !h-5 !text-base">add</mat-icon>
+                                </button>
+                            </div>
+                        }
+
                         @if (npc.customHead) {
                             <div clasS="mt-auto">unofficial head portrait</div>
                         }

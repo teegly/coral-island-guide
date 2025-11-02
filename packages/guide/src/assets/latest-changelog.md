@@ -1,1 +1,1 @@
-{"version":"0.27.1","date":"2025-10-20","body":"\r\n#### Changed\r\n\r\n- Updated live data to v1.2-1241 (Steam version)\r\n\r"}
+{"version":"0.27.1","date":"2025-10-20","body":"\n#### Changed\n\n- Updated live data to v1.2-1241 (Steam version)\n"}
