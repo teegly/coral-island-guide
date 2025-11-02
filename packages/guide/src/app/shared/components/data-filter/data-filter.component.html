@@ -44,5 +44,11 @@
                 </mat-select>
             </mat-form-field>
         }
+        @if (parentFG.contains('hideCaught')) {
+            <label class="flex items-center gap-2 cursor-pointer">
+                <input type="checkbox" formControlName="hideCaught" class="w-4 h-4 cursor-pointer">
+                <span>Hide caught items</span>
+            </label>
+        }
     </ng-container>
 }

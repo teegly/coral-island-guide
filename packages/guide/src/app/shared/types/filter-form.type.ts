@@ -6,5 +6,6 @@ export type FilterForm = {
     weather?: FormControl<string[]>;
     location?: FormControl<string | null>;
     showTable?: FormControl<boolean>;
+    hideCaught?: FormControl<boolean>;
 };
 

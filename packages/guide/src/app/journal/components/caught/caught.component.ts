@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { Critter, Fish, Season, Seasons, Weather, Weathers } from '@ci/data-types';
 import { BaseJournalPageComponent } from '../base-journal-page/base-journal-page.component';
 import { getTruthyValues } from '@ci/util';
@@ -11,6 +11,7 @@ import { DataFilterComponent } from "../../../shared/components/data-filter/data
 import { ItemIconComponent } from "../../../shared/components/item-icon/item-icon.component";
 import { CaughtTableComponent } from "../tables/caught-table/caught-table.component";
 import { AsyncPipe } from "@angular/common";
+import { ToDoService } from "../../../core/services/to-do.service";
 
 @Component({
     selector: 'app-caught',
@@ -31,6 +32,7 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
 
     
     private readonly SEA_CRITTERS_INDEX = 2;
+    private readonly toDoService = inject(ToDoService);
 
     constructor() {
         super(new FormGroup<FilterForm>({
@@ -38,6 +40,7 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
                 weather: new FormControl<Weather[]>([...Weathers], {nonNullable: true}),
                 location: new FormControl<string | null>(null),
                 showTable: new FormControl<boolean>(false, { nonNullable: true }),
+                hideCaught: new FormControl<boolean>(false, { nonNullable: true }),
             }));
 
             
@@ -73,6 +76,13 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
     override filterPredicate(foundEntry: Fish | Critter, filterValues: FormGroup<FilterForm>["value"], index: number): boolean {
         if (!filterValues.season?.length) return false;
         if (!filterValues.weather?.length) return false;
+
+        // Check if we should hide caught items
+        if (filterValues.hideCaught) {
+            const context = this.getToDoContext(foundEntry, index);
+            const isCaught = this.toDoService.alreadyInList(context, foundEntry.item);
+            if (isCaught) return false;
+        }
 
         if ('spawnSettings' in foundEntry) {
             //it's a fish and has multiple locations with different weather and seasons
@@ -150,5 +160,15 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
 
     resetLocationFilter() {
         this.formControl.get('location')?.setValue(null)
+    }
+
+    private getToDoContext(entry: Fish | Critter, index: number): "journal_fish" | "journal_insects" | "journal_critter" {
+        if ('fishName' in entry) {
+            return "journal_fish";
+        } else if (index === 1) { // Insects tab
+            return "journal_insects";
+        } else { // Sea Critters tab
+            return "journal_critter";
+        }
     }
 }
