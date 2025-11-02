@@ -17,3 +17,12 @@
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   }
 }
+
+.filled-heart {
+  @apply !text-gifting !h-5 !w-5;
+}
+
+.empty-heart {
+  @apply !text-gray-300 !h-5 !w-5;
+  filter: grayscale(100%) brightness(1.2);
+}

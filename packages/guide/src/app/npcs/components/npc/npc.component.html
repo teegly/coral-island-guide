@@ -35,6 +35,36 @@
             @if (npc.description) {
                 <p class="mt-2">{{ npc.description }}</p>
             }
+            
+            @if (npc.canHaveRelationships) {
+                <div class="mt-4 flex flex-col gap-2">
+                    <div class="text-lg font-semibold text-black">Heart Level</div>
+                    <div class="flex items-center gap-3">
+                        <button 
+                            (click)="decrementHeartLevel()"
+                            class="bg-[#F1E1CC] hover:bg-[#F2DBB7] rounded-full w-8 h-8 flex items-center justify-center text-black font-bold text-xl leading-none"
+                            [disabled]="getHeartLevel() === 0"
+                            matTooltip="Decrease heart level">
+                            −
+                        </button>
+                        <div class="grid grid-cols-5 gap-1.5">
+                            @for (heart of [1,2,3,4,5,6,7,8,9,10]; track heart) {
+                                <app-ui-icon 
+                                    [uiIcon]="uiIcon.LOVE" 
+                                    [ngClass]="getHeartLevel() >= heart ? 'filled-heart' : 'empty-heart'"
+                                    [matTooltip]="heart + ' heart(s)'"/>
+                            }
+                        </div>
+                        <button 
+                            (click)="incrementHeartLevel()"
+                            class="bg-[#F1E1CC] hover:bg-[#F2DBB7] rounded-full w-8 h-8 flex items-center justify-center text-black font-bold text-xl leading-none"
+                            [disabled]="getHeartLevel() === 10"
+                            matTooltip="Increase heart level">
+                            +
+                        </button>
+                    </div>
+                </div>
+            }
         </app-card>
 
 

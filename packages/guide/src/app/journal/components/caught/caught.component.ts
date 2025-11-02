@@ -11,7 +11,7 @@ import { DataFilterComponent } from "../../../shared/components/data-filter/data
 import { ItemIconComponent } from "../../../shared/components/item-icon/item-icon.component";
 import { CaughtTableComponent } from "../tables/caught-table/caught-table.component";
 import { AsyncPipe } from "@angular/common";
-import { ToDoService } from "../../../core/services/to-do.service";
+import { MuseumChecklistService } from "../../../core/services/checklists/museum-checklist.service";
 
 @Component({
     selector: 'app-caught',
@@ -32,7 +32,7 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
 
     
     private readonly SEA_CRITTERS_INDEX = 2;
-    private readonly toDoService = inject(ToDoService);
+    private readonly museumChecklistService = inject(MuseumChecklistService);
 
     constructor() {
         super(new FormGroup<FilterForm>({
@@ -77,10 +77,10 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
         if (!filterValues.season?.length) return false;
         if (!filterValues.weather?.length) return false;
 
-        // Check if we should hide caught items
+        // Check if we should hide caught items (items in museum checklist)
         if (filterValues.hideCaught) {
-            const context = this.getToDoContext(foundEntry, index);
-            const isCaught = this.toDoService.alreadyInList(context, foundEntry.item);
+            const itemKey = this.getItemKeyForMuseum(foundEntry, index);
+            const isCaught = this.museumChecklistService.isChecked(itemKey);
             if (isCaught) return false;
         }
 
@@ -162,13 +162,17 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
         this.formControl.get('location')?.setValue(null)
     }
 
-    private getToDoContext(entry: Fish | Critter, index: number): "journal_fish" | "journal_insects" | "journal_critter" {
+    private getItemKeyForMuseum(entry: Fish | Critter, index: number): string {
+        // Museum checklist uses the item key directly
+        // Format: fish_<itemKey>, insects_<itemKey>, or critters_<itemKey>
+        const itemKey = entry.item.key;
+        
         if ('fishName' in entry) {
-            return "journal_fish";
+            return `fish_${itemKey}`;
         } else if (index === 1) { // Insects tab
-            return "journal_insects";
+            return `insects_${itemKey}`;
         } else { // Sea Critters tab
-            return "journal_critter";
+            return `critters_${itemKey}`;
         }
     }
 }
