@@ -14,11 +14,12 @@ import { UiIconComponent } from "../../../shared/components/ui-icon/ui-icon.comp
 import { IngameDatePipe } from "../../../shared/pipes/ingame-date.pipe";
 import { GiftingGridComponent } from "../gifting-grid/gifting-grid.component";
 import { HeartEventsComponent } from "../heart-events/heart-events.component";
-import { KeyValuePipe } from "@angular/common";
+import { KeyValuePipe, NgClass } from "@angular/common";
 import { NpcPortraitComponent } from "../../../shared/components/npc-portrait/npc-portrait.component";
 import { MatProgressSpinner } from "@angular/material/progress-spinner";
 import { DatabaseItemDetailsDirective } from "../../../shared/directives/database-item-details.directive";
 import { MatTooltip } from "@angular/material/tooltip";
+import { UserDataService } from "../../../core/services/user-data.service";
 
 @Component({
     selector: 'app-npc',
@@ -40,7 +41,8 @@ import { MatTooltip } from "@angular/material/tooltip";
         NpcPortraitComponent,
         MatProgressSpinner,
         DatabaseItemDetailsDirective,
-        MatTooltip
+        MatTooltip,
+        NgClass
     ]
 })
 export class NpcComponent extends BaseSelectableContainerComponent<MinimalItem> implements OnInit {
@@ -53,6 +55,7 @@ export class NpcComponent extends BaseSelectableContainerComponent<MinimalItem> 
     protected readonly uiIcon = UiIcon;
     protected environment = inject(SettingsService).getSettings().useBeta ? 'beta' : 'live';
     protected version = inject(GameVersionService).value();
+    protected readonly userDataService = inject(UserDataService);
 
     ngOnInit(): void {
         combineLatest([this._database.fetchNPCs$(), this._database.fetchHeartEvents$(), this._database.fetchGiftingPreferences$()]).subscribe({
@@ -62,5 +65,36 @@ export class NpcComponent extends BaseSelectableContainerComponent<MinimalItem> 
                 this.giftingPreferences = giftingPreferences.find(g => g.mapKey.toLowerCase() === this.npc?.key.toLowerCase())
             }
         })
+    }
+
+    getHeartLevel(): number {
+        if (!this.npc) return 0;
+        return this.userDataService.currentData().npcHeartLevels?.[this.npc.key] || 0;
+    }
+
+    setHeartLevel(level: number): void {
+        if (!this.npc) return;
+        
+        const userData = this.userDataService.currentData();
+        if (!userData.npcHeartLevels) {
+            userData.npcHeartLevels = {};
+        }
+        // Ensure level is between 0 and 10
+        userData.npcHeartLevels[this.npc.key] = Math.max(0, Math.min(10, level));
+        this.userDataService.save();
+    }
+
+    incrementHeartLevel(): void {
+        const currentLevel = this.getHeartLevel();
+        if (currentLevel < 10) {
+            this.setHeartLevel(currentLevel + 1);
+        }
+    }
+
+    decrementHeartLevel(): void {
+        const currentLevel = this.getHeartLevel();
+        if (currentLevel > 0) {
+            this.setHeartLevel(currentLevel - 1);
+        }
     }
 }

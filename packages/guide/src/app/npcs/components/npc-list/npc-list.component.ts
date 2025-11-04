@@ -12,6 +12,8 @@ import { IngameDatePipe } from "../../../shared/pipes/ingame-date.pipe";
 import { NgClass } from "@angular/common";
 import { MatProgressSpinner } from "@angular/material/progress-spinner";
 import { MatTooltip } from "@angular/material/tooltip";
+import { UserDataService } from "../../../core/services/user-data.service";
+import { MatIcon } from "@angular/material/icon";
 
 @Component({
     selector: 'app-npc-list',
@@ -27,7 +29,8 @@ import { MatTooltip } from "@angular/material/tooltip";
         IngameDatePipe,
         NgClass,
         MatProgressSpinner,
-        MatTooltip
+        MatTooltip,
+        MatIcon
     ]
 })
 export class NpcListComponent {
@@ -38,10 +41,11 @@ export class NpcListComponent {
     #sortValueChanges = computed(() => this.npcFilter()?.sortValueChanges() ?? 'default')
     #filterNPCs = filterNPCs
     readonly #npcList: Signal<NPC[] | undefined>;
+    protected readonly userDataService = inject(UserDataService);
 
     protected filteredAndSortedNpcs = computed(() => {
 
-        let npcs = this.#npcList() ?? [];
+        const npcs = this.#npcList() ?? [];
         if (!this.#searchValueChanges || !this.#sortValueChanges) return npcs;
         const searchValue = this.#searchValueChanges().toLowerCase()
         const sortValue = this.#sortValueChanges()
@@ -57,5 +61,36 @@ export class NpcListComponent {
         this.#npcList = toSignal(this.#database.fetchNPCs$().pipe(
             catchError(() => of([]))
         ))
+    }
+
+    getHeartLevel(npcKey: string): number {
+        return this.userDataService.currentData().npcHeartLevels?.[npcKey] || 0;
+    }
+
+    setHeartLevel(npcKey: string, level: number, event: Event): void {
+        event.preventDefault();
+        event.stopPropagation();
+        
+        const userData = this.userDataService.currentData();
+        if (!userData.npcHeartLevels) {
+            userData.npcHeartLevels = {};
+        }
+        // Ensure level is between 0 and 10
+        userData.npcHeartLevels[npcKey] = Math.max(0, Math.min(10, level));
+        this.userDataService.save();
+    }
+
+    incrementHeartLevel(npcKey: string, event: Event): void {
+        const currentLevel = this.getHeartLevel(npcKey);
+        if (currentLevel < 10) {
+            this.setHeartLevel(npcKey, currentLevel + 1, event);
+        }
+    }
+
+    decrementHeartLevel(npcKey: string, event: Event): void {
+        const currentLevel = this.getHeartLevel(npcKey);
+        if (currentLevel > 0) {
+            this.setHeartLevel(npcKey, currentLevel - 1, event);
+        }
     }
 }

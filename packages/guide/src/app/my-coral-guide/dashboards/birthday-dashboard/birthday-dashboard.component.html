@@ -38,6 +38,61 @@
 
             </div>
         </div>
+
+        <div class="flex gap-2">
+            <div class="font-semibold flex items-center flex-col shrink-0  basis-12 text-black">
+                <app-ui-icon [uiIcon]="UiIcon.LIKE" class="!text-gifting !h-6 !w-6"/>
+                Liked
+            </div>
+            <div class="flex items-center gap-2.5 flex-wrap">
+                @for (liked of birthday.likedGifts; track liked) {
+
+                    @if (liked.type === 'item') {
+                        <app-item-icon [itemName]="liked.item.iconName" class="cursor-pointer h-9 birthday-gift-icon"
+                                       (click)="itemClicked.emit(liked.item)"/>
+                    }
+                    @if (liked.type === 'category') {
+                        <span>All {{ liked.categoryName | addSpacesToPascalCase }}</span>
+                    }
+
+                } @empty {
+                    No individual liked gifts.
+                }
+
+            </div>
+        </div>
+
+        <div class="flex gap-3 items-center mt-2">
+            <mat-form-field class="semi-transparent-form-field grow shrink-0 basis-auto">
+                <mat-label>Gift to give</mat-label>
+                <mat-select [value]="getSelectedGiftId(birthday.npcKey)" 
+                            (selectionChange)="selectGift(birthday.npcKey, $event.value)">
+                    <mat-option [value]="null">None selected</mat-option>
+                    <mat-optgroup label="Loved">
+                        @for (loved of birthday.lovedGifts; track loved) {
+                            @if (loved.type === 'item') {
+                                <mat-option [value]="loved.item.id">{{ loved.item.displayName }}</mat-option>
+                            }
+                        }
+                    </mat-optgroup>
+                    <mat-optgroup label="Liked">
+                        @for (liked of birthday.likedGifts; track liked) {
+                            @if (liked.type === 'item') {
+                                <mat-option [value]="liked.item.id">{{ liked.item.displayName }}</mat-option>
+                            }
+                        }
+                    </mat-optgroup>
+                </mat-select>
+            </mat-form-field>
+            
+            <mat-checkbox 
+                [checked]="isGiftGiven(birthday.npcKey)"
+                (change)="toggleGiftGiven(birthday.npcKey)"
+                [disabled]="!getSelectedGiftId(birthday.npcKey)"
+                class="text-black">
+                Given
+            </mat-checkbox>
+        </div>
     </div>
 
 } @empty {

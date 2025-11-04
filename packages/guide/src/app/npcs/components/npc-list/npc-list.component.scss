@@ -35,3 +35,12 @@
 .npc-list-grid {
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
 }
+
+.filled-heart {
+  @apply !text-gifting !h-4 !w-4;
+}
+
+.empty-heart {
+  @apply !text-gray-300 !h-4 !w-4;
+  filter: grayscale(100%) brightness(1.2);
+}
