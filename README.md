@@ -4,6 +4,22 @@ A comprehensive guide for Coral Island game, hosted at [coral.guide](https://cor
 
 This is an Angular application built with Nx workspace that provides an interactive guide for the Coral Island game.
 
+## Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/teegly/coral-island-guide.git
+cd coral-island-guide
+
+# Install dependencies (--force required due to platform-specific packages)
+npm install --force
+
+# Start development server
+npm start
+
+# Open http://localhost:4200 in your browser
+```
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -136,9 +152,21 @@ npm install --force
 npx nx serve guide
 ```
 
+### Known Limitations
+
+-   **ts-node scripts:** The build scripts (`build-routes`, `build-changelog`) may fail on some systems due to TypeScript module configuration. This doesn't affect local development since the generated files are committed to the repository.
+-   **Platform-specific dependencies:** The `@img/sharp-win32-x64` package is Windows-specific. Use `npm install --force` to bypass platform checks on other operating systems.
+
 ## Contributing
 
-This project is for the Coral Island game guide. If you want to contribute, please ensure your changes work locally before submitting.
+This project is for the Coral Island game guide. If you want to contribute:
+
+1. Read the [CONTRIBUTING.md](CONTRIBUTING.md) guide
+2. Fork the repository and make your changes
+3. Ensure your changes work locally (`npm start`)
+4. Submit a pull request
+
+For more detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
