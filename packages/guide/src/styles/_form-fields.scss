@@ -26,6 +26,12 @@
     border-radius: 15px;
   }
 
+  // Override text-white for mat-select value text to ensure readability
+  .mat-mdc-select-value,
+  .mat-mdc-select-value-text {
+    color: black !important;
+  }
+
   .mdc-floating-label mat-label {
     background: #f7f2e800;
     transition: all 150ms linear;
