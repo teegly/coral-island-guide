@@ -87,10 +87,24 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
         if (!filterValues.season?.length) return false;
         if (!filterValues.weather?.length) return false;
 
-        // Check if we should hide caught items (items in museum checklist)
+        // Check if we should hide caught items (items in appropriate caught checklist)
         if (filterValues.hideCaught) {
-            const itemKey = this.getItemKeyForMuseum(foundEntry);
-            const isCaught = this.museumChecklistService.isChecked(itemKey);
+            const itemKey = foundEntry.key;
+            let isCaught = false;
+            
+            // Check the appropriate caught checklist based on tab index
+            switch (index) {
+                case 0: // Fish
+                    isCaught = this.fishCaughtChecklistService.isChecked(itemKey);
+                    break;
+                case 1: // Insects
+                    isCaught = this.insectsCaughtChecklistService.isChecked(itemKey);
+                    break;
+                case 2: // Sea Critters
+                    isCaught = this.seaCrittersCaughtChecklistService.isChecked(itemKey);
+                    break;
+            }
+            
             if (isCaught) return false;
         }
 
