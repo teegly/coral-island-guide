@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to the Coral Island Guide! This document provides guidelines and instructions for contributing to the project.
 
+> **Note:** If you want to create a private copy for personal use without contributing back, see [PRIVATE_COPY.md](PRIVATE_COPY.md) instead. This guide is specifically for those who want to contribute their changes back to the main repository.
+
 ## Development Setup
 
 1. **Fork and clone the repository**

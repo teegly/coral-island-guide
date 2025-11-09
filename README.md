@@ -158,6 +158,10 @@ npx nx serve guide
 - **ts-node scripts:** The build scripts (`build-routes`, `build-changelog`) may fail on some systems due to TypeScript module configuration. This doesn't affect local development since the generated files are committed to the repository.
 - **Platform-specific dependencies:** The `@img/sharp-win32-x64` package is Windows-specific. Use `npm install --force` to bypass platform checks on other operating systems.
 
+## Making a Private Copy
+
+Want to customize the guide for your own personal use? See [PRIVATE_COPY.md](PRIVATE_COPY.md) for instructions on creating your own private copy without affecting the main repository.
+
 ## Contributing
 
 This project is for the Coral Island game guide. If you want to contribute:
