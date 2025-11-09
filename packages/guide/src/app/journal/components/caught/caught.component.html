@@ -4,7 +4,7 @@
     }
 
     <mat-tab-group (selectedTabChange)="updateUrl($event); resetLocationFilter()" [selectedIndex]="selectedTabIndex()">
-        @for (tab of tabs; track tab) {
+        @for (tab of tabs; track tab; let tabIndex = $index) {
             <mat-tab [label]="tab.title">
                 @if ((tab.data |async); as syncedData) {
 
@@ -15,18 +15,29 @@
 
                         <div class="icon-grid">
                             @for (entry of syncedData; track entry) {
-                                <app-item-icon [itemName]="entry.item.iconName"
-                                               (click)="showDetails(entry)"
-                                               [class.selected-icon]="selectedEntity?.item?.id === entry.item.id"
-                                               class="icon-grid-item"
-                                />
+                                @if (initializeFormControls(syncedData, tabIndex); as _) {}
+                                <div 
+                                    [class.checklist-checked]="getCaughtForm(tabIndex).get(entry.key)?.value"
+                                    [class.selected-icon]="selectedEntity?.item?.id === entry.item.id"
+                                    class="icon-grid-item checklist-item flex flex-col"
+                                    [formGroup]="getCaughtForm(tabIndex)">
+                                    <app-item-icon [itemName]="entry.item.iconName"
+                                                   (click)="showDetails(entry)"
+                                    />
+                                    <app-item-status-badges [status]="getItemStatus(entry, tabIndex)"/>
+                                    <label class="text-white flex justify-center" for="entry-{{entry.key}}-input">
+                                        <mat-checkbox [formControlName]="entry.key" class="flex" 
+                                                      id="entry-{{entry.key}}"
+                                                      name="entry-{{entry.key}}"></mat-checkbox>
+                                    </label>
+                                </div>
                             }
                         </div>
 
                     }
                     @if (showTable) {
 
-                        <app-caught-table [dataSource]="syncedData"></app-caught-table>
+                        <app-caught-table [dataSource]="syncedData" [tabIndex]="tabIndex"></app-caught-table>
 
                     }
 

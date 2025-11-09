@@ -43,6 +43,7 @@
                                                                    [amount]="offering.amount"
                                                                    [itemName]="offering.item.iconName"
                                                                    [quality]="offering.quality"/>
+                                                    <app-item-status-badges [status]="getItemStatus(offering.item)"/>
                                                     <label class="text-white flex justify-center"
                                                            for="entry-{{entryId}}-input">
                                                         <mat-checkbox [formControlName]="entryId" class="flex"
