@@ -3,5 +3,5 @@ import path from "path";
 
 export const environment: EnvironmentConfig = {
     isBeta: false,
-    assetPath: path.join(__dirname, 'assets', 'live')
+    assetPath: "C:\\Users\\Teegs\\OneDrive\\Desktop\\Coral Island"
 };
