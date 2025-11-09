@@ -79,7 +79,7 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
 
         // Check if we should hide caught items (items in museum checklist)
         if (filterValues.hideCaught) {
-            const itemKey = this.getItemKeyForMuseum(foundEntry, index);
+            const itemKey = this.getItemKeyForMuseum(foundEntry);
             const isCaught = this.museumChecklistService.isChecked(itemKey);
             if (isCaught) return false;
         }
@@ -162,8 +162,8 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
         this.formControl.get('location')?.setValue(null)
     }
 
-    private getItemKeyForMuseum(entry: Fish | Critter, index: number): string {
-        // Museum checklist uses the item key directly (e.g., "item_72030")
-        return entry.key;
+    private getItemKeyForMuseum(entry: Fish | Critter): string {
+        // Museum checklist uses the item ID (e.g., "item_72030")
+        return entry.item.id;
     }
 }
