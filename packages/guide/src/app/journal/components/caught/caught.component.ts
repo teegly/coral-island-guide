@@ -165,7 +165,7 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
     private getItemKeyForMuseum(entry: Fish | Critter, index: number): string {
         // Museum checklist uses the item key directly
         // Format: fish_<itemKey>, insects_<itemKey>, or critters_<itemKey>
-        const itemKey = entry.item.key;
+        const itemKey = entry.key;
         
         if ('fishName' in entry) {
             return `fish_${itemKey}`;
