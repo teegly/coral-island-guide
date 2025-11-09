@@ -1,4 +1,4 @@
-export const AvailableLanguages = ['de', 'en', 'es', 'fr', 'id', 'ja', 'zh-CN', 'ko', 'pt-BR', 'th-TH'] as const;
+export const AvailableLanguages = ['de', 'es', 'fr', 'id', 'ja', 'zh-CN', 'ko', 'pt-BR', 'th-TH', 'en'] as const;
 
 export type AvailableLanguage = typeof AvailableLanguages[number];
 
