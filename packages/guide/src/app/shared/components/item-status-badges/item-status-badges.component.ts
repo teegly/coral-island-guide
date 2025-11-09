@@ -11,6 +11,7 @@ export interface ItemStatusConfig {
     selector: 'app-item-status-badges',
     templateUrl: './item-status-badges.component.html',
     styleUrls: ['./item-status-badges.component.scss'],
+    standalone: true,
     imports: [
         MatTooltip
     ]
