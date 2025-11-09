@@ -1,0 +1,11 @@
+<div class="item-status-badges">
+  @if (status().isInMuseum) {
+    <span class="status-badge museum" matTooltip="Donated to Museum">✓</span>
+  }
+  @if (status().isInOfferings) {
+    <span class="status-badge offerings" matTooltip="Offered at Altar">✓</span>
+  }
+  @if (status().isCaught) {
+    <span class="status-badge caught" matTooltip="Caught">✓</span>
+  }
+</div>
