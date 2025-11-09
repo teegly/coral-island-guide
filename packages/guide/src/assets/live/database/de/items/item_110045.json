@@ -1,16 +1,1 @@
-{
-  "item": {
-    "id": "item_110045",
-    "displayName": "Grasschuppen",
-    "price": 50000,
-    "sellPrice": 5000,
-    "sellAt": [],
-    "stackable": false,
-    "inventoryCategory": "Others",
-    "displayKey": "Others",
-    "description": "Ein Design für deinen Schuppen, das sein Aussehen verändert. Besuche den Schreiner, um es anzuwenden.",
-    "qualities": {},
-    "iconName": "Grass_Shed_Sprite",
-    "tags": []
-  }
-}
+{"item":{"id":"item_110045","displayName":"Grasschuppen","price":50000,"sellPrice":5000,"sellAt":[],"stackable":false,"inventoryCategory":"Others","displayKey":"Others","description":"Ein Design für deinen Schuppen, das sein Aussehen verändert. Besuche den Schreiner, um es anzuwenden.","qualities":{},"iconName":"Grass_Shed_Sprite","tags":[]}}
