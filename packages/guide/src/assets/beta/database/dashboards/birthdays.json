@@ -13,7 +13,7 @@
         "type": "item",
         "item": {
           "id": "item_22009",
-          "displayName": "สัปปะรด",
+          "displayName": "Pineapple",
           "iconName": "Pineapple_Sprite"
         }
       },
@@ -21,7 +21,7 @@
         "type": "item",
         "item": {
           "id": "item_80044",
-          "displayName": "ผักชาร์ดผัด",
+          "displayName": "Sauteed chard",
           "iconName": "Sauteed_Chards_Sprite"
         }
       },
@@ -37,7 +37,7 @@
         "type": "item",
         "item": {
           "id": "item_80018",
-          "displayName": "กล้วยทอด",
+          "displayName": "Banana fritter",
           "iconName": "Banana_Fritter_Sprite"
         }
       },
@@ -45,7 +45,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "กาแฟ",
+          "displayName": "Coffee",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -53,7 +53,7 @@
         "type": "item",
         "item": {
           "id": "item_80040",
-          "displayName": "ข้าวผัด",
+          "displayName": "Fried rice",
           "iconName": "Fried_Rice_Sprite"
         }
       },
@@ -61,7 +61,7 @@
         "type": "item",
         "item": {
           "id": "item_41016",
-          "displayName": "โยเกิร์ต",
+          "displayName": "Yogurt",
           "iconName": "Yoghurt_Sprite"
         }
       },
@@ -69,15 +69,16 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Semeru",
-    "characterName": "เซเมรู",
+    "characterName": "Semeru",
     "iconName": "Icon_semeru",
     "birthday": {
       "day": 5,
@@ -89,7 +90,7 @@
         "type": "item",
         "item": {
           "id": "item_80122",
-          "displayName": "รีฟเบอร์เกอร์",
+          "displayName": "Reef burger",
           "iconName": "Reef_Burger_Sprite"
         }
       },
@@ -97,7 +98,7 @@
         "type": "item",
         "item": {
           "id": "item_80121",
-          "displayName": "ไอศกรีมซอฟต์เสิร์ฟหน้าทะเล",
+          "displayName": "Frozen seagrass",
           "iconName": "Frozen_Seagrass_Sprite"
         }
       },
@@ -105,7 +106,7 @@
         "type": "item",
         "item": {
           "id": "item_80120",
-          "displayName": "ยาน้ำสีฟ้าทะเลลึก",
+          "displayName": "Deep sea elixir",
           "iconName": "Deep_Sea_Elixir_Sprite"
         }
       },
@@ -121,7 +122,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -129,7 +130,7 @@
         "type": "item",
         "item": {
           "id": "item_41020",
-          "displayName": "กาแฟเกชา",
+          "displayName": "Gesha coffee",
           "iconName": "Gesha_coffee_Sprite"
         }
       },
@@ -137,9 +138,67 @@
         "type": "item",
         "item": {
           "id": "item_72041",
-          "displayName": "บลูล็อบสเตอร์",
+          "displayName": "Blue lobster",
           "iconName": "Blue_Lobster_Sprite"
         }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41052",
+          "displayName": "Large gesha coffee",
+          "iconName": "Large_gesha_coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41280",
+          "displayName": "Aged gesha coffee",
+          "iconName": "Aged_Gesha_Coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41281",
+          "displayName": "Aged large gesha coffee",
+          "iconName": "Aged_Large_Gesha_Coffee_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "UnderwaterFruit"
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterFlower"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41019",
+          "displayName": "Coffee",
+          "iconName": "Coffee_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "OceanCritters"
       }
     ]
   },
@@ -165,7 +224,7 @@
         "type": "item",
         "item": {
           "id": "item_21002",
-          "displayName": "สตรอว์เบอร์รี่",
+          "displayName": "Strawberry",
           "iconName": "Strawberry_Sprite"
         }
       },
@@ -177,11 +236,12 @@
         "type": "item",
         "item": {
           "id": "item_53101",
-          "displayName": "เกาลัด",
+          "displayName": "Chestnut",
           "iconName": "Chestnut_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Antonio",
@@ -205,11 +265,12 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "กาแฟ",
+          "displayName": "Coffee",
           "iconName": "Coffee_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Kenny",
@@ -233,7 +294,7 @@
         "type": "item",
         "item": {
           "id": "item_80011",
-          "displayName": "ทาโก้มังสวิรัติ",
+          "displayName": "Vegan taco",
           "iconName": "Vegan_taco_Sprite"
         }
       },
@@ -241,7 +302,7 @@
         "type": "item",
         "item": {
           "id": "item_80030",
-          "displayName": "แฮชบราวน์",
+          "displayName": "Hash browns",
           "iconName": "Hash_browns_Sprite"
         }
       },
@@ -249,7 +310,7 @@
         "type": "item",
         "item": {
           "id": "item_21020",
-          "displayName": "ลิ้นจี่",
+          "displayName": "Lychee",
           "iconName": "Lychee_Sprite"
         }
       },
@@ -257,7 +318,7 @@
         "type": "item",
         "item": {
           "id": "item_21015",
-          "displayName": "ถั่วเหลือง",
+          "displayName": "Soybean",
           "iconName": "Soybean_Sprite"
         }
       },
@@ -265,7 +326,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "ชาเขียวร้อน",
+          "displayName": "Green tea",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -273,9 +334,15 @@
         "type": "item",
         "item": {
           "id": "item_80036",
-          "displayName": "อัลมอนด์อบกรอบ",
+          "displayName": "Roasted almonds",
           "iconName": "Roasted_Almonds_Sprite"
         }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Mushrooms"
       }
     ]
   },
@@ -293,7 +360,7 @@
         "type": "item",
         "item": {
           "id": "item_80006",
-          "displayName": "พาสต้าเพสโต้ ซอสโหระพา",
+          "displayName": "Basil pesto pasta",
           "iconName": "Basil_Pesto_Pasta_Sprite"
         }
       },
@@ -301,7 +368,7 @@
         "type": "item",
         "item": {
           "id": "item_80064",
-          "displayName": "ปลาแซลมอนรมควัน",
+          "displayName": "Smoked salmon",
           "iconName": "Smoked_Salmon_Sprite"
         }
       },
@@ -309,7 +376,7 @@
         "type": "item",
         "item": {
           "id": "item_80077",
-          "displayName": "ไอศกรีม",
+          "displayName": "Ice cream",
           "iconName": "Ice_Cream_Sprite"
         }
       },
@@ -317,11 +384,12 @@
         "type": "item",
         "item": {
           "id": "item_80015",
-          "displayName": "ราเมงทะเล",
+          "displayName": "Seafood ramen",
           "iconName": "Seafood_Ramen_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Scott",
@@ -337,7 +405,7 @@
         "type": "item",
         "item": {
           "id": "item_80080",
-          "displayName": "ทาร์ตไข่ ",
+          "displayName": "Egg custard",
           "iconName": "Egg_Custard_Sprite"
         }
       },
@@ -345,7 +413,7 @@
         "type": "item",
         "item": {
           "id": "item_74001",
-          "displayName": "ปลามังกรแดง",
+          "displayName": "Red king arowana",
           "iconName": "Red_king_arowana_Sprite"
         }
       },
@@ -353,7 +421,7 @@
         "type": "item",
         "item": {
           "id": "item_75001",
-          "displayName": "ปลากระเบนยักษ์",
+          "displayName": "Giant stingray",
           "iconName": "Giant_Stingray_Sprite"
         }
       },
@@ -361,7 +429,7 @@
         "type": "item",
         "item": {
           "id": "item_74003",
-          "displayName": "ปลาไหลมอเรย์เยลโล่",
+          "displayName": "Yellow moray eel",
           "iconName": "Yellow_Moray_Eel_Sprite"
         }
       },
@@ -386,8 +454,50 @@
         }
       },
       {
+        "type": "item",
+        "item": {
+          "id": "item_41043",
+          "displayName": "Large mayonnaise",
+          "iconName": "Large_Mayonnaise_Sprite"
+        }
+      },
+      {
         "type": "category",
         "categoryName": "DinosourBones"
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_24002",
+          "displayName": "Tea leaf",
+          "iconName": "Tea_Leaf_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_23004",
+          "displayName": "Amaranth",
+          "iconName": "Amaranth_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22010",
+          "displayName": "Okra",
+          "iconName": "Okra_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21005",
+          "displayName": "Turnip",
+          "iconName": "Turnip_Sprite"
+        }
       }
     ]
   },
@@ -405,7 +515,7 @@
         "type": "item",
         "item": {
           "id": "item_80042",
-          "displayName": "สปริงฟริตตาตา",
+          "displayName": "Spring frittata",
           "iconName": "Spring_Frittata_Sprite"
         }
       },
@@ -413,9 +523,15 @@
         "type": "item",
         "item": {
           "id": "item_62003",
-          "displayName": "สาหร่ายเคลป์สีเงิน",
+          "displayName": "Silver kelp",
           "iconName": "Silver_Kelp_Sprite"
         }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "BottledKelps"
       }
     ]
   },
@@ -441,7 +557,7 @@
         "type": "item",
         "item": {
           "id": "item_80026",
-          "displayName": "ซุปมะเขือเทศ",
+          "displayName": "Tomato soup",
           "iconName": "Tomato_Soup_Sprite"
         }
       },
@@ -449,7 +565,7 @@
         "type": "item",
         "item": {
           "id": "item_80048",
-          "displayName": "โกโก้ร้อน",
+          "displayName": "Hot cocoa",
           "iconName": "Hot_Cocoa_Sprite"
         }
       },
@@ -457,9 +573,63 @@
         "type": "item",
         "item": {
           "id": "item_80080",
-          "displayName": "ทาร์ตไข่ ",
+          "displayName": "Egg custard",
           "iconName": "Egg_Custard_Sprite"
         }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_51107",
+          "displayName": "Morel",
+          "iconName": "Morel_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80067",
+          "displayName": "Donut",
+          "iconName": "Donut_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80064",
+          "displayName": "Smoked salmon",
+          "iconName": "Smoked_Salmon_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_73005",
+          "displayName": "Sardine",
+          "iconName": "Sardines_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41023",
+          "displayName": "Beer",
+          "iconName": "Beer_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_23013",
+          "displayName": "Sweet potato",
+          "iconName": "Sweet_Potato_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "Honey"
       }
     ]
   },
@@ -477,7 +647,7 @@
         "type": "item",
         "item": {
           "id": "item_23013",
-          "displayName": "มันเทศ",
+          "displayName": "Sweet potato",
           "iconName": "Sweet_Potato_Sprite"
         }
       },
@@ -485,7 +655,7 @@
         "type": "item",
         "item": {
           "id": "item_41025",
-          "displayName": "สาเก",
+          "displayName": "Sake",
           "iconName": "Sake_Sprite"
         }
       },
@@ -493,7 +663,7 @@
         "type": "item",
         "item": {
           "id": "item_21004",
-          "displayName": "แครอท",
+          "displayName": "Carrot",
           "iconName": "Carrot_Sprite"
         }
       },
@@ -501,7 +671,7 @@
         "type": "item",
         "item": {
           "id": "item_80036",
-          "displayName": "อัลมอนด์อบกรอบ",
+          "displayName": "Roasted almonds",
           "iconName": "Roasted_Almonds_Sprite"
         }
       },
@@ -509,11 +679,12 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Ben",
@@ -533,7 +704,7 @@
         "type": "item",
         "item": {
           "id": "item_21021",
-          "displayName": "กล้วย",
+          "displayName": "Banana",
           "iconName": "Banana_Sprite"
         }
       },
@@ -541,8 +712,18 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "ชาเขียวร้อน",
+          "displayName": "Green tea",
           "iconName": "Green_Tea_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80011",
+          "displayName": "Vegan taco",
+          "iconName": "Vegan_taco_Sprite"
         }
       }
     ]
@@ -561,7 +742,7 @@
         "type": "item",
         "item": {
           "id": "item_80046",
-          "displayName": "มัฟฟินช็อคโกแลตชิพ",
+          "displayName": "Chocolate chip muffins",
           "iconName": "Chocolate_chip_muffins_Sprite"
         }
       },
@@ -569,7 +750,7 @@
         "type": "item",
         "item": {
           "id": "item_21002",
-          "displayName": "สตรอว์เบอร์รี่",
+          "displayName": "Strawberry",
           "iconName": "Strawberry_Sprite"
         }
       },
@@ -577,7 +758,7 @@
         "type": "item",
         "item": {
           "id": "item_41020",
-          "displayName": "กาแฟเกชา",
+          "displayName": "Gesha coffee",
           "iconName": "Gesha_coffee_Sprite"
         }
       },
@@ -585,7 +766,7 @@
         "type": "item",
         "item": {
           "id": "item_41052",
-          "displayName": "กาแฟเกชาแก้วใหญ่",
+          "displayName": "Large gesha coffee",
           "iconName": "Large_gesha_coffee_Sprite"
         }
       },
@@ -601,7 +782,7 @@
         "type": "item",
         "item": {
           "id": "item_52106",
-          "displayName": "ดอกชบาสีขาว",
+          "displayName": "White hibiscus",
           "iconName": "White_Hibiscus_Sprite"
         }
       },
@@ -609,8 +790,50 @@
         "type": "item",
         "item": {
           "id": "item_80034",
-          "displayName": "ลาซานญ่ามะเขือม่วง",
+          "displayName": "Eggplant lasagna",
           "iconName": "Eggplant_Lasagna_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41019",
+          "displayName": "Coffee",
+          "iconName": "Coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41279",
+          "displayName": "Aged coffee",
+          "iconName": "Aged_coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_52105",
+          "displayName": "Hibiscus",
+          "iconName": "Hibiscus_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_51101",
+          "displayName": "Bamboo shoot",
+          "iconName": "Bamboo_Shoot_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21019",
+          "displayName": "Plum",
+          "iconName": "Plum_Sprite"
         }
       }
     ]
@@ -637,7 +860,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -645,7 +868,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "กาแฟ",
+          "displayName": "Coffee",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -653,13 +876,27 @@
         "type": "item",
         "item": {
           "id": "item_80018",
-          "displayName": "กล้วยทอด",
+          "displayName": "Banana fritter",
           "iconName": "Banana_Fritter_Sprite"
         }
       },
       {
         "type": "category",
         "categoryName": "Driedsnack"
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
       }
     ]
   },
@@ -689,7 +926,7 @@
         "type": "item",
         "item": {
           "id": "item_61025",
-          "displayName": "โรสควอตซ์",
+          "displayName": "Rose quartz",
           "iconName": "Rose_Quartz_Sprite"
         }
       },
@@ -697,7 +934,7 @@
         "type": "item",
         "item": {
           "id": "item_61026",
-          "displayName": "บลูควอทซ์",
+          "displayName": "Blue quartz",
           "iconName": "blue_quartz_Sprite"
         }
       },
@@ -705,7 +942,7 @@
         "type": "item",
         "item": {
           "id": "item_80014",
-          "displayName": "ทาร์ตผลไม้",
+          "displayName": "Fruit tart",
           "iconName": "Fruit_Tart_Sprite"
         }
       },
@@ -717,7 +954,8 @@
           "iconName": "Guacamole_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Pablo",
@@ -733,7 +971,7 @@
         "type": "item",
         "item": {
           "id": "item_80025",
-          "displayName": "พายฟักทอง",
+          "displayName": "Pumpkin pie",
           "iconName": "Pumpkin_Pie_Sprite"
         }
       },
@@ -741,7 +979,7 @@
         "type": "item",
         "item": {
           "id": "item_80052",
-          "displayName": "มันหวานทอดสไตล์แคนาดา",
+          "displayName": "Sweet potato poutine",
           "iconName": "Sweet_Potato_Poutine_Sprite"
         }
       },
@@ -749,7 +987,7 @@
         "type": "item",
         "item": {
           "id": "item_80037",
-          "displayName": "แคสเซอโรลดอกกะหล่ำ",
+          "displayName": "Cauliflower casserole",
           "iconName": "Cauliflower_Casserole_Sprite"
         }
       },
@@ -757,7 +995,7 @@
         "type": "item",
         "item": {
           "id": "item_80040",
-          "displayName": "ข้าวผัด",
+          "displayName": "Fried rice",
           "iconName": "Fried_Rice_Sprite"
         }
       },
@@ -773,7 +1011,8 @@
           "iconName": "Pizza_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Valentina",
@@ -789,7 +1028,7 @@
         "type": "item",
         "item": {
           "id": "item_80006",
-          "displayName": "พาสต้าเพสโต้ ซอสโหระพา",
+          "displayName": "Basil pesto pasta",
           "iconName": "Basil_Pesto_Pasta_Sprite"
         }
       },
@@ -797,7 +1036,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "ทาโก้ปลา",
+          "displayName": "Fish taco",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -805,7 +1044,7 @@
         "type": "item",
         "item": {
           "id": "item_80025",
-          "displayName": "พายฟักทอง",
+          "displayName": "Pumpkin pie",
           "iconName": "Pumpkin_Pie_Sprite"
         }
       },
@@ -813,7 +1052,7 @@
         "type": "item",
         "item": {
           "id": "item_22013",
-          "displayName": "มะเฟือง",
+          "displayName": "Starfruit",
           "iconName": "Starfruit_Sprite"
         }
       },
@@ -821,7 +1060,7 @@
         "type": "item",
         "item": {
           "id": "item_80050",
-          "displayName": "แกงเผ็ด",
+          "displayName": "Red curry",
           "iconName": "Red_Curry_Sprite"
         }
       },
@@ -829,7 +1068,7 @@
         "type": "item",
         "item": {
           "id": "item_80051",
-          "displayName": "แกงเขียวหวาน",
+          "displayName": "Green curry",
           "iconName": "Green_Curry_Sprite"
         }
       },
@@ -837,11 +1076,12 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Wataru",
@@ -865,7 +1105,7 @@
         "type": "item",
         "item": {
           "id": "item_71002",
-          "displayName": "ปลาดุก",
+          "displayName": "Catfish",
           "iconName": "Catfish_Sprite"
         }
       },
@@ -873,7 +1113,7 @@
         "type": "item",
         "item": {
           "id": "item_71007",
-          "displayName": "ปลาแบล็คโกสต์",
+          "displayName": "Black phantom ghost fish",
           "iconName": "Black_Phantom_Ghost_Fish_Sprite"
         }
       },
@@ -881,7 +1121,7 @@
         "type": "item",
         "item": {
           "id": "item_71010",
-          "displayName": "ปลาเรนโบว์",
+          "displayName": "Rainbow fish",
           "iconName": "Rainbow_Fish_Sprite"
         }
       },
@@ -889,7 +1129,7 @@
         "type": "item",
         "item": {
           "id": "item_72004",
-          "displayName": "ปลาปักเป้า",
+          "displayName": "Pufferfish",
           "iconName": "Pufferfish_Sprite"
         }
       },
@@ -897,8 +1137,50 @@
         "type": "item",
         "item": {
           "id": "item_72020",
-          "displayName": "ปลาเทวดา",
+          "displayName": "Angelfish",
           "iconName": "Angelfish_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_71021",
+          "displayName": "Brown trout",
+          "iconName": "Brown_trout_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_71018",
+          "displayName": "Zebra fish",
+          "iconName": "Zebra_Fish_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72005",
+          "displayName": "Pink snapper",
+          "iconName": "Pink_Snapper_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72026",
+          "displayName": "Mackerel",
+          "iconName": "Mackerel_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72030",
+          "displayName": "Salmon",
+          "iconName": "Salmon_Sprite"
         }
       }
     ]
@@ -917,7 +1199,7 @@
         "type": "item",
         "item": {
           "id": "item_80013",
-          "displayName": "เค้กอัพไซด์ดาวน์สับปะรด",
+          "displayName": "Pineapple upside-down cake",
           "iconName": "Pineapple_upside-down_cake_Sprite"
         }
       },
@@ -925,7 +1207,7 @@
         "type": "item",
         "item": {
           "id": "item_23008",
-          "displayName": "ผักกวางตุ้ง",
+          "displayName": "Bok choy",
           "iconName": "Bok_Choy_Sprite"
         }
       },
@@ -933,7 +1215,7 @@
         "type": "item",
         "item": {
           "id": "item_41025",
-          "displayName": "สาเก",
+          "displayName": "Sake",
           "iconName": "Sake_Sprite"
         }
       },
@@ -941,7 +1223,7 @@
         "type": "item",
         "item": {
           "id": "item_41174",
-          "displayName": "น้ำมันเห็ดทรัฟเฟิลขาว",
+          "displayName": "White truffle oil",
           "iconName": "White_truffle_oil_Sprite"
         }
       },
@@ -949,11 +1231,12 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Sam",
@@ -969,7 +1252,7 @@
         "type": "item",
         "item": {
           "id": "item_22001",
-          "displayName": "บลูเบอร์รี่",
+          "displayName": "Blueberry",
           "iconName": "Blueberry_Sprite"
         }
       },
@@ -977,7 +1260,7 @@
         "type": "item",
         "item": {
           "id": "item_80014",
-          "displayName": "ทาร์ตผลไม้",
+          "displayName": "Fruit tart",
           "iconName": "Fruit_Tart_Sprite"
         }
       },
@@ -985,7 +1268,7 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "น้ำผลไม้",
+          "displayName": "Fruit juice",
           "iconName": "Fruit_Juice_Sprite"
         }
       },
@@ -993,7 +1276,7 @@
         "type": "item",
         "item": {
           "id": "item_31001",
-          "displayName": "เห็ดทรัฟเฟิลดำ",
+          "displayName": "Black truffle",
           "iconName": "Black_Truffle_Sprite"
         }
       },
@@ -1001,7 +1284,7 @@
         "type": "item",
         "item": {
           "id": "item_31020",
-          "displayName": "เห็ดทรัฟเฟิลขาว",
+          "displayName": "White truffle",
           "iconName": "White_Truffle_Sprite"
         }
       },
@@ -1009,7 +1292,7 @@
         "type": "item",
         "item": {
           "id": "item_22021",
-          "displayName": "ขนุน",
+          "displayName": "Jackfruit",
           "iconName": "Jackfruit_Sprite"
         }
       },
@@ -1017,11 +1300,12 @@
         "type": "item",
         "item": {
           "id": "item_23015",
-          "displayName": "กระบองเพชร",
+          "displayName": "Cactus",
           "iconName": "Cactus_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Agung",
@@ -1045,7 +1329,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1053,7 +1337,7 @@
         "type": "item",
         "item": {
           "id": "item_31027",
-          "displayName": "นมเมอร์มู",
+          "displayName": "Mermoo milk",
           "iconName": "Mermoo_milk_Sprite"
         }
       },
@@ -1061,7 +1345,7 @@
         "type": "item",
         "item": {
           "id": "item_31028",
-          "displayName": "นมเมอร์มูขวดใหญ่",
+          "displayName": "Large mermoo milk",
           "iconName": "Large_mermoo_milk_Sprite"
         }
       },
@@ -1069,8 +1353,38 @@
         "type": "item",
         "item": {
           "id": "item_80056",
-          "displayName": "เบอร์เกอร์สีรุ้ง",
+          "displayName": "Summer burger",
           "iconName": "Summer_Burger_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Fish"
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterFruit"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80092",
+          "displayName": "Kuelapis",
+          "iconName": "Kue_Lapis_Sprite"
         }
       }
     ]
@@ -1097,7 +1411,7 @@
         "type": "item",
         "item": {
           "id": "item_80126",
-          "displayName": "ข้าวผัดทะเล",
+          "displayName": "Nasi laut",
           "iconName": "Nasi_laut_Sprite"
         }
       },
@@ -1113,7 +1427,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1121,7 +1435,7 @@
         "type": "item",
         "item": {
           "id": "item_21084",
-          "displayName": "เพทาเลีย",
+          "displayName": "Petalia",
           "iconName": "Petalia_Sprite"
         }
       },
@@ -1129,7 +1443,7 @@
         "type": "item",
         "item": {
           "id": "item_21074",
-          "displayName": "สปริงซีลีฟ",
+          "displayName": "Spring sealeaf",
           "iconName": "Spring_Sealeaf_Sprite"
         }
       },
@@ -1141,11 +1455,53 @@
         "type": "category",
         "categoryName": "Honey"
       }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Artifact"
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterFruit"
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterFlower"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_50347",
+          "displayName": "Heart urchin",
+          "iconName": "Heart_Urchin_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_71006",
+          "displayName": "Koi",
+          "iconName": "Koi_Sprite"
+        }
+      }
     ]
   },
   {
     "npcKey": "KingKrakatoa",
-    "characterName": "King  Krakatoa",
+    "characterName": "King Krakatoa",
     "iconName": "Icon_king_krakatoa",
     "birthday": {
       "day": 11,
@@ -1165,7 +1521,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1177,8 +1533,50 @@
         "type": "item",
         "item": {
           "id": "item_50498",
-          "displayName": "ตรีศูลมังกร",
+          "displayName": "Dragon’s trisula",
           "iconName": "Dragons_trisula_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_52107",
+          "displayName": "Coconut",
+          "iconName": "coconut_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80081",
+          "displayName": "Whole coconut drink",
+          "iconName": "Whole_Coconut_Drink_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterFruit"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_50344",
+          "displayName": "King scallop",
+          "iconName": "King_Scallop_Sprite"
         }
       }
     ]
@@ -1197,7 +1595,7 @@
         "type": "item",
         "item": {
           "id": "item_23011",
-          "displayName": "ฟักทอง",
+          "displayName": "Pumpkin",
           "iconName": "Pumpkin_Sprite"
         }
       },
@@ -1205,7 +1603,7 @@
         "type": "item",
         "item": {
           "id": "item_80048",
-          "displayName": "โกโก้ร้อน",
+          "displayName": "Hot cocoa",
           "iconName": "Hot_Cocoa_Sprite"
         }
       },
@@ -1213,7 +1611,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "กาแฟ",
+          "displayName": "Coffee",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -1221,7 +1619,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "ทาโก้ปลา",
+          "displayName": "Fish taco",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -1229,7 +1627,7 @@
         "type": "item",
         "item": {
           "id": "item_80011",
-          "displayName": "ทาโก้มังสวิรัติ",
+          "displayName": "Vegan taco",
           "iconName": "Vegan_taco_Sprite"
         }
       },
@@ -1237,7 +1635,7 @@
         "type": "item",
         "item": {
           "id": "item_80013",
-          "displayName": "เค้กอัพไซด์ดาวน์สับปะรด",
+          "displayName": "Pineapple upside-down cake",
           "iconName": "Pineapple_upside-down_cake_Sprite"
         }
       },
@@ -1249,7 +1647,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "ชาเขียวร้อน",
+          "displayName": "Green tea",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -1257,11 +1655,12 @@
         "type": "item",
         "item": {
           "id": "item_42002",
-          "displayName": "ผ้าฝ้าย",
+          "displayName": "Cotton cloth",
           "iconName": "Cotton_cloth_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Eva",
@@ -1277,7 +1676,7 @@
         "type": "item",
         "item": {
           "id": "item_80005",
-          "displayName": "คุกกี้",
+          "displayName": "Cookies",
           "iconName": "Cookies_Sprite"
         }
       },
@@ -1285,7 +1684,7 @@
         "type": "item",
         "item": {
           "id": "item_80004",
-          "displayName": "เรดเวลเวตเค้ก",
+          "displayName": "Red velvet cake",
           "iconName": "Red_velvet_cake_Sprite"
         }
       },
@@ -1293,7 +1692,7 @@
         "type": "item",
         "item": {
           "id": "item_21013",
-          "displayName": "ดอกโบตั๋น",
+          "displayName": "Peony",
           "iconName": "Peony_Sprite"
         }
       },
@@ -1301,7 +1700,7 @@
         "type": "item",
         "item": {
           "id": "item_23016",
-          "displayName": "ดอกกล้วยไม้",
+          "displayName": "Orchid",
           "iconName": "Orchid_Sprite"
         }
       },
@@ -1309,7 +1708,7 @@
         "type": "item",
         "item": {
           "id": "item_61015",
-          "displayName": "เพชร",
+          "displayName": "Diamond",
           "iconName": "Diamond_Sprite"
         }
       },
@@ -1317,8 +1716,66 @@
         "type": "item",
         "item": {
           "id": "item_80127",
-          "displayName": "เค้กชั้นของเอวา",
+          "displayName": "Eva's kue lapis",
           "iconName": "Eva_s_kue_lapis_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21005",
+          "displayName": "Turnip",
+          "iconName": "Turnip_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21009",
+          "displayName": "Cucumber",
+          "iconName": "Cucumber_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_23005",
+          "displayName": "Artichoke",
+          "iconName": "Artichoke_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22002",
+          "displayName": "Hot pepper",
+          "iconName": "Hot_Pepper_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22005",
+          "displayName": "Tomato",
+          "iconName": "Tomato_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22008",
+          "displayName": "Bell pepper",
+          "iconName": "Bell_pepper_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_23011",
+          "displayName": "Pumpkin",
+          "iconName": "Pumpkin_Sprite"
         }
       }
     ]
@@ -1345,7 +1802,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1357,8 +1814,34 @@
         "type": "item",
         "item": {
           "id": "item_21071",
-          "displayName": "สเปราท์ฟรู๊ต",
+          "displayName": "Sproutfruit",
           "iconName": "Sproutfruit_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "category",
+        "categoryName": "Mushrooms"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21081",
+          "displayName": "Marinethorn blossom",
+          "iconName": "Marinethorn_Blossom_Sprite"
         }
       }
     ]
@@ -1385,7 +1868,7 @@
         "type": "item",
         "item": {
           "id": "item_80033",
-          "displayName": "ไข่ดาว",
+          "displayName": "Sunny-side-up eggs",
           "iconName": "Sunny-side-up_eggs_Sprite"
         }
       },
@@ -1393,7 +1876,7 @@
         "type": "item",
         "item": {
           "id": "item_22002",
-          "displayName": "พริก",
+          "displayName": "Hot pepper",
           "iconName": "Hot_Pepper_Sprite"
         }
       },
@@ -1401,7 +1884,7 @@
         "type": "item",
         "item": {
           "id": "item_22008",
-          "displayName": "พริกหยวก",
+          "displayName": "Bell pepper",
           "iconName": "Bell_pepper_Sprite"
         }
       },
@@ -1409,7 +1892,7 @@
         "type": "item",
         "item": {
           "id": "item_80019",
-          "displayName": "แพนเค้ก",
+          "displayName": "Pancakes",
           "iconName": "Pancakes_Sprite"
         }
       },
@@ -1417,7 +1900,7 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "น้ำผลไม้",
+          "displayName": "Fruit juice",
           "iconName": "Fruit_Juice_Sprite"
         }
       },
@@ -1425,11 +1908,12 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Zarah",
@@ -1461,7 +1945,7 @@
         "type": "item",
         "item": {
           "id": "item_61028",
-          "displayName": "อะซูไรต์",
+          "displayName": "Azurite",
           "iconName": "Azurite_Sprite"
         }
       },
@@ -1469,7 +1953,7 @@
         "type": "item",
         "item": {
           "id": "item_61029",
-          "displayName": "เซอร์เพนทีน",
+          "displayName": "Serpentine",
           "iconName": "Serpentine_Sprite"
         }
       },
@@ -1477,11 +1961,12 @@
         "type": "item",
         "item": {
           "id": "item_80058",
-          "displayName": "ปลาย่าง",
+          "displayName": "Grilled fish",
           "iconName": "Grilled_Fish_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Dinda",
@@ -1497,7 +1982,7 @@
         "type": "item",
         "item": {
           "id": "item_80054",
-          "displayName": "สลัดผักสด",
+          "displayName": "Fresh salad",
           "iconName": "Fresh_salad_Sprite"
         }
       },
@@ -1505,7 +1990,7 @@
         "type": "item",
         "item": {
           "id": "item_22004",
-          "displayName": "เมล่อน",
+          "displayName": "Melon",
           "iconName": "Melon_Sprite"
         }
       },
@@ -1513,7 +1998,7 @@
         "type": "item",
         "item": {
           "id": "item_80065",
-          "displayName": "ช่อดอกไม้",
+          "displayName": "Flower bouquet",
           "iconName": "Flower_Bouquet_Sprite"
         }
       },
@@ -1521,11 +2006,12 @@
         "type": "item",
         "item": {
           "id": "item_50301",
-          "displayName": "ไข่มุก",
+          "displayName": "Pearl",
           "iconName": "Pearl_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Anne",
@@ -1549,15 +2035,15 @@
         "type": "item",
         "item": {
           "id": "item_80043",
-          "displayName": "กิมจิอาร์ติโชก",
-          "iconName": "Kimchi"
+          "displayName": "Artichoke kimchi",
+          "iconName": "Kimchi_Sprite"
         }
       },
       {
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "น้ำผลไม้",
+          "displayName": "Fruit juice",
           "iconName": "Fruit_Juice_Sprite"
         }
       },
@@ -1565,7 +2051,7 @@
         "type": "item",
         "item": {
           "id": "item_22015",
-          "displayName": "ดอกทานตะวัน",
+          "displayName": "Sunflower",
           "iconName": "Sunflower_Sprite"
         }
       },
@@ -1573,7 +2059,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "ชาเขียวร้อน",
+          "displayName": "Green tea",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -1581,7 +2067,7 @@
         "type": "item",
         "item": {
           "id": "item_21004",
-          "displayName": "แครอท",
+          "displayName": "Carrot",
           "iconName": "Carrot_Sprite"
         }
       },
@@ -1589,7 +2075,7 @@
         "type": "item",
         "item": {
           "id": "item_80069",
-          "displayName": "เทมเป้ทอดกรอบ",
+          "displayName": "Fried tempeh",
           "iconName": "Fried_tempeh_Sprite"
         }
       },
@@ -1597,11 +2083,12 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Leah",
@@ -1617,7 +2104,7 @@
         "type": "item",
         "item": {
           "id": "item_50301",
-          "displayName": "ไข่มุก",
+          "displayName": "Pearl",
           "iconName": "Pearl_Sprite"
         }
       },
@@ -1625,7 +2112,7 @@
         "type": "item",
         "item": {
           "id": "item_80048",
-          "displayName": "โกโก้ร้อน",
+          "displayName": "Hot cocoa",
           "iconName": "Hot_Cocoa_Sprite"
         }
       },
@@ -1641,7 +2128,7 @@
         "type": "item",
         "item": {
           "id": "item_61044",
-          "displayName": "เงินแท่ง",
+          "displayName": "Silver bar",
           "iconName": "Silver_Bar_Sprite"
         }
       },
@@ -1649,8 +2136,34 @@
         "type": "item",
         "item": {
           "id": "item_61008",
-          "displayName": "แท่งออสเมี่ยม",
+          "displayName": "Osmium bar",
           "iconName": "Osmium_Bar_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21011",
+          "displayName": "Lettuce",
+          "iconName": "Lettuce_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22005",
+          "displayName": "Tomato",
+          "iconName": "Tomato_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_23006",
+          "displayName": "Beet",
+          "iconName": "Beet_Sprite"
         }
       }
     ]
@@ -1669,7 +2182,7 @@
         "type": "item",
         "item": {
           "id": "item_72001",
-          "displayName": "ปลากบ",
+          "displayName": "Frogfish",
           "iconName": "Frogfish_Sprite"
         }
       },
@@ -1677,7 +2190,7 @@
         "type": "item",
         "item": {
           "id": "item_72015",
-          "displayName": "กุ้งล็อบสเตอร์",
+          "displayName": "Lobster",
           "iconName": "Lobster_Sprite"
         }
       },
@@ -1685,7 +2198,7 @@
         "type": "item",
         "item": {
           "id": "item_80046",
-          "displayName": "มัฟฟินช็อคโกแลตชิพ",
+          "displayName": "Chocolate chip muffins",
           "iconName": "Chocolate_chip_muffins_Sprite"
         }
       },
@@ -1693,7 +2206,7 @@
         "type": "item",
         "item": {
           "id": "item_80073",
-          "displayName": "แซนวิชปลาทอด",
+          "displayName": "Fish sandwich",
           "iconName": "Fish_Sandwich_Sprite"
         }
       },
@@ -1701,7 +2214,7 @@
         "type": "item",
         "item": {
           "id": "item_80049",
-          "displayName": "กะหล่ำปลีดองแบบเผ็ด",
+          "displayName": "Spicy sauerkraut",
           "iconName": "Spicy_Sauerkraut_Sprite"
         }
       },
@@ -1709,7 +2222,7 @@
         "type": "item",
         "item": {
           "id": "item_80051",
-          "displayName": "แกงเขียวหวาน",
+          "displayName": "Green curry",
           "iconName": "Green_Curry_Sprite"
         }
       },
@@ -1717,11 +2230,12 @@
         "type": "item",
         "item": {
           "id": "item_80050",
-          "displayName": "แกงเผ็ด",
+          "displayName": "Red curry",
           "iconName": "Red_Curry_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Rafael",
@@ -1753,11 +2267,12 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "น้ำผลไม้",
+          "displayName": "Fruit juice",
           "iconName": "Fruit_Juice_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Eleanor",
@@ -1773,7 +2288,7 @@
         "type": "item",
         "item": {
           "id": "item_134006",
-          "displayName": "ผีเสื้อหางนกนางแอ่น",
+          "displayName": "Spicebush swallowtail butterfly",
           "iconName": "Spicebush_Swallowtail_Butterfly_Sprite"
         }
       },
@@ -1781,7 +2296,7 @@
         "type": "item",
         "item": {
           "id": "item_134007",
-          "displayName": "ผีเสื้อเบิร์ดวิง",
+          "displayName": "Birdwing butterfly",
           "iconName": "Birdwing_Butterfly_Sprite"
         }
       },
@@ -1789,7 +2304,7 @@
         "type": "item",
         "item": {
           "id": "item_131008",
-          "displayName": "ผีเสื้อหางติ่งแถบฟ้าส้ม",
+          "displayName": "Pipevine swallowtail butterfly",
           "iconName": "Pipevine_Swallowtail_Butterfly_Sprite"
         }
       },
@@ -1797,7 +2312,7 @@
         "type": "item",
         "item": {
           "id": "item_131006",
-          "displayName": "หิงห้อย",
+          "displayName": "Firefly",
           "iconName": "Firefly_Sprite"
         }
       },
@@ -1805,7 +2320,7 @@
         "type": "item",
         "item": {
           "id": "item_132002",
-          "displayName": "พุซมอธ",
+          "displayName": "Puss moth",
           "iconName": "Puss_Moth_Sprite"
         }
       },
@@ -1813,7 +2328,7 @@
         "type": "item",
         "item": {
           "id": "item_21020",
-          "displayName": "ลิ้นจี่",
+          "displayName": "Lychee",
           "iconName": "Lychee_Sprite"
         }
       },
@@ -1821,15 +2336,25 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "ชาเขียวร้อน",
+          "displayName": "Green tea",
           "iconName": "Green_Tea_Sprite"
         }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Bugs"
+      },
+      {
+        "type": "category",
+        "categoryName": "Fish"
       }
     ]
   },
   {
     "npcKey": "ChoOyu",
-    "characterName": "Cho  Oyu",
+    "characterName": "Cho Oyu",
     "iconName": "Icon_oracle_chooyu",
     "birthday": {
       "day": 5,
@@ -1849,7 +2374,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1857,7 +2382,7 @@
         "type": "item",
         "item": {
           "id": "item_41172",
-          "displayName": "น้ำผึ้งดอกบัวผุดสีดำ",
+          "displayName": "Rafflesia black honey",
           "iconName": "Black_Honey_Sprite"
         }
       },
@@ -1865,7 +2390,7 @@
         "type": "item",
         "item": {
           "id": "item_41169",
-          "displayName": "น้ำผึ้งดอกบุกยักษ์สีดำ",
+          "displayName": "Titan arum black honey",
           "iconName": "Black_Honey_Sprite"
         }
       },
@@ -1873,7 +2398,7 @@
         "type": "item",
         "item": {
           "id": "item_62004",
-          "displayName": "สาหร่ายเคลป์ระดับออสเมี่ยม",
+          "displayName": "Osmium kelp",
           "iconName": "Osmium_Kelp_Sprite"
         }
       },
@@ -1881,9 +2406,39 @@
         "type": "item",
         "item": {
           "id": "item_100011",
-          "displayName": "ขันธ์เครื่องบูชา",
+          "displayName": "Warp sesajen",
           "iconName": "Warp_sesajen_Sprite"
         }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Fish"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_61018",
+          "displayName": "Moonstone",
+          "iconName": "Moonstone_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "OceanCritters"
       }
     ]
   },
@@ -1917,7 +2472,7 @@
         "type": "item",
         "item": {
           "id": "item_80015",
-          "displayName": "ราเมงทะเล",
+          "displayName": "Seafood ramen",
           "iconName": "Seafood_Ramen_Sprite"
         }
       },
@@ -1937,7 +2492,8 @@
           "iconName": "Shiitake_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Chaem",
@@ -1961,7 +2517,7 @@
         "type": "item",
         "item": {
           "id": "item_80015",
-          "displayName": "ราเมงทะเล",
+          "displayName": "Seafood ramen",
           "iconName": "Seafood_Ramen_Sprite"
         }
       },
@@ -1969,7 +2525,7 @@
         "type": "item",
         "item": {
           "id": "item_80016",
-          "displayName": "ราเมงเจ",
+          "displayName": "Veggie ramen",
           "iconName": "Veggie_Ramen_Sprite"
         }
       },
@@ -1977,7 +2533,7 @@
         "type": "item",
         "item": {
           "id": "item_80006",
-          "displayName": "พาสต้าเพสโต้ ซอสโหระพา",
+          "displayName": "Basil pesto pasta",
           "iconName": "Basil_Pesto_Pasta_Sprite"
         }
       },
@@ -1989,11 +2545,12 @@
           "iconName": "Gnocchi_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "PrincessMiranjani",
-    "characterName": "Princess  Miranjani",
+    "characterName": "Princes Miranjani",
     "iconName": "Icon_princess_miranjani",
     "birthday": {
       "day": 10,
@@ -2017,7 +2574,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -2025,7 +2582,7 @@
         "type": "item",
         "item": {
           "id": "item_65008",
-          "displayName": "หุ่นไล่กา",
+          "displayName": "Ordinary scarecrow",
           "iconName": "Ordinary_scarecrow_Sprite"
         }
       },
@@ -2033,7 +2590,7 @@
         "type": "item",
         "item": {
           "id": "item_80099",
-          "displayName": "แมงมุมเทมปูระ",
+          "displayName": "Spider tempura",
           "iconName": "Spider_Tempura_Sprite"
         }
       },
@@ -2041,7 +2598,7 @@
         "type": "item",
         "item": {
           "id": "item_41020",
-          "displayName": "กาแฟเกชา",
+          "displayName": "Gesha coffee",
           "iconName": "Gesha_coffee_Sprite"
         }
       },
@@ -2049,7 +2606,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "กาแฟ",
+          "displayName": "Coffee",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -2057,7 +2614,7 @@
         "type": "item",
         "item": {
           "id": "item_50433",
-          "displayName": "เข็มทิศโบราณ",
+          "displayName": "Ancient compass",
           "iconName": "Ancient_Compass_Sprite"
         }
       },
@@ -2067,21 +2624,55 @@
       },
       {
         "type": "category",
-        "categoryName": "Flowers"
-      },
-      {
-        "type": "category",
         "categoryName": "Mushrooms"
       },
       {
         "type": "category",
         "categoryName": "Vegetables"
       }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Fish"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "category",
+        "categoryName": "Artifact"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41021",
+          "displayName": "Green tea",
+          "iconName": "Green_Tea_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_50506",
+          "displayName": "Slime goop",
+          "iconName": "Slime_goop_Sprite"
+        }
+      }
     ]
   },
   {
     "npcKey": "QueenNandaDevi",
-    "characterName": "ราชินีนันทาเทวี",
+    "characterName": "Queen  Nanda  Devi",
     "iconName": "Icon_queen_nanda_devi",
     "birthday": {
       "day": 10,
@@ -2101,7 +2692,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -2109,7 +2700,7 @@
         "type": "item",
         "item": {
           "id": "item_32015",
-          "displayName": "ขนนกขนาดใหญ่",
+          "displayName": "Large feather",
           "iconName": "Large_feather_Sprite"
         }
       },
@@ -2125,8 +2716,38 @@
         "type": "item",
         "item": {
           "id": "item_80003",
-          "displayName": "ขนมไหว้พระจันทร์",
+          "displayName": "Mooncake",
           "iconName": "Mooncake_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62006",
+          "displayName": "Gold kelp essence",
+          "iconName": "Gold_Kelp_Essence_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31031",
+          "displayName": "White pearl",
+          "iconName": "Pearl_Sprite"
         }
       }
     ]
@@ -2145,7 +2766,7 @@
         "type": "item",
         "item": {
           "id": "item_74001",
-          "displayName": "ปลามังกรแดง",
+          "displayName": "Red king arowana",
           "iconName": "Red_king_arowana_Sprite"
         }
       },
@@ -2153,7 +2774,7 @@
         "type": "item",
         "item": {
           "id": "item_74003",
-          "displayName": "ปลาไหลมอเรย์เยลโล่",
+          "displayName": "Yellow moray eel",
           "iconName": "Yellow_Moray_Eel_Sprite"
         }
       },
@@ -2161,7 +2782,7 @@
         "type": "item",
         "item": {
           "id": "item_75002",
-          "displayName": "ปลาฉนากเขียว",
+          "displayName": "Green sawfish",
           "iconName": "Green_Sawfish_Sprite"
         }
       },
@@ -2169,7 +2790,7 @@
         "type": "item",
         "item": {
           "id": "item_75001",
-          "displayName": "ปลากระเบนยักษ์",
+          "displayName": "Giant stingray",
           "iconName": "Giant_Stingray_Sprite"
         }
       },
@@ -2177,7 +2798,7 @@
         "type": "item",
         "item": {
           "id": "item_74002",
-          "displayName": "มังค์ฟิช",
+          "displayName": "Monkfish",
           "iconName": "Monkfish_Sprite"
         }
       },
@@ -2185,7 +2806,7 @@
         "type": "item",
         "item": {
           "id": "item_72008",
-          "displayName": "หมึกสาย",
+          "displayName": "Octopus",
           "iconName": "Octopus_Sprite"
         }
       },
@@ -2193,7 +2814,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "ทาโก้ปลา",
+          "displayName": "Fish taco",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -2201,7 +2822,7 @@
         "type": "item",
         "item": {
           "id": "item_80081",
-          "displayName": "น้ำมะพร้าวทั้งลูก",
+          "displayName": "Whole coconut drink",
           "iconName": "Whole_Coconut_Drink_Sprite"
         }
       },
@@ -2213,11 +2834,12 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "น้ำผลไม้",
+          "displayName": "Fruit juice",
           "iconName": "Fruit_Juice_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Bree",
@@ -2233,7 +2855,7 @@
         "type": "item",
         "item": {
           "id": "item_22021",
-          "displayName": "ขนุน",
+          "displayName": "Jackfruit",
           "iconName": "Jackfruit_Sprite"
         }
       },
@@ -2241,7 +2863,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "ทาโก้ปลา",
+          "displayName": "Fish taco",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -2249,17 +2871,35 @@
         "type": "item",
         "item": {
           "id": "item_80011",
-          "displayName": "ทาโก้มังสวิรัติ",
+          "displayName": "Vegan taco",
           "iconName": "Vegan_taco_Sprite"
         }
+      },
+      {
+        "type": "category",
+        "categoryName": "Jam"
       },
       {
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_23003",
+          "displayName": "Basil",
+          "iconName": "Basil_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "Fish"
       }
     ]
   },
@@ -2277,7 +2917,7 @@
         "type": "item",
         "item": {
           "id": "item_80027",
-          "displayName": "ครัวซองต์เนยสด",
+          "displayName": "Butter croissant",
           "iconName": "Butter_Croissant_Sprite"
         }
       },
@@ -2285,7 +2925,7 @@
         "type": "item",
         "item": {
           "id": "item_80026",
-          "displayName": "ซุปมะเขือเทศ",
+          "displayName": "Tomato soup",
           "iconName": "Tomato_Soup_Sprite"
         }
       },
@@ -2293,7 +2933,7 @@
         "type": "item",
         "item": {
           "id": "item_80028",
-          "displayName": "สตูว์",
+          "displayName": "Stew",
           "iconName": "Stew_Sprite"
         }
       },
@@ -2313,11 +2953,12 @@
         "type": "item",
         "item": {
           "id": "item_80034",
-          "displayName": "ลาซานญ่ามะเขือม่วง",
+          "displayName": "Eggplant lasagna",
           "iconName": "Eggplant_Lasagna_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Randy",
@@ -2333,7 +2974,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "กาแฟ",
+          "displayName": "Coffee",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -2345,7 +2986,7 @@
         "type": "item",
         "item": {
           "id": "item_23017",
-          "displayName": "แอปเปิ้ล",
+          "displayName": "Apple",
           "iconName": "Apple_Sprite"
         }
       },
@@ -2353,11 +2994,12 @@
         "type": "item",
         "item": {
           "id": "item_72015",
-          "displayName": "กุ้งล็อบสเตอร์",
+          "displayName": "Lobster",
           "iconName": "Lobster_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Rysy",
@@ -2381,7 +3023,7 @@
         "type": "item",
         "item": {
           "id": "item_61039",
-          "displayName": "โอปอลดำ",
+          "displayName": "Black opal",
           "iconName": "Black_Opal_Sprite"
         }
       },
@@ -2389,7 +3031,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -2399,6 +3041,40 @@
           "id": "item_61019",
           "displayName": "Onyx",
           "iconName": "Onyx_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Mushrooms"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31029",
+          "displayName": "Deepvoid ink",
+          "iconName": "Deepvoid_ink_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31030",
+          "displayName": "Large deepvoid ink",
+          "iconName": "Large_deepvoid_ink_Sprite"
         }
       }
     ]
@@ -2417,7 +3093,7 @@
         "type": "item",
         "item": {
           "id": "item_80023",
-          "displayName": "พิซซ่าฮาวายเอี้ยน",
+          "displayName": "Hawaiian pizza",
           "iconName": "Hawaiian_Pizza_Sprite"
         }
       },
@@ -2425,7 +3101,7 @@
         "type": "item",
         "item": {
           "id": "item_21003",
-          "displayName": "หัวไชเท้าแดง",
+          "displayName": "Radish",
           "iconName": "Radish_Sprite"
         }
       },
@@ -2433,7 +3109,7 @@
         "type": "item",
         "item": {
           "id": "item_23006",
-          "displayName": "บีท",
+          "displayName": "Beet",
           "iconName": "Beet_Sprite"
         }
       },
@@ -2441,7 +3117,7 @@
         "type": "item",
         "item": {
           "id": "item_51107",
-          "displayName": "เห็ดมอเรล",
+          "displayName": "Morel",
           "iconName": "Morel_Sprite"
         }
       },
@@ -2453,11 +3129,12 @@
         "type": "item",
         "item": {
           "id": "item_80030",
-          "displayName": "แฮชบราวน์",
+          "displayName": "Hash browns",
           "iconName": "Hash_browns_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Surya",
@@ -2473,7 +3150,7 @@
         "type": "item",
         "item": {
           "id": "item_22004",
-          "displayName": "เมล่อน",
+          "displayName": "Melon",
           "iconName": "Melon_Sprite"
         }
       },
@@ -2481,7 +3158,7 @@
         "type": "item",
         "item": {
           "id": "item_80057",
-          "displayName": "เทมเป้หมักสมุนไพร",
+          "displayName": "Herbed tempeh",
           "iconName": "Herbed_Tempeh_Sprite"
         }
       },
@@ -2489,7 +3166,7 @@
         "type": "item",
         "item": {
           "id": "item_80059",
-          "displayName": "โพเลนต้าเห็ดป่า",
+          "displayName": "Wild mushroom polenta",
           "iconName": "Wild_Mushroom_Polenta_Sprite"
         }
       },
@@ -2497,7 +3174,7 @@
         "type": "item",
         "item": {
           "id": "item_72004",
-          "displayName": "ปลาปักเป้า",
+          "displayName": "Pufferfish",
           "iconName": "Pufferfish_Sprite"
         }
       },
@@ -2505,9 +3182,15 @@
         "type": "item",
         "item": {
           "id": "item_80068",
-          "displayName": "แกงลอแด๊ะ",
+          "displayName": "Lodeh",
           "iconName": "Lodeh_Sprite"
         }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "category",
+        "categoryName": "BottledKelps"
       }
     ]
   },
@@ -2525,7 +3208,7 @@
         "type": "item",
         "item": {
           "id": "item_80032",
-          "displayName": "เห็ดอบ",
+          "displayName": "Roasted mushroom",
           "iconName": "Roasted_Mushroom_Sprite"
         }
       },
@@ -2533,11 +3216,16 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
+      },
+      {
+        "type": "category",
+        "categoryName": "Fish"
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Raj",
@@ -2553,7 +3241,7 @@
         "type": "item",
         "item": {
           "id": "item_24002",
-          "displayName": "ใบชา",
+          "displayName": "Tea leaf",
           "iconName": "Tea_Leaf_Sprite"
         }
       },
@@ -2561,7 +3249,7 @@
         "type": "item",
         "item": {
           "id": "item_22012",
-          "displayName": "เมล็ดกาแฟ",
+          "displayName": "Coffee bean",
           "iconName": "Coffee_Beans"
         }
       },
@@ -2569,7 +3257,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "กาแฟ",
+          "displayName": "Coffee",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -2577,23 +3265,39 @@
         "type": "item",
         "item": {
           "id": "item_32003",
-          "displayName": "เมล็ดกาแฟเกชา",
+          "displayName": "Gesha Coffee Bean",
           "iconName": "Gesha_coffee_bean_Sprite"
         }
       },
       {
         "type": "item",
         "item": {
+          "id": "item_32013",
+          "displayName": "Large Gesha Coffee Bean",
+          "iconName": "Large_gesha_coffee_bean_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
           "id": "item_41020",
-          "displayName": "กาแฟเกชา",
+          "displayName": "Gesha coffee",
           "iconName": "Gesha_coffee_Sprite"
         }
       },
       {
         "type": "item",
         "item": {
+          "id": "item_41052",
+          "displayName": "Large gesha coffee",
+          "iconName": "Large_gesha_coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
           "id": "item_41021",
-          "displayName": "ชาเขียวร้อน",
+          "displayName": "Green tea",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -2601,7 +3305,7 @@
         "type": "item",
         "item": {
           "id": "item_80078",
-          "displayName": "พายแอปเปิ้ล",
+          "displayName": "Apple pie",
           "iconName": "Apple_Pie_Sprite"
         }
       },
@@ -2609,8 +3313,18 @@
         "type": "item",
         "item": {
           "id": "item_80067",
-          "displayName": "โดนัท",
+          "displayName": "Donut",
           "iconName": "Donut_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80085",
+          "displayName": "Cenil",
+          "iconName": "Cenil_Sprite"
         }
       }
     ]
@@ -2629,7 +3343,7 @@
         "type": "item",
         "item": {
           "id": "item_21008",
-          "displayName": "อ้อย",
+          "displayName": "Sugarcane",
           "iconName": "Sugarcane_Sprite"
         }
       },
@@ -2637,7 +3351,7 @@
         "type": "item",
         "item": {
           "id": "item_80016",
-          "displayName": "ราเมงเจ",
+          "displayName": "Veggie ramen",
           "iconName": "Veggie_Ramen_Sprite"
         }
       },
@@ -2645,7 +3359,7 @@
         "type": "item",
         "item": {
           "id": "item_80015",
-          "displayName": "ราเมงทะเล",
+          "displayName": "Seafood ramen",
           "iconName": "Seafood_Ramen_Sprite"
         }
       },
@@ -2653,7 +3367,7 @@
         "type": "item",
         "item": {
           "id": "item_80028",
-          "displayName": "สตูว์",
+          "displayName": "Stew",
           "iconName": "Stew_Sprite"
         }
       },
@@ -2661,7 +3375,7 @@
         "type": "item",
         "item": {
           "id": "item_80024",
-          "displayName": "จานอาหารย่าง",
+          "displayName": "Assorted grilled platter",
           "iconName": "Assorted_Grilled_Platter_Sprite"
         }
       },
@@ -2669,7 +3383,7 @@
         "type": "item",
         "item": {
           "id": "item_22004",
-          "displayName": "เมล่อน",
+          "displayName": "Melon",
           "iconName": "Melon_Sprite"
         }
       },
@@ -2681,7 +3395,8 @@
           "iconName": "Olive_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Charles",
@@ -2713,7 +3428,7 @@
         "type": "item",
         "item": {
           "id": "item_61015",
-          "displayName": "เพชร",
+          "displayName": "Diamond",
           "iconName": "Diamond_Sprite"
         }
       },
@@ -2721,7 +3436,7 @@
         "type": "item",
         "item": {
           "id": "item_80005",
-          "displayName": "คุกกี้",
+          "displayName": "Cookies",
           "iconName": "Cookies_Sprite"
         }
       },
@@ -2729,7 +3444,7 @@
         "type": "item",
         "item": {
           "id": "item_21002",
-          "displayName": "สตรอว์เบอร์รี่",
+          "displayName": "Strawberry",
           "iconName": "Strawberry_Sprite"
         }
       },
@@ -2737,11 +3452,12 @@
         "type": "item",
         "item": {
           "id": "item_22001",
-          "displayName": "บลูเบอร์รี่",
+          "displayName": "Blueberry",
           "iconName": "Blueberry_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Erika",
@@ -2757,7 +3473,7 @@
         "type": "item",
         "item": {
           "id": "item_80021",
-          "displayName": "ขนมปังแบนหน้าเห็ดพริกไทย",
+          "displayName": "Pepper and mushroom flatbread",
           "iconName": "Pepper_and_Mushroom_Flatbread_Sprite"
         }
       },
@@ -2765,7 +3481,7 @@
         "type": "item",
         "item": {
           "id": "item_80022",
-          "displayName": "น้ำอ้อย",
+          "displayName": "Cane nectar",
           "iconName": "Cane_nectar_Sprite"
         }
       },
@@ -2785,11 +3501,12 @@
         "type": "item",
         "item": {
           "id": "item_80050",
-          "displayName": "แกงเผ็ด",
+          "displayName": "Red curry",
           "iconName": "Red_Curry_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Zoe",
@@ -2805,7 +3522,7 @@
         "type": "item",
         "item": {
           "id": "item_80005",
-          "displayName": "คุกกี้",
+          "displayName": "Cookies",
           "iconName": "Cookies_Sprite"
         }
       },
@@ -2813,7 +3530,7 @@
         "type": "item",
         "item": {
           "id": "item_80077",
-          "displayName": "ไอศกรีม",
+          "displayName": "Ice cream",
           "iconName": "Ice_Cream_Sprite"
         }
       },
@@ -2821,7 +3538,7 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "น้ำผลไม้",
+          "displayName": "Fruit juice",
           "iconName": "Fruit_Juice_Sprite"
         }
       },
@@ -2829,11 +3546,12 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Wakuu",
@@ -2849,7 +3567,7 @@
         "type": "item",
         "item": {
           "id": "item_72030",
-          "displayName": "ปลาแซลมอน",
+          "displayName": "Salmon",
           "iconName": "Salmon_Sprite"
         }
       },
@@ -2857,7 +3575,7 @@
         "type": "item",
         "item": {
           "id": "item_80011",
-          "displayName": "ทาโก้มังสวิรัติ",
+          "displayName": "Vegan taco",
           "iconName": "Vegan_taco_Sprite"
         }
       },
@@ -2865,7 +3583,7 @@
         "type": "item",
         "item": {
           "id": "item_80085",
-          "displayName": "ขนมเหนียวชวา",
+          "displayName": "Cenil",
           "iconName": "Cenil_Sprite"
         }
       },
@@ -2881,8 +3599,26 @@
         "type": "item",
         "item": {
           "id": "item_80046",
-          "displayName": "มัฟฟินช็อคโกแลตชิพ",
+          "displayName": "Chocolate chip muffins",
           "iconName": "Chocolate_chip_muffins_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80055",
+          "displayName": "Corn on the cob",
+          "iconName": "Corn_On_The_Cob_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80005",
+          "displayName": "Cookies",
+          "iconName": "Cookies_Sprite"
         }
       }
     ]
@@ -2909,7 +3645,7 @@
         "type": "item",
         "item": {
           "id": "item_80032",
-          "displayName": "เห็ดอบ",
+          "displayName": "Roasted mushroom",
           "iconName": "Roasted_Mushroom_Sprite"
         }
       },
@@ -2933,7 +3669,7 @@
         "type": "item",
         "item": {
           "id": "item_80029",
-          "displayName": "ซุปครีมหอยลาย",
+          "displayName": "Clam chowder",
           "iconName": "Clam_Chowder_Sprite"
         }
       },
@@ -2941,11 +3677,12 @@
         "type": "item",
         "item": {
           "id": "item_80033",
-          "displayName": "ไข่ดาว",
+          "displayName": "Sunny-side-up eggs",
           "iconName": "Sunny-side-up_eggs_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Slamet",
@@ -2965,7 +3702,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
+          "displayName": "Black pearl",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -2973,7 +3710,7 @@
         "type": "item",
         "item": {
           "id": "item_65512",
-          "displayName": "เครื่องวัดอุณหภูมิ",
+          "displayName": "Temperature machine",
           "iconName": "Temperature_Machine_Sprite"
         }
       },
@@ -2981,7 +3718,7 @@
         "type": "item",
         "item": {
           "id": "item_80085",
-          "displayName": "ขนมเหนียวชวา",
+          "displayName": "Cenil",
           "iconName": "Cenil_Sprite"
         }
       },
@@ -2997,8 +3734,130 @@
         "type": "item",
         "item": {
           "id": "item_80068",
-          "displayName": "แกงลอแด๊ะ",
+          "displayName": "Lodeh",
           "iconName": "Lodeh_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "category",
+        "categoryName": "OceanCritters"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72028",
+          "displayName": "Crab",
+          "iconName": "Crab_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72077",
+          "displayName": "Yeti crab",
+          "iconName": "Yeti_Crab_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72076",
+          "displayName": "Stone crab",
+          "iconName": "Stone_Crab_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72057",
+          "displayName": "Blue crab",
+          "iconName": "Blue_Crab_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72056",
+          "displayName": "Horseshoe crab",
+          "iconName": "Horseshoe_Crab_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72048",
+          "displayName": "Pom-pom crab",
+          "iconName": "Pom-pom_crab_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72043",
+          "displayName": "Hermit crab",
+          "iconName": "Hermit_Crab_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72032",
+          "displayName": "Arrow crab",
+          "iconName": "Arrow_Crab_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72070",
+          "displayName": "Shiho’s seahorse",
+          "iconName": "Shiho_Seahorse_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72069",
+          "displayName": "Hedgehog seahorse",
+          "iconName": "Hedgehog_Seahorse_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72042",
+          "displayName": "Giraffe seahorse",
+          "iconName": "Giraffe_seahorse_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72036",
+          "displayName": "Jayakar’s seahorse",
+          "iconName": "Jayakar_Seahorse_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72035",
+          "displayName": "Tigertail seahorse",
+          "iconName": "Tigertail_Seahorse_Sprite"
         }
       }
     ]
@@ -3017,7 +3876,7 @@
         "type": "item",
         "item": {
           "id": "item_21006",
-          "displayName": "ดอกกะหล่ำ ",
+          "displayName": "Cauliflower",
           "iconName": "Cauliflower_Sprite"
         }
       },
@@ -3025,7 +3884,7 @@
         "type": "item",
         "item": {
           "id": "item_80004",
-          "displayName": "เรดเวลเวตเค้ก",
+          "displayName": "Red velvet cake",
           "iconName": "Red_velvet_cake_Sprite"
         }
       },
@@ -3033,7 +3892,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "ชาเขียวร้อน",
+          "displayName": "Green tea",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -3041,7 +3900,7 @@
         "type": "item",
         "item": {
           "id": "item_51106",
-          "displayName": "ดอกแดฟโฟดิล",
+          "displayName": "Daffodil",
           "iconName": "Daffodil_Sprite"
         }
       },
@@ -3049,11 +3908,12 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Emily",
@@ -3069,7 +3929,7 @@
         "type": "item",
         "item": {
           "id": "item_80024",
-          "displayName": "จานอาหารย่าง",
+          "displayName": "Assorted grilled platter",
           "iconName": "Assorted_Grilled_Platter_Sprite"
         }
       },
@@ -3077,7 +3937,7 @@
         "type": "item",
         "item": {
           "id": "item_80044",
-          "displayName": "ผักชาร์ดผัด",
+          "displayName": "Sauteed chard",
           "iconName": "Sauteed_Chards_Sprite"
         }
       },
@@ -3085,7 +3945,7 @@
         "type": "item",
         "item": {
           "id": "item_41007",
-          "displayName": "น้ำมันถั่วอัลมอนด์",
+          "displayName": "Almond oil",
           "iconName": "Almond_Oil_Sprite"
         }
       },
@@ -3093,15 +3953,33 @@
         "type": "item",
         "item": {
           "id": "item_41006",
-          "displayName": "น้ำมันมะกอก",
+          "displayName": "Olive oil",
           "iconName": "Olive_Oil_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_23016",
+          "displayName": "Orchid",
+          "iconName": "Orchid_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22018",
+          "displayName": "Iris",
+          "iconName": "Iris_Sprite"
         }
       }
     ]
   },
   {
     "npcKey": "Olan",
-    "characterName": "โอลาน",
+    "characterName": "Olan",
     "iconName": "Icon_olan",
     "birthday": {
       "day": 18,
@@ -3110,24 +3988,78 @@
     },
     "lovedGifts": [
       {
-        "type": "category",
-        "categoryName": "Cooking"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_31032",
-          "displayName": "ไข่มุกดำ",
-          "iconName": "Large_sphere_Sprite"
-        }
-      },
-      {
         "type": "item",
         "item": {
           "id": "item_80096",
           "displayName": "Klepon",
           "iconName": "Klepon_Sprite"
         }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "Black pearl",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "Cooking"
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62010",
+          "displayName": "Solar core",
+          "iconName": "Solar_Core_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterArtisan"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_50303",
+          "displayName": "Seaweed",
+          "iconName": "Seaweed_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "BeachScavangeables"
+      },
+      {
+        "type": "category",
+        "categoryName": "Mushrooms"
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterFruit"
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterVegetables"
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterMushroom"
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterFlower"
+      },
+      {
+        "type": "category",
+        "categoryName": "Clams"
+      },
+      {
+        "type": "category",
+        "categoryName": "Herbs"
       }
     ]
   },
@@ -3145,7 +4077,7 @@
         "type": "item",
         "item": {
           "id": "item_80019",
-          "displayName": "แพนเค้ก",
+          "displayName": "Pancakes",
           "iconName": "Pancakes_Sprite"
         }
       },
@@ -3153,7 +4085,7 @@
         "type": "item",
         "item": {
           "id": "item_80042",
-          "displayName": "สปริงฟริตตาตา",
+          "displayName": "Spring frittata",
           "iconName": "Spring_Frittata_Sprite"
         }
       },
@@ -3173,7 +4105,7 @@
         "type": "item",
         "item": {
           "id": "item_23012",
-          "displayName": "หัวเผือก",
+          "displayName": "Taro root",
           "iconName": "Taro_root_Sprite"
         }
       },
@@ -3183,6 +4115,40 @@
           "id": "item_80020",
           "displayName": "Omurice",
           "iconName": "Omurice_Sprite"
+        }
+      }
+    ],
+    "likedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_24003",
+          "displayName": "Almond",
+          "iconName": "Almond_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_52107",
+          "displayName": "Coconut",
+          "iconName": "coconut_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22019",
+          "displayName": "Mango",
+          "iconName": "Mango_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21021",
+          "displayName": "Banana",
+          "iconName": "Banana_Sprite"
         }
       }
     ]
@@ -3201,7 +4167,7 @@
         "type": "item",
         "item": {
           "id": "item_80006",
-          "displayName": "พาสต้าเพสโต้ ซอสโหระพา",
+          "displayName": "Basil pesto pasta",
           "iconName": "Basil_Pesto_Pasta_Sprite"
         }
       },
@@ -3217,7 +4183,7 @@
         "type": "item",
         "item": {
           "id": "item_80077",
-          "displayName": "ไอศกรีม",
+          "displayName": "Ice cream",
           "iconName": "Ice_Cream_Sprite"
         }
       },
@@ -3225,7 +4191,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "ทาโก้ปลา",
+          "displayName": "Fish taco",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -3233,7 +4199,7 @@
         "type": "item",
         "item": {
           "id": "item_23011",
-          "displayName": "ฟักทอง",
+          "displayName": "Pumpkin",
           "iconName": "Pumpkin_Sprite"
         }
       },
@@ -3241,7 +4207,7 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "กุหลาบดำ ",
+          "displayName": "Black rose",
           "iconName": "placeholder_icon"
         }
       },
@@ -3249,7 +4215,7 @@
         "type": "item",
         "item": {
           "id": "item_65004",
-          "displayName": "ก้อนหิน",
+          "displayName": "Stone",
           "iconName": "Stone_Sprite"
         }
       },
@@ -3265,7 +4231,8 @@
         "type": "category",
         "categoryName": "Minerals"
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Nina",
@@ -3281,7 +4248,7 @@
         "type": "item",
         "item": {
           "id": "item_41016",
-          "displayName": "โยเกิร์ต",
+          "displayName": "Yogurt",
           "iconName": "Yoghurt_Sprite"
         }
       },
@@ -3289,7 +4256,7 @@
         "type": "item",
         "item": {
           "id": "item_80065",
-          "displayName": "ช่อดอกไม้",
+          "displayName": "Flower bouquet",
           "iconName": "Flower_Bouquet_Sprite"
         }
       },
@@ -3297,7 +4264,7 @@
         "type": "item",
         "item": {
           "id": "item_80018",
-          "displayName": "กล้วยทอด",
+          "displayName": "Banana fritter",
           "iconName": "Banana_Fritter_Sprite"
         }
       },
@@ -3305,7 +4272,8 @@
         "type": "category",
         "categoryName": "Juice"
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Alice",
@@ -3321,7 +4289,7 @@
         "type": "item",
         "item": {
           "id": "item_80041",
-          "displayName": "สมูทตี้ผัก",
+          "displayName": "Green smoothie",
           "iconName": "Green_smoothie_Sprite"
         }
       },
@@ -3329,7 +4297,7 @@
         "type": "item",
         "item": {
           "id": "item_41174",
-          "displayName": "น้ำมันเห็ดทรัฟเฟิลขาว",
+          "displayName": "White truffle oil",
           "iconName": "White_truffle_oil_Sprite"
         }
       },
@@ -3337,7 +4305,7 @@
         "type": "item",
         "item": {
           "id": "item_41005",
-          "displayName": "น้ำมันเห็ดทรัฟเฟิลดำ",
+          "displayName": "Black truffle oil",
           "iconName": "Black_Truffle_Oil_Sprite"
         }
       },
@@ -3345,7 +4313,7 @@
         "type": "item",
         "item": {
           "id": "item_41007",
-          "displayName": "น้ำมันถั่วอัลมอนด์",
+          "displayName": "Almond oil",
           "iconName": "Almond_Oil_Sprite"
         }
       },
@@ -3353,7 +4321,7 @@
         "type": "item",
         "item": {
           "id": "item_41006",
-          "displayName": "น้ำมันมะกอก",
+          "displayName": "Olive oil",
           "iconName": "Olive_Oil_Sprite"
         }
       },
@@ -3361,7 +4329,7 @@
         "type": "item",
         "item": {
           "id": "item_80074",
-          "displayName": "พายขนุน",
+          "displayName": "Minced jackfruit pie",
           "iconName": "Minced_Jackfruit_Pie_Sprite"
         }
       },
@@ -3405,7 +4373,8 @@
           "iconName": "Red_Dye_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   },
   {
     "npcKey": "Suki",
@@ -3421,7 +4390,7 @@
         "type": "item",
         "item": {
           "id": "item_61015",
-          "displayName": "เพชร",
+          "displayName": "Diamond",
           "iconName": "Diamond_Sprite"
         }
       },
@@ -3429,7 +4398,7 @@
         "type": "item",
         "item": {
           "id": "item_50301",
-          "displayName": "ไข่มุก",
+          "displayName": "Pearl",
           "iconName": "Pearl_Sprite"
         }
       },
@@ -3437,7 +4406,7 @@
         "type": "item",
         "item": {
           "id": "item_80041",
-          "displayName": "สมูทตี้ผัก",
+          "displayName": "Green smoothie",
           "iconName": "Green_smoothie_Sprite"
         }
       },
@@ -3445,10 +4414,11 @@
         "type": "item",
         "item": {
           "id": "item_80074",
-          "displayName": "พายขนุน",
+          "displayName": "Minced jackfruit pie",
           "iconName": "Minced_Jackfruit_Pie_Sprite"
         }
       }
-    ]
+    ],
+    "likedGifts": []
   }
 ]
