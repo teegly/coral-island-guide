@@ -1,0 +1,15 @@
+/* Ensure Angular Material MDC selects show readable text even if a parent sets text-white */
+.mat-mdc-select,
+.mat-mdc-form-field .mat-mdc-select,
+.mat-mdc-select .mat-mdc-select-value,
+.mat-mdc-select .mat-mdc-select-value-text,
+.mat-mdc-select .mat-mdc-select-min-line {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+/* Defensive: if Tailwind or parent rule applies text-white, force readable text */
+.text-white .mat-mdc-select,
+.text-white .mat-mdc-select .mat-mdc-select-value-text,
+.text-white .mat-mdc-select .mat-mdc-select-min-line {
+  color: rgba(0, 0, 0, 0.87) !important;
+}
