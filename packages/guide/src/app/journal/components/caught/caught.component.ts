@@ -3,7 +3,7 @@ import { Critter, Fish, Season, Seasons, Weather, Weathers } from '@ci/data-type
 import { BaseJournalPageComponent } from '../base-journal-page/base-journal-page.component';
 import { getTruthyValues } from '@ci/util';
 import { FilterForm } from "../../../shared/types/filter-form.type";
-import { FormControl, FormGroup } from "@angular/forms";
+import { FormControl, FormGroup, FormRecord, ReactiveFormsModule } from "@angular/forms";
 import { ListDetailContainerComponent } from "../../../shared/components/list-detail-container/list-detail-container.component";
 import { CaughtDetailsComponent } from "../caught-details/caught-details.component";
 import { MatTab, MatTabGroup } from "@angular/material/tabs";
@@ -17,6 +17,8 @@ import { FishCaughtChecklistService } from "../../../core/services/checklists/fi
 import { InsectsCaughtChecklistService } from "../../../core/services/checklists/insects-caught-checklist.service";
 import { SeaCrittersCaughtChecklistService } from "../../../core/services/checklists/sea-critters-caught-checklist.service";
 import { ItemStatusBadgesComponent, ItemStatusConfig } from "../../../shared/components/item-status-badges/item-status-badges.component";
+import { MatCheckbox } from "@angular/material/checkbox";
+import { takeUntilDestroyed } from "@angular/core/rxjs-interop";
 
 @Component({
     selector: 'app-caught',
@@ -31,7 +33,9 @@ import { ItemStatusBadgesComponent, ItemStatusConfig } from "../../../shared/com
         ItemIconComponent,
         CaughtTableComponent,
         AsyncPipe,
-        ItemStatusBadgesComponent
+        ItemStatusBadgesComponent,
+        MatCheckbox,
+        ReactiveFormsModule
     ]
 })
 export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
@@ -43,6 +47,11 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
     private readonly fishCaughtChecklistService = inject(FishCaughtChecklistService);
     private readonly insectsCaughtChecklistService = inject(InsectsCaughtChecklistService);
     private readonly seaCrittersCaughtChecklistService = inject(SeaCrittersCaughtChecklistService);
+    
+    // Form records for each tab's checkboxes
+    fishCaughtForm: FormRecord<FormControl<boolean>> = new FormRecord<FormControl<boolean>>({});
+    insectsCaughtForm: FormRecord<FormControl<boolean>> = new FormRecord<FormControl<boolean>>({});
+    seaCrittersCaughtForm: FormRecord<FormControl<boolean>> = new FormRecord<FormControl<boolean>>({});
 
     constructor() {
         super(new FormGroup<FilterForm>({
@@ -53,6 +62,42 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
                 hideCaught: new FormControl<boolean>(false, { nonNullable: true }),
             }));
 
+        // Set up form change handlers for each caught checklist
+        this.fishCaughtForm.valueChanges.pipe(
+            takeUntilDestroyed()
+        ).subscribe({
+            next: value => {
+                const checkedItems: string[] = [];
+                Object.keys(value).forEach(key => {
+                    if (value[key]) checkedItems.push(key)
+                });
+                this.fishCaughtChecklistService.set(checkedItems);
+            }
+        });
+
+        this.insectsCaughtForm.valueChanges.pipe(
+            takeUntilDestroyed()
+        ).subscribe({
+            next: value => {
+                const checkedItems: string[] = [];
+                Object.keys(value).forEach(key => {
+                    if (value[key]) checkedItems.push(key)
+                });
+                this.insectsCaughtChecklistService.set(checkedItems);
+            }
+        });
+
+        this.seaCrittersCaughtForm.valueChanges.pipe(
+            takeUntilDestroyed()
+        ).subscribe({
+            next: value => {
+                const checkedItems: string[] = [];
+                Object.keys(value).forEach(key => {
+                    if (value[key]) checkedItems.push(key)
+                });
+                this.seaCrittersCaughtChecklistService.set(checkedItems);
+            }
+        });
             
         this.tabs = [
             {
@@ -213,5 +258,43 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
             isInOfferings: this.offeringChecklistService.isChecked(itemKey),
             isCaught: isCaught
         };
+    }
+
+    getCaughtForm(tabIndex: number): FormRecord<FormControl<boolean>> {
+        switch (tabIndex) {
+            case 0: return this.fishCaughtForm;
+            case 1: return this.insectsCaughtForm;
+            case 2: return this.seaCrittersCaughtForm;
+            default: return this.fishCaughtForm;
+        }
+    }
+
+    getCaughtService(tabIndex: number) {
+        switch (tabIndex) {
+            case 0: return this.fishCaughtChecklistService;
+            case 1: return this.insectsCaughtChecklistService;
+            case 2: return this.seaCrittersCaughtChecklistService;
+            default: return this.fishCaughtChecklistService;
+        }
+    }
+
+    initializeFormControls(entries: (Fish | Critter)[], tabIndex: number): void {
+        const form = this.getCaughtForm(tabIndex);
+        const service = this.getCaughtService(tabIndex);
+        
+        // Clear existing controls
+        Object.keys(form.controls).forEach(key => form.removeControl(key));
+        
+        // Add controls for each entry
+        entries.forEach(entry => {
+            const itemKey = entry.key;
+            if (!form.contains(itemKey)) {
+                form.addControl(
+                    itemKey, 
+                    new FormControl<boolean>(service.isChecked(itemKey), {nonNullable: true}),
+                    {emitEvent: false}
+                );
+            }
+        });
     }
 }

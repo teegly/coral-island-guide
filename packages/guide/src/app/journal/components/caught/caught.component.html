@@ -15,12 +15,21 @@
 
                         <div class="icon-grid">
                             @for (entry of syncedData; track entry) {
-                                <div class="icon-grid-item flex flex-col">
+                                @if (initializeFormControls(syncedData, tabIndex); as _) {}
+                                <div 
+                                    [class.checklist-checked]="getCaughtForm(tabIndex).get(entry.key)?.value"
+                                    [class.selected-icon]="selectedEntity?.item?.id === entry.item.id"
+                                    class="icon-grid-item checklist-item flex flex-col"
+                                    [formGroup]="getCaughtForm(tabIndex)">
                                     <app-item-icon [itemName]="entry.item.iconName"
                                                    (click)="showDetails(entry)"
-                                                   [class.selected-icon]="selectedEntity?.item?.id === entry.item.id"
                                     />
                                     <app-item-status-badges [status]="getItemStatus(entry, tabIndex)"/>
+                                    <label class="text-white flex justify-center" for="entry-{{entry.key}}-input">
+                                        <mat-checkbox [formControlName]="entry.key" class="flex" 
+                                                      id="entry-{{entry.key}}"
+                                                      name="entry-{{entry.key}}"></mat-checkbox>
+                                    </label>
                                 </div>
                             }
                         </div>
