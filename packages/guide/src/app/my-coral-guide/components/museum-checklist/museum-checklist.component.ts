@@ -11,6 +11,12 @@ import { MatTab, MatTabGroup } from "@angular/material/tabs";
 import { ItemIconComponent } from "../../../shared/components/item-icon/item-icon.component";
 import { MatCheckbox } from "@angular/material/checkbox";
 import { ReactiveFormsModule } from "@angular/forms";
+import { OfferingChecklistService } from "../../../core/services/checklists/offering-checklist.service";
+import { FishCaughtChecklistService } from "../../../core/services/checklists/fish-caught-checklist.service";
+import { InsectsCaughtChecklistService } from "../../../core/services/checklists/insects-caught-checklist.service";
+import { SeaCrittersCaughtChecklistService } from "../../../core/services/checklists/sea-critters-caught-checklist.service";
+import { ItemStatusBadgesComponent, ItemStatusConfig } from "../../../shared/components/item-status-badges/item-status-badges.component";
+import { MinimalItem } from "@ci/data-types";
 
 @Component({
     selector: 'app-museum-checklist',
@@ -28,14 +34,41 @@ import { ReactiveFormsModule } from "@angular/forms";
         ItemIconComponent,
         MatCheckbox,
         KeyValuePipe,
-        ReactiveFormsModule
+        ReactiveFormsModule,
+        ItemStatusBadgesComponent
     ]
 })
 export class MuseumChecklistComponent extends BaseItemChecklistComponent {
     checklistService = inject(MuseumChecklistService);
     checklistDefinition$ = this._database.fetchMuseumChecklist$();
 
+    private readonly offeringChecklistService = inject(OfferingChecklistService);
+    private readonly fishCaughtChecklistService = inject(FishCaughtChecklistService);
+    private readonly insectsCaughtChecklistService = inject(InsectsCaughtChecklistService);
+    private readonly seaCrittersCaughtChecklistService = inject(SeaCrittersCaughtChecklistService);
+
     constructor() {
         super();
+    }
+
+    getItemStatus(entry: MinimalItem, tabKey: string): ItemStatusConfig {
+        const itemKey = entry.id;
+        
+        // Determine which caught checklist to use based on tab key
+        let isCaught = false;
+        const lowerTabKey = tabKey.toLowerCase();
+        if (lowerTabKey.includes('fish')) {
+            isCaught = this.fishCaughtChecklistService.isChecked(itemKey);
+        } else if (lowerTabKey.includes('insect') || lowerTabKey.includes('bug')) {
+            isCaught = this.insectsCaughtChecklistService.isChecked(itemKey);
+        } else if (lowerTabKey.includes('ocean') || lowerTabKey.includes('critter')) {
+            isCaught = this.seaCrittersCaughtChecklistService.isChecked(itemKey);
+        }
+
+        return {
+            isInMuseum: this.checklistService.isChecked(itemKey),
+            isInOfferings: this.offeringChecklistService.isChecked(itemKey),
+            isCaught: isCaught
+        };
     }
 }

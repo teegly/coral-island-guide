@@ -4,7 +4,7 @@
     }
 
     <mat-tab-group (selectedTabChange)="updateUrl($event); resetLocationFilter()" [selectedIndex]="selectedTabIndex()">
-        @for (tab of tabs; track tab) {
+        @for (tab of tabs; track tab; let tabIndex = $index) {
             <mat-tab [label]="tab.title">
                 @if ((tab.data |async); as syncedData) {
 
@@ -15,18 +15,20 @@
 
                         <div class="icon-grid">
                             @for (entry of syncedData; track entry) {
-                                <app-item-icon [itemName]="entry.item.iconName"
-                                               (click)="showDetails(entry)"
-                                               [class.selected-icon]="selectedEntity?.item?.id === entry.item.id"
-                                               class="icon-grid-item"
-                                />
+                                <div class="icon-grid-item flex flex-col">
+                                    <app-item-icon [itemName]="entry.item.iconName"
+                                                   (click)="showDetails(entry)"
+                                                   [class.selected-icon]="selectedEntity?.item?.id === entry.item.id"
+                                    />
+                                    <app-item-status-badges [status]="getItemStatus(entry, tabIndex)"/>
+                                </div>
                             }
                         </div>
 
                     }
                     @if (showTable) {
 
-                        <app-caught-table [dataSource]="syncedData"></app-caught-table>
+                        <app-caught-table [dataSource]="syncedData" [tabIndex]="tabIndex"></app-caught-table>
 
                     }
 

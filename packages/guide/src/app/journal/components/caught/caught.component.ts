@@ -12,6 +12,11 @@ import { ItemIconComponent } from "../../../shared/components/item-icon/item-ico
 import { CaughtTableComponent } from "../tables/caught-table/caught-table.component";
 import { AsyncPipe } from "@angular/common";
 import { MuseumChecklistService } from "../../../core/services/checklists/museum-checklist.service";
+import { OfferingChecklistService } from "../../../core/services/checklists/offering-checklist.service";
+import { FishCaughtChecklistService } from "../../../core/services/checklists/fish-caught-checklist.service";
+import { InsectsCaughtChecklistService } from "../../../core/services/checklists/insects-caught-checklist.service";
+import { SeaCrittersCaughtChecklistService } from "../../../core/services/checklists/sea-critters-caught-checklist.service";
+import { ItemStatusBadgesComponent, ItemStatusConfig } from "../../../shared/components/item-status-badges/item-status-badges.component";
 
 @Component({
     selector: 'app-caught',
@@ -25,7 +30,8 @@ import { MuseumChecklistService } from "../../../core/services/checklists/museum
         DataFilterComponent,
         ItemIconComponent,
         CaughtTableComponent,
-        AsyncPipe
+        AsyncPipe,
+        ItemStatusBadgesComponent
     ]
 })
 export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
@@ -33,6 +39,10 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
     
     private readonly SEA_CRITTERS_INDEX = 2;
     private readonly museumChecklistService = inject(MuseumChecklistService);
+    private readonly offeringChecklistService = inject(OfferingChecklistService);
+    private readonly fishCaughtChecklistService = inject(FishCaughtChecklistService);
+    private readonly insectsCaughtChecklistService = inject(InsectsCaughtChecklistService);
+    private readonly seaCrittersCaughtChecklistService = inject(SeaCrittersCaughtChecklistService);
 
     constructor() {
         super(new FormGroup<FilterForm>({
@@ -79,7 +89,7 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
 
         // Check if we should hide caught items (items in museum checklist)
         if (filterValues.hideCaught) {
-            const itemKey = this.getItemKeyForMuseum(foundEntry, index);
+            const itemKey = this.getItemKeyForMuseum(foundEntry);
             const isCaught = this.museumChecklistService.isChecked(itemKey);
             if (isCaught) return false;
         }
@@ -162,8 +172,32 @@ export class CaughtComponent extends BaseJournalPageComponent<Fish | Critter> {
         this.formControl.get('location')?.setValue(null)
     }
 
-    private getItemKeyForMuseum(entry: Fish | Critter, index: number): string {
+    private getItemKeyForMuseum(entry: Fish | Critter): string {
         // Museum checklist uses the item key directly (e.g., "item_72030")
         return entry.key;
+    }
+
+    getItemStatus(entry: Fish | Critter, tabIndex: number): ItemStatusConfig {
+        const itemKey = entry.key;
+        
+        // Determine which caught checklist to use based on tab index
+        let isCaught = false;
+        switch (tabIndex) {
+            case 0: // Fish
+                isCaught = this.fishCaughtChecklistService.isChecked(itemKey);
+                break;
+            case 1: // Insects
+                isCaught = this.insectsCaughtChecklistService.isChecked(itemKey);
+                break;
+            case 2: // Sea Critters
+                isCaught = this.seaCrittersCaughtChecklistService.isChecked(itemKey);
+                break;
+        }
+
+        return {
+            isInMuseum: this.museumChecklistService.isChecked(itemKey),
+            isInOfferings: this.offeringChecklistService.isChecked(itemKey),
+            isCaught: isCaught
+        };
     }
 }

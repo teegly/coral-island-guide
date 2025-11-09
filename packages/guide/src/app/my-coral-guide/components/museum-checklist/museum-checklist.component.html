@@ -32,6 +32,7 @@
                                     <app-item-icon
                                             (click)="showDetails(entry)"
                                             [itemName]="entry.iconName"/>
+                                    <app-item-status-badges [status]="getItemStatus(entry, tab.key)"/>
                                     <label class="text-white flex justify-center" for="entry-{{entry.id}}-input">
                                         <mat-checkbox [formControlName]="entry.id" class="flex" id="entry-{{entry.id}}"
                                                       name="entry-{{entry.id}}"></mat-checkbox>
