@@ -11,14 +11,3 @@
   object-fit: scale-down;
   object-position: center;
 }
-
-// Fix white text color in birthday gift select dropdown
-:host ::ng-deep .semi-transparent-form-field {
-  .mat-mdc-select-value {
-    color: black !important;
-  }
-  
-  .mat-mdc-select-value-text {
-    color: black !important;
-  }
-}

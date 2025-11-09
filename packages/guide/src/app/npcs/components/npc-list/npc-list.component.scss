@@ -37,10 +37,10 @@
 }
 
 .filled-heart {
-  @apply text-gifting h-4 w-4;
+  @apply text-gifting h-6 w-6;
 }
 
 .empty-heart {
-  @apply text-gray-300 h-4 w-4;
+  @apply text-gray-500 h-6 w-6;
   filter: grayscale(100%) brightness(1.2);
 }
