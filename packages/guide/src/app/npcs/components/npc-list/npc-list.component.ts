@@ -1,8 +1,8 @@
-import { Component, computed, inject, Signal, viewChild, ViewEncapsulation } from '@angular/core';
+import { Component, computed, inject, viewChild, ViewEncapsulation } from '@angular/core';
 import { DatabaseService } from "../../../shared/services/database.service";
-import { NPC, UiIcon } from "@ci/data-types";
+import { UiIcon } from "@ci/data-types";
 import { toSignal } from "@angular/core/rxjs-interop";
-import { catchError, of } from "rxjs";
+import { catchError, map, of } from "rxjs";
 import { NpcFilterComponent } from "../../npc-filter/npc-filter.component";
 import { filterNPCs } from "../../filter-npcs.function";
 import { RouterLink } from "@angular/router";
@@ -12,8 +12,8 @@ import { IngameDatePipe } from "../../../shared/pipes/ingame-date.pipe";
 import { NgClass } from "@angular/common";
 import { MatProgressSpinner } from "@angular/material/progress-spinner";
 import { MatTooltip } from "@angular/material/tooltip";
-import { UserDataService } from "../../../core/services/user-data.service";
-import { MatIcon } from "@angular/material/icon";
+import { TranslatePipe, TranslateService } from "@ngx-translate/core";
+import { addSpacesToPascalCase } from "@ci/util";
 
 @Component({
     selector: 'app-npc-list',
@@ -30,19 +30,27 @@ import { MatIcon } from "@angular/material/icon";
         NgClass,
         MatProgressSpinner,
         MatTooltip,
-        MatIcon
+        TranslatePipe
     ]
 })
 export class NpcListComponent {
 
     npcFilter = viewChild(NpcFilterComponent);
     protected readonly uiIcon = UiIcon;
+    readonly #translate = inject(TranslateService);
     #searchValueChanges = computed(() => this.npcFilter()?.searchValueChanges() ?? '')
     #sortValueChanges = computed(() => this.npcFilter()?.sortValueChanges() ?? 'default')
     #filterNPCs = filterNPCs
-    readonly #npcList: Signal<NPC[] | undefined>;
-    protected readonly userDataService = inject(UserDataService);
-
+    readonly #database = inject(DatabaseService)
+    readonly #npcList = toSignal(this.#database.fetchNPCs$().pipe(
+        catchError(() => of([])),
+        map(npcs => npcs.map(npc => ({
+                    ...npc,
+                    characterName: addSpacesToPascalCase(this.#translate.instant(npc.characterName))
+                })
+            )
+        )
+    ));
     protected filteredAndSortedNpcs = computed(() => {
 
         const npcs = this.#npcList() ?? [];
@@ -55,42 +63,5 @@ export class NpcListComponent {
 
 
     })
-    readonly #database = inject(DatabaseService)
 
-    constructor() {
-        this.#npcList = toSignal(this.#database.fetchNPCs$().pipe(
-            catchError(() => of([]))
-        ))
-    }
-
-    getHeartLevel(npcKey: string): number {
-        return this.userDataService.currentData().npcHeartLevels?.[npcKey] || 0;
-    }
-
-    setHeartLevel(npcKey: string, level: number, event: Event): void {
-        event.preventDefault();
-        event.stopPropagation();
-        
-        const userData = this.userDataService.currentData();
-        if (!userData.npcHeartLevels) {
-            userData.npcHeartLevels = {};
-        }
-        // Ensure level is between 0 and 10
-        userData.npcHeartLevels[npcKey] = Math.max(0, Math.min(10, level));
-        this.userDataService.save();
-    }
-
-    incrementHeartLevel(npcKey: string, event: Event): void {
-        const currentLevel = this.getHeartLevel(npcKey);
-        if (currentLevel < 10) {
-            this.setHeartLevel(npcKey, currentLevel + 1, event);
-        }
-    }
-
-    decrementHeartLevel(npcKey: string, event: Event): void {
-        const currentLevel = this.getHeartLevel(npcKey);
-        if (currentLevel > 0) {
-            this.setHeartLevel(npcKey, currentLevel - 1, event);
-        }
-    }
 }

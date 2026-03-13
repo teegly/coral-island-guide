@@ -16,11 +16,7 @@ import { EntityKeyPipe } from "../../../shared/pipes/entity-key.pipe";
 import { ItemIconComponent } from "../../../shared/components/item-icon/item-icon.component";
 import { MatCheckbox } from "@angular/material/checkbox";
 import { AsyncPipe, NgOptimizedImage } from "@angular/common";
-import { MuseumChecklistService } from "../../../core/services/checklists/museum-checklist.service";
-import { FishCaughtChecklistService } from "../../../core/services/checklists/fish-caught-checklist.service";
-import { InsectsCaughtChecklistService } from "../../../core/services/checklists/insects-caught-checklist.service";
-import { SeaCrittersCaughtChecklistService } from "../../../core/services/checklists/sea-critters-caught-checklist.service";
-import { ItemStatusBadgesComponent, ItemStatusConfig } from "../../../shared/components/item-status-badges/item-status-badges.component";
+import { TranslatePipe } from "@ngx-translate/core";
 
 @Component({
     selector: 'app-offerings-checklist',
@@ -39,7 +35,7 @@ import { ItemStatusBadgesComponent, ItemStatusConfig } from "../../../shared/com
         MatCheckbox,
         NgOptimizedImage,
         AsyncPipe,
-        ItemStatusBadgesComponent
+        TranslatePipe
     ]
 })
 export class OfferingsChecklistComponent extends BaseTabbedSelectableContainerComponent<MinimalItem | MinimalTagBasedItem> {
@@ -51,11 +47,6 @@ export class OfferingsChecklistComponent extends BaseTabbedSelectableContainerCo
     protected useBeta = inject(SettingsService).getSettings().useBeta;
     protected bundleAssetPath = signal(`assets/${this.useBeta ? 'beta' : 'live'}/items/icons/`);
     private _altars: OfferingAltar[] = [];
-
-    private readonly museumChecklistService = inject(MuseumChecklistService);
-    private readonly fishCaughtChecklistService = inject(FishCaughtChecklistService);
-    private readonly insectsCaughtChecklistService = inject(InsectsCaughtChecklistService);
-    private readonly seaCrittersCaughtChecklistService = inject(SeaCrittersCaughtChecklistService);
 
     constructor() {
         super()
@@ -128,23 +119,6 @@ export class OfferingsChecklistComponent extends BaseTabbedSelectableContainerCo
         }
 
         return label.toLowerCase().replaceAll(' ', '')
-    }
-
-    getItemStatus(item: MinimalItem | MinimalTagBasedItem): ItemStatusConfig {
-        const itemKey = entityKey(item);
-        
-        // Try to determine item type to check appropriate caught checklist
-        // This is a best effort - we check all caught checklists
-        const isCaughtInFish = this.fishCaughtChecklistService.isChecked(itemKey);
-        const isCaughtInInsects = this.insectsCaughtChecklistService.isChecked(itemKey);
-        const isCaughtInSeaCritters = this.seaCrittersCaughtChecklistService.isChecked(itemKey);
-        const isCaught = isCaughtInFish || isCaughtInInsects || isCaughtInSeaCritters;
-
-        return {
-            isInMuseum: this.museumChecklistService.isChecked(itemKey),
-            isInOfferings: this.checklistService.isChecked(itemKey),
-            isCaught: isCaught
-        };
     }
 
 

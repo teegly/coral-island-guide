@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, effect } from '@angular/core';
 import { BaseTableComponent } from "../../../../shared/components/base-table/base-table.component";
 import { ShopItemData } from "@ci/data-types";
 import { ResponsiveTableComponent } from "../../../../shared/components/responsive-table/responsive-table.component";
@@ -8,6 +8,7 @@ import { RouterLink } from "@angular/router";
 import { TownrankPipe } from "../../../../shared/pipes/townrank.pipe";
 import { MatSort, MatSortHeader } from "@angular/material/sort";
 import { MoneyComponent } from "../../../../shared/components/money/money.component";
+import { TranslatePipe } from "@ngx-translate/core";
 
 @Component({
     selector: 'app-shop-item-data-table',
@@ -22,11 +23,12 @@ import { MoneyComponent } from "../../../../shared/components/money/money.compon
         MatSortHeader,
         MoneyComponent,
         MatSort,
+        TranslatePipe,
     ]
 })
 export class ShopItemDataTableComponent extends BaseTableComponent<ShopItemData & {
     shop?: { url: string; displayName: string }
-}> implements OnInit {
+}> {
     protected readonly BASE_DISPLAY_COLUMNS: string[] = [
         'icon',
         'displayName',
@@ -35,12 +37,14 @@ export class ShopItemDataTableComponent extends BaseTableComponent<ShopItemData 
         'sellPrice'
     ];
 
-    ngOnInit() {
-        if (this._dataSource().length && this._dataSource()[0].shop) {
-            this.displayedColumns.splice(2, 0, 'shop');
-            this.displayHeaderColumns = this.displayedColumns.filter(column => column !== 'icon')
-        }
+    constructor() {
+        super();
+        effect(() => {
+            if (this._dataSource().length && this._dataSource()[0].shop) {
+                this.displayedColumns.splice(2, 0, 'shop');
+                this.displayHeaderColumns = this.displayedColumns.filter(column => column !== 'icon');
+            }
+        });
     }
-
 
 }

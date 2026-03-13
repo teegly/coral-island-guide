@@ -1,11 +1,17 @@
 {
+  "pluginsConfig": {
+    "@nx/js": {
+      "analyzeSourceFiles": true
+    }
+  },
   "extends": "nx/presets/npm.json",
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "generators": {
     "@schematics/angular:component": {
       "style": "none",
       "skipTests": true,
-      "type": "component"
+      "type": "component",
+      "changeDetection": "OnPush"
     },
     "@schematics/angular:service": {
       "skipTests": true,
@@ -23,7 +29,8 @@
     },
     "@nx/angular:component": {
       "style": "none",
-      "skipTests": true
+      "skipTests": true,
+      "changeDetection": "OnPush"
     },
     "@nx/angular:guard": {
       "typeSeparator": "-"
@@ -61,8 +68,13 @@
       "cache": true
     },
     "@nx/eslint:lint": {
-      "inputs": ["default", "{workspaceRoot}/.eslintrc.json"],
+      "inputs": ["default", "{workspaceRoot}/.eslintrc.json", "{workspaceRoot}/eslint.config.mjs"],
       "cache": true
+    },
+    "@nx/esbuild:esbuild": {
+      "cache": true,
+      "dependsOn": ["^build"],
+      "inputs": ["default", "^default"]
     }
   },
   "defaultProject": "guide",

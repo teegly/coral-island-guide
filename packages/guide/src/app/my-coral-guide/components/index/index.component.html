@@ -25,13 +25,13 @@
                         <h2 class="mb-4 font-semibold text-2xl text-black">
                             Today
                         </h2>
-                        <app-birthday-dashboard [birthdays]="birthdaysToday()" [currentDate]="currentDateString()" (itemClicked)="showDetails($event)"/>
+                        <app-birthday-dashboard [birthdays]=" birthdaysToday()" (itemClicked)="showDetails($event)"/>
                     </div>
                     <div>
                         <h2 class="mb-4 font-semibold text-2xl text-black">
                             Tomorrow
                         </h2>
-                        <app-birthday-dashboard [birthdays]="birthdaysTomorrow()" [currentDate]="currentDateString()" (itemClicked)="showDetails($event)"/>
+                        <app-birthday-dashboard [birthdays]=" birthdaysTomorrow()" (itemClicked)="showDetails($event)"/>
                     </div>
                 </div>
             </app-card>
@@ -52,8 +52,8 @@
                         <label class="text-white flex justify-center" for="entry-{{entry.entry.id}}-input">
                             <mat-checkbox class="flex" id="entry-{{entry.entry.id}}"
                                           [checked]="entry.completed"
-                                          (change)="updateChecklist($event, entry.entry.id, entry.context); entry.completed = !entry.completed"
-                                          name="entry-{{entry.entry.id}}"></mat-checkbox>
+                                          (change)="updateChecklist($event, entry.entry.id); entry.completed = !entry.completed"
+                                          name="entry-{{entry.entry.id}}"/>
                         </label>
                     </div>
                 } @empty {
@@ -77,8 +77,8 @@
                         <label class="text-white flex justify-center" for="entry-{{entry.entry.id}}-input">
                             <mat-checkbox class="flex" id="entry-{{entry.entry.id}}"
                                           [checked]="entry.completed"
-                                          (change)="updateChecklist($event, entry.entry.id, entry.context); entry.completed = !entry.completed"
-                                          name="entry-{{entry.entry.id}}"></mat-checkbox>
+                                          (change)="updateChecklist($event, entry.entry.id); entry.completed = !entry.completed"
+                                          name="entry-{{entry.entry.id}}"/>
                         </label>
                     </div>
                 } @empty {
@@ -102,8 +102,8 @@
                         <label class="text-white flex justify-center" for="entry-{{entry.entry.id}}-input">
                             <mat-checkbox class="flex" id="entry-{{entry.entry.id}}"
                                           [checked]="entry.completed"
-                                          (change)="updateChecklist($event, entry.entry.id, entry.context); entry.completed = !entry.completed"
-                                          name="entry-{{entry.entry.id}}"></mat-checkbox>
+                                          (change)="updateChecklist($event, entry.entry.id); entry.completed = !entry.completed"
+                                          name="entry-{{entry.entry.id}}"/>
                         </label>
                     </div>
                 } @empty {

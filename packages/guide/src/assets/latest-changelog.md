@@ -1,1 +1,1 @@
-{"version":"0.27.1","date":"2025-10-20","body":"\n#### Changed\n\n- Updated live data to v1.2-1241 (Steam version)\n"}
+{"version":"0.29.0","date":"2025-12-21","body":"\r\n#### Added\r\n\r\n- Added attractions/town projects to locations\r\n- Added more descriptive text to heart events to match in-game text\r\n\r\n#### Changed\r\n\r\n- Fixed various translation issues, for example, heart event locations\r\n- Fixed errors in to-do list\r\n\r"}

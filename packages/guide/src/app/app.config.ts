@@ -8,7 +8,6 @@ import {
     withRouterConfig,
 } from '@angular/router';
 import { appRoutes } from './app.routes';
-import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 import { MAT_FORM_FIELD_DEFAULT_OPTIONS, MatFormFieldDefaultOptions } from '@angular/material/form-field';
 import { provideMarkdown } from 'ngx-markdown';
 import { ServiceWorkerModule } from '@angular/service-worker';
@@ -19,9 +18,12 @@ import { MAT_RIPPLE_GLOBAL_OPTIONS } from '@angular/material/core';
 import { MAT_TABS_CONFIG, MatTabsConfig } from '@angular/material/tabs';
 import { PageTitleService } from './shared/services/page-title.service';
 import { provideGameVersion } from './core/injection-tokens/version.injection-token';
-import { provideHttpClient, withFetch, withInterceptors } from '@angular/common/http';
+import { HttpClient, provideHttpClient, withFetch, withInterceptors } from '@angular/common/http';
 import { assetVersionInterceptor } from './core/interceptors/asset-version.interceptor';
 import { provideClientHydration, withEventReplay } from '@angular/platform-browser';
+import { provideTranslateCompiler, provideTranslateService, TranslateLoader } from "@ngx-translate/core";
+import { TranslateMessageFormatCompiler } from "ngx-translate-messageformat-compiler";
+import { TranslationLoaderService } from "./shared/services/translation-loader.service";
 
 const routerOptions: ExtraOptions = {
     scrollPositionRestoration: 'disabled',
@@ -38,7 +40,6 @@ export const appConfig: ApplicationConfig = {
             withEnabledBlockingInitialNavigation(),
             withRouterConfig(routerOptions)
         ),
-        provideAnimationsAsync(),
         provideMarkdown(),
         {
             provide: MAT_FORM_FIELD_DEFAULT_OPTIONS,
@@ -57,6 +58,17 @@ export const appConfig: ApplicationConfig = {
         {provide: MAT_TABS_CONFIG, useValue: {animationDuration: '0', stretchTabs: false} satisfies MatTabsConfig},
         {provide: TitleStrategy, useClass: PageTitleService},
         provideHttpClient(withInterceptors([assetVersionInterceptor]), withFetch()),
+        provideHttpClient(),
+        provideTranslateService({
+            loader: {
+                provide: TranslateLoader,
+                useClass: TranslationLoaderService,
+                deps: [HttpClient, SettingsService],
+            },
+            compiler: provideTranslateCompiler(TranslateMessageFormatCompiler),
+            fallbackLang: 'en',
+            lang: 'en'
+        }),
         importProvidersFrom(
             ServiceWorkerModule.register('ngsw-worker.js', {
                 enabled: !isDevMode(),
