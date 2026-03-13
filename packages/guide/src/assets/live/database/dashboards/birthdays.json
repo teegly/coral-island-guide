@@ -13,7 +13,7 @@
         "type": "item",
         "item": {
           "id": "item_22009",
-          "displayName": "Pineapple",
+          "displayName": "DT_InventoryItems.item_22009_name",
           "iconName": "Pineapple_Sprite"
         }
       },
@@ -21,7 +21,7 @@
         "type": "item",
         "item": {
           "id": "item_80044",
-          "displayName": "Sauteed chard",
+          "displayName": "DT_InventoryItems.item_80044_name",
           "iconName": "Sauteed_Chards_Sprite"
         }
       },
@@ -37,7 +37,7 @@
         "type": "item",
         "item": {
           "id": "item_80018",
-          "displayName": "Banana fritter",
+          "displayName": "DT_InventoryItems.item_80018_name",
           "iconName": "Banana_Fritter_Sprite"
         }
       },
@@ -45,7 +45,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "Coffee",
+          "displayName": "DT_InventoryItems.item_41019_name",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -53,7 +53,7 @@
         "type": "item",
         "item": {
           "id": "item_80040",
-          "displayName": "Fried rice",
+          "displayName": "DT_InventoryItems.item_80040_name",
           "iconName": "Fried_Rice_Sprite"
         }
       },
@@ -61,7 +61,7 @@
         "type": "item",
         "item": {
           "id": "item_41016",
-          "displayName": "Yogurt",
+          "displayName": "DT_InventoryItems.item_41016_name",
           "iconName": "Yoghurt_Sprite"
         }
       },
@@ -69,16 +69,15 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Semeru",
-    "characterName": "Semeru",
+    "characterName": "CB70A2264EB0A198FBDD81A121393D40",
     "iconName": "Icon_semeru",
     "birthday": {
       "day": 5,
@@ -90,7 +89,7 @@
         "type": "item",
         "item": {
           "id": "item_80122",
-          "displayName": "Reef burger",
+          "displayName": "DT_InventoryItems.item_80122_name",
           "iconName": "Reef_Burger_Sprite"
         }
       },
@@ -98,7 +97,7 @@
         "type": "item",
         "item": {
           "id": "item_80121",
-          "displayName": "Frozen seagrass",
+          "displayName": "DT_InventoryItems.item_80121_name",
           "iconName": "Frozen_Seagrass_Sprite"
         }
       },
@@ -106,7 +105,7 @@
         "type": "item",
         "item": {
           "id": "item_80120",
-          "displayName": "Deep sea elixir",
+          "displayName": "DT_InventoryItems.item_80120_name",
           "iconName": "Deep_Sea_Elixir_Sprite"
         }
       },
@@ -122,7 +121,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -130,7 +129,7 @@
         "type": "item",
         "item": {
           "id": "item_41020",
-          "displayName": "Gesha coffee",
+          "displayName": "DT_InventoryItems.item_41020_name",
           "iconName": "Gesha_coffee_Sprite"
         }
       },
@@ -138,7 +137,7 @@
         "type": "item",
         "item": {
           "id": "item_72041",
-          "displayName": "Blue lobster",
+          "displayName": "DT_InventoryItems.item_72041_name",
           "iconName": "Blue_Lobster_Sprite"
         }
       },
@@ -146,7 +145,7 @@
         "type": "item",
         "item": {
           "id": "item_41052",
-          "displayName": "Large gesha coffee",
+          "displayName": "DT_InventoryItems.item_41052_name",
           "iconName": "Large_gesha_coffee_Sprite"
         }
       },
@@ -154,7 +153,7 @@
         "type": "item",
         "item": {
           "id": "item_41280",
-          "displayName": "Aged gesha coffee",
+          "displayName": "DT_InventoryItems.item_41280_name",
           "iconName": "Aged_Gesha_Coffee_Sprite"
         }
       },
@@ -162,43 +161,9 @@
         "type": "item",
         "item": {
           "id": "item_41281",
-          "displayName": "Aged large gesha coffee",
+          "displayName": "DT_InventoryItems.item_41281_name",
           "iconName": "Aged_Large_Gesha_Coffee_Sprite"
         }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "UnderwaterFruit"
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterFlower"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_41019",
-          "displayName": "Coffee",
-          "iconName": "Coffee_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "OceanCritters"
       }
     ]
   },
@@ -224,7 +189,7 @@
         "type": "item",
         "item": {
           "id": "item_21002",
-          "displayName": "Strawberry",
+          "displayName": "DT_InventoryItems.item_21002_name",
           "iconName": "Strawberry_Sprite"
         }
       },
@@ -236,12 +201,11 @@
         "type": "item",
         "item": {
           "id": "item_53101",
-          "displayName": "Chestnut",
+          "displayName": "DT_InventoryItems.item_53101_name",
           "iconName": "Chestnut_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Antonio",
@@ -265,12 +229,11 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "Coffee",
+          "displayName": "DT_InventoryItems.item_41019_name",
           "iconName": "Coffee_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Kenny",
@@ -294,7 +257,7 @@
         "type": "item",
         "item": {
           "id": "item_80011",
-          "displayName": "Vegan taco",
+          "displayName": "DT_InventoryItems.item_80011_name",
           "iconName": "Vegan_taco_Sprite"
         }
       },
@@ -302,7 +265,7 @@
         "type": "item",
         "item": {
           "id": "item_80030",
-          "displayName": "Hash browns",
+          "displayName": "DT_InventoryItems.item_80030_name",
           "iconName": "Hash_browns_Sprite"
         }
       },
@@ -310,7 +273,7 @@
         "type": "item",
         "item": {
           "id": "item_21020",
-          "displayName": "Lychee",
+          "displayName": "DT_InventoryItems.item_21020_name",
           "iconName": "Lychee_Sprite"
         }
       },
@@ -318,7 +281,7 @@
         "type": "item",
         "item": {
           "id": "item_21015",
-          "displayName": "Soybean",
+          "displayName": "DT_InventoryItems.item_21015_name",
           "iconName": "Soybean_Sprite"
         }
       },
@@ -326,7 +289,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "Green tea",
+          "displayName": "DT_InventoryItems.item_41021_name",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -334,15 +297,9 @@
         "type": "item",
         "item": {
           "id": "item_80036",
-          "displayName": "Roasted almonds",
+          "displayName": "DT_InventoryItems.item_80036_name",
           "iconName": "Roasted_Almonds_Sprite"
         }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "Mushrooms"
       }
     ]
   },
@@ -360,7 +317,7 @@
         "type": "item",
         "item": {
           "id": "item_80006",
-          "displayName": "Basil pesto pasta",
+          "displayName": "DT_InventoryItems.item_80006_name",
           "iconName": "Basil_Pesto_Pasta_Sprite"
         }
       },
@@ -368,7 +325,7 @@
         "type": "item",
         "item": {
           "id": "item_80064",
-          "displayName": "Smoked salmon",
+          "displayName": "DT_InventoryItems.item_80064_name",
           "iconName": "Smoked_Salmon_Sprite"
         }
       },
@@ -376,7 +333,7 @@
         "type": "item",
         "item": {
           "id": "item_80077",
-          "displayName": "Ice cream",
+          "displayName": "DT_InventoryItems.item_80077_name",
           "iconName": "Ice_Cream_Sprite"
         }
       },
@@ -384,12 +341,11 @@
         "type": "item",
         "item": {
           "id": "item_80015",
-          "displayName": "Seafood ramen",
+          "displayName": "DT_InventoryItems.item_80015_name",
           "iconName": "Seafood_Ramen_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Scott",
@@ -405,7 +361,7 @@
         "type": "item",
         "item": {
           "id": "item_80080",
-          "displayName": "Egg custard",
+          "displayName": "DT_InventoryItems.item_80080_name",
           "iconName": "Egg_Custard_Sprite"
         }
       },
@@ -413,7 +369,7 @@
         "type": "item",
         "item": {
           "id": "item_74001",
-          "displayName": "Red king arowana",
+          "displayName": "DT_InventoryItems.item_74001_name",
           "iconName": "Red_king_arowana_Sprite"
         }
       },
@@ -421,7 +377,7 @@
         "type": "item",
         "item": {
           "id": "item_75001",
-          "displayName": "Giant stingray",
+          "displayName": "DT_InventoryItems.item_75001_name",
           "iconName": "Giant_Stingray_Sprite"
         }
       },
@@ -429,7 +385,7 @@
         "type": "item",
         "item": {
           "id": "item_74003",
-          "displayName": "Yellow moray eel",
+          "displayName": "DT_InventoryItems.item_74003_name",
           "iconName": "Yellow_Moray_Eel_Sprite"
         }
       },
@@ -457,47 +413,13 @@
         "type": "item",
         "item": {
           "id": "item_41043",
-          "displayName": "Large mayonnaise",
+          "displayName": "DT_InventoryItems.item_41043_name",
           "iconName": "Large_Mayonnaise_Sprite"
         }
       },
       {
         "type": "category",
         "categoryName": "DinosourBones"
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_24002",
-          "displayName": "Tea leaf",
-          "iconName": "Tea_Leaf_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_23004",
-          "displayName": "Amaranth",
-          "iconName": "Amaranth_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_22010",
-          "displayName": "Okra",
-          "iconName": "Okra_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_21005",
-          "displayName": "Turnip",
-          "iconName": "Turnip_Sprite"
-        }
       }
     ]
   },
@@ -515,7 +437,7 @@
         "type": "item",
         "item": {
           "id": "item_80042",
-          "displayName": "Spring frittata",
+          "displayName": "DT_InventoryItems.item_80042_name",
           "iconName": "Spring_Frittata_Sprite"
         }
       },
@@ -523,15 +445,9 @@
         "type": "item",
         "item": {
           "id": "item_62003",
-          "displayName": "Silver kelp",
+          "displayName": "DT_InventoryItems.item_62003_name",
           "iconName": "Silver_Kelp_Sprite"
         }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "BottledKelps"
       }
     ]
   },
@@ -557,7 +473,7 @@
         "type": "item",
         "item": {
           "id": "item_80026",
-          "displayName": "Tomato soup",
+          "displayName": "DT_InventoryItems.item_80026_name",
           "iconName": "Tomato_Soup_Sprite"
         }
       },
@@ -565,7 +481,7 @@
         "type": "item",
         "item": {
           "id": "item_80048",
-          "displayName": "Hot cocoa",
+          "displayName": "DT_InventoryItems.item_80048_name",
           "iconName": "Hot_Cocoa_Sprite"
         }
       },
@@ -573,63 +489,9 @@
         "type": "item",
         "item": {
           "id": "item_80080",
-          "displayName": "Egg custard",
+          "displayName": "DT_InventoryItems.item_80080_name",
           "iconName": "Egg_Custard_Sprite"
         }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_51107",
-          "displayName": "Morel",
-          "iconName": "Morel_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_80067",
-          "displayName": "Donut",
-          "iconName": "Donut_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_80064",
-          "displayName": "Smoked salmon",
-          "iconName": "Smoked_Salmon_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_73005",
-          "displayName": "Sardine",
-          "iconName": "Sardines_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_41023",
-          "displayName": "Beer",
-          "iconName": "Beer_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_23013",
-          "displayName": "Sweet potato",
-          "iconName": "Sweet_Potato_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "Honey"
       }
     ]
   },
@@ -647,7 +509,7 @@
         "type": "item",
         "item": {
           "id": "item_23013",
-          "displayName": "Sweet potato",
+          "displayName": "DT_InventoryItems.item_23013_name",
           "iconName": "Sweet_Potato_Sprite"
         }
       },
@@ -655,7 +517,7 @@
         "type": "item",
         "item": {
           "id": "item_41025",
-          "displayName": "Sake",
+          "displayName": "DT_InventoryItems.item_41025_name",
           "iconName": "Sake_Sprite"
         }
       },
@@ -663,7 +525,7 @@
         "type": "item",
         "item": {
           "id": "item_21004",
-          "displayName": "Carrot",
+          "displayName": "DT_InventoryItems.item_21004_name",
           "iconName": "Carrot_Sprite"
         }
       },
@@ -671,7 +533,7 @@
         "type": "item",
         "item": {
           "id": "item_80036",
-          "displayName": "Roasted almonds",
+          "displayName": "DT_InventoryItems.item_80036_name",
           "iconName": "Roasted_Almonds_Sprite"
         }
       },
@@ -679,12 +541,11 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Ben",
@@ -704,7 +565,7 @@
         "type": "item",
         "item": {
           "id": "item_21021",
-          "displayName": "Banana",
+          "displayName": "DT_InventoryItems.item_21021_name",
           "iconName": "Banana_Sprite"
         }
       },
@@ -712,18 +573,8 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "Green tea",
+          "displayName": "DT_InventoryItems.item_41021_name",
           "iconName": "Green_Tea_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_80011",
-          "displayName": "Vegan taco",
-          "iconName": "Vegan_taco_Sprite"
         }
       }
     ]
@@ -742,7 +593,7 @@
         "type": "item",
         "item": {
           "id": "item_80046",
-          "displayName": "Chocolate chip muffins",
+          "displayName": "DT_InventoryItems.item_80046_name",
           "iconName": "Chocolate_chip_muffins_Sprite"
         }
       },
@@ -750,7 +601,7 @@
         "type": "item",
         "item": {
           "id": "item_21002",
-          "displayName": "Strawberry",
+          "displayName": "DT_InventoryItems.item_21002_name",
           "iconName": "Strawberry_Sprite"
         }
       },
@@ -758,7 +609,7 @@
         "type": "item",
         "item": {
           "id": "item_41020",
-          "displayName": "Gesha coffee",
+          "displayName": "DT_InventoryItems.item_41020_name",
           "iconName": "Gesha_coffee_Sprite"
         }
       },
@@ -766,7 +617,7 @@
         "type": "item",
         "item": {
           "id": "item_41052",
-          "displayName": "Large gesha coffee",
+          "displayName": "DT_InventoryItems.item_41052_name",
           "iconName": "Large_gesha_coffee_Sprite"
         }
       },
@@ -782,7 +633,7 @@
         "type": "item",
         "item": {
           "id": "item_52106",
-          "displayName": "White hibiscus",
+          "displayName": "DT_InventoryItems.item_52106_name",
           "iconName": "White_Hibiscus_Sprite"
         }
       },
@@ -790,50 +641,8 @@
         "type": "item",
         "item": {
           "id": "item_80034",
-          "displayName": "Eggplant lasagna",
+          "displayName": "DT_InventoryItems.item_80034_name",
           "iconName": "Eggplant_Lasagna_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_41019",
-          "displayName": "Coffee",
-          "iconName": "Coffee_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_41279",
-          "displayName": "Aged coffee",
-          "iconName": "Aged_coffee_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_52105",
-          "displayName": "Hibiscus",
-          "iconName": "Hibiscus_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_51101",
-          "displayName": "Bamboo shoot",
-          "iconName": "Bamboo_Shoot_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_21019",
-          "displayName": "Plum",
-          "iconName": "Plum_Sprite"
         }
       }
     ]
@@ -860,7 +669,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -868,7 +677,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "Coffee",
+          "displayName": "DT_InventoryItems.item_41019_name",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -876,27 +685,13 @@
         "type": "item",
         "item": {
           "id": "item_80018",
-          "displayName": "Banana fritter",
+          "displayName": "DT_InventoryItems.item_80018_name",
           "iconName": "Banana_Fritter_Sprite"
         }
       },
       {
         "type": "category",
         "categoryName": "Driedsnack"
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
       }
     ]
   },
@@ -926,7 +721,7 @@
         "type": "item",
         "item": {
           "id": "item_61025",
-          "displayName": "Rose quartz",
+          "displayName": "DT_InventoryItems.item_61025_name",
           "iconName": "Rose_Quartz_Sprite"
         }
       },
@@ -934,7 +729,7 @@
         "type": "item",
         "item": {
           "id": "item_61026",
-          "displayName": "Blue quartz",
+          "displayName": "DT_InventoryItems.item_61026_name",
           "iconName": "blue_quartz_Sprite"
         }
       },
@@ -942,7 +737,7 @@
         "type": "item",
         "item": {
           "id": "item_80014",
-          "displayName": "Fruit tart",
+          "displayName": "DT_InventoryItems.item_80014_name",
           "iconName": "Fruit_Tart_Sprite"
         }
       },
@@ -954,8 +749,7 @@
           "iconName": "Guacamole_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Pablo",
@@ -971,7 +765,7 @@
         "type": "item",
         "item": {
           "id": "item_80025",
-          "displayName": "Pumpkin pie",
+          "displayName": "DT_InventoryItems.item_80025_name",
           "iconName": "Pumpkin_Pie_Sprite"
         }
       },
@@ -979,7 +773,7 @@
         "type": "item",
         "item": {
           "id": "item_80052",
-          "displayName": "Sweet potato poutine",
+          "displayName": "DT_InventoryItems.item_80052_name",
           "iconName": "Sweet_Potato_Poutine_Sprite"
         }
       },
@@ -987,7 +781,7 @@
         "type": "item",
         "item": {
           "id": "item_80037",
-          "displayName": "Cauliflower casserole",
+          "displayName": "DT_InventoryItems.item_80037_name",
           "iconName": "Cauliflower_Casserole_Sprite"
         }
       },
@@ -995,7 +789,7 @@
         "type": "item",
         "item": {
           "id": "item_80040",
-          "displayName": "Fried rice",
+          "displayName": "DT_InventoryItems.item_80040_name",
           "iconName": "Fried_Rice_Sprite"
         }
       },
@@ -1011,8 +805,7 @@
           "iconName": "Pizza_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Valentina",
@@ -1028,7 +821,7 @@
         "type": "item",
         "item": {
           "id": "item_80006",
-          "displayName": "Basil pesto pasta",
+          "displayName": "DT_InventoryItems.item_80006_name",
           "iconName": "Basil_Pesto_Pasta_Sprite"
         }
       },
@@ -1036,7 +829,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "Fish taco",
+          "displayName": "DT_InventoryItems.item_80010_name",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -1044,7 +837,7 @@
         "type": "item",
         "item": {
           "id": "item_80025",
-          "displayName": "Pumpkin pie",
+          "displayName": "DT_InventoryItems.item_80025_name",
           "iconName": "Pumpkin_Pie_Sprite"
         }
       },
@@ -1052,7 +845,7 @@
         "type": "item",
         "item": {
           "id": "item_22013",
-          "displayName": "Starfruit",
+          "displayName": "DT_InventoryItems.item_22013_name",
           "iconName": "Starfruit_Sprite"
         }
       },
@@ -1060,7 +853,7 @@
         "type": "item",
         "item": {
           "id": "item_80050",
-          "displayName": "Red curry",
+          "displayName": "DT_InventoryItems.item_80050_name",
           "iconName": "Red_Curry_Sprite"
         }
       },
@@ -1068,7 +861,7 @@
         "type": "item",
         "item": {
           "id": "item_80051",
-          "displayName": "Green curry",
+          "displayName": "DT_InventoryItems.item_80051_name",
           "iconName": "Green_Curry_Sprite"
         }
       },
@@ -1076,12 +869,11 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Wataru",
@@ -1105,7 +897,7 @@
         "type": "item",
         "item": {
           "id": "item_71002",
-          "displayName": "Catfish",
+          "displayName": "DT_InventoryItems.item_71002_name",
           "iconName": "Catfish_Sprite"
         }
       },
@@ -1113,7 +905,7 @@
         "type": "item",
         "item": {
           "id": "item_71007",
-          "displayName": "Black phantom ghost fish",
+          "displayName": "DT_InventoryItems.item_71007_name",
           "iconName": "Black_Phantom_Ghost_Fish_Sprite"
         }
       },
@@ -1121,7 +913,7 @@
         "type": "item",
         "item": {
           "id": "item_71010",
-          "displayName": "Rainbow fish",
+          "displayName": "DT_InventoryItems.item_71010_name",
           "iconName": "Rainbow_Fish_Sprite"
         }
       },
@@ -1129,7 +921,7 @@
         "type": "item",
         "item": {
           "id": "item_72004",
-          "displayName": "Pufferfish",
+          "displayName": "DT_InventoryItems.item_72004_name",
           "iconName": "Pufferfish_Sprite"
         }
       },
@@ -1137,50 +929,8 @@
         "type": "item",
         "item": {
           "id": "item_72020",
-          "displayName": "Angelfish",
+          "displayName": "DT_InventoryItems.item_72020_name",
           "iconName": "Angelfish_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_71021",
-          "displayName": "Brown trout",
-          "iconName": "Brown_trout_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_71018",
-          "displayName": "Zebra fish",
-          "iconName": "Zebra_Fish_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72005",
-          "displayName": "Pink snapper",
-          "iconName": "Pink_Snapper_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72026",
-          "displayName": "Mackerel",
-          "iconName": "Mackerel_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72030",
-          "displayName": "Salmon",
-          "iconName": "Salmon_Sprite"
         }
       }
     ]
@@ -1199,7 +949,7 @@
         "type": "item",
         "item": {
           "id": "item_80013",
-          "displayName": "Pineapple upside-down cake",
+          "displayName": "DT_InventoryItems.item_80013_name",
           "iconName": "Pineapple_upside-down_cake_Sprite"
         }
       },
@@ -1207,7 +957,7 @@
         "type": "item",
         "item": {
           "id": "item_23008",
-          "displayName": "Bok choy",
+          "displayName": "DT_InventoryItems.item_23008_name",
           "iconName": "Bok_Choy_Sprite"
         }
       },
@@ -1215,7 +965,7 @@
         "type": "item",
         "item": {
           "id": "item_41025",
-          "displayName": "Sake",
+          "displayName": "DT_InventoryItems.item_41025_name",
           "iconName": "Sake_Sprite"
         }
       },
@@ -1223,7 +973,7 @@
         "type": "item",
         "item": {
           "id": "item_41174",
-          "displayName": "White truffle oil",
+          "displayName": "DT_InventoryItems.item_41174_name",
           "iconName": "White_truffle_oil_Sprite"
         }
       },
@@ -1231,12 +981,11 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Sam",
@@ -1252,7 +1001,7 @@
         "type": "item",
         "item": {
           "id": "item_22001",
-          "displayName": "Blueberry",
+          "displayName": "DT_InventoryItems.item_22001_name",
           "iconName": "Blueberry_Sprite"
         }
       },
@@ -1260,7 +1009,7 @@
         "type": "item",
         "item": {
           "id": "item_80014",
-          "displayName": "Fruit tart",
+          "displayName": "DT_InventoryItems.item_80014_name",
           "iconName": "Fruit_Tart_Sprite"
         }
       },
@@ -1268,7 +1017,7 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "Fruit juice",
+          "displayName": "DT_InventoryItems.item_80075_name",
           "iconName": "Fruit_Juice_Sprite"
         }
       },
@@ -1276,7 +1025,7 @@
         "type": "item",
         "item": {
           "id": "item_31001",
-          "displayName": "Black truffle",
+          "displayName": "DT_InventoryItems.item_31001_name",
           "iconName": "Black_Truffle_Sprite"
         }
       },
@@ -1284,7 +1033,7 @@
         "type": "item",
         "item": {
           "id": "item_31020",
-          "displayName": "White truffle",
+          "displayName": "DT_InventoryItems.item_31020_name",
           "iconName": "White_Truffle_Sprite"
         }
       },
@@ -1292,7 +1041,7 @@
         "type": "item",
         "item": {
           "id": "item_22021",
-          "displayName": "Jackfruit",
+          "displayName": "DT_InventoryItems.item_22021_name",
           "iconName": "Jackfruit_Sprite"
         }
       },
@@ -1300,12 +1049,11 @@
         "type": "item",
         "item": {
           "id": "item_23015",
-          "displayName": "Cactus",
+          "displayName": "DT_InventoryItems.item_23015_name",
           "iconName": "Cactus_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Agung",
@@ -1329,7 +1077,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1337,7 +1085,7 @@
         "type": "item",
         "item": {
           "id": "item_31027",
-          "displayName": "Mermoo milk",
+          "displayName": "DT_InventoryItems.item_31027_name",
           "iconName": "Mermoo_milk_Sprite"
         }
       },
@@ -1345,7 +1093,7 @@
         "type": "item",
         "item": {
           "id": "item_31028",
-          "displayName": "Large mermoo milk",
+          "displayName": "DT_InventoryItems.item_31028_name",
           "iconName": "Large_mermoo_milk_Sprite"
         }
       },
@@ -1353,38 +1101,8 @@
         "type": "item",
         "item": {
           "id": "item_80056",
-          "displayName": "Summer burger",
+          "displayName": "DT_InventoryItems.item_80056_name",
           "iconName": "Summer_Burger_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "Fish"
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterFruit"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_80092",
-          "displayName": "Kuelapis",
-          "iconName": "Kue_Lapis_Sprite"
         }
       }
     ]
@@ -1411,7 +1129,7 @@
         "type": "item",
         "item": {
           "id": "item_80126",
-          "displayName": "Nasi laut",
+          "displayName": "DT_InventoryItems.item_80126_name",
           "iconName": "Nasi_laut_Sprite"
         }
       },
@@ -1427,7 +1145,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1435,7 +1153,7 @@
         "type": "item",
         "item": {
           "id": "item_21084",
-          "displayName": "Petalia",
+          "displayName": "DT_InventoryItems.item_21084_name",
           "iconName": "Petalia_Sprite"
         }
       },
@@ -1443,7 +1161,7 @@
         "type": "item",
         "item": {
           "id": "item_21074",
-          "displayName": "Spring sealeaf",
+          "displayName": "DT_InventoryItems.item_21074_name",
           "iconName": "Spring_Sealeaf_Sprite"
         }
       },
@@ -1455,53 +1173,11 @@
         "type": "category",
         "categoryName": "Honey"
       }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "Artifact"
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterFruit"
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterFlower"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_50347",
-          "displayName": "Heart urchin",
-          "iconName": "Heart_Urchin_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_71006",
-          "displayName": "Koi",
-          "iconName": "Koi_Sprite"
-        }
-      }
     ]
   },
   {
     "npcKey": "KingKrakatoa",
-    "characterName": "King Krakatoa",
+    "characterName": "KingKrakatoa",
     "iconName": "Icon_king_krakatoa",
     "birthday": {
       "day": 11,
@@ -1521,7 +1197,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1533,50 +1209,8 @@
         "type": "item",
         "item": {
           "id": "item_50498",
-          "displayName": "Dragon’s trisula",
+          "displayName": "DT_InventoryItems.item_50498_name",
           "iconName": "Dragons_trisula_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_52107",
-          "displayName": "Coconut",
-          "iconName": "coconut_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_80081",
-          "displayName": "Whole coconut drink",
-          "iconName": "Whole_Coconut_Drink_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterFruit"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_50344",
-          "displayName": "King scallop",
-          "iconName": "King_Scallop_Sprite"
         }
       }
     ]
@@ -1595,7 +1229,7 @@
         "type": "item",
         "item": {
           "id": "item_23011",
-          "displayName": "Pumpkin",
+          "displayName": "DT_InventoryItems.item_23011_name",
           "iconName": "Pumpkin_Sprite"
         }
       },
@@ -1603,7 +1237,7 @@
         "type": "item",
         "item": {
           "id": "item_80048",
-          "displayName": "Hot cocoa",
+          "displayName": "DT_InventoryItems.item_80048_name",
           "iconName": "Hot_Cocoa_Sprite"
         }
       },
@@ -1611,7 +1245,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "Coffee",
+          "displayName": "DT_InventoryItems.item_41019_name",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -1619,7 +1253,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "Fish taco",
+          "displayName": "DT_InventoryItems.item_80010_name",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -1627,7 +1261,7 @@
         "type": "item",
         "item": {
           "id": "item_80011",
-          "displayName": "Vegan taco",
+          "displayName": "DT_InventoryItems.item_80011_name",
           "iconName": "Vegan_taco_Sprite"
         }
       },
@@ -1635,7 +1269,7 @@
         "type": "item",
         "item": {
           "id": "item_80013",
-          "displayName": "Pineapple upside-down cake",
+          "displayName": "DT_InventoryItems.item_80013_name",
           "iconName": "Pineapple_upside-down_cake_Sprite"
         }
       },
@@ -1647,7 +1281,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "Green tea",
+          "displayName": "DT_InventoryItems.item_41021_name",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -1655,12 +1289,11 @@
         "type": "item",
         "item": {
           "id": "item_42002",
-          "displayName": "Cotton cloth",
+          "displayName": "DT_InventoryItems.item_42002_name",
           "iconName": "Cotton_cloth_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Eva",
@@ -1676,7 +1309,7 @@
         "type": "item",
         "item": {
           "id": "item_80005",
-          "displayName": "Cookies",
+          "displayName": "DT_InventoryItems.item_80005_name",
           "iconName": "Cookies_Sprite"
         }
       },
@@ -1684,7 +1317,7 @@
         "type": "item",
         "item": {
           "id": "item_80004",
-          "displayName": "Red velvet cake",
+          "displayName": "DT_InventoryItems.item_80004_name",
           "iconName": "Red_velvet_cake_Sprite"
         }
       },
@@ -1692,7 +1325,7 @@
         "type": "item",
         "item": {
           "id": "item_21013",
-          "displayName": "Peony",
+          "displayName": "DT_InventoryItems.item_21013_name",
           "iconName": "Peony_Sprite"
         }
       },
@@ -1700,7 +1333,7 @@
         "type": "item",
         "item": {
           "id": "item_23016",
-          "displayName": "Orchid",
+          "displayName": "DT_InventoryItems.item_23016_name",
           "iconName": "Orchid_Sprite"
         }
       },
@@ -1708,7 +1341,7 @@
         "type": "item",
         "item": {
           "id": "item_61015",
-          "displayName": "Diamond",
+          "displayName": "DT_InventoryItems.item_61015_name",
           "iconName": "Diamond_Sprite"
         }
       },
@@ -1716,66 +1349,8 @@
         "type": "item",
         "item": {
           "id": "item_80127",
-          "displayName": "Eva's kue lapis",
+          "displayName": "DT_InventoryItems.item_80127_name",
           "iconName": "Eva_s_kue_lapis_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_21005",
-          "displayName": "Turnip",
-          "iconName": "Turnip_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_21009",
-          "displayName": "Cucumber",
-          "iconName": "Cucumber_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_23005",
-          "displayName": "Artichoke",
-          "iconName": "Artichoke_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_22002",
-          "displayName": "Hot pepper",
-          "iconName": "Hot_Pepper_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_22005",
-          "displayName": "Tomato",
-          "iconName": "Tomato_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_22008",
-          "displayName": "Bell pepper",
-          "iconName": "Bell_pepper_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_23011",
-          "displayName": "Pumpkin",
-          "iconName": "Pumpkin_Sprite"
         }
       }
     ]
@@ -1802,7 +1377,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -1814,34 +1389,8 @@
         "type": "item",
         "item": {
           "id": "item_21071",
-          "displayName": "Sproutfruit",
+          "displayName": "DT_InventoryItems.item_21071_name",
           "iconName": "Sproutfruit_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "category",
-        "categoryName": "Mushrooms"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_21081",
-          "displayName": "Marinethorn blossom",
-          "iconName": "Marinethorn_Blossom_Sprite"
         }
       }
     ]
@@ -1868,7 +1417,7 @@
         "type": "item",
         "item": {
           "id": "item_80033",
-          "displayName": "Sunny-side-up eggs",
+          "displayName": "DT_InventoryItems.item_80033_name",
           "iconName": "Sunny-side-up_eggs_Sprite"
         }
       },
@@ -1876,7 +1425,7 @@
         "type": "item",
         "item": {
           "id": "item_22002",
-          "displayName": "Hot pepper",
+          "displayName": "DT_InventoryItems.item_22002_name",
           "iconName": "Hot_Pepper_Sprite"
         }
       },
@@ -1884,7 +1433,7 @@
         "type": "item",
         "item": {
           "id": "item_22008",
-          "displayName": "Bell pepper",
+          "displayName": "DT_InventoryItems.item_22008_name",
           "iconName": "Bell_pepper_Sprite"
         }
       },
@@ -1892,7 +1441,7 @@
         "type": "item",
         "item": {
           "id": "item_80019",
-          "displayName": "Pancakes",
+          "displayName": "DT_InventoryItems.item_80019_name",
           "iconName": "Pancakes_Sprite"
         }
       },
@@ -1900,7 +1449,7 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "Fruit juice",
+          "displayName": "DT_InventoryItems.item_80075_name",
           "iconName": "Fruit_Juice_Sprite"
         }
       },
@@ -1908,12 +1457,11 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Zarah",
@@ -1945,7 +1493,7 @@
         "type": "item",
         "item": {
           "id": "item_61028",
-          "displayName": "Azurite",
+          "displayName": "DT_InventoryItems.item_61028_name",
           "iconName": "Azurite_Sprite"
         }
       },
@@ -1953,7 +1501,7 @@
         "type": "item",
         "item": {
           "id": "item_61029",
-          "displayName": "Serpentine",
+          "displayName": "DT_InventoryItems.item_61029_name",
           "iconName": "Serpentine_Sprite"
         }
       },
@@ -1961,12 +1509,11 @@
         "type": "item",
         "item": {
           "id": "item_80058",
-          "displayName": "Grilled fish",
+          "displayName": "DT_InventoryItems.item_80058_name",
           "iconName": "Grilled_Fish_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Dinda",
@@ -1982,7 +1529,7 @@
         "type": "item",
         "item": {
           "id": "item_80054",
-          "displayName": "Fresh salad",
+          "displayName": "DT_InventoryItems.item_80054_name",
           "iconName": "Fresh_salad_Sprite"
         }
       },
@@ -1990,7 +1537,7 @@
         "type": "item",
         "item": {
           "id": "item_22004",
-          "displayName": "Melon",
+          "displayName": "DT_InventoryItems.item_22004_name",
           "iconName": "Melon_Sprite"
         }
       },
@@ -1998,7 +1545,7 @@
         "type": "item",
         "item": {
           "id": "item_80065",
-          "displayName": "Flower bouquet",
+          "displayName": "DT_InventoryItems.item_80065_name",
           "iconName": "Flower_Bouquet_Sprite"
         }
       },
@@ -2006,12 +1553,11 @@
         "type": "item",
         "item": {
           "id": "item_50301",
-          "displayName": "Pearl",
+          "displayName": "DT_InventoryItems.item_50301_name",
           "iconName": "Pearl_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Anne",
@@ -2035,7 +1581,7 @@
         "type": "item",
         "item": {
           "id": "item_80043",
-          "displayName": "Artichoke kimchi",
+          "displayName": "DT_InventoryItems.item_80043_name",
           "iconName": "Kimchi_Sprite"
         }
       },
@@ -2043,7 +1589,7 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "Fruit juice",
+          "displayName": "DT_InventoryItems.item_80075_name",
           "iconName": "Fruit_Juice_Sprite"
         }
       },
@@ -2051,7 +1597,7 @@
         "type": "item",
         "item": {
           "id": "item_22015",
-          "displayName": "Sunflower",
+          "displayName": "DT_InventoryItems.item_22015_name",
           "iconName": "Sunflower_Sprite"
         }
       },
@@ -2059,7 +1605,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "Green tea",
+          "displayName": "DT_InventoryItems.item_41021_name",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -2067,7 +1613,7 @@
         "type": "item",
         "item": {
           "id": "item_21004",
-          "displayName": "Carrot",
+          "displayName": "DT_InventoryItems.item_21004_name",
           "iconName": "Carrot_Sprite"
         }
       },
@@ -2075,7 +1621,7 @@
         "type": "item",
         "item": {
           "id": "item_80069",
-          "displayName": "Fried tempeh",
+          "displayName": "DT_InventoryItems.item_80069_name",
           "iconName": "Fried_tempeh_Sprite"
         }
       },
@@ -2083,12 +1629,11 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Leah",
@@ -2104,7 +1649,7 @@
         "type": "item",
         "item": {
           "id": "item_50301",
-          "displayName": "Pearl",
+          "displayName": "DT_InventoryItems.item_50301_name",
           "iconName": "Pearl_Sprite"
         }
       },
@@ -2112,7 +1657,7 @@
         "type": "item",
         "item": {
           "id": "item_80048",
-          "displayName": "Hot cocoa",
+          "displayName": "DT_InventoryItems.item_80048_name",
           "iconName": "Hot_Cocoa_Sprite"
         }
       },
@@ -2128,7 +1673,7 @@
         "type": "item",
         "item": {
           "id": "item_61044",
-          "displayName": "Silver bar",
+          "displayName": "DT_InventoryItems.item_61044_name",
           "iconName": "Silver_Bar_Sprite"
         }
       },
@@ -2136,34 +1681,8 @@
         "type": "item",
         "item": {
           "id": "item_61008",
-          "displayName": "Osmium bar",
+          "displayName": "DT_InventoryItems.item_61008_name",
           "iconName": "Osmium_Bar_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_21011",
-          "displayName": "Lettuce",
-          "iconName": "Lettuce_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_22005",
-          "displayName": "Tomato",
-          "iconName": "Tomato_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_23006",
-          "displayName": "Beet",
-          "iconName": "Beet_Sprite"
         }
       }
     ]
@@ -2182,7 +1701,7 @@
         "type": "item",
         "item": {
           "id": "item_72001",
-          "displayName": "Frogfish",
+          "displayName": "DT_InventoryItems.item_72001_name",
           "iconName": "Frogfish_Sprite"
         }
       },
@@ -2190,7 +1709,7 @@
         "type": "item",
         "item": {
           "id": "item_72015",
-          "displayName": "Lobster",
+          "displayName": "DT_InventoryItems.item_72015_name",
           "iconName": "Lobster_Sprite"
         }
       },
@@ -2198,7 +1717,7 @@
         "type": "item",
         "item": {
           "id": "item_80046",
-          "displayName": "Chocolate chip muffins",
+          "displayName": "DT_InventoryItems.item_80046_name",
           "iconName": "Chocolate_chip_muffins_Sprite"
         }
       },
@@ -2206,7 +1725,7 @@
         "type": "item",
         "item": {
           "id": "item_80073",
-          "displayName": "Fish sandwich",
+          "displayName": "DT_InventoryItems.item_80073_name",
           "iconName": "Fish_Sandwich_Sprite"
         }
       },
@@ -2214,7 +1733,7 @@
         "type": "item",
         "item": {
           "id": "item_80049",
-          "displayName": "Spicy sauerkraut",
+          "displayName": "DT_InventoryItems.item_80049_name",
           "iconName": "Spicy_Sauerkraut_Sprite"
         }
       },
@@ -2222,7 +1741,7 @@
         "type": "item",
         "item": {
           "id": "item_80051",
-          "displayName": "Green curry",
+          "displayName": "DT_InventoryItems.item_80051_name",
           "iconName": "Green_Curry_Sprite"
         }
       },
@@ -2230,12 +1749,11 @@
         "type": "item",
         "item": {
           "id": "item_80050",
-          "displayName": "Red curry",
+          "displayName": "DT_InventoryItems.item_80050_name",
           "iconName": "Red_Curry_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Rafael",
@@ -2267,12 +1785,11 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "Fruit juice",
+          "displayName": "DT_InventoryItems.item_80075_name",
           "iconName": "Fruit_Juice_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Eleanor",
@@ -2288,7 +1805,7 @@
         "type": "item",
         "item": {
           "id": "item_134006",
-          "displayName": "Spicebush swallowtail butterfly",
+          "displayName": "DT_InventoryItems.item_134006_name",
           "iconName": "Spicebush_Swallowtail_Butterfly_Sprite"
         }
       },
@@ -2296,7 +1813,7 @@
         "type": "item",
         "item": {
           "id": "item_134007",
-          "displayName": "Birdwing butterfly",
+          "displayName": "DT_InventoryItems.item_134007_name",
           "iconName": "Birdwing_Butterfly_Sprite"
         }
       },
@@ -2304,7 +1821,7 @@
         "type": "item",
         "item": {
           "id": "item_131008",
-          "displayName": "Pipevine swallowtail butterfly",
+          "displayName": "DT_InventoryItems.item_131008_name",
           "iconName": "Pipevine_Swallowtail_Butterfly_Sprite"
         }
       },
@@ -2312,7 +1829,7 @@
         "type": "item",
         "item": {
           "id": "item_131006",
-          "displayName": "Firefly",
+          "displayName": "DT_InventoryItems.item_131006_name",
           "iconName": "Firefly_Sprite"
         }
       },
@@ -2320,7 +1837,7 @@
         "type": "item",
         "item": {
           "id": "item_132002",
-          "displayName": "Puss moth",
+          "displayName": "DT_InventoryItems.item_132002_name",
           "iconName": "Puss_Moth_Sprite"
         }
       },
@@ -2328,7 +1845,7 @@
         "type": "item",
         "item": {
           "id": "item_21020",
-          "displayName": "Lychee",
+          "displayName": "DT_InventoryItems.item_21020_name",
           "iconName": "Lychee_Sprite"
         }
       },
@@ -2336,25 +1853,15 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "Green tea",
+          "displayName": "DT_InventoryItems.item_41021_name",
           "iconName": "Green_Tea_Sprite"
         }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "Bugs"
-      },
-      {
-        "type": "category",
-        "categoryName": "Fish"
       }
     ]
   },
   {
     "npcKey": "ChoOyu",
-    "characterName": "Cho Oyu",
+    "characterName": "ChoOyu",
     "iconName": "Icon_oracle_chooyu",
     "birthday": {
       "day": 5,
@@ -2374,7 +1881,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -2382,7 +1889,7 @@
         "type": "item",
         "item": {
           "id": "item_41172",
-          "displayName": "Rafflesia black honey",
+          "displayName": "DT_InventoryItems.item_41172_name",
           "iconName": "Black_Honey_Sprite"
         }
       },
@@ -2390,7 +1897,7 @@
         "type": "item",
         "item": {
           "id": "item_41169",
-          "displayName": "Titan arum black honey",
+          "displayName": "DT_InventoryItems.item_41169_name",
           "iconName": "Black_Honey_Sprite"
         }
       },
@@ -2398,7 +1905,7 @@
         "type": "item",
         "item": {
           "id": "item_62004",
-          "displayName": "Osmium kelp",
+          "displayName": "DT_InventoryItems.item_62004_name",
           "iconName": "Osmium_Kelp_Sprite"
         }
       },
@@ -2406,39 +1913,9 @@
         "type": "item",
         "item": {
           "id": "item_100011",
-          "displayName": "Warp sesajen",
+          "displayName": "DT_InventoryItems.item_100011_name",
           "iconName": "Warp_sesajen_Sprite"
         }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "Fish"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_61018",
-          "displayName": "Moonstone",
-          "iconName": "Moonstone_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "OceanCritters"
       }
     ]
   },
@@ -2472,7 +1949,7 @@
         "type": "item",
         "item": {
           "id": "item_80015",
-          "displayName": "Seafood ramen",
+          "displayName": "DT_InventoryItems.item_80015_name",
           "iconName": "Seafood_Ramen_Sprite"
         }
       },
@@ -2492,8 +1969,7 @@
           "iconName": "Shiitake_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Chaem",
@@ -2517,7 +1993,7 @@
         "type": "item",
         "item": {
           "id": "item_80015",
-          "displayName": "Seafood ramen",
+          "displayName": "DT_InventoryItems.item_80015_name",
           "iconName": "Seafood_Ramen_Sprite"
         }
       },
@@ -2525,7 +2001,7 @@
         "type": "item",
         "item": {
           "id": "item_80016",
-          "displayName": "Veggie ramen",
+          "displayName": "DT_InventoryItems.item_80016_name",
           "iconName": "Veggie_Ramen_Sprite"
         }
       },
@@ -2533,7 +2009,7 @@
         "type": "item",
         "item": {
           "id": "item_80006",
-          "displayName": "Basil pesto pasta",
+          "displayName": "DT_InventoryItems.item_80006_name",
           "iconName": "Basil_Pesto_Pasta_Sprite"
         }
       },
@@ -2545,12 +2021,11 @@
           "iconName": "Gnocchi_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "PrincessMiranjani",
-    "characterName": "Princes Miranjani",
+    "characterName": "PrincesMiranjani",
     "iconName": "Icon_princess_miranjani",
     "birthday": {
       "day": 10,
@@ -2574,7 +2049,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -2582,7 +2057,7 @@
         "type": "item",
         "item": {
           "id": "item_65008",
-          "displayName": "Ordinary scarecrow",
+          "displayName": "DT_InventoryItems.item_65008_name",
           "iconName": "Ordinary_scarecrow_Sprite"
         }
       },
@@ -2590,7 +2065,7 @@
         "type": "item",
         "item": {
           "id": "item_80099",
-          "displayName": "Spider tempura",
+          "displayName": "DT_InventoryItems.item_80099_name",
           "iconName": "Spider_Tempura_Sprite"
         }
       },
@@ -2598,7 +2073,7 @@
         "type": "item",
         "item": {
           "id": "item_41020",
-          "displayName": "Gesha coffee",
+          "displayName": "DT_InventoryItems.item_41020_name",
           "iconName": "Gesha_coffee_Sprite"
         }
       },
@@ -2606,7 +2081,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "Coffee",
+          "displayName": "DT_InventoryItems.item_41019_name",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -2614,7 +2089,7 @@
         "type": "item",
         "item": {
           "id": "item_50433",
-          "displayName": "Ancient compass",
+          "displayName": "DT_InventoryItems.item_50433_name",
           "iconName": "Ancient_Compass_Sprite"
         }
       },
@@ -2630,49 +2105,11 @@
         "type": "category",
         "categoryName": "Vegetables"
       }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "Fish"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "category",
-        "categoryName": "Artifact"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_41021",
-          "displayName": "Green tea",
-          "iconName": "Green_Tea_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_50506",
-          "displayName": "Slime goop",
-          "iconName": "Slime_goop_Sprite"
-        }
-      }
     ]
   },
   {
     "npcKey": "QueenNandaDevi",
-    "characterName": "Queen  Nanda  Devi",
+    "characterName": "6562D4D84C596ED0740E6592133B67E7",
     "iconName": "Icon_queen_nanda_devi",
     "birthday": {
       "day": 10,
@@ -2692,7 +2129,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -2700,7 +2137,7 @@
         "type": "item",
         "item": {
           "id": "item_32015",
-          "displayName": "Large feather",
+          "displayName": "DT_InventoryItems.item_32015_name",
           "iconName": "Large_feather_Sprite"
         }
       },
@@ -2716,38 +2153,8 @@
         "type": "item",
         "item": {
           "id": "item_80003",
-          "displayName": "Mooncake",
+          "displayName": "DT_InventoryItems.item_80003_name",
           "iconName": "Mooncake_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62006",
-          "displayName": "Gold kelp essence",
-          "iconName": "Gold_Kelp_Essence_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_31031",
-          "displayName": "White pearl",
-          "iconName": "Pearl_Sprite"
         }
       }
     ]
@@ -2766,7 +2173,7 @@
         "type": "item",
         "item": {
           "id": "item_74001",
-          "displayName": "Red king arowana",
+          "displayName": "DT_InventoryItems.item_74001_name",
           "iconName": "Red_king_arowana_Sprite"
         }
       },
@@ -2774,7 +2181,7 @@
         "type": "item",
         "item": {
           "id": "item_74003",
-          "displayName": "Yellow moray eel",
+          "displayName": "DT_InventoryItems.item_74003_name",
           "iconName": "Yellow_Moray_Eel_Sprite"
         }
       },
@@ -2782,7 +2189,7 @@
         "type": "item",
         "item": {
           "id": "item_75002",
-          "displayName": "Green sawfish",
+          "displayName": "DT_InventoryItems.item_75002_name",
           "iconName": "Green_Sawfish_Sprite"
         }
       },
@@ -2790,7 +2197,7 @@
         "type": "item",
         "item": {
           "id": "item_75001",
-          "displayName": "Giant stingray",
+          "displayName": "DT_InventoryItems.item_75001_name",
           "iconName": "Giant_Stingray_Sprite"
         }
       },
@@ -2798,7 +2205,7 @@
         "type": "item",
         "item": {
           "id": "item_74002",
-          "displayName": "Monkfish",
+          "displayName": "DT_InventoryItems.item_74002_name",
           "iconName": "Monkfish_Sprite"
         }
       },
@@ -2806,7 +2213,7 @@
         "type": "item",
         "item": {
           "id": "item_72008",
-          "displayName": "Octopus",
+          "displayName": "DT_InventoryItems.item_72008_name",
           "iconName": "Octopus_Sprite"
         }
       },
@@ -2814,7 +2221,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "Fish taco",
+          "displayName": "DT_InventoryItems.item_80010_name",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -2822,7 +2229,7 @@
         "type": "item",
         "item": {
           "id": "item_80081",
-          "displayName": "Whole coconut drink",
+          "displayName": "DT_InventoryItems.item_80081_name",
           "iconName": "Whole_Coconut_Drink_Sprite"
         }
       },
@@ -2834,12 +2241,11 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "Fruit juice",
+          "displayName": "DT_InventoryItems.item_80075_name",
           "iconName": "Fruit_Juice_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Bree",
@@ -2855,7 +2261,7 @@
         "type": "item",
         "item": {
           "id": "item_22021",
-          "displayName": "Jackfruit",
+          "displayName": "DT_InventoryItems.item_22021_name",
           "iconName": "Jackfruit_Sprite"
         }
       },
@@ -2863,7 +2269,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "Fish taco",
+          "displayName": "DT_InventoryItems.item_80010_name",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -2871,7 +2277,7 @@
         "type": "item",
         "item": {
           "id": "item_80011",
-          "displayName": "Vegan taco",
+          "displayName": "DT_InventoryItems.item_80011_name",
           "iconName": "Vegan_taco_Sprite"
         }
       },
@@ -2883,23 +2289,9 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_23003",
-          "displayName": "Basil",
-          "iconName": "Basil_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "Fish"
       }
     ]
   },
@@ -2917,7 +2309,7 @@
         "type": "item",
         "item": {
           "id": "item_80027",
-          "displayName": "Butter croissant",
+          "displayName": "DT_InventoryItems.item_80027_name",
           "iconName": "Butter_Croissant_Sprite"
         }
       },
@@ -2925,7 +2317,7 @@
         "type": "item",
         "item": {
           "id": "item_80026",
-          "displayName": "Tomato soup",
+          "displayName": "DT_InventoryItems.item_80026_name",
           "iconName": "Tomato_Soup_Sprite"
         }
       },
@@ -2933,7 +2325,7 @@
         "type": "item",
         "item": {
           "id": "item_80028",
-          "displayName": "Stew",
+          "displayName": "DT_InventoryItems.item_80028_name",
           "iconName": "Stew_Sprite"
         }
       },
@@ -2953,12 +2345,11 @@
         "type": "item",
         "item": {
           "id": "item_80034",
-          "displayName": "Eggplant lasagna",
+          "displayName": "DT_InventoryItems.item_80034_name",
           "iconName": "Eggplant_Lasagna_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Randy",
@@ -2974,7 +2365,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "Coffee",
+          "displayName": "DT_InventoryItems.item_41019_name",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -2986,7 +2377,7 @@
         "type": "item",
         "item": {
           "id": "item_23017",
-          "displayName": "Apple",
+          "displayName": "DT_InventoryItems.item_23017_name",
           "iconName": "Apple_Sprite"
         }
       },
@@ -2994,12 +2385,11 @@
         "type": "item",
         "item": {
           "id": "item_72015",
-          "displayName": "Lobster",
+          "displayName": "DT_InventoryItems.item_72015_name",
           "iconName": "Lobster_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Rysy",
@@ -3023,7 +2413,7 @@
         "type": "item",
         "item": {
           "id": "item_61039",
-          "displayName": "Black opal",
+          "displayName": "DT_InventoryItems.item_61039_name",
           "iconName": "Black_Opal_Sprite"
         }
       },
@@ -3031,7 +2421,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -3041,40 +2431,6 @@
           "id": "item_61019",
           "displayName": "Onyx",
           "iconName": "Onyx_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "Mushrooms"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_31029",
-          "displayName": "Deepvoid ink",
-          "iconName": "Deepvoid_ink_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_31030",
-          "displayName": "Large deepvoid ink",
-          "iconName": "Large_deepvoid_ink_Sprite"
         }
       }
     ]
@@ -3093,7 +2449,7 @@
         "type": "item",
         "item": {
           "id": "item_80023",
-          "displayName": "Hawaiian pizza",
+          "displayName": "DT_InventoryItems.item_80023_name",
           "iconName": "Hawaiian_Pizza_Sprite"
         }
       },
@@ -3101,7 +2457,7 @@
         "type": "item",
         "item": {
           "id": "item_21003",
-          "displayName": "Radish",
+          "displayName": "DT_InventoryItems.item_21003_name",
           "iconName": "Radish_Sprite"
         }
       },
@@ -3109,7 +2465,7 @@
         "type": "item",
         "item": {
           "id": "item_23006",
-          "displayName": "Beet",
+          "displayName": "DT_InventoryItems.item_23006_name",
           "iconName": "Beet_Sprite"
         }
       },
@@ -3117,7 +2473,7 @@
         "type": "item",
         "item": {
           "id": "item_51107",
-          "displayName": "Morel",
+          "displayName": "DT_InventoryItems.item_51107_name",
           "iconName": "Morel_Sprite"
         }
       },
@@ -3129,12 +2485,11 @@
         "type": "item",
         "item": {
           "id": "item_80030",
-          "displayName": "Hash browns",
+          "displayName": "DT_InventoryItems.item_80030_name",
           "iconName": "Hash_browns_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Surya",
@@ -3150,7 +2505,7 @@
         "type": "item",
         "item": {
           "id": "item_22004",
-          "displayName": "Melon",
+          "displayName": "DT_InventoryItems.item_22004_name",
           "iconName": "Melon_Sprite"
         }
       },
@@ -3158,7 +2513,7 @@
         "type": "item",
         "item": {
           "id": "item_80057",
-          "displayName": "Herbed tempeh",
+          "displayName": "DT_InventoryItems.item_80057_name",
           "iconName": "Herbed_Tempeh_Sprite"
         }
       },
@@ -3166,7 +2521,7 @@
         "type": "item",
         "item": {
           "id": "item_80059",
-          "displayName": "Wild mushroom polenta",
+          "displayName": "DT_InventoryItems.item_80059_name",
           "iconName": "Wild_Mushroom_Polenta_Sprite"
         }
       },
@@ -3174,7 +2529,7 @@
         "type": "item",
         "item": {
           "id": "item_72004",
-          "displayName": "Pufferfish",
+          "displayName": "DT_InventoryItems.item_72004_name",
           "iconName": "Pufferfish_Sprite"
         }
       },
@@ -3182,15 +2537,9 @@
         "type": "item",
         "item": {
           "id": "item_80068",
-          "displayName": "Lodeh",
+          "displayName": "DT_InventoryItems.item_80068_name",
           "iconName": "Lodeh_Sprite"
         }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "category",
-        "categoryName": "BottledKelps"
       }
     ]
   },
@@ -3208,7 +2557,7 @@
         "type": "item",
         "item": {
           "id": "item_80032",
-          "displayName": "Roasted mushroom",
+          "displayName": "DT_InventoryItems.item_80032_name",
           "iconName": "Roasted_Mushroom_Sprite"
         }
       },
@@ -3216,7 +2565,7 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       },
@@ -3224,8 +2573,7 @@
         "type": "category",
         "categoryName": "Fish"
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Raj",
@@ -3241,7 +2589,7 @@
         "type": "item",
         "item": {
           "id": "item_24002",
-          "displayName": "Tea leaf",
+          "displayName": "DT_InventoryItems.item_24002_name",
           "iconName": "Tea_Leaf_Sprite"
         }
       },
@@ -3249,7 +2597,7 @@
         "type": "item",
         "item": {
           "id": "item_22012",
-          "displayName": "Coffee bean",
+          "displayName": "DT_InventoryItems.item_22012_name",
           "iconName": "Coffee_Beans"
         }
       },
@@ -3257,7 +2605,7 @@
         "type": "item",
         "item": {
           "id": "item_41019",
-          "displayName": "Coffee",
+          "displayName": "DT_InventoryItems.item_41019_name",
           "iconName": "Coffee_Sprite"
         }
       },
@@ -3265,7 +2613,7 @@
         "type": "item",
         "item": {
           "id": "item_32003",
-          "displayName": "Gesha Coffee Bean",
+          "displayName": "DT_InventoryItems.item_32003_name",
           "iconName": "Gesha_coffee_bean_Sprite"
         }
       },
@@ -3273,7 +2621,7 @@
         "type": "item",
         "item": {
           "id": "item_32013",
-          "displayName": "Large Gesha Coffee Bean",
+          "displayName": "DT_InventoryItems.item_32013_name",
           "iconName": "Large_gesha_coffee_bean_Sprite"
         }
       },
@@ -3281,7 +2629,7 @@
         "type": "item",
         "item": {
           "id": "item_41020",
-          "displayName": "Gesha coffee",
+          "displayName": "DT_InventoryItems.item_41020_name",
           "iconName": "Gesha_coffee_Sprite"
         }
       },
@@ -3289,7 +2637,7 @@
         "type": "item",
         "item": {
           "id": "item_41052",
-          "displayName": "Large gesha coffee",
+          "displayName": "DT_InventoryItems.item_41052_name",
           "iconName": "Large_gesha_coffee_Sprite"
         }
       },
@@ -3297,7 +2645,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "Green tea",
+          "displayName": "DT_InventoryItems.item_41021_name",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -3305,7 +2653,7 @@
         "type": "item",
         "item": {
           "id": "item_80078",
-          "displayName": "Apple pie",
+          "displayName": "DT_InventoryItems.item_80078_name",
           "iconName": "Apple_Pie_Sprite"
         }
       },
@@ -3313,18 +2661,8 @@
         "type": "item",
         "item": {
           "id": "item_80067",
-          "displayName": "Donut",
+          "displayName": "DT_InventoryItems.item_80067_name",
           "iconName": "Donut_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_80085",
-          "displayName": "Cenil",
-          "iconName": "Cenil_Sprite"
         }
       }
     ]
@@ -3343,7 +2681,7 @@
         "type": "item",
         "item": {
           "id": "item_21008",
-          "displayName": "Sugarcane",
+          "displayName": "DT_InventoryItems.item_21008_name",
           "iconName": "Sugarcane_Sprite"
         }
       },
@@ -3351,7 +2689,7 @@
         "type": "item",
         "item": {
           "id": "item_80016",
-          "displayName": "Veggie ramen",
+          "displayName": "DT_InventoryItems.item_80016_name",
           "iconName": "Veggie_Ramen_Sprite"
         }
       },
@@ -3359,7 +2697,7 @@
         "type": "item",
         "item": {
           "id": "item_80015",
-          "displayName": "Seafood ramen",
+          "displayName": "DT_InventoryItems.item_80015_name",
           "iconName": "Seafood_Ramen_Sprite"
         }
       },
@@ -3367,7 +2705,7 @@
         "type": "item",
         "item": {
           "id": "item_80028",
-          "displayName": "Stew",
+          "displayName": "DT_InventoryItems.item_80028_name",
           "iconName": "Stew_Sprite"
         }
       },
@@ -3375,7 +2713,7 @@
         "type": "item",
         "item": {
           "id": "item_80024",
-          "displayName": "Assorted grilled platter",
+          "displayName": "DT_InventoryItems.item_80024_name",
           "iconName": "Assorted_Grilled_Platter_Sprite"
         }
       },
@@ -3383,7 +2721,7 @@
         "type": "item",
         "item": {
           "id": "item_22004",
-          "displayName": "Melon",
+          "displayName": "DT_InventoryItems.item_22004_name",
           "iconName": "Melon_Sprite"
         }
       },
@@ -3395,8 +2733,7 @@
           "iconName": "Olive_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Charles",
@@ -3428,7 +2765,7 @@
         "type": "item",
         "item": {
           "id": "item_61015",
-          "displayName": "Diamond",
+          "displayName": "DT_InventoryItems.item_61015_name",
           "iconName": "Diamond_Sprite"
         }
       },
@@ -3436,7 +2773,7 @@
         "type": "item",
         "item": {
           "id": "item_80005",
-          "displayName": "Cookies",
+          "displayName": "DT_InventoryItems.item_80005_name",
           "iconName": "Cookies_Sprite"
         }
       },
@@ -3444,7 +2781,7 @@
         "type": "item",
         "item": {
           "id": "item_21002",
-          "displayName": "Strawberry",
+          "displayName": "DT_InventoryItems.item_21002_name",
           "iconName": "Strawberry_Sprite"
         }
       },
@@ -3452,12 +2789,11 @@
         "type": "item",
         "item": {
           "id": "item_22001",
-          "displayName": "Blueberry",
+          "displayName": "DT_InventoryItems.item_22001_name",
           "iconName": "Blueberry_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Erika",
@@ -3473,7 +2809,7 @@
         "type": "item",
         "item": {
           "id": "item_80021",
-          "displayName": "Pepper and mushroom flatbread",
+          "displayName": "DT_InventoryItems.item_80021_name",
           "iconName": "Pepper_and_Mushroom_Flatbread_Sprite"
         }
       },
@@ -3481,7 +2817,7 @@
         "type": "item",
         "item": {
           "id": "item_80022",
-          "displayName": "Cane nectar",
+          "displayName": "DT_InventoryItems.item_80022_name",
           "iconName": "Cane_nectar_Sprite"
         }
       },
@@ -3501,12 +2837,11 @@
         "type": "item",
         "item": {
           "id": "item_80050",
-          "displayName": "Red curry",
+          "displayName": "DT_InventoryItems.item_80050_name",
           "iconName": "Red_Curry_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Zoe",
@@ -3522,7 +2857,7 @@
         "type": "item",
         "item": {
           "id": "item_80005",
-          "displayName": "Cookies",
+          "displayName": "DT_InventoryItems.item_80005_name",
           "iconName": "Cookies_Sprite"
         }
       },
@@ -3530,7 +2865,7 @@
         "type": "item",
         "item": {
           "id": "item_80077",
-          "displayName": "Ice cream",
+          "displayName": "DT_InventoryItems.item_80077_name",
           "iconName": "Ice_Cream_Sprite"
         }
       },
@@ -3538,7 +2873,7 @@
         "type": "item",
         "item": {
           "id": "item_80075",
-          "displayName": "Fruit juice",
+          "displayName": "DT_InventoryItems.item_80075_name",
           "iconName": "Fruit_Juice_Sprite"
         }
       },
@@ -3546,12 +2881,11 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Wakuu",
@@ -3567,7 +2901,7 @@
         "type": "item",
         "item": {
           "id": "item_72030",
-          "displayName": "Salmon",
+          "displayName": "DT_InventoryItems.item_72030_name",
           "iconName": "Salmon_Sprite"
         }
       },
@@ -3575,7 +2909,7 @@
         "type": "item",
         "item": {
           "id": "item_80011",
-          "displayName": "Vegan taco",
+          "displayName": "DT_InventoryItems.item_80011_name",
           "iconName": "Vegan_taco_Sprite"
         }
       },
@@ -3583,7 +2917,7 @@
         "type": "item",
         "item": {
           "id": "item_80085",
-          "displayName": "Cenil",
+          "displayName": "DT_InventoryItems.item_80085_name",
           "iconName": "Cenil_Sprite"
         }
       },
@@ -3599,26 +2933,8 @@
         "type": "item",
         "item": {
           "id": "item_80046",
-          "displayName": "Chocolate chip muffins",
+          "displayName": "DT_InventoryItems.item_80046_name",
           "iconName": "Chocolate_chip_muffins_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_80055",
-          "displayName": "Corn on the cob",
-          "iconName": "Corn_On_The_Cob_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_80005",
-          "displayName": "Cookies",
-          "iconName": "Cookies_Sprite"
         }
       }
     ]
@@ -3645,7 +2961,7 @@
         "type": "item",
         "item": {
           "id": "item_80032",
-          "displayName": "Roasted mushroom",
+          "displayName": "DT_InventoryItems.item_80032_name",
           "iconName": "Roasted_Mushroom_Sprite"
         }
       },
@@ -3669,7 +2985,7 @@
         "type": "item",
         "item": {
           "id": "item_80029",
-          "displayName": "Clam chowder",
+          "displayName": "DT_InventoryItems.item_80029_name",
           "iconName": "Clam_Chowder_Sprite"
         }
       },
@@ -3677,12 +2993,11 @@
         "type": "item",
         "item": {
           "id": "item_80033",
-          "displayName": "Sunny-side-up eggs",
+          "displayName": "DT_InventoryItems.item_80033_name",
           "iconName": "Sunny-side-up_eggs_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Slamet",
@@ -3702,7 +3017,7 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
@@ -3710,7 +3025,7 @@
         "type": "item",
         "item": {
           "id": "item_65512",
-          "displayName": "Temperature machine",
+          "displayName": "DT_InventoryItems.item_65512_name",
           "iconName": "Temperature_Machine_Sprite"
         }
       },
@@ -3718,7 +3033,7 @@
         "type": "item",
         "item": {
           "id": "item_80085",
-          "displayName": "Cenil",
+          "displayName": "DT_InventoryItems.item_80085_name",
           "iconName": "Cenil_Sprite"
         }
       },
@@ -3734,130 +3049,8 @@
         "type": "item",
         "item": {
           "id": "item_80068",
-          "displayName": "Lodeh",
+          "displayName": "DT_InventoryItems.item_80068_name",
           "iconName": "Lodeh_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "category",
-        "categoryName": "OceanCritters"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72028",
-          "displayName": "Crab",
-          "iconName": "Crab_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72077",
-          "displayName": "Yeti crab",
-          "iconName": "Yeti_Crab_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72076",
-          "displayName": "Stone crab",
-          "iconName": "Stone_Crab_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72057",
-          "displayName": "Blue crab",
-          "iconName": "Blue_Crab_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72056",
-          "displayName": "Horseshoe crab",
-          "iconName": "Horseshoe_Crab_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72048",
-          "displayName": "Pom-pom crab",
-          "iconName": "Pom-pom_crab_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72043",
-          "displayName": "Hermit crab",
-          "iconName": "Hermit_Crab_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72032",
-          "displayName": "Arrow crab",
-          "iconName": "Arrow_Crab_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72070",
-          "displayName": "Shiho’s seahorse",
-          "iconName": "Shiho_Seahorse_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72069",
-          "displayName": "Hedgehog seahorse",
-          "iconName": "Hedgehog_Seahorse_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72042",
-          "displayName": "Giraffe seahorse",
-          "iconName": "Giraffe_seahorse_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72036",
-          "displayName": "Jayakar’s seahorse",
-          "iconName": "Jayakar_Seahorse_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_72035",
-          "displayName": "Tigertail seahorse",
-          "iconName": "Tigertail_Seahorse_Sprite"
         }
       }
     ]
@@ -3876,7 +3069,7 @@
         "type": "item",
         "item": {
           "id": "item_21006",
-          "displayName": "Cauliflower",
+          "displayName": "DT_InventoryItems.item_21006_name",
           "iconName": "Cauliflower_Sprite"
         }
       },
@@ -3884,7 +3077,7 @@
         "type": "item",
         "item": {
           "id": "item_80004",
-          "displayName": "Red velvet cake",
+          "displayName": "DT_InventoryItems.item_80004_name",
           "iconName": "Red_velvet_cake_Sprite"
         }
       },
@@ -3892,7 +3085,7 @@
         "type": "item",
         "item": {
           "id": "item_41021",
-          "displayName": "Green tea",
+          "displayName": "DT_InventoryItems.item_41021_name",
           "iconName": "Green_Tea_Sprite"
         }
       },
@@ -3900,7 +3093,7 @@
         "type": "item",
         "item": {
           "id": "item_51106",
-          "displayName": "Daffodil",
+          "displayName": "DT_InventoryItems.item_51106_name",
           "iconName": "Daffodil_Sprite"
         }
       },
@@ -3908,12 +3101,11 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Emily",
@@ -3929,7 +3121,7 @@
         "type": "item",
         "item": {
           "id": "item_80024",
-          "displayName": "Assorted grilled platter",
+          "displayName": "DT_InventoryItems.item_80024_name",
           "iconName": "Assorted_Grilled_Platter_Sprite"
         }
       },
@@ -3937,7 +3129,7 @@
         "type": "item",
         "item": {
           "id": "item_80044",
-          "displayName": "Sauteed chard",
+          "displayName": "DT_InventoryItems.item_80044_name",
           "iconName": "Sauteed_Chards_Sprite"
         }
       },
@@ -3945,7 +3137,7 @@
         "type": "item",
         "item": {
           "id": "item_41007",
-          "displayName": "Almond oil",
+          "displayName": "DT_InventoryItems.item_41007_name",
           "iconName": "Almond_Oil_Sprite"
         }
       },
@@ -3953,33 +3145,15 @@
         "type": "item",
         "item": {
           "id": "item_41006",
-          "displayName": "Olive oil",
+          "displayName": "DT_InventoryItems.item_41006_name",
           "iconName": "Olive_Oil_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_23016",
-          "displayName": "Orchid",
-          "iconName": "Orchid_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_22018",
-          "displayName": "Iris",
-          "iconName": "Iris_Sprite"
         }
       }
     ]
   },
   {
     "npcKey": "Olan",
-    "characterName": "Olan",
+    "characterName": "8BC9988B4257666579C07895EF0055F8",
     "iconName": "Icon_olan",
     "birthday": {
       "day": 18,
@@ -3999,67 +3173,13 @@
         "type": "item",
         "item": {
           "id": "item_31032",
-          "displayName": "Black pearl",
+          "displayName": "DT_InventoryItems.item_31032_name",
           "iconName": "Large_sphere_Sprite"
         }
       },
       {
         "type": "category",
         "categoryName": "Cooking"
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_62010",
-          "displayName": "Solar core",
-          "iconName": "Solar_Core_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterArtisan"
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_50303",
-          "displayName": "Seaweed",
-          "iconName": "Seaweed_Sprite"
-        }
-      },
-      {
-        "type": "category",
-        "categoryName": "BeachScavangeables"
-      },
-      {
-        "type": "category",
-        "categoryName": "Mushrooms"
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterFruit"
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterVegetables"
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterMushroom"
-      },
-      {
-        "type": "category",
-        "categoryName": "UnderwaterFlower"
-      },
-      {
-        "type": "category",
-        "categoryName": "Clams"
-      },
-      {
-        "type": "category",
-        "categoryName": "Herbs"
       }
     ]
   },
@@ -4077,7 +3197,7 @@
         "type": "item",
         "item": {
           "id": "item_80019",
-          "displayName": "Pancakes",
+          "displayName": "DT_InventoryItems.item_80019_name",
           "iconName": "Pancakes_Sprite"
         }
       },
@@ -4085,7 +3205,7 @@
         "type": "item",
         "item": {
           "id": "item_80042",
-          "displayName": "Spring frittata",
+          "displayName": "DT_InventoryItems.item_80042_name",
           "iconName": "Spring_Frittata_Sprite"
         }
       },
@@ -4105,7 +3225,7 @@
         "type": "item",
         "item": {
           "id": "item_23012",
-          "displayName": "Taro root",
+          "displayName": "DT_InventoryItems.item_23012_name",
           "iconName": "Taro_root_Sprite"
         }
       },
@@ -4115,40 +3235,6 @@
           "id": "item_80020",
           "displayName": "Omurice",
           "iconName": "Omurice_Sprite"
-        }
-      }
-    ],
-    "likedGifts": [
-      {
-        "type": "item",
-        "item": {
-          "id": "item_24003",
-          "displayName": "Almond",
-          "iconName": "Almond_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_52107",
-          "displayName": "Coconut",
-          "iconName": "coconut_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_22019",
-          "displayName": "Mango",
-          "iconName": "Mango_Sprite"
-        }
-      },
-      {
-        "type": "item",
-        "item": {
-          "id": "item_21021",
-          "displayName": "Banana",
-          "iconName": "Banana_Sprite"
         }
       }
     ]
@@ -4167,7 +3253,7 @@
         "type": "item",
         "item": {
           "id": "item_80006",
-          "displayName": "Basil pesto pasta",
+          "displayName": "DT_InventoryItems.item_80006_name",
           "iconName": "Basil_Pesto_Pasta_Sprite"
         }
       },
@@ -4183,7 +3269,7 @@
         "type": "item",
         "item": {
           "id": "item_80077",
-          "displayName": "Ice cream",
+          "displayName": "DT_InventoryItems.item_80077_name",
           "iconName": "Ice_Cream_Sprite"
         }
       },
@@ -4191,7 +3277,7 @@
         "type": "item",
         "item": {
           "id": "item_80010",
-          "displayName": "Fish taco",
+          "displayName": "DT_InventoryItems.item_80010_name",
           "iconName": "Fish_taco_Sprite"
         }
       },
@@ -4199,7 +3285,7 @@
         "type": "item",
         "item": {
           "id": "item_23011",
-          "displayName": "Pumpkin",
+          "displayName": "DT_InventoryItems.item_23011_name",
           "iconName": "Pumpkin_Sprite"
         }
       },
@@ -4207,7 +3293,7 @@
         "type": "item",
         "item": {
           "id": "item_10001",
-          "displayName": "Black rose",
+          "displayName": "DT_InventoryItems.item_10001_name",
           "iconName": "placeholder_icon"
         }
       },
@@ -4215,7 +3301,7 @@
         "type": "item",
         "item": {
           "id": "item_65004",
-          "displayName": "Stone",
+          "displayName": "DT_InventoryItems.item_65004_name",
           "iconName": "Stone_Sprite"
         }
       },
@@ -4231,8 +3317,7 @@
         "type": "category",
         "categoryName": "Minerals"
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Nina",
@@ -4248,7 +3333,7 @@
         "type": "item",
         "item": {
           "id": "item_41016",
-          "displayName": "Yogurt",
+          "displayName": "DT_InventoryItems.item_41016_name",
           "iconName": "Yoghurt_Sprite"
         }
       },
@@ -4256,7 +3341,7 @@
         "type": "item",
         "item": {
           "id": "item_80065",
-          "displayName": "Flower bouquet",
+          "displayName": "DT_InventoryItems.item_80065_name",
           "iconName": "Flower_Bouquet_Sprite"
         }
       },
@@ -4264,7 +3349,7 @@
         "type": "item",
         "item": {
           "id": "item_80018",
-          "displayName": "Banana fritter",
+          "displayName": "DT_InventoryItems.item_80018_name",
           "iconName": "Banana_Fritter_Sprite"
         }
       },
@@ -4272,8 +3357,7 @@
         "type": "category",
         "categoryName": "Juice"
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Alice",
@@ -4289,7 +3373,7 @@
         "type": "item",
         "item": {
           "id": "item_80041",
-          "displayName": "Green smoothie",
+          "displayName": "DT_InventoryItems.item_80041_name",
           "iconName": "Green_smoothie_Sprite"
         }
       },
@@ -4297,7 +3381,7 @@
         "type": "item",
         "item": {
           "id": "item_41174",
-          "displayName": "White truffle oil",
+          "displayName": "DT_InventoryItems.item_41174_name",
           "iconName": "White_truffle_oil_Sprite"
         }
       },
@@ -4305,7 +3389,7 @@
         "type": "item",
         "item": {
           "id": "item_41005",
-          "displayName": "Black truffle oil",
+          "displayName": "DT_InventoryItems.item_41005_name",
           "iconName": "Black_Truffle_Oil_Sprite"
         }
       },
@@ -4313,7 +3397,7 @@
         "type": "item",
         "item": {
           "id": "item_41007",
-          "displayName": "Almond oil",
+          "displayName": "DT_InventoryItems.item_41007_name",
           "iconName": "Almond_Oil_Sprite"
         }
       },
@@ -4321,7 +3405,7 @@
         "type": "item",
         "item": {
           "id": "item_41006",
-          "displayName": "Olive oil",
+          "displayName": "DT_InventoryItems.item_41006_name",
           "iconName": "Olive_Oil_Sprite"
         }
       },
@@ -4329,7 +3413,7 @@
         "type": "item",
         "item": {
           "id": "item_80074",
-          "displayName": "Minced jackfruit pie",
+          "displayName": "DT_InventoryItems.item_80074_name",
           "iconName": "Minced_Jackfruit_Pie_Sprite"
         }
       },
@@ -4337,7 +3421,7 @@
         "type": "item",
         "item": {
           "id": "item_42007",
-          "displayName": "Purple dye",
+          "displayName": "DT_InventoryItems.item_42007_name",
           "iconName": "Purple_Dye_Sprite"
         }
       },
@@ -4345,7 +3429,7 @@
         "type": "item",
         "item": {
           "id": "item_42006",
-          "displayName": "Blue dye",
+          "displayName": "DT_InventoryItems.item_42006_name",
           "iconName": "Blue_Dye_Sprite"
         }
       },
@@ -4353,7 +3437,7 @@
         "type": "item",
         "item": {
           "id": "item_42005",
-          "displayName": "Green dye",
+          "displayName": "DT_InventoryItems.item_42005_name",
           "iconName": "Green_Dye"
         }
       },
@@ -4361,7 +3445,7 @@
         "type": "item",
         "item": {
           "id": "item_42004",
-          "displayName": "Yellow dye",
+          "displayName": "DT_InventoryItems.item_42004_name",
           "iconName": "Yellow_Dye_Sprite"
         }
       },
@@ -4369,12 +3453,11 @@
         "type": "item",
         "item": {
           "id": "item_42003",
-          "displayName": "Red dye",
+          "displayName": "DT_InventoryItems.item_42003_name",
           "iconName": "Red_Dye_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   },
   {
     "npcKey": "Suki",
@@ -4390,7 +3473,7 @@
         "type": "item",
         "item": {
           "id": "item_61015",
-          "displayName": "Diamond",
+          "displayName": "DT_InventoryItems.item_61015_name",
           "iconName": "Diamond_Sprite"
         }
       },
@@ -4398,7 +3481,7 @@
         "type": "item",
         "item": {
           "id": "item_50301",
-          "displayName": "Pearl",
+          "displayName": "DT_InventoryItems.item_50301_name",
           "iconName": "Pearl_Sprite"
         }
       },
@@ -4406,7 +3489,7 @@
         "type": "item",
         "item": {
           "id": "item_80041",
-          "displayName": "Green smoothie",
+          "displayName": "DT_InventoryItems.item_80041_name",
           "iconName": "Green_smoothie_Sprite"
         }
       },
@@ -4414,11 +3497,10 @@
         "type": "item",
         "item": {
           "id": "item_80074",
-          "displayName": "Minced jackfruit pie",
+          "displayName": "DT_InventoryItems.item_80074_name",
           "iconName": "Minced_Jackfruit_Pie_Sprite"
         }
       }
-    ],
-    "likedGifts": []
+    ]
   }
 ]

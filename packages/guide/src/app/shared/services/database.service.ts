@@ -3,7 +3,7 @@ import { combineLatest, map, Observable, of, shareReplay, tap } from 'rxjs';
 import {
     Achievement,
     AnimalData,
-    AnimalShopData,
+    AnimalShopData, type Attraction,
     Consumable,
     CookingRecipe,
     CraftingRecipe,
@@ -145,22 +145,21 @@ export class DatabaseService extends BaseDbService {
         return this._MAIL_DATA$;
     }
 
-    fetchBestiary(){
-            return this.#getResource<Enemy[]>(`${this.BASE_PATH_WITH_LANG}/bestiary.json`)
+    fetchBestiary() {
+        return this.#getResource<Enemy[]>(`${this.BASE_PATH_WITH_LANG}/bestiary.json`)
     }
 
-    fetchAnimals(){
+    fetchAnimals() {
         return this.#getResource<AnimalData[]>(`${this.BASE_PATH_WITH_LANG}/animal-data.json`);
     }
 
-    fetchAnimalMoodData(){
-     return this.#getResource<ProductSizeByMood[]>(`${this.BASE_PATH_WITH_LANG}/animal-mood-size.json`)
+    fetchAnimalMoodData() {
+        return this.#getResource<ProductSizeByMood[]>(`${this.BASE_PATH_WITH_LANG}/animal-mood-size.json`)
     }
 
-    fetchAnimalShopData(shopName: ShopName){
+    fetchAnimalShopData(shopName: ShopName) {
         return this.#getResource<AnimalShopData[]>(`${this.BASE_PATH_WITH_LANG}/${shopName}-animal-shop-data.json`);
     }
-
 
 
     fetchTornPagesData$(): Observable<TornPageData[]> {
@@ -544,6 +543,10 @@ export class DatabaseService extends BaseDbService {
 
     }
 
+    fetchAttractions() {
+        return this.#getResource<Attraction[]>(`${this.BASE_PATH_WITH_LANG}/attractions.json`)
+    }
+
     fetchMeritExchangeShopData$(): Observable<MeritExchangeShopData[]> {
         if (!this._MERIT_EXCHANGE_SHOP_DATA$) {
             this._MERIT_EXCHANGE_SHOP_DATA$ = this.http.get<MeritExchangeShopData[]>(`${this.BASE_PATH_WITH_LANG}/merit-exchange-shop-items.json`)
@@ -557,7 +560,7 @@ export class DatabaseService extends BaseDbService {
 
     }
 
-    #getResource<TResult = unknown,TRaw = unknown>(url: string | (() => string | undefined), options?: Exclude<HttpResourceOptions<TResult, TRaw>, 'injector'>): HttpResourceRef<TResult | undefined> {
+    #getResource<TResult = unknown, TRaw = unknown>(url: string | (() => string | undefined), options?: Exclude<HttpResourceOptions<TResult, TRaw>, 'injector'>): HttpResourceRef<TResult | undefined> {
         const cacheKey = typeof url === 'string' ? url : url();
 
         if (!cacheKey) throw new Error('Missing URL');

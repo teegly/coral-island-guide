@@ -3,18 +3,18 @@
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "sourceRoot": "packages/pak-files-parser/src",
   "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["data-types"],
   "targets": {
     "build": {
-      "executor": "@nx/webpack:webpack",
+      "executor": "@nx/esbuild:esbuild",
       "outputs": ["{options.outputPath}"],
       "options": {
-        "webpackConfig": "packages/pak-files-parser/webpack.config.js",
-        "target": "node",
         "compiler": "tsc",
         "outputPath": "dist/packages/pak-files-parser",
         "main": "packages/pak-files-parser/src/main.ts",
         "tsConfig": "packages/pak-files-parser/tsconfig.app.json",
-        "assets": ["packages/pak-files-parser/src/assets"]
+        "format": ["cjs"]
       },
       "configurations": {
         "production": {
@@ -36,7 +36,6 @@
       "executor": "@nx/js:node",
       "options": {
         "buildTarget": "pak-files-parser:build",
-        "watch": false
       },
       "configurations": {
         "production": {
@@ -59,25 +58,15 @@
           "buildTarget": "pak-files-parser:build:production",
           "args": ["--prepare"]
         },
-        "dev": {
+        "beta": {
           "buildTarget": "pak-files-parser:build:beta",
           "args": ["--prepare"]
         }
-      },
-      "defaultConfiguration": "dev"
+      }
     },
     "lint": {
       "executor": "@nx/eslint:lint",
       "outputs": ["{options.outputFile}"]
-    },
-    "test": {
-      "executor": "@nx/jest:jest",
-      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
-      "options": {
-        "jestConfig": "packages/pak-files-parser/jest.config.ts"
-      }
     }
-  },
-  "tags": [],
-  "implicitDependencies": ["data-types"]
+  }
 }

@@ -1,5 +1,43 @@
 ## Changelog
 
+### TBD
+
+#### Added
+
+- Added options to import/export user data
+
+### 0.29.0 2025-12-21
+
+#### Added
+
+- Added attractions/town projects to locations
+- Added more descriptive text to heart events to match in-game text
+
+#### Changed
+
+- Updated live data to v1.2-1245 (Steam version)
+- Fixed various translation issues, for example, heart event locations
+- Fixed errors in to-do list
+
+### 0.28.1 2025-12-06
+
+#### Changed
+
+- Updated live data to v1.2-1244 (Steam version)
+- Fixed translation is not working after changing it in settings (still requires a page reload)
+
+### 0.28.0 2025-11-12
+
+The whole system of loading data has changed completely. This may cause some bugs or strange behaviors (which I tried to solve as best as I can).
+If you find some cryptic names or misbehaving features, please let me know.
+
+#### Changed
+
+- Updated live data to v1.2-1243 (Steam version)
+- Updated beta data to v1.2b-2047 (Steam version)
+- Drastically reduced the number of assets in favor of a new data-loading system
+- Fixed shops being missing in database details tables
+
 ### 0.27.1 2025-10-20
 
 #### Changed

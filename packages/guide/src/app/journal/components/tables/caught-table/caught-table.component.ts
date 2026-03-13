@@ -1,4 +1,4 @@
-import { Component, inject, input, ViewEncapsulation } from '@angular/core';
+import { Component, ViewEncapsulation } from '@angular/core';
 import { Critter, Fish, FishSpawnSettings } from '@ci/data-types';
 import { addSpacesToPascalCase, critterSizeMap, getTruthyValues, rarityMap } from '@ci/util';
 import { BaseTableComponent } from "../../../../shared/components/base-table/base-table.component";
@@ -8,12 +8,7 @@ import { MatSort, MatSortHeader } from "@angular/material/sort";
 import { ItemIconComponent } from "../../../../shared/components/item-icon/item-icon.component";
 import { IsFishPipe } from "../../../../shared/pipes/is-fish.pipe";
 import { AddSpacesToPascalCasePipe } from "../../../../shared/pipes/add-spaces-to-pascal-case.pipe";
-import { MuseumChecklistService } from "../../../../core/services/checklists/museum-checklist.service";
-import { OfferingChecklistService } from "../../../../core/services/checklists/offering-checklist.service";
-import { FishCaughtChecklistService } from "../../../../core/services/checklists/fish-caught-checklist.service";
-import { InsectsCaughtChecklistService } from "../../../../core/services/checklists/insects-caught-checklist.service";
-import { SeaCrittersCaughtChecklistService } from "../../../../core/services/checklists/sea-critters-caught-checklist.service";
-import { ItemStatusBadgesComponent, ItemStatusConfig } from "../../../../shared/components/item-status-badges/item-status-badges.component";
+import { TranslatePipe } from "@ngx-translate/core";
 
 @Component({
     selector: 'app-caught-table',
@@ -28,24 +23,15 @@ import { ItemStatusBadgesComponent, ItemStatusConfig } from "../../../../shared/
         AddSpacesToPascalCasePipe,
         MatSortHeader,
         MatTableModule,
-        ItemStatusBadgesComponent
+        TranslatePipe
     ]
 })
 export class CaughtTableComponent extends BaseTableComponent<(Critter | Fish)> {
-
-    readonly tabIndex = input<number>(0);
-    
-    private readonly museumChecklistService = inject(MuseumChecklistService);
-    private readonly offeringChecklistService = inject(OfferingChecklistService);
-    private readonly fishCaughtChecklistService = inject(FishCaughtChecklistService);
-    private readonly insectsCaughtChecklistService = inject(InsectsCaughtChecklistService);
-    private readonly seaCrittersCaughtChecklistService = inject(SeaCrittersCaughtChecklistService);
 
     getTruthyValues = getTruthyValues;
     addSpacesToPascalCase = addSpacesToPascalCase;
     protected readonly BASE_DISPLAY_COLUMNS = [
         'icon',
-        'status',
         'key',
         'rarity',
         'weather',
@@ -156,29 +142,5 @@ export class CaughtTableComponent extends BaseTableComponent<(Critter | Fish)> {
 
     private _isFish(array: (Critter | Fish) | undefined): array is Fish {
         return !!array && 'fishName' in array;
-    }
-
-    getItemStatus(entry: Fish | Critter): ItemStatusConfig {
-        const itemKey = entry.key;
-        
-        // Determine which caught checklist to use based on tab index
-        let isCaught = false;
-        switch (this.tabIndex()) {
-            case 0: // Fish
-                isCaught = this.fishCaughtChecklistService.isChecked(itemKey);
-                break;
-            case 1: // Insects
-                isCaught = this.insectsCaughtChecklistService.isChecked(itemKey);
-                break;
-            case 2: // Sea Critters
-                isCaught = this.seaCrittersCaughtChecklistService.isChecked(itemKey);
-                break;
-        }
-
-        return {
-            isInMuseum: this.museumChecklistService.isChecked(itemKey),
-            isInOfferings: this.offeringChecklistService.isChecked(itemKey),
-            isCaught: isCaught
-        };
     }
 }

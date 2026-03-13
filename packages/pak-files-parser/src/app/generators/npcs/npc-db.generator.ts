@@ -8,7 +8,7 @@ import {
     unifyInternalPath
 } from '../../../util/functions';
 import { RawNPC } from '../../../interfaces/raw-data-interfaces/raw-npc.interface';
-import { addSpacesToPascalCase, getEnumValue } from '@ci/util';
+import { getEnumValue } from '@ci/util';
 import { RawNpcAppearances } from "../../../interfaces/raw-data-interfaces/raw-npc-appearances.interface";
 import path from "path";
 import { environment } from "../../../environments/environment";
@@ -371,8 +371,7 @@ export class NPCDbGenerator extends BaseGenerator<RawNPC, NPC> {
             canInteract: dbItem.canInteract,
             canReceiveGifts: dbItem.canReceiveGifts,
             isDateable: dbItem.isDateable,
-            // TODO get name from translation file
-            characterName: addSpacesToPascalCase(StringTable.getString(dbItem.CharacterName) ?? ''),
+            characterName: StringTable.getString(dbItem.CharacterName) ?? '',
             characterCategory: getEnumValue(dbItem.CharacterCategory),
             description: StringTable.getString(dbItem.Description) ?? '',
             iconName: convertToIconName(objectName).replace('.png', ''),

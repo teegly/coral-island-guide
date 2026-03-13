@@ -73,7 +73,6 @@ export class IndexComponent extends BaseSelectableContainerComponent<MinimalItem
     }[]>;
     protected birthdaysToday;
     protected birthdaysTomorrow;
-    protected currentDateString;
     #database = inject(DatabaseService)
     museumChecklistDefinition$ = this.#database.fetchMuseumChecklist$();
     private museuemDef = signal<Record<string, MinimalItem[]>>({});
@@ -192,14 +191,6 @@ export class IndexComponent extends BaseSelectableContainerComponent<MinimalItem
 
 
         });
-
-        // Create a date string for tracking birthday gifts
-        this.currentDateString = computed(() => {
-            const season = filterValues().season;
-            const day = filterValues().day;
-            const year = filterValues().year;
-            return `${year}-${season}-${day}`;
-        });
     }
 
     critterEntriesToList(critters: CritterDashboardEntry[], filterValue: ReturnType<typeof this.filterFormGroup.getRawValue>, museumDef: MinimalItem[]): {
@@ -240,7 +231,7 @@ export class IndexComponent extends BaseSelectableContainerComponent<MinimalItem
         return critter;
     }
 
-    updateChecklist($event: MatCheckboxChange, id: string, context: ChecklistContext) {
+    updateChecklist($event: MatCheckboxChange, id: string) {
         this.museumChecklistService.isChecked(id) ? this.museumChecklistService.remove(id) : this.museumChecklistService.add(id)
     }
 }

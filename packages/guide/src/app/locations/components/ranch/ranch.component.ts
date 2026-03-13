@@ -1,7 +1,6 @@
 import { Component, computed } from '@angular/core';
 import { BaseShopComponent } from "../base-shop/base-shop.component";
-import { ProductSizeByMood, ShopItemData, ShopName } from "@ci/data-types";
-import { Observable } from "rxjs";
+import { ShopItemData, ShopName } from "@ci/data-types";
 import { MappedAnimalShopData } from "../../types/mapped-animal-shop-data.type";
 import { ShopItemDataDetailsComponent } from "../shop-item-data-details/shop-item-data-details.component";
 import { ListDetailContainerComponent } from "../../../shared/components/list-detail-container/list-detail-container.component";
@@ -49,7 +48,7 @@ export class RanchComponent extends BaseShopComponent {
         });
     })
     protected selectedAnimal?: MappedAnimalShopData
-    protected sizeByMood= this._database.fetchAnimalMoodData();
+    protected sizeByMood = this._database.fetchAnimalMoodData();
 
     constructor() {
         super();
